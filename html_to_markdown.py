@@ -28,7 +28,7 @@ def parse_html(errors, parsed, image_urls, elem):
             file_name = os.path.basename(src)
             if "/svg/" in src and not src.endswith(".svg"):
                 file_name += ".svg"
-            parsed[-1] += f"\n![{alt}](images/{file_name})\n"
+            parsed[-1] += f"![{alt}](images/{file_name})"
         elif elem.name == "i" \
             or elem.name == "u" \
             or elem.name == "span" and not elem.get("class") and elem.get("style") == "letter-spacing: 0.2em; margin-right: -0.2em;" \
