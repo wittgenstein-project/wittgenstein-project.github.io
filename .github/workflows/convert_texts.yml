@@ -1,0 +1,23 @@
+name: Convert MediaWiki Texts
+
+on:
+  push:
+  schedule:
+    - cron: '*/5 * * * *'
+
+jobs:
+  build:
+    name: Convert
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install Pandoc
+        run: sudo apt-get update && sudo apt-get install -y pandoc
+      - name: Install Dependencies
+        run: pip3 install -r ./requirements.txt
+      - name: HTML -> Markdown
+        run: python3 ./html_to_markdown.py
+      - name: Markdown -> EPUB
+        run: python3 ./markdown_to_epub.py
+      - name: Commit
+        run: git commit -am 'Auto-commit' && git push -u origin HEAD
