@@ -20,4 +20,4 @@ jobs:
       - name: Markdown -> EPUB
         run: python3 ./markdown_to_epub.py
       - name: Commit
-        run: git commit -am 'Auto-commit' && git push -u origin HEAD
+        run: sh ./commit.sh
