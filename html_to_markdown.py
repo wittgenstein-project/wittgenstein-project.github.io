@@ -1,4 +1,4 @@
-import os, re, time, requests
+import os, re, time, requests, sys
 from bs4 import BeautifulSoup, NavigableString
 
 SECONDS_BETWEEN_DOC_REQUESTS = 0.5
@@ -7,7 +7,7 @@ WHITELISTED_LANGUAGES = ["German", "English"]
 
 # Functions to convert html to (pandoc) markdown:
 
-def parse_html(parsed, image_urls, elem):
+def parse_html(errors, parsed, image_urls, elem):
     if isinstance(elem, NavigableString):
         text = re.sub(r"\s+", " ", elem.text.replace("\n", " "))
         parsed[-1] += text
@@ -57,12 +57,12 @@ def parse_html(parsed, image_urls, elem):
                 ref_number = i + 1
                 parsed.append(f"[^{ref_number}]: ")
                 for child in ref.children:
-                    parse_html(parsed, image_urls, child)
+                    parse_html(errors, parsed, image_urls, child)
                 parsed.append("")
         elif elem.name == "blockquote" and not elem.get("class"):
             parsed_children = [""]
             for child in elem.children:
-                parse_html(parsed_children, image_urls, child)
+                parse_html(errors, parsed_children, image_urls, child)
             parsed.extend([f"> {child}" for child in parsed_children])
             parsed.append("")
         elif elem.name == "hr" and not elem.get("class"):
@@ -71,11 +71,11 @@ def parse_html(parsed, image_urls, elem):
         elif elem.name == "dl" and not elem.get("class"):
             parsed.append("")
             for child in elem.children:
-                parse_html(parsed, image_urls, child)
+                parse_html(errors, parsed, image_urls, child)
             parsed.append("")
         elif elem.name == "dd" and not elem.get("class"):
             for child in elem.children:
-                parse_html(parsed, image_urls, child)
+                parse_html(errors, parsed, image_urls, child)
         elif elem.name == "span" and elem.get("class") == ["tl-check"]:
             # does not seem to contain visible markup, so ignore
             pass
@@ -85,14 +85,14 @@ def parse_html(parsed, image_urls, elem):
         elif elem.name == "span" and not elem.get("class") and elem.get("style") == "border-top: 1px solid; padding: 0 0.1em;":
             # used for extending a square root sign, so just process children normally
             for child in elem.children:
-                parse_html(parsed, image_urls, child)
+                parse_html(errors, parsed, image_urls, child)
         elif elem.name == "span" and not elem.get("class") and not elem.get("style") \
             or elem.name == "span" and elem.get("class") == ["plainlinks"] \
             or elem.name == "span" and elem.get("class") == ["nowrap"] \
             or elem.name == "span" and elem.get("class") == ["mwe-math-element"] \
             or elem.name == "span" and elem.get("style") == "white-space: nowrap;":
             for child in elem.children:
-                parse_html(parsed, image_urls, child)
+                parse_html(errors, parsed, image_urls, child)
         elif elem.name == "span" and elem.get("class") and elem.get("class")[0].endswith("-aside-par"):
             # page breaks within Nachlass source documents as margin notes
             pass
@@ -109,7 +109,7 @@ def parse_html(parsed, image_urls, elem):
                         parsed.append(f"  {counter}. ")
                     parsed_children = [""]
                     for child in child.children:
-                        parse_html(parsed_children, image_urls, child)
+                        parse_html(errors, parsed_children, image_urls, child)
                     parsed.extend([
                         f"    {child}" if i > 0 else child
                         for i, child in enumerate(parsed_children)
@@ -122,14 +122,14 @@ def parse_html(parsed, image_urls, elem):
                     parsed.append(f"  - ")
                     parsed_children = [""]
                     for child in child.children:
-                        parse_html(parsed_children, image_urls, child)
+                        parse_html(errors, parsed_children, image_urls, child)
                     parsed.extend([
                         f"    {child}" if i > 0 else child
                         for i, child in enumerate(parsed_children)
                     ])
         elif elem.name == "table":
             if elem.find("table"):
-                print("- Found table within table!")
+                errors.append("- Found table within table!")
             header_cells = len(elem.find_all("th"))
             cells_in_first_row = len(elem.find("tr").find_all("td"))
             caption = ""
@@ -151,20 +151,20 @@ def parse_html(parsed, image_urls, elem):
                                     continue
                                 if cell.name == "th":
                                     for child in cell.children:
-                                        parse_html(parsed_table, image_urls, child)
+                                        parse_html(errors, parsed_table, image_urls, child)
                                     parsed_table[-1] += "|"
                                     need_to_add_header_on_next_line = True
                                 elif cell.name == "td":
                                     for child in cell.children:
-                                        parse_html(parsed_table, image_urls, child)
+                                        parse_html(errors, parsed_table, image_urls, child)
                                     parsed_table[-1] += "|"
                                     need_to_add_header_on_next_line = False
                                 else:
-                                    print(f"Expected <td/>, found {cell}")
+                                    errors.append(f"Expected <td/>, found {cell}")
                         elif not isinstance(tr, NavigableString):
-                            print(f"Expected <tr/>, found {tr}")
+                            errors.append(f"Expected <tr/>, found {tr}")
                 elif not isinstance(tbody, NavigableString):
-                    print(f"Expected <tbody/>, found {tbody}")
+                    errors.append(f"Expected <tbody/>, found {tbody}")
 
             if header_cells == 0:
                 table_header = ["|"]
@@ -187,7 +187,7 @@ def parse_html(parsed, image_urls, elem):
         elif elem.name == "p" and not elem.get("class") and not elem.get("style"):
             parsed.append("")
             for child in elem.children:
-                parse_html(parsed, image_urls, child)
+                parse_html(errors, parsed, image_urls, child)
             parsed.append("")
         elif elem.name == "p" and elem.get("class") == ["mw-empty-elt"]:
             # empty element, ignore
@@ -196,7 +196,7 @@ def parse_html(parsed, image_urls, elem):
             # generic container
             parsed.append("")
             for child in elem.children:
-                parse_html(parsed, image_urls, child)
+                parse_html(errors, parsed, image_urls, child)
             parsed.append("")
         elif elem.name == "div" and not elem.get("class") and elem.get("style") == "margin-left: -3em; float: left;":
             # section mark, ignore
@@ -213,7 +213,7 @@ def parse_html(parsed, image_urls, elem):
             parsed.append("")
             parsed_children = [""]
             for child in elem.children:
-                parse_html(parsed_children, image_urls, child)
+                parse_html(errors, parsed_children, image_urls, child)
             for child in parsed_children:
                 if child.strip():
                     parsed.append(f"_{child.strip()}_")
@@ -224,7 +224,7 @@ def parse_html(parsed, image_urls, elem):
             # box
             parsed.extend(["---", ""])
             for child in elem.children:
-                parse_html(parsed, image_urls, child)
+                parse_html(errors, parsed, image_urls, child)
             parsed.extend(["---", ""])
         elif elem.name == "div" and elem.get("style") == "width: 60%; margin-right: auto; margin-left: auto;" \
             or elem.name == "p" and not elem.get("class") and elem.get("style") == "text-align: right;" \
@@ -232,7 +232,7 @@ def parse_html(parsed, image_urls, elem):
             # right
             parsed.append("")
             for child in elem.children:
-                parse_html(parsed, image_urls, child)
+                parse_html(errors, parsed, image_urls, child)
             parsed.append("")
         elif elem.name == "div" and (elem.get("class") == ["center"] or elem.get("style") == "text-align: center;") \
             or elem.name == "div" and not elem.get("class") and elem.get("style") == "width: 25%; margin: 2em auto 2em auto;" \
@@ -242,20 +242,22 @@ def parse_html(parsed, image_urls, elem):
             # center
             parsed.append("")
             for child in elem.children:
-                parse_html(parsed, image_urls, child)
+                parse_html(errors, parsed, image_urls, child)
             parsed.append("")
         elif elem.name == "div" and elem.get("class") == ["floatnone"] \
             or elem.name == "div" and not elem.get("class") and elem.get("style") == "float: left; width: 33.3%":
             # floatnone
             parsed.append("")
             for child in elem.children:
-                parse_html(parsed, image_urls, child)
+                parse_html(errors, parsed, image_urls, child)
             parsed.append("")
         elif elem.name == "div" and not elem.get("class") and not elem.text.strip() and elem.get("style") == "display: inline-block; width: 3em;":
             # 4 times unicode NO-BREAK-SPACE
             parsed.append("\u00a0\u00a0\u00a0\u00a0")
         else:
-            print(f"- Unrecognized element: <{elem.name} class=\"{elem.get('class')}\", style=\"{elem.get('style')}\">")
+            err_msg = f"- Unrecognized element: <{elem.name} class=\"{elem.get('class')}\", style=\"{elem.get('style')}\">"
+            errors.append(err_msg)
+            errors.append(err_msg)
             parsed.append("")
             parsed.append(str(elem))
             parsed.append("")
@@ -263,16 +265,17 @@ def parse_html(parsed, image_urls, elem):
 
 def doc_as_md(text):
     title = text.find("p", "tl-title").text
+    errors = []
     parsed = f"% {title}\n% Ludwig Wittgenstein\n"
     image_urls = []
-    for line in parse_html([""], image_urls, text.find("div", "colophon")):
+    for line in parse_html(errors, [""], image_urls, text.find("div", "colophon")):
         parsed += line.strip() + "\n"
     after_title = text.find_all("p", "tl-title")[-1]
     while after_title.next_sibling:
         after_title = after_title.next_sibling
-        for line in parse_html([""], image_urls, after_title):
+        for line in parse_html(errors, [""], image_urls, after_title):
             parsed += line.strip() + "\n"
-    return [re.sub(r"\n(\s|\n)+", "\n\n", parsed).strip(), image_urls]
+    return [errors, re.sub(r"\n(\s|\n)+", "\n\n", parsed).strip(), image_urls]
 
 # Find all texts (language, title, link) on the main page:
 
@@ -294,14 +297,22 @@ for elem in all_texts.find(id="all-texts-list"):
 
 # Iterate through all texts and convert to markdown:
 
+all_errors = []
+
 for (language, texts) in all_languages.items():
     if not language in WHITELISTED_LANGUAGES:
         continue
     for [title, link] in texts:
-        print(f"*** Fetching {title} ***")
         html = requests.get(f"{link}&action=render").content
         text = BeautifulSoup(html, features="html.parser")
-        [md, image_urls] = doc_as_md(text)
+        [errors, md, image_urls] = doc_as_md(text)
+        if errors:
+            print(f"[ ] {title}")
+            for e in errors:
+                print(f"    {e}")
+        else:
+            print(f"[✓] {title}")
+        all_errors.extend(errors)
         cwd = os.getcwd()
         path_to_lang = os.path.join(cwd, "markdown", language.lower())
         path_to_doc_dir = os.path.join(path_to_lang, f"{title}")
@@ -329,3 +340,7 @@ for (language, texts) in all_languages.items():
                     file.write(img)
                 time.sleep(SECONDS_BETWEEN_IMG_REQUESTS)
         time.sleep(SECONDS_BETWEEN_DOC_REQUESTS)
+
+if all_errors:
+    print("ERROR: Not all documents could be converted successfully!")
+    sys.exit(1)
