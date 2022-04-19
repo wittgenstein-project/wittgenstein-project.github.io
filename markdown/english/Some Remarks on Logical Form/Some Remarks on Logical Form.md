@@ -1,5 +1,7 @@
-% Some Remarks on Logical Form
-% Ludwig Wittgenstein
+---
+author: Ludwig Wittgenstein
+title: Some Remarks on Logical Form
+---
 
 _This digital edition is based on Ludwig Wittgenstein. *Philosophical Occasions 1912–1951*, edited by James Klagge and Alfred Nordmann, Hackett Publishing Company, 1993, pp. 29–35. This original-language text is in the public domain in its country of origin and other countries and areas where the copyright term is the author's life plus 70 years or fewer._
 

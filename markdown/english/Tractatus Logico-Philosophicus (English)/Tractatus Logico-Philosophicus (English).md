@@ -1,5 +1,7 @@
-% Tractatus Logico-Philosophicus (English)
-% Ludwig Wittgenstein
+---
+author: Ludwig Wittgenstein
+title: Tractatus Logico-Philosophicus (English)
+---
 
 _Translated by [F. P. Ramsey](https://en.wikipedia.org/wiki/Frank_Ramsey_(mathematician))_
 
@@ -826,7 +828,7 @@ Something analogous holds of course for all signs, which express the same as the
 
 **4.442** Thus e.g.
 
-|" |
+“
 
 |p |q | |
 |---|---|---|
@@ -834,7 +836,8 @@ Something analogous holds of course for all signs, which express the same as the
 |F|T |T |
 |T|F | |
 |F|F |T |
-|" |
+
+”
 
 is a propositional sign.
 

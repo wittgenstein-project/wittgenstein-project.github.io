@@ -1,5 +1,7 @@
-% Lecture on Ethics
-% Ludwig Wittgenstein
+---
+author: Ludwig Wittgenstein
+title: Lecture on Ethics
+---
 
 _This digital edition is based on Ludwig Wittgenstein. "A Lecture on Ethics." *The Philosophical Review*, vol. 74, no. 1, Jan. 1965, pp. 3–12. This original-language text is in the public domain in its country of origin and other countries and areas where the copyright term is the author's life plus 70 years or fewer._
 

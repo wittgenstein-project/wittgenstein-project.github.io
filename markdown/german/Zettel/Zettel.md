@@ -1,5 +1,7 @@
-% Zettel
-% Ludwig Wittgenstein
+---
+author: Ludwig Wittgenstein
+title: Zettel
+---
 
 _Herausgegeben von [P. Geach](https://en.wikipedia.org/wiki/Peter_Geach), [G. E. M. Anscombe](https://en.wikipedia.org/wiki/G._E._M._Anscombe) und [G. H. von Wright](https://en.wikipedia.org/wiki/Georg_Henrik_von_Wright)_
 

@@ -1,5 +1,7 @@
-% Bemerkungen über Frazers “The Golden Bough”
-% Ludwig Wittgenstein
+---
+author: Ludwig Wittgenstein
+title: Bemerkungen über Frazers “The Golden Bough”
+---
 
 _This digital edition is a diplomatic version of extracts of Wittgenstein’s *Nachlass* Ms-110, Ts-211 and Ms-143 produced with the Interactive Dynamic Presentation tool[^1] provided by the [Wittgenstein Archives at the University of Bergen (WAB)](http://wab.uib.no/). This original-language text is in the public domain in its country of origin and other countries and areas where the copyright term is the author's life plus 70 years or fewer._
 

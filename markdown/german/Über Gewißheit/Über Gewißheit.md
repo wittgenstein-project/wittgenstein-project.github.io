@@ -1,5 +1,7 @@
-% Über Gewißheit
-% Ludwig Wittgenstein
+---
+author: Ludwig Wittgenstein
+title: Über Gewißheit
+---
 
 _Herausgegeben von [G. E. M. Anscombe](https://en.wikipedia.org/wiki/G._E._M._Anscombe) und [G. H. von Wright](https://en.wikipedia.org/wiki/Georg_Henrik_von_Wright)_
 

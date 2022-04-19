@@ -1,5 +1,7 @@
-% Philosophische Untersuchungen
-% Ludwig Wittgenstein
+---
+author: Ludwig Wittgenstein
+title: Philosophische Untersuchungen
+---
 
 _Herausgegeben von [G. E. M. Anscombe](https://en.wikipedia.org/wiki/G._E._M._Anscombe), [R. Rhees](https://en.wikipedia.org/wiki/Rush_Rhees), [G. H. Von Wright](https://en.wikipedia.org/wiki/G._H._Von_Wright)_
 
@@ -134,7 +136,9 @@ Man hat wohl das Recht, ein Behauptungszeichen zu verwenden im Gegensatz z.B. zu
 Das Fregesche Behauptungszeichen betont den *Satzanfang*. Es hat also eine ähnliche Funktion wie der Schlusspunkt. Es unterscheidet die ganze Periode vom Satz in der Periode. Wenn ich Einen sagen höre »es regnet«, aber nicht weiß, ob ich den Anfang und den Schluß der Periode gehört habe, so ist dieser Satz für mich noch kein Mittel der Verständigung.
 
 ---
+
 Denken wir uns ein Bild, einen Boxer in bestimmter Kampfstellung darstellend. Dieses Bild kann nun dazu gebraucht werden, um jemand mitzuteilen, wie er stehen, sich halten soll; oder, wie er sich nicht halten soll; oder, wie ein bestimmter Mann dort und dort gestanden hat; oder etc. etc. Man könnte dieses Bild (chemisch gesprochen) ein Satzradikal nennen. Ähnlich dachte sich wohl Frege die »Annahme«.
+
 ---
 
 **23.** Wieviele Arten der Sätze gibt es aber? Etwa Behauptung, Frage und Befehl? – Es gibt *unzählige* solcher Arten: unzählige verschiedene Arten der Verwendung alles dessen, was wir »Zeichen«, »Worte«, »Sätze«, nennen. Und diese Mannigfaltigkeit ist nichts Festes, ein für allemal Gegebenes; sondern neue Typen der Sprache, neue Sprachspiele, wie wir sagen können, entstehen und andre veralten und werden vergessen. (Ein *ungefähres* Bild davon können uns die Wandlungen der Mathematik geben.)
@@ -208,7 +212,9 @@ In den Sprachen (2) und (8) gab es ein Fragen nach der Benennung nicht. Dies und
 **28.** Man kann nun einen Personennamen, ein Farbwort, einen Stoffnamen, ein Zahlwort, den Namen einer Himmelsrichtung, etc. hinweisend definieren. Die Definition der Zahl Zwei »Das heißt ›zwei‹« – wobei man auf zwei Nüsse zeigt – ist vollkommen exakt. – Aber wie kann man denn die Zwei so definieren? Der, dem man die Definition gibt, weiß ja dann nicht, *was* man mit »zwei« benennen will; er wird annehmen, daß du *diese* Gruppe von Nüssen »zwei« nennst! –– Er *kann* dies annehmen; vielleicht nimmt er es aber nicht an. Er könnte ja auch, umgekehrt, wenn ich dieser Gruppe von Nüssen einen Namen beilegen will, ihn als Zahlnamen mißverstehen. Und ebensogut, wenn ich einen Personennamen hinweisend erkläre, diesen als Farbnamen, als Bezeichnung der Rasse, ja als Namen einer Himmelsrichtung auffassen. Das heißt, die hinweisende Definition kann in *jedem* Fall so und anders gedeutet werden.
 
 ---
+
 Könnte man zur Erklärung des Wortes »rot« auf etwas weisen, was *nicht rot* ist? Das wäre ähnlich, wie wenn man Einem, der der deutschen Sprache nicht mächtig ist, das Wort »bescheiden« erklären sollte, und man zeigte zur Erklärung auf einen arroganten Menschen und sagte »Dieser ist *nicht* bescheiden«. Es ist kein Argument gegen eine solche Erklärungsweise, daß sie vieldeutig ist. Jede Erklärung kann mißverstanden werden. Wohl aber könnte man fragen: Sollen wir das noch eine »Erklärung« nennen? – Denn sie spielt im Kalkül natürlich eine andere Rolle als das, was wir gewöhnlich »hinweisende Erklärung« des Wortes »rot« nennen; auch wenn sie dieselben praktischen Folgen, dieselbe *Wirkung* auf den Lernenden hätte.
+
 ---
 
 **29.** Vielleicht sagt man: die Zwei kann nur so hinweisend definiert werden: »Diese *Zahl* heißt ›zwei‹«. Denn das Wort »Zahl« zeigt hier an, an welchen *Platz* der Sprache, der Grammatik, wir das Wort setzen. Das heißt aber, es muß das Wort »Zahl« erklärt sein, ehe jene hinweisende Definition verstanden werden kann. – Das Wort »Zahl« in der Definition zeigt allerdings diesen Platz an; den Posten, an den wir das Wort stellen. Und wir können so Mißverständnissen vorbeugen, indem wir sagen: »Diese *Farbe* heißt so und so«, »Diese *Länge* heißt so und so«, usw. Das heißt: Mißverständnisse werden manchmal so vermieden. Aber läßt sich denn das Wort »Farbe«, oder »Länge« nur so auffassen? – Nun, wir müssen sie eben erklären. – Also erklären durch andere Wörter! Und wie ist es mit der letzten Erklärung in dieser Kette? (Sag nicht »Es gibt keine ›letzte‹ Erklärung«. Das ist gerade so, als wolltest du sagen: »Es gibt kein letztes Haus in dieser Straße; man kann immer noch eines dazubauen.«)
@@ -266,9 +272,11 @@ Denn es werden die Worte »auf die Form zeigen«, »die Form meinen« etc. nicht
 Wie gesagt, in gewissen Fällen, besonders beim Zeigen ›auf die Form‹, oder ›auf die Anzahl‹ gibt es charakteristische Erlebnisse und Arten des Zeigens – ›charakteristisch‹, weil sie sich oft (nicht immer) wiederholen, wo Form, oder Anzahl ›gemeint‹ werden. Aber kennst du auch ein charakteristisches Erlebnis für das Zeigen auf die Spielfigur, als *Spielfigur*? Und doch kann man sagen: »Ich meine, diese *Spielfigur* heißt ›König‹, nicht dieses bestimmte Stück Holz, worauf ich zeige«. (Wiedererkennen, wünschen, sich erinnern, etc.)
 
 ---
+
 Wie geht es vor sich: die Worte »*Das* ist blau« einmal als Aussage über den Gegenstand, auf den man zeigt – einmal als Erklärung des Wortes »blau« *meinen*? Im zweiten Fall meint man also eigentlich »Das heißt ›blau‹« – Kann man also das Wort »ist« einmal als »heißt« meinen, und das Wort »blau« als »›blau‹«? und ein andermal das »ist« wirklich als »ist«?
 Es kann auch geschehen, daß jemand aus dem, was als Mitteilung gemeint war, eine Worterklärung zieht. [Hier liegt ein folgenschwerer Aberglaube verborgen.]
 Kann ich mit dem Wort »bububu« meinen »Wenn es nicht regnet, werde ich spazieren gehen«? – Nur in einer Sprache kann ich etwas mit etwas meinen. Das zeigt klar, daß die Grammatik von »meinen« nicht ähnlich der ist des Ausdrucks »sich etwas vorstellen« und dergl.
+
 ---
 
 **36.** Und wir tun hier, was wir in tausend ähnlichen Fällen tun: Weil wir nicht *eine* körperliche Handlung angeben können, die wir das Zeigen auf die Form (im Gegensatz z.B. zur Farbe) nennen, so sagen wir, es entspreche diesen Worten eine geistige Tätigkeit.
@@ -420,7 +428,9 @@ Wenn aber Einer sagen wollte: »Also ist allen diesen Gebilden etwas gemeinsam, 
 Eine Erklärung dessen, was ich meine, wäre etwa eine Zeichnung und die Worte »So ungefähr hat der Boden ausgesehen«. Ich sage vielleicht auch: »*genau* so hat er ausgesehen«. – Also waren genau *diese* Gräser und Blätter, in diesen Lagen, dort? Nein, das heißt es nicht. Und kein Bild würde ich, in *diesem* Sinne, als das genaue anerkennen.
 
 ---
+
 Jemand sagt mir: »Zeige den Kindern ein Spiel!« Ich lehre sie, um Geld würfeln, und der Andere sagt mir »Ich habe nicht so ein Spiel gemeint«. Mußte ihm da, als er mir den Befehl gab, der Ausschluß des Würfelspiels vorschweben?
+
 ---
 
 **71.** Man kann sagen, der Begriff ›Spiel‹ ist ein Begriff mit verschwommenen Rändern. – »Aber ist ein verschwommener Begriff überhaupt ein *Begriff*?« – Ist eine unscharfe Photographie überhaupt ein Bild eines Menschen? Ja, kann man ein unscharfes Bild immer mit Vorteil durch ein scharfes ersetzen? Ist das unscharfe nicht oft gerade das, was wir brauchen?
@@ -564,7 +574,9 @@ Wir sind in der Täuschung, das Besondere, Tiefe, das uns Wesentliche unserer Un
 **104.** Man prädiziert von der Sache, was in der Darstellungsweise liegt. Die Möglichkeit des Vergleichs, die uns beeindruckt, nehmen wir für die Wahrnehmung einer höchst allgemeinen Sachlage.
 
 ---
+
 (Faraday »The Chemical History of a Candle«): »Water is one individual thing – it never changes.«
+
 ---
 
 **105.** Wenn wir glauben, jene Ordnung, das Ideal, in der wirklichen Sprache finden zu müssen, werden wir nun mit dem unzufrieden, was man im gewöhnlichen Leben »Satz«, »Wort«, »Zeichen«, nennt.
@@ -578,9 +590,11 @@ Der Satz, das Wort, von dem die Logik handelt, soll etwas Reines und Scharfgesch
 **108.** Wir erkennen, daß, was wir »Satz«, »Sprache«, nennen, nicht die formelle Einheit ist, die ich mir vorstellte, sondern die Familie mehr oder weniger miteinander verwandter Gebilde. –– Was aber wird nun aus der Logik? Ihre Strenge scheint hier aus dem Leim zu gehen. – Verschwindet sie damit aber nicht ganz? – Denn wie kann die Logik ihre Strenge verlieren? Natürlich nicht dadurch, daß man ihr etwas von ihrer Strenge abhandelt. – Das *Vorurteil* der Kristallreinheit kann nur so beseitigt werden, daß wir unsere ganze Betrachtung drehen. (Man könnte sagen: Die Betrachtung muß gedreht werden, aber um unser eigentliches Bedürfnis als Angelpunkt.)
 
 ---
+
 Die Philosophie der Logik redet in keinem andern Sinn von Sätzen und Wörtern, als wir es im gewöhnlichen Leben tun, wenn wir etwa sagen »hier steht ein chinesischer Satz aufgeschrieben«, oder »nein, das sieht nur aus wie Schriftzeichen, ist aber ein Ornament«, etc.
 Wir reden von dem räumlichen und zeitlichen Phänomen der Sprache; nicht von einem unräumlichen und unzeitlichen Unding. [Nur kann man sich in verschiedener Weise für ein Phänomen interessieren.] Aber wir reden von ihr so, wie von den Figuren des Schachspiels, indem wir Spielregeln für sie angeben, nicht ihre physikalischen Eigenschaften beschreiben.
 Die Frage »Was ist eigentlich ein Wort?« ist analog der »Was ist eine Schachfigur?«
+
 ---
 
 **109.** Richtig war, daß unsere Betrachtungen nicht wissenschaftliche Betrachtungen sein durften. Die Erfahrung, ›daß sich das oder das denken lasse, entgegen unserm Vorurteil‹ – was immer das heißen mag – konnte uns nicht interessieren. (Die pneumatische Auffassung des Denkens.) Und wir dürfen keinerlei Theorie aufstellen. Es darf nichts Hypothetisches in unsern Betrachtungen sein. Alle *Erklärung* muß fort, und nur Beschreibung an ihre Stelle treten. Und diese Beschreibung empfängt ihr Licht, d.i. ihren Zweck, von den philosophischen Problemen. Diese sind freilich keine empirischen, sondern sie werden durch eine Einsicht in das Arbeiten unserer Sprache gelöst, und zwar so, daß dieses erkannt wird: *entgegen* einem Trieb, es mißzuverstehen. Diese Probleme werden gelöst, nicht durch Beibringen neuer Erfahrung, sondern durch Zusammenstellung des längst Bekannten. Die Philosophie ist ein Kampf gegen die Verhexung unsres Verstandes durch die Mittel unserer Sprache.
@@ -674,7 +688,9 @@ Denn die Klarheit, die wir anstreben, ist allerdings eine *vollkommene*. Aber da
 Die eigentliche Entdeckung ist die, die mich fähig macht, das Philosophieren abzubrechen, wann ich will. – Die die Philosophie zur Ruhe bringt, so daß sie nicht mehr von Fragen gepeitscht wird, die *sie selbst* in Frage stellen. – Sondern es wird nun an Beispielen eine Methode gezeigt, und die Reihe dieser Beispiele kann man abbrechen. – Es werden Probleme gelöst (Schwierigkeiten beseitigt), nicht *ein* Problem.
 
 ---
+
 Es gibt nicht *eine* Methode der Philosophie, wohl aber gibt es Methoden, gleichsam verschiedene Therapien.
+
 ---
 
 **134.** Betrachten wir den Satz: »Es verhält sich so oder so« – wie kann ich sagen, dies sei die allgemeine Form des Satzes? – Es ist vor allem *selbst* ein Satz, ein deutscher Satz, denn es hat Subjekt und Prädikat. Wie aber wird dieser Satz angewendet – in unsrer alltäglichen Sprache nämlich? Denn nur *daher* habe ich ihn ja genommen.
@@ -698,7 +714,9 @@ Aber das ist ein schlechtes Bild. Es ist, als sagte man »Schachkönig ist *die*
 **138.** Kann denn aber nicht die Bedeutung eines Wortes, die ich verstehe, zum Sinn des Satzes, den ich verstehe, passen? Oder die Bedeutung eines Wortes zur Bedeutung eines andern? –– Freilich, wenn die Bedeutung der *Gebrauch* ist, den wir vom Worte machen, dann hat es keinen Sinn, von so einem Passen zu reden. Nun *verstehen* wir aber die Bedeutung eines Wortes, wenn wir es hören, oder aussprechen; wir erfassen sie mit einem Schlage; und was wir so erfassen, ist doch etwas Andres als der in der Zeit ausgedehnte ›Gebrauch‹!
 
 ---
+
 Muß ich *wissen*, ob ich ein Wort verstehe? Geschieht es nicht auch, daß ich mir einbilde, ein Wort zu verstehen (nicht anders, als eine Rechenart zu verstehen) und nun darauf komme, daß ich es nicht verstanden habe? (»Ich habe geglaubt, ich weiß, was ›relative‹ und ›absolute‹ Bewegung heißt, aber ich sehe, ich weiß es nicht.«)
+
 ---
 
 **139.** Wenn mir jemand z.B. das Wort »Würfel« sagt, so weiß ich, was es bedeutet. Aber kann mir denn die ganze *Verwendung* des Wortes vorschweben, wenn ich es so *verstehe*?
@@ -712,7 +730,9 @@ Nun, nimm an, beim Hören des Wortes »Würfel« schwebt dir ein Bild vor. Etwa 
 Das Bild des Würfels *legte* uns allerdings eine gewisse Verwendung *nahe*, aber ich konnte es auch anders verwenden.
 
 ---
+
 (a) »Ich glaube, das richtige Wort in diesem Fall ist ..... Zeigt das nicht, daß die Bedeutung des Worts ein Etwas ist, das uns vorschwebt, und das gleichsam das genaue Bild ist, welches wir hier brauchen wollen? Denke, ich wählte zwischen den Wörtern »stattlich«, »würdevoll«, »stolz«, »Achtung gebietend«; ist es nicht, als ob ich zwischen den Zeichnungen in einer Mappe wählte? – Nein; daß man vom *treffenden Wort* redet, *zeigt* nicht die Existenz eines Etwas, welches etc. Vielmehr ist man geneigt, von jenem bildartigen Etwas zu sprechen, weil man ein Wort als treffend empfinden kann; zwischen Worten oft, wie zwischen ähnlichen, aber doch nicht gleichen Bildern, wählt; weil man Bilder oft statt Wörtern, oder zur Illustration von Wörtern, gebraucht; etc. (b) Ich sehe ein Bild: es stellt einen alten Mann dar, der auf einen Stock gestützt einen steilen Weg aufwärts geht. – Und wie das? Konnte es nicht auch so aussehen, wenn er in dieser Stellung die Straße hinunterrutschte? Ein Marsbewohner würde das Bild vielleicht so beschreiben. Ich brauche nicht zu erklären, warum *wir* es nicht so beschreiben.
+
 ---
 
 **140.** Welcher Art war dann aber mein Irrtum; der, welchen man so ausdrücken möchte: ich hätte geglaubt, das Bild zwinge mich nun zu einer bestimmten Verwendung? Wie konnte ich denn das glauben? Was *habe* ich da geglaubt? Gibt es denn ein Bild, oder etwas einem Bild Ähnliches, das uns zu einer bestimmten Anwendung zwingt, und war mein Irrtum also eine Verwechslung? – Denn wir könnten geneigt sein, uns auch so auszudrücken: wir seien höchstens unter einem psychologischen Zwang, aber unter keinem logischen. Und da scheint es ja völlig, als kennten wir zweierlei Fälle.
@@ -732,7 +752,9 @@ Ich will sagen: Es gibt hier einen *normalen* Fall und abnormale Fälle.
 **142.** Nur in normalen Fällen ist der Gebrauch der Worte uns klar vorgezeichnet; wir wissen, haben keinen Zweifel, was wir in diesem oder jenem Fall zu sagen haben. Je abnormaler der Fall, desto zweifelhafter wird es, was wir nun hier sagen sollen. Und verhielten sich die Dinge ganz anders, als sie sich tatsächlich verhalten –– gäbe es z.B. keinen charakteristischen Ausdruck des Schmerzes, der Furcht, der Freude; würde, was Regel ist, Ausnahme und was Ausnahme, zur Regel; oder würden beide zu Erscheinungen von ungefähr gleicher Häufigkeit –– so verlören unsere normalen Sprachspiele damit ihren Witz. – Die Prozedur, ein Stück Käse auf die Waage zu legen und nach dem Ausschlag der Waage den Preis zu bestimmen, verlöre ihren Witz, wenn es häufiger vorkäme, daß solche Stücke ohne offenbare Ursache plötzlich anwüchsen, oder einschrumpften. Diese Bemerkung wird klarer werden, wenn wir über Dinge, wie das Verhältnis des Ausdrucks zum Gefühl und Ähnliches reden werden.
 
 ---
+
 Was wir zur Erklärung der Bedeutung, ich meine der Wichtigkeit, eines Begriffs sagen müssen, sind oft außerordentlich allgemeine Naturtatsachen. Solche, die wegen ihrer großen Allgemeinheit kaum je erwähnt werden.
+
 ---
 
 **143.** Betrachten wir nun diese Art von Sprachspiel: B soll auf den Befehl des A Reihen von Zeichen niederschreiben nach einem bestimmten Bildungsgesetz.
@@ -762,6 +784,7 @@ Du meinst also: du weißt die Anwendung des Gesetzes der Reihe, auch ganz abgese
 **149.** Wenn man sagt, das Wissen des ABC sei ein Zustand der Seele, so denkt man an den Zustand eines Seelenapparats (etwa unsres Gehirns), mittels welches wir die *Äußerungen* dieses Wissens erklären. Einen solchen Zustand nennt man eine Disposition. Es ist aber nicht einwandfrei, hier von einem Zustand der Seele zu reden, insofern es für den Zustand zwei Kriterien geben sollte; nämlich ein Erkennen der Konstruktion des Apparates, abgesehen von seinen Wirkungen. (Nichts wäre hier verwirrender als der Gebrauch der Wörter »bewußt« und »unbewußt« für den Gegensatz von Bewußtseinszustand und Disposition. Denn jenes Wortpaar verhüllt einen grammatischen Unterschied.)
 
 ---
+
 (*a*) »Ein Wort verstehen«, ein Zustand. Aber ein *seelischer* Zustand? – Betrübnis, Aufregung, Schmerzen, nennen wir seelische Zustände. Mache diese grammatische Betrachtung: Wir sagen
 »Er war den ganzen Tagen betrübt«.
 
@@ -771,6 +794,7 @@ Du meinst also: du weißt die Anwendung des Gesetzes der Reihe, auch ganz abgese
 
 Wir sagen auch »Ich verstehe dieses Wort seit gestern«. Aber »ununterbrochen«? – Ja, man kann von einer Unterbrechung des Verstehens reden. Aber in welchen Fällen? Vergleiche: »Wann haben deine Schmerzen nachgelassen?« und »Wann hast du aufgehört, das Wort zu verstehen?«
 (*b*) Wie, wenn man fragte: Wann *kannst* du Schach spielen? Immer? oder während du einen Zug machst? Und während jedes Zuges das ganze Schach? – Und wie seltsam, daß Schachspielen können so kurze Zeit braucht, und eine Partie so viel länger.
+
 ---
 
 **150.** Die Grammatik des Wortes »wissen« ist offenbar eng verwandt der Grammatik der Worte »können«, »imstande sein«. Aber auch eng verwandt der des Wortes »verstehen«. (Eine Technik ›beherrschen‹.)
@@ -852,7 +876,9 @@ Und so verwenden wir auch das Wort »Lesen« für eine Familie von Fällen. Und 
 **165.** Aber lesen – möchten wir sagen – ist doch ein ganz bestimmter Vorgang! Lies eine Druckseite, dann kannst du’s sehen; es geht da etwas Besonderes vor und etwas höchst Charakteristisches. –– Nun, was geht denn vor, wenn ich den Druck lese! Ich sehe gedruckte Wörter und spreche Wörter aus. Aber das ist natürlich nicht alles; denn ich könnte gedruckte Wörter sehen und Wörter aussprechen, und es wäre doch nicht Lesen. Auch dann nicht, wenn die Wörter, die ich spreche, die sind, die man zufolge einem bestehenden Alphabet, von jenen gedruckten ablesen *soll*. – Und wenn du sagst, das Lesen sei ein bestimmtes Erlebnis, so spielt es ja gar keine Rolle, ob du nach einer von Menschen allgemein anerkannten Regel des Alphabets liest, oder nicht. – Worin besteht also das Charakteristische am Erlebnis des Lesens? – Da möchte ich sagen: »Die Worte, die ich ausspreche, *kommen* in besonderer Weise.« Nämlich sie kommen nicht so, wie sie kämen, wenn ich sie z.B. ersänne. – Sie kommen von selbst. – Aber auch das ist nicht genug; denn es können mir ja Wortklänge *einfallen*, während ich auf die gedruckten Worte schaue, und ich habe damit diese doch nicht gelesen. – Da könnte ich noch sagen, daß mir die gesprochenen Wörter auch nicht so einfallen, als erinnerte mich, z.B., etwas an sie. Ich möchte z.B. nicht sagen: das Druckwort »nichts« erinnert mich immer an den Laut »nichts«. – Sondern die gesprochenen Wörter schlüpfen beim Lesen gleichsam herein. Ja, ich kann ein deutsches gedrucktes Wort gar nicht ansehen, ohne einen eigentümlichen Vorgang des Innern Hörens des Wortklangs.
 
 ---
+
 Die Grammatik des Ausdrucks: »Eine ganz bestimmte« (Atmosphäre). Man sagt »Dieses Gesicht hat einen ganz *bestimmten* Ausdruck«, und sucht etwa nach Worten, die ihn charakterisieren.
+
 ---
 
 **166.** Ich sagte, die gesprochenen Worte beim Lesen kämen ›in besonderer Weise‹; aber in welcher Weise? Ist dies nicht eine Fiktion? Sehen wir uns einzelne Buchstaben an und geben acht, in welcher Weise der Laut des Buchstabens kommt. Lies den Buchstaben A. – Nun, wie kam der Laut? – Wir wissen gar nichts darüber zu sagen. –– Nun schreib ein kleines lateinisches a! – Wie kam die Handbewegung beim Schreiben? Anders als der Laut im vorigen Versuch? – Ich habe auf den Druckbuchstaben gesehen und schrieb den Kursivbuchstaben; mehr weiß ich nicht. –– Nun schau auf das Zeichen 
@@ -2103,9 +2129,11 @@ b) Die beiden Wörter haben die gleiche Funktion in Sprachspielen, bis auf die e
 c) Mit den beiden Verneinungen verbinden wir verschiedene Vorstellungen. »X« dreht gleichsam den Sinn um 180 Grad. Und *darum* bringen zwei solche Verneinungen den Sinn in seine alte Lage zurück. »Y« ist wie ein Kopfschütteln. Und wie man nicht ein Kopfschütteln durch ein zweites aufhebt, so auch nicht ein »Y« durch ein zweites. Und wenn also auch Sätze mit den beiden Verneinungen praktisch aufs selbe hinauskommen, so drücken »X« und »Y« doch verschiedene Ideen aus.
 
 ---
+
 a) »Daß drei Verneinungen wieder eine Verneinung ergeben, muß doch schon in der einen Verneinung, die ich jetzt gebrauche, liegen.« (Die Versuchung, einen Mythos des »Bedeutens« zu erfinden.)
 Es hat den Anschein, als würde aus der Natur der Negation folgen, daß eine doppelte Verneinung eine Bejahung ist. (Und etwas Richtiges ist daran. Was? *Unsere* Natur hängt mit beiden zusammen.)
 b) Es kann keine Diskussion darüber geben, ob diese Regeln, oder andere, die richtigen für das Wort »nicht« sind (ich meine, ob sie seiner Bedeutung gemäß sind). Denn das Wort hat ohne diese Regeln noch keine Bedeutung; und wenn wir die Regeln ändern, so hat es nun eine andere Bedeutung (oder keine), und wir können dann ebensogut auch das Wort ändern.
+
 ---
 
 **557.** Worin mag das gelegen haben, als ich die doppelte Verneinung aussprach, daß ich sie als verstärkte Verneinung und nicht als Bejahung meinte? Es gibt keine Antwort, die lautet: »Es lag darin, daß ....« Statt zu sagen »Diese Verdoppelung ist als Verstärkung gemeint«, kann ich sie unter gewissen Umständen als Verstärkung *aussprechen*. Statt zu sagen »Die Verdoppelung der Verneinung ist als ihre Aufhebung gemeint«, kann ich z.B. Klammern setzen. – »Ja, aber diese Klammern selbst können doch verschiedene Rollen spielen; denn wer sagt, daß sie als *Klammern* aufzufassen seien?« Niemand sagt es. Und du hast ja deine Auffassung wieder durch Worte erklärt. Was die Klammern bedeuten, liegt in der Technik ihrer Anwendung. Die Frage ist: unter welchen Umständen hat es Sinn zu sagen: »Ich habe .... gemeint«, und welche Umstände berechtigen mich zu sagen »Er hat .... gemeint«?

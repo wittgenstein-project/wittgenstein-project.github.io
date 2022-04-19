@@ -1,5 +1,7 @@
-% Bemerkungen über die Farben
-% Ludwig Wittgenstein
+---
+author: Ludwig Wittgenstein
+title: Bemerkungen über die Farben
+---
 
 _Herausgegeben von [G. E. M. Anscombe](https://en.wikipedia.org/wiki/G._E._M._Anscombe)_
 

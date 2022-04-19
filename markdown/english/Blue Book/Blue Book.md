@@ -1,5 +1,7 @@
-% Blue Book
-% Ludwig Wittgenstein
+---
+author: Ludwig Wittgenstein
+title: Blue Book
+---
 
 _This digital edition is a normalised version of Wittgenstein’s *Nachlass* Ts-309 (so-called *Blue Book*) produced with the Interactive Dynamic Presentation tool[^1] provided by the [Wittgenstein Archives at the University of Bergen (WAB)](http://wab.uib.no/). This original-language text is in the public domain in its country of origin and other countries and areas where the copyright term is the author's life plus 70 years or fewer._
 

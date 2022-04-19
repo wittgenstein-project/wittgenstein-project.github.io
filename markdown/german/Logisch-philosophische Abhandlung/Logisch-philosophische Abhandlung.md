@@ -1,5 +1,7 @@
-% Logisch-philosophische Abhandlung
-% Ludwig Wittgenstein
+---
+author: Ludwig Wittgenstein
+title: Logisch-philosophische Abhandlung
+---
 
 _Diese digitale Ausgabe ist eine Reproduktion von L. Wittgenstein. *Tractatus Logico-Philosophicus*. Herausgegeben von C. K. Ogden und F. P. Ramsey, Kegan Paul, Trench, Trubner & Co., 1922. Dieses Werk ist gemeinfrei, weil seine urheberrechtliche Schutzfrist abgelaufen ist. Dies gilt für das Herkunftsland des Werks und alle weiteren Staaten mit einer gesetzlichen Schutzfrist von 70 oder weniger Jahren nach dem Tod des Urhebers._
 
@@ -830,7 +832,7 @@ Analoges gilt natürlich für alle Zeichen, die dasselbe ausdrücken wie die Sch
 
 **4.442** Es ist z. B.:
 
-|„ |
+„
 
 |p |q | |
 |---|---|---|
@@ -838,7 +840,8 @@ Analoges gilt natürlich für alle Zeichen, die dasselbe ausdrücken wie die Sch
 |F|W |W |
 |W|F | |
 |F|F |W |
-|“ |
+
+“
 
 ein Satzzeichen.
 
