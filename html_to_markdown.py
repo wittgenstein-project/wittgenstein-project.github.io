@@ -1,4 +1,4 @@
-import os, re, time, requests, sys
+import os, re, time, requests, sys, urllib.parse
 from bs4 import BeautifulSoup, NavigableString
 
 SECONDS_BETWEEN_DOC_REQUESTS = 0.5
@@ -280,8 +280,8 @@ def doc_as_md(text):
 
 # Find all texts (language, title, link) on the main page:
 
-html = requests.get("https://www.wittgensteinproject.org/w/index.php?title=Project:All_texts&action=render").content
-all_texts = BeautifulSoup(html, features="html.parser")
+all_texts_page = requests.get("https://www.wittgensteinproject.org/w/index.php?title=Project:All_texts&action=render").content
+all_texts = BeautifulSoup(all_texts_page, features="html.parser")
 
 all_languages = {}
 current_language = []
@@ -304,8 +304,8 @@ for (language, texts) in all_languages.items():
     if not language in WHITELISTED_LANGUAGES:
         continue
     for [title, link] in texts:
-        html = requests.get(f"{link}&action=render").content
-        text = BeautifulSoup(html, features="html.parser")
+        html_page = requests.get(f"{link}&action=render").content
+        text = BeautifulSoup(html_page, features="html.parser")
         [errors, md, image_urls] = doc_as_md(text)
         if errors:
             print(f"[ ] {title}")
@@ -330,7 +330,7 @@ for (language, texts) in all_languages.items():
                 image_url = "https://www.wittgensteinproject.org" + image_url
             if not os.path.exists(path_to_doc_images_dir):
                 os.mkdir(path_to_doc_images_dir)
-            file_name = os.path.basename(image_url)
+            file_name = urllib.parse.unquote(os.path.basename(image_url))
             if "/svg/" in image_url and not image_url.endswith(".svg"):
                 file_name += ".svg"
             path_to_image_file = os.path.join(path_to_doc_images_dir, file_name)
