@@ -267,7 +267,7 @@ def parse_html(errors, parsed, image_urls, elem):
 def doc_as_md(text):
     title = text.find("p", "tl-title").text
     errors = []
-    parsed = f"% {title}\n% Ludwig Wittgenstein\n"
+    parsed = f"---\nauthor: Ludwig Wittgenstein\ntitle: {title}\n---\n"
     image_urls = []
     for line in parse_html(errors, [""], image_urls, text.find("div", "colophon")):
         parsed += line.strip() + "\n"
