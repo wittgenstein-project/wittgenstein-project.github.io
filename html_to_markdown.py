@@ -235,6 +235,7 @@ def parse_html(errors, parsed, image_urls, elem):
                 parse_html(errors, parsed, image_urls, child)
             parsed.append("")
         elif elem.name == "div" and (elem.get("class") == ["center"] or elem.get("style") == "text-align: center;") \
+            or elem.name == "div" and not elem.get("class") and elem.get("style") == "display: flex; justify-content: center; align-items: center;" \
             or elem.name == "div" and not elem.get("class") and elem.get("style") == "width: 25%; margin: 2em auto 2em auto;" \
             or elem.name == "p" and not elem.get("class") and elem.get("style") == "text-align: center;" \
             or elem.name == "p" and not elem.get("class") and elem.get("style") == "text-align: center; font-variant: small-caps;" \
