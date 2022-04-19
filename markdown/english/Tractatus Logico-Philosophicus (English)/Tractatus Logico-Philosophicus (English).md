@@ -11,8 +11,9 @@ Dedicated
 to the memory of my friend
 DAVID H. PINSENT
 
-. . . und alles, was man weiss, nicht bloss rauschen und brausen gehört hat, lässt sich in drei Worten sagen.
-Kürnberger.
+*. . . und alles, was man weiss, nicht bloss rauschen und brausen gehört hat, lässt sich in drei Worten sagen. *
+
+*Kürnberger.*
 
 *Preface*
 
@@ -788,10 +789,7 @@ Expressions like “*a=a*”, or expressions deduced from these are neither elem
 
 **4.26** The specification of all true elementary propositions describes the world completely. The world is completely described by the specification of all elementary propositions plus the specification, which of them are true and which false.
 
-**4.27** With regard to the existence of n atomic facts there are 
-![{\displaystyle K_{n}=\sum _{v=0}^{n}{\binom {n}{v}}}](images/fe8e3530ddfe568a9d945e402d5a6a0a9540bc43.svg)
-
-possibilities.
+**4.27** With regard to the existence of n atomic facts there are ![{\displaystyle K_{n}=\sum _{v=0}^{n}{\binom {n}{v}}}](images/fe8e3530ddfe568a9d945e402d5a6a0a9540bc43.svg) possibilities.
 
 It is possible for all combinations of atomic facts to exist, and the others not to exist.
 
@@ -807,10 +805,7 @@ It is possible for all combinations of atomic facts to exist, and the others not
 
 **4.411** It seems probable even at first sight that the introduction of the elementary propositions is fundamental for the comprehension of the other kinds of propositions. Indeed the comprehension of the general propositions depends *palpably* on that of the elementary propositions.
 
-**4.42** With regard to the agreement and disagreement of a proposition with the truth-possibilities of n elementary propositions there are 
-![{\displaystyle \sum _{k=0}^{K_{n}}{\binom {K_{n}}{k}}=L_{n}}](images/3bbf7a05fae70d7221d6ecba5775f538fa7fd7ad.svg)
-
-possibilities.
+**4.42** With regard to the agreement and disagreement of a proposition with the truth-possibilities of n elementary propositions there are ![{\displaystyle \sum _{k=0}^{K_{n}}{\binom {K_{n}}{k}}=L_{n}}](images/3bbf7a05fae70d7221d6ecba5775f538fa7fd7ad.svg) possibilities.
 
 **4.43** Agreement with the truth-possibilities can be expressed by co-ordinating with them in the schema the mark "T" (true).
 
@@ -841,13 +836,9 @@ Something analogous holds of course for all signs, which express the same as the
 
 is a propositional sign.
 
-(Frege's assertion sign "
-![{\displaystyle \vdash }](images/a0c0d30cf8cb7dba179e317fcde9583d842e80f6.svg)
-" is logically altogether meaningless; in Frege (and Russell) it only shows that these authors hold as true the propositions marked in this way.
+(Frege's assertion sign "![{\displaystyle \vdash }](images/a0c0d30cf8cb7dba179e317fcde9583d842e80f6.svg)" is logically altogether meaningless; in Frege (and Russell) it only shows that these authors hold as true the propositions marked in this way.
 
-"
-![{\displaystyle \vdash }](images/a0c0d30cf8cb7dba179e317fcde9583d842e80f6.svg)
-" belongs therefore to the propositions no more than does the number of the proposition. A proposition cannot possibly assert of itself that it is true.)
+"![{\displaystyle \vdash }](images/a0c0d30cf8cb7dba179e317fcde9583d842e80f6.svg)" belongs therefore to the propositions no more than does the number of the proposition. A proposition cannot possibly assert of itself that it is true.)
 
 If the sequence of the truth-possibilities in the schema is once for all determined by a rule of combination, then the last column is by itself an expression of the truth-conditions. If we write this column as a row the propositional sign becomes: "(T—T) (*p,q*)" or more plainly: "(T T F T) (*p,q*)".
 
@@ -1222,14 +1213,9 @@ Thus "Socrates is identical" says nothing, because we have given *no* meaning to
 
 **5.5** Every truth-function is a result of the successive application of the operation (– – – – – T)(*ξ*, ....) to elementary propositions.
 
-**5.501** An expression in brackets whose terms are propositions I indicate—if the order of the terms in the bracket is indifferent—by a sign of the form "
-![{\displaystyle ({\bar {\xi }})}](images/42b19dfaf444189c43300c710b904dcefda799cf.svg)
-". "*ξ*" is a variable whose values are the terms of the expression in brackets, and the line over the variable indicates that it stands for all its values in the bracket.
+**5.501** An expression in brackets whose terms are propositions I indicate—if the order of the terms in the bracket is indifferent—by a sign of the form "![{\displaystyle ({\bar {\xi }})}](images/42b19dfaf444189c43300c710b904dcefda799cf.svg)". "*ξ*" is a variable whose values are the terms of the expression in brackets, and the line over the variable indicates that it stands for all its values in the bracket.
 
-(Thus if *ξ* has the 3 values P, Q, R, then 
-![{\displaystyle ({\bar {\xi }})}](images/42b19dfaf444189c43300c710b904dcefda799cf.svg)
-
-= (P, Q, R).)
+(Thus if *ξ* has the 3 values P, Q, R, then ![{\displaystyle ({\bar {\xi }})}](images/42b19dfaf444189c43300c710b904dcefda799cf.svg) = (P, Q, R).)
 
 The values of the variables must be determined.
 
@@ -1239,23 +1225,13 @@ How the description of the terms of the expression in brackets takes place is un
 
 We may distinguish 3 kinds of description: Direct enumeration. In this case we can place simply its constant values instead of the variable. Giving a function *f x* whose values for all values of *x* are the propositions to be described. Giving a formal law, according to which those propositions are constructed. In this case the terms of the expression in brackets are all the terms of a formal series.
 
-**5.502** Therefore I write instead of "(– – – – – T)(*ξ*, ....)", "
-![{\displaystyle N({\bar {\xi }})}](images/688f31c8b53de2e85798d6e29f50789fa64eb1e7.svg)
-".
+**5.502** Therefore I write instead of "(– – – – – T)(*ξ*, ....)", "![{\displaystyle N({\bar {\xi }})}](images/688f31c8b53de2e85798d6e29f50789fa64eb1e7.svg)".
 
-![{\displaystyle N({\bar {\xi }})}](images/688f31c8b53de2e85798d6e29f50789fa64eb1e7.svg)
-
-is the negation of all the values of the propositional variable ξ.
+![{\displaystyle N({\bar {\xi }})}](images/688f31c8b53de2e85798d6e29f50789fa64eb1e7.svg) is the negation of all the values of the propositional variable ξ.
 
 **5.503** As it is obviously easy to express how propositions can be constructed by means of this operation and how propositions are not to be constructed by means of it, this must be capable of exact expression.
 
-**5.51** If *ξ* has only one value, then 
-![{\displaystyle N({\bar {\xi }})}](images/688f31c8b53de2e85798d6e29f50789fa64eb1e7.svg)
-
-= ~*p* (not *p*), if it has two values then 
-![{\displaystyle N({\bar {\xi }})}](images/688f31c8b53de2e85798d6e29f50789fa64eb1e7.svg)
-
-= ~*p . ~q* (neither *p* nor *q*).
+**5.51** If *ξ* has only one value, then ![{\displaystyle N({\bar {\xi }})}](images/688f31c8b53de2e85798d6e29f50789fa64eb1e7.svg) = ~*p* (not *p*), if it has two values then ![{\displaystyle N({\bar {\xi }})}](images/688f31c8b53de2e85798d6e29f50789fa64eb1e7.svg) = ~*p . ~q* (neither *p* nor *q*).
 
 **5.511** How can the all-embracing logic which mirrors the world use such special catches and manipulations? Only because all these are connected into an infinitely fine network, to the great mirror.
 
@@ -1283,9 +1259,7 @@ But here also the negative proposition is indirectly constructed with the positi
 
 The positive *proposition* must presuppose the existence of the negative *proposition* and conversely.
 
-**5.52** If the values of *ξ* are the total values of a function *f x* for all values of *x*, then 
-![{\displaystyle N({\bar {\xi }})=\sim (\exists x).fx}](images/0b05e9921dcb9c630e657139fcd3b968725a94c2.svg)
-.
+**5.52** If the values of *ξ* are the total values of a function *f x* for all values of *x*, then ![{\displaystyle N({\bar {\xi }})=\sim (\exists x).fx}](images/0b05e9921dcb9c630e657139fcd3b968725a94c2.svg).
 
 **5.521** I separate the concept *all* from the truth-function.
 
@@ -1487,58 +1461,34 @@ The I occurs in philosophy through the fact that the "world is my world".
 
 The philosophical I is not the man, not the human body or the human soul of which psychology treats, but the metaphysical subject, the limit—not a part of the world.
 
-**6** The general form of truth function is: 
-![{\displaystyle [{\bar {p}},{\bar {\xi }},N({\bar {\xi }})]}](images/2280fc5b18f2a18924aeac15d592429f9a30389c.svg)
-.
+**6** The general form of truth function is: ![{\displaystyle [{\bar {p}},{\bar {\xi }},N({\bar {\xi }})]}](images/2280fc5b18f2a18924aeac15d592429f9a30389c.svg).
 
 This is the general form of proposition.
 
-**6.001** This says nothing else than that every proposition is the result of successive applications of the operation 
-![{\displaystyle N({\bar {\xi }})}](images/688f31c8b53de2e85798d6e29f50789fa64eb1e7.svg)
-
-to the elementary propositions.
+**6.001** This says nothing else than that every proposition is the result of successive applications of the operation ![{\displaystyle N({\bar {\xi }})}](images/688f31c8b53de2e85798d6e29f50789fa64eb1e7.svg) to the elementary propositions.
 
 **6.002** If we are given the general form of the way in which a proposition is constructed, then thereby we are also given the general form of the way in which by an operation out of one proposition another can be created.
 
-**6.01** The general form of the operation 
-![{\displaystyle \Omega '({\bar {\eta }})}](images/669318bd2a57168707932f4274df0f1802173d37.svg)
-
-is therefore: 
-![{\displaystyle [{\bar {\xi }},N({\bar {\xi }})]'({\bar {\eta }})(=[{\bar {\eta }},{\bar {\xi }},N({\bar {\xi }})])}](images/19f2e78167dfb205319e02f119533bdf7e948565.svg)
-.
+**6.01** The general form of the operation ![{\displaystyle \Omega '({\bar {\eta }})}](images/669318bd2a57168707932f4274df0f1802173d37.svg) is therefore: ![{\displaystyle [{\bar {\xi }},N({\bar {\xi }})]'({\bar {\eta }})(=[{\bar {\eta }},{\bar {\xi }},N({\bar {\xi }})])}](images/19f2e78167dfb205319e02f119533bdf7e948565.svg).
 
 This is the most general form of transition from one proposition to another.
 
 **6.02** And thus we come to numbers: I define
 
-![{\displaystyle x=\Omega ^{0\prime }x{\text{ Def.}}}](images/f1e7816f45d64cbe3aad02f6f0925ae55ade7666.svg)
-
-and
+![{\displaystyle x=\Omega ^{0\prime }x{\text{ Def.}}}](images/f1e7816f45d64cbe3aad02f6f0925ae55ade7666.svg) and
 ![{\displaystyle \Omega ^{\prime }\Omega ^{\nu \prime }x=\Omega ^{\nu +1\prime }x{\text{ Def.}}}](images/f8b80c213502cc4cafe945e505349fd90149f42f.svg)
 
-According, then, to these symbolic rules we write the series 
-![{\displaystyle x,\Omega 'x,\Omega '\Omega 'x,\Omega '\Omega '\Omega 'x,.....}](images/927751975bdaabafaeb891850e079e0569723e09.svg)
+According, then, to these symbolic rules we write the series ![{\displaystyle x,\Omega 'x,\Omega '\Omega 'x,\Omega '\Omega '\Omega 'x,.....}](images/927751975bdaabafaeb891850e079e0569723e09.svg)
 
-as: 
-![{\displaystyle \Omega ^{0\prime }x,\Omega ^{0+1\prime }x,\Omega ^{0+1+1\prime }x,\Omega ^{0+1+1+1\prime }x,.....}](images/6c8f120df1bc77d49c884554cdfc6fd58baa1204.svg)
+as: ![{\displaystyle \Omega ^{0\prime }x,\Omega ^{0+1\prime }x,\Omega ^{0+1+1\prime }x,\Omega ^{0+1+1+1\prime }x,.....}](images/6c8f120df1bc77d49c884554cdfc6fd58baa1204.svg)
 
-Therefore I write in place of "
-![{\displaystyle [x,\xi ,\Omega '\xi ]}](images/647cd7f45d7d8e877cdb29758e7c4dd75f1d5dd5.svg)
-",
+Therefore I write in place of "![{\displaystyle [x,\xi ,\Omega '\xi ]}](images/647cd7f45d7d8e877cdb29758e7c4dd75f1d5dd5.svg)",
 
-"
-![{\displaystyle [\Omega ^{0\prime }x,\Omega ^{\nu \prime }x,\Omega ^{\nu +1\prime }x]}](images/2331b535de38ab1c66bb7d9acc00e76de6a08577.svg)
-".
+"![{\displaystyle [\Omega ^{0\prime }x,\Omega ^{\nu \prime }x,\Omega ^{\nu +1\prime }x]}](images/2331b535de38ab1c66bb7d9acc00e76de6a08577.svg)".
 
 And I define:
 
-![{\displaystyle 0+1=1{\text{ Def.}}}](images/88caa9592b85da03e493c9728d6e237bb862448c.svg)
-
-![{\displaystyle 0+1+1=2{\text{ Def.}}}](images/06e38692117abb114e0ac170c6c601dc227980f4.svg)
-
-![{\displaystyle 0+1+1+1=3{\text{ Def.}}}](images/c93245b177a751a2f4dcdc816414efac5c766274.svg)
-
-(and so on.)
+![{\displaystyle 0+1=1{\text{ Def.}}}](images/88caa9592b85da03e493c9728d6e237bb862448c.svg) ![{\displaystyle 0+1+1=2{\text{ Def.}}}](images/06e38692117abb114e0ac170c6c601dc227980f4.svg) ![{\displaystyle 0+1+1+1=3{\text{ Def.}}}](images/c93245b177a751a2f4dcdc816414efac5c766274.svg) (and so on.)
 
 **6.021** A number is the exponent of an operation.
 

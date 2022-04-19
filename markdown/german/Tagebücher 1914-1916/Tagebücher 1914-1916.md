@@ -144,9 +144,7 @@ Daraus muß sich (wenn ich nicht blind wäre) sofort das Wesen der Wahrheit erge
 
 Denken wir an hieroglyphische Schriften, bei denen jedes Wort seine Bedeutung darstellt! Denken wir daran, daß auch *wirkliche* Bilder von Sachverhalten *stimmen* und *nicht stimmen* können. [*Vgl.* 4.016.]
 
-"
-![Illustrazione 29.9.14.png](images/100px-Illustrazione_29.9.14.png)
-": Wenn in diesem Bild der rechte Mann den Menschen A vorstellt, und bezeichnet der linke den Menschen B, so könnte etwa das ganze aussagen "A ficht mit B". Der Satz in Bilderschrift kann wahr und falsch sein. Er hat einen Sinn unabhängig von seiner Wahr- oder Falschheit. An ihm muß sich alles Wesentliche demonstrieren lassen.
+"![Illustrazione 29.9.14.png](images/100px-Illustrazione_29.9.14.png)": Wenn in diesem Bild der rechte Mann den Menschen A vorstellt, und bezeichnet der linke den Menschen B, so könnte etwa das ganze aussagen "A ficht mit B". Der Satz in Bilderschrift kann wahr und falsch sein. Er hat einen Sinn unabhängig von seiner Wahr- oder Falschheit. An ihm muß sich alles Wesentliche demonstrieren lassen.
 
 Man kann sagen, wir haben zwar nicht die Gewißheit, daß wir alle Sachverhalte in Bildern aufs Papier bringen können, wohl aber die Gewißheit, daß wir alle *logischen* Eigenschaften der Sachverhalte in einer zweidimensionalen Schrift abbilden können.
 
@@ -267,9 +265,7 @@ Betrachten wir den Satz: "Es gibt eine Klasse mit nur einem Glied". Oder, was au
 
 Bei "(∃x)x = x" könnte man verstehen, daß er tautologisch sei, da er überhaupt nicht hingeschrieben werden könnte, wenn er falsch wäre, aber hier! *Dieser* Satz kann an Stelle des "Axiom of Infinity" untersucht werden!
 
-Ich weiß, daß die folgenden Sätze, wie sie stehen, unsinnig sind: Kann man von den Zahlen reden, wenn es nur Dinge gibt? Wenn also z. B. die Welt nur aus einem Dinge bestünde und aus sonst nichts, könnte man sagen, es gäbe EIN Ding? Russell würde wahrscheinlich sagen: wenn es ein Ding gibt, dann gibt es auch die Funktion 
-![{\displaystyle (\exists x){\hat {\xi }}=x}](images/33dfd994085c18885b072578634c12e4a43bc859.svg)
-. Aber!––
+Ich weiß, daß die folgenden Sätze, wie sie stehen, unsinnig sind: Kann man von den Zahlen reden, wenn es nur Dinge gibt? Wenn also z. B. die Welt nur aus einem Dinge bestünde und aus sonst nichts, könnte man sagen, es gäbe EIN Ding? Russell würde wahrscheinlich sagen: wenn es ein Ding gibt, dann gibt es auch die Funktion ![{\displaystyle (\exists x){\hat {\xi }}=x}](images/33dfd994085c18885b072578634c12e4a43bc859.svg). Aber!––
 
 Wenn es diese Funktion nicht tut, dann kann von der 1 nur die Rede sein, wenn es eine materielle Funktion gibt, die nur von einem Argument befriedigt wird.
 
@@ -390,13 +386,7 @@ Daß sich von materiellen Sätzen auf ganz allgemeine Sätze schließen läßt �
 
 **21. 10. 14.**
 
-Ist die Russellsche Definition der Null nicht unsinnig? Kann man von einer Klasse 
-![{\displaystyle {\hat {x}}(x\neq x)}](images/037950f0776947844cc9d76e99223e3f0ebc6060.svg)
-
-überhaupt reden? – Kann man denn von einer Klasse 
-![{\displaystyle {\hat {x}}(x=x)}](images/dcf7f092636584f1aec66ee68731f7c457abb2ec.svg)
-
-reden? Ist denn x ≠ x oder x = x eine Funktion von x?? – Muß nicht die Null definiert werden durch die *Hypothese* (∃*φ*):(x)~*φ*x? Und Analoges würde von allen anderen Zahlen gelten. Dies nun wirft ein Licht auf die ganze Frage nach der Existenz von Anzahlen von Dingen.
+Ist die Russellsche Definition der Null nicht unsinnig? Kann man von einer Klasse ![{\displaystyle {\hat {x}}(x\neq x)}](images/037950f0776947844cc9d76e99223e3f0ebc6060.svg) überhaupt reden? – Kann man denn von einer Klasse ![{\displaystyle {\hat {x}}(x=x)}](images/dcf7f092636584f1aec66ee68731f7c457abb2ec.svg) reden? Ist denn x ≠ x oder x = x eine Funktion von x?? – Muß nicht die Null definiert werden durch die *Hypothese* (∃*φ*):(x)~*φ*x? Und Analoges würde von allen anderen Zahlen gelten. Dies nun wirft ein Licht auf die ganze Frage nach der Existenz von Anzahlen von Dingen.
 
 ![{\displaystyle 0={\hat {\alpha }}\{(\exists \phi ):(x)\sim \phi x.\alpha ={\hat {u}}(\phi u)\}{\text{ Def.}}}](images/49d0ca0a0cb5d83ef582139768125fb945c6a334.svg)
 
@@ -404,19 +394,11 @@ reden? Ist denn x ≠ x oder x = x eine Funktion von x?? – Muß nicht die Null
 
 (Das Gleichheitszeichen in der geschweiften Klammer könnte man *vermeiden*, wenn man schriebe
 
-![{\displaystyle 0={\widehat {{\hat {u}}(\phi u)}}\{(x)\sim \phi x\}}](images/bb7612b876810c063bd0631332690d35e3359ee9.svg)
-.)
+![{\displaystyle 0={\widehat {{\hat {u}}(\phi u)}}\{(x)\sim \phi x\}}](images/bb7612b876810c063bd0631332690d35e3359ee9.svg).)
 
 Der Satz muß die *Möglichhit seiner Wahrheit enthalten* (und so zeigen). Aber nicht mehr als die *Möglichkeit.* [*Vgl.* 2.203* u.* 3.02 *u.* 3.13.]
 
-Nach meiner Definition der Klassen ist 
-![{\displaystyle (x).\sim {\hat {x}}(\phi x)}](images/ca972d4a1ab3bef75517f1f623a1fc35222aca51.svg)
-
-die Aussage, daß 
-![{\displaystyle {\hat {x}}(\phi x)}](images/01a60164d2395ea21a2a2f6dbeb09fa51e5aa3ae.svg)
-
-null ist, und die Definition der Null ist dann 
-![{\displaystyle 0={\hat {\alpha }}[(x).\sim \alpha ]{\text{ Def.}}}](images/41e9bc59aaf1fd6142337d71e602e9a6155e567d.svg)
+Nach meiner Definition der Klassen ist ![{\displaystyle (x).\sim {\hat {x}}(\phi x)}](images/ca972d4a1ab3bef75517f1f623a1fc35222aca51.svg) die Aussage, daß ![{\displaystyle {\hat {x}}(\phi x)}](images/01a60164d2395ea21a2a2f6dbeb09fa51e5aa3ae.svg) null ist, und die Definition der Null ist dann ![{\displaystyle 0={\hat {\alpha }}[(x).\sim \alpha ]{\text{ Def.}}}](images/41e9bc59aaf1fd6142337d71e602e9a6155e567d.svg)
 
 Ich dachte, die Möglichkeit der Wahrheit eines Satzes *φ*(a) ist an die Tatsache (∃x,*φ*).*φ*x gebunden: Aber es ist nicht einzusehen, warum *φ*a nur dann möglich sein soll, wenn es einen anderen Satz derselben Form gibt. *φ*a braucht doch keinen Präzedenzfall. (Denn angenommen, es gäbe nur die beiden Elementarsätze "*φ*a" und "*ψ*a" und "*φ*a" sei falsch: warum soll dieser Satz nur dann einen Sinn haben, wenn "*ψ*a" wahr ist?!)
 
@@ -1432,9 +1414,7 @@ Wohl können wir einen Tatbestand räumlich darstellen, welcher den Gesetzen der
 
 **22. 5. 15.**
 
-Die mathematische Notation der unendlichen Reihen, wie "
-![{\displaystyle 1+{\frac {x}{1!}}+{\frac {x^{2}}{2!}}+...}](images/7d48debeee8fbec8515f72f596f687c470389e93.svg)
-" *mit den Pünktchen* ist ein Beispiel jener erweiterten Allgemeinheit. Ein Gesetz ist gegeben und die hingeschriebenen Glieder dienen als Illustration.
+Die mathematische Notation der unendlichen Reihen, wie "![{\displaystyle 1+{\frac {x}{1!}}+{\frac {x^{2}}{2!}}+...}](images/7d48debeee8fbec8515f72f596f687c470389e93.svg)" *mit den Pünktchen* ist ein Beispiel jener erweiterten Allgemeinheit. Ein Gesetz ist gegeben und die hingeschriebenen Glieder dienen als Illustration.
 
 So könnte man statt (x)fx schreiben "fx.fy ... ".
 
@@ -2634,10 +2614,7 @@ Dann wäre es aber denkbar, daß ich etwa darauf käme, daß z. B. dieser Sessel
 
 Ist das möglich?
 
-Bei dem Zeichnen des Vierecks 
-![Illustrazione 4.11.16.png](images/40px-Illustrazione_4.11.16.png)
-
-im Spiegel bemerkt man, daß man es nur ausführen kann, wenn man vom Gesichtsbild ganz absieht und nur das Muskelgefühl zu Hilfe nimmt. Also handelt es sich hier doch um zwei ganz verschiedene Willensakte. Der eine bezieht sich auf den Gesichtsteil der Welt, der andere auf den Teil des Muskelgefühls.
+Bei dem Zeichnen des Vierecks ![Illustrazione 4.11.16.png](images/40px-Illustrazione_4.11.16.png) im Spiegel bemerkt man, daß man es nur ausführen kann, wenn man vom Gesichtsbild ganz absieht und nur das Muskelgefühl zu Hilfe nimmt. Also handelt es sich hier doch um zwei ganz verschiedene Willensakte. Der eine bezieht sich auf den Gesichtsteil der Welt, der andere auf den Teil des Muskelgefühls.
 
 Haben wir mehr als erfahrungsmäßige Evidenz, daß es sich in beiden Fällen um die Bewegung desselben Körperteils handelt?
 

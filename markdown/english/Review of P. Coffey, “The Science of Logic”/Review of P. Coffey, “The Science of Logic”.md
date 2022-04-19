@@ -33,4 +33,4 @@ This list of mistakes could be extended a good deal.
 
 The worst of such books is that they prejudice sensible people against the study of Logic.
 
-Ludwig Wittgenstein.
+*Ludwig Wittgenstein.*

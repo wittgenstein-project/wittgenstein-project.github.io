@@ -10,7 +10,8 @@ _Diese digitale Ausgabe ist eine Reproduktion von L. Wittgenstein, *Philosophisc
 >
 > Überhaupt hat der Fortschritt das an sich, daß er viel größer ausschaut, als er wirklich ist.
 >
-> – Nestroy
+>
+> *– Nestroy*
 >
 
 *Vorwort*
@@ -881,10 +882,7 @@ Die Grammatik des Ausdrucks: »Eine ganz bestimmte« (Atmosphäre). Man sagt »D
 
 ---
 
-**166.** Ich sagte, die gesprochenen Worte beim Lesen kämen ›in besonderer Weise‹; aber in welcher Weise? Ist dies nicht eine Fiktion? Sehen wir uns einzelne Buchstaben an und geben acht, in welcher Weise der Laut des Buchstabens kommt. Lies den Buchstaben A. – Nun, wie kam der Laut? – Wir wissen gar nichts darüber zu sagen. –– Nun schreib ein kleines lateinisches a! – Wie kam die Handbewegung beim Schreiben? Anders als der Laut im vorigen Versuch? – Ich habe auf den Druckbuchstaben gesehen und schrieb den Kursivbuchstaben; mehr weiß ich nicht. –– Nun schau auf das Zeichen 
-![Par. 166.png](images/30px-Par._166.png)
-
-und laß dir dabei einen Laut einfallen; sprich ihn aus. Mir fiel der Laut ›U‹ ein; aber ich könnte nicht sagen, es war ein wesentlicher Unterschied in der Art und Weise, wie dieser Laut *kam*. Der Unterschied lag in der etwas andern Situation: Ich hatte mir vorher gesagt, ich solle mir einen Laut einfallen lassen; es war eine gewisse Spannung da, ehe der Laut kam. Und ich sprach nicht automatisch den Laut ›U‹, wie beim Anblick des Buchstaben U. Auch war mir jenes Zeichen nicht *vertraut*, wie die Buchstaben. Ich sah es gleichsam gespannt, mit einem gewissen Interesse für seine Form an; ich dachte dabei an ein umgekehrtes Sigma. –– Stell dir vor, du müßtest nun dieses Zeichen regelmäßig als Buchstaben benützen; du gewöhnst dich also daran, bei seinem Anblick einen bestimmten Laut auszusprechen, etwa den Laut ›sch‹. Können wir mehr sagen, als daß nach einiger Zeit dieser Laut automatisch kommt, wenn wir das Zeichen ansehen? D.h.: ich frage mich bei seinem Anblick nicht mehr »Was ist das für ein Buchstabe?« – auch sage ich mir natürlich nicht »Ich will bei diesem Zeichen den Laut ›sch‹ aussprechen« – noch auch »Dieses Zeichen erinnert mich irgendwie an den Laut ›sch‹.« (Vergleiche damit die Idee: das Gedächtnisbild unterscheide sich von andern Vorstellungsbildern durch ein besonderes Merkmal.)
+**166.** Ich sagte, die gesprochenen Worte beim Lesen kämen ›in besonderer Weise‹; aber in welcher Weise? Ist dies nicht eine Fiktion? Sehen wir uns einzelne Buchstaben an und geben acht, in welcher Weise der Laut des Buchstabens kommt. Lies den Buchstaben A. – Nun, wie kam der Laut? – Wir wissen gar nichts darüber zu sagen. –– Nun schreib ein kleines lateinisches a! – Wie kam die Handbewegung beim Schreiben? Anders als der Laut im vorigen Versuch? – Ich habe auf den Druckbuchstaben gesehen und schrieb den Kursivbuchstaben; mehr weiß ich nicht. –– Nun schau auf das Zeichen ![Par. 166.png](images/30px-Par._166.png) und laß dir dabei einen Laut einfallen; sprich ihn aus. Mir fiel der Laut ›U‹ ein; aber ich könnte nicht sagen, es war ein wesentlicher Unterschied in der Art und Weise, wie dieser Laut *kam*. Der Unterschied lag in der etwas andern Situation: Ich hatte mir vorher gesagt, ich solle mir einen Laut einfallen lassen; es war eine gewisse Spannung da, ehe der Laut kam. Und ich sprach nicht automatisch den Laut ›U‹, wie beim Anblick des Buchstaben U. Auch war mir jenes Zeichen nicht *vertraut*, wie die Buchstaben. Ich sah es gleichsam gespannt, mit einem gewissen Interesse für seine Form an; ich dachte dabei an ein umgekehrtes Sigma. –– Stell dir vor, du müßtest nun dieses Zeichen regelmäßig als Buchstaben benützen; du gewöhnst dich also daran, bei seinem Anblick einen bestimmten Laut auszusprechen, etwa den Laut ›sch‹. Können wir mehr sagen, als daß nach einiger Zeit dieser Laut automatisch kommt, wenn wir das Zeichen ansehen? D.h.: ich frage mich bei seinem Anblick nicht mehr »Was ist das für ein Buchstabe?« – auch sage ich mir natürlich nicht »Ich will bei diesem Zeichen den Laut ›sch‹ aussprechen« – noch auch »Dieses Zeichen erinnert mich irgendwie an den Laut ›sch‹.« (Vergleiche damit die Idee: das Gedächtnisbild unterscheide sich von andern Vorstellungsbildern durch ein besonderes Merkmal.)
 
 **167.** Was ist nun an dem Satz, das Lesen sei doch ›ein ganz bestimmter Vorgang‹? Das heißt doch wohl, beim Lesen finde immer *ein* bestimmter Vorgang statt, den wir wiedererkennen. – Aber wenn ich nun einmal einen Satz im Druck lese und ein andermal nach Morsezeichen schreibe, – findet hier wirklich der gleiche seelische Vorgang statt? –– Dahingegen ist aber freilich eine Gleichförmigkeit in dem Erlebnis des Lesens einer Druckseite. Denn der Vorgang ist ja ein gleichförmiger. Und es ist ja leicht verständlich, daß sich dieser Vorgang unterscheidet von dem etwa, sich Wörter beim Anblick beliebiger Striche einfallen zu lassen. – Denn schon der bloße Anblick einer gedruckten Zeile ist ja ungemein charakteristisch, d.h., ein ganz spezielles Bild: Die Buchstaben alle von ungefähr der gleichen Größe, auch der Gestalt nach verwandt, immer wiederkehrend; die Wörter, die zum großen Teil sich ständig wiederholen und uns unendlich wohlvertraut sind, ganz wie wohlvertraute Gesichter. – Denke an das Unbehagen, das wir empfinden, wenn die Rechtschreibung eines Wortes geändert wird. (Und an die noch tieferen Gefühle, die Fragen der Schreibung von Wörtern aufgeregt haben.) Freilich, nicht jede Zeichenform hat sich uns *tief* eingeprägt. Ein Zeichen z. B. in der Algebra der Logik kann durch ein beliebiges anderes ersetzt werden, ohne daß tiefe Gefühle in uns aufgeregt würden. –
 
@@ -1106,10 +1104,7 @@ Also sind zwei Dinge gleich, wenn sie so sind, wie *ein* Ding? Und wie soll ich 
 
 Wir könnten auch sagen: »Jedes Ding paßt in sich selbst.« – Oder anders: »Jedes Ding paßt in seine eigene Form hinein.« Man schaut dabei ein Ding an und stellt sich vor, daß der Raum dafür ausgespart war und es nun genau hineinpaßt.
 
-›*Paßt*‹ dieser Flecke 
-![Par. 216.png](images/23px-Par._216.png)
-
-in seine weiße Umgebung? – *Aber genau so würde es aussehen*, wenn statt seiner erst ein Loch gewesen wäre, und er nun hineinpaßte. Mit dem Ausdruck »er paßt« wird eben nicht einfach dies Bild beschrieben. Nicht einfach diese *Situation*.
+›*Paßt*‹ dieser Flecke ![Par. 216.png](images/23px-Par._216.png) in seine weiße Umgebung? – *Aber genau so würde es aussehen*, wenn statt seiner erst ein Loch gewesen wäre, und er nun hineinpaßte. Mit dem Ausdruck »er paßt« wird eben nicht einfach dies Bild beschrieben. Nicht einfach diese *Situation*.
 
 »Jeder Farbfleck paßt genau in seine Umgebung« ist ein etwas spezialisierter Satz der Identität.
 
@@ -1823,10 +1818,7 @@ Man bedenkt nicht, daß man mit den Worten *rechnet*, operiert, sie mit der Zeit
 
 **453.** Wer mein Erwarten wahrnähme, müßte unmittelbar wahrnehmen, *was* erwartet wird. D.h.: nicht aus dem wahrgenommenen Vorgang darauf *schließen*! – Aber zu sagen, Einer nehme die Erwartung wahr, *hat keinen Sinn*. Es sei denn etwa den: er nehme den Ausdruck der Erwartung wahr. Vom Erwartenden zu sagen, er nähme die Erwartung wahr, statt, er erwarte, wäre blödsinnige Verdrehung des Ausdrucks.
 
-**454.** »Es liegt alles schon in ....« Wie kommt es, daß der Pfeil 
-![Par. 454.png](images/75px-Par._454.png)
-
-*zeigt*? Scheint er nicht schon etwas außerhalb seiner selbst in sich zu tragen? – »Nein, es ist nicht der tote Strich; nur das Psychische, die Bedeutung, kann dies.« – Das ist wahr und falsch. Der Pfeil zeigt nur in der Anwendung, die das Lebewesen von ihm macht.
+**454.** »Es liegt alles schon in ....« Wie kommt es, daß der Pfeil ![Par. 454.png](images/75px-Par._454.png) *zeigt*? Scheint er nicht schon etwas außerhalb seiner selbst in sich zu tragen? – »Nein, es ist nicht der tote Strich; nur das Psychische, die Bedeutung, kann dies.« – Das ist wahr und falsch. Der Pfeil zeigt nur in der Anwendung, die das Lebewesen von ihm macht.
 
 Dieses Zeigen ist *nicht* ein Hokuspokus, welches nur die Seele vollziehen kann.
 
@@ -1938,15 +1930,7 @@ Wenn aber gezeigt würde, in welcher Weise die Worte »Komm zu mir!« auf den An
 
 **494.** Ich will sagen: Der Apparat unserer gewöhnlichen Sprache, unserer Wortsprache, ist *vor allem* das, was wir »Sprache« nennen; und dann anderes nach seiner Analogie oder Vergleichbarkeit mit ihr.
 
-**495.** Es ist klar, ich kann durch Erfahrung feststellen, daß ein Mensch (oder Tier) auf ein Zeichen so reagiert, wie ich es will, auf ein anderes nicht. Daß z.B. ein Mensch auf das Zeichen »
-![Par. 495a.png](images/50px-Par._495a.png)
-« hin nach rechts, auf das Zeichen »
-![Par. 495b.png](images/50px-Par._495b.png)
-« nach links geht; daß er aber auf das Zeichen »
-![Par. 495c.png](images/50px-Par._495c.png)
-« nicht so reagiert wie auf »
-![Par. 495b.png](images/50px-Par._495b.png)
-«, etc.
+**495.** Es ist klar, ich kann durch Erfahrung feststellen, daß ein Mensch (oder Tier) auf ein Zeichen so reagiert, wie ich es will, auf ein anderes nicht. Daß z.B. ein Mensch auf das Zeichen »![Par. 495a.png](images/50px-Par._495a.png)« hin nach rechts, auf das Zeichen »![Par. 495b.png](images/50px-Par._495b.png)« nach links geht; daß er aber auf das Zeichen »![Par. 495c.png](images/50px-Par._495c.png)« nicht so reagiert wie auf »![Par. 495b.png](images/50px-Par._495b.png)«, etc.
 
 Ja, ich brauche gar keinen Fall zu erdichten, und nur den tatsächlichen betrachten, daß ich einen Menschen, der nur Deutsch gelernt hat, nur mit der deutschen Sprache lenken kann. (Denn das Lernen der deutschen Sprache betrachte ich nun als ein Einstellen des Mechanismus auf eine gewisse Art der Beeinflussung; und es kann uns gleich sein, ob der Andre die Sprache gelernt hat, oder vielleicht schon von Geburt so gebaut ist, daß er auf die Sätze der deutschen Sprache so reagiert wie der gewöhnliche Mensch, wenn er Deutsch gelernt hat.)
 
