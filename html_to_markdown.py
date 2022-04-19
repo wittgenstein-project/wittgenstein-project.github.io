@@ -129,7 +129,7 @@ def parse_html(errors, parsed, image_urls, elem):
                     ])
         elif elem.name == "table":
             if elem.find("table"):
-                errors.append("- Found table within table!")
+                errors.append("Found table within table!")
             header_cells = len(elem.find_all("th"))
             cells_in_first_row = len(elem.find("tr").find_all("td"))
             caption = ""
@@ -232,8 +232,14 @@ def parse_html(errors, parsed, image_urls, elem):
             or elem.name == "p" and not elem.get("class") and elem.get("style") == "text-align: right; font-variant: small-caps;":
             # right
             parsed.append("")
+            parsed_right = [""]
             for child in elem.children:
-                parse_html(errors, parsed, image_urls, child)
+                parse_html(errors, parsed_right, image_urls, child)
+            for line in parsed_right:
+                if line and not line.startswith("*"):
+                    parsed.append(f"*{line}*")
+                else:
+                    parsed.append(line)
             parsed.append("")
         elif elem.name == "div" and (elem.get("class") == ["center"] or elem.get("style") == "text-align: center;") \
             or elem.name == "div" and not elem.get("class") and elem.get("style") == "display: flex; justify-content: center; align-items: center;" \
@@ -257,9 +263,7 @@ def parse_html(errors, parsed, image_urls, elem):
             # 4 times unicode NO-BREAK-SPACE
             parsed.append("\u00a0\u00a0\u00a0\u00a0")
         else:
-            err_msg = f"- Unrecognized element: <{elem.name} class=\"{elem.get('class')}\", style=\"{elem.get('style')}\">"
-            errors.append(err_msg)
-            errors.append(err_msg)
+            errors.append(f"Unrecognized element: <{elem.name} class=\"{elem.get('class')}\", style=\"{elem.get('style')}\">")
             parsed.append("")
             parsed.append(str(elem))
             parsed.append("")
@@ -311,7 +315,7 @@ for (language, texts) in all_languages.items():
         if errors:
             print(f"[ ] {title}")
             for e in errors:
-                print(f"    {e}")
+                print(f"    - {e}")
         else:
             print(f"[✓] {title}")
         all_errors.extend(errors)
