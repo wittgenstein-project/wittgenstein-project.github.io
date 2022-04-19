@@ -89,6 +89,7 @@ def parse_html(errors, parsed, image_urls, elem):
             or elem.name == "span" and elem.get("class") == ["plainlinks"] \
             or elem.name == "span" and elem.get("class") == ["nowrap"] \
             or elem.name == "span" and elem.get("class") == ["mwe-math-element"] \
+            or elem.name == "span" and elem.get("class") == ["mw-headline"] \
             or elem.name == "span" and elem.get("style") == "white-space: nowrap;":
             for child in elem.children:
                 parse_html(errors, parsed, image_urls, child)
@@ -181,7 +182,8 @@ def parse_html(errors, parsed, image_urls, elem):
                 parsed_table.extend([f"  : {caption}", ""])
             parsed_table.append("")
             parsed.extend(parsed_table)
-        elif elem.name == "p" and not elem.get("class") and elem.get("style") == "text-align: center; font-size: 125%;":
+        elif elem.name == "p" and not elem.get("class") and elem.get("style") == "text-align: center; font-size: 125%;" \
+            or elem.name == "h2" and not elem.get("class"):
             parsed.extend([f"# {elem.text}", ""])
         elif elem.name == "p" and not elem.get("class") and not elem.get("style"):
             parsed.append("")
