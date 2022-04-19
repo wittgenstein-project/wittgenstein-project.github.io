@@ -66,8 +66,7 @@ def parse_html(errors, parsed, image_urls, elem):
             parsed.extend([f"> {child}" for child in parsed_children])
             parsed.append("")
         elif elem.name == "hr" and not elem.get("class"):
-            parsed.append("---")
-            parsed.append("")
+            parsed.extend(["", "---", "", ""])
         elif elem.name == "dl" and not elem.get("class"):
             parsed.append("")
             for child in elem.children:
@@ -222,10 +221,10 @@ def parse_html(errors, parsed, image_urls, elem):
             parsed.append("")
         elif elem.name == "div" and elem.get("style") == "border: 1px solid silver; padding: 12px 20px; margin: 20px 0;":
             # box
-            parsed.extend(["---", ""])
+            parsed.extend(["", "---", "", ""])
             for child in elem.children:
                 parse_html(errors, parsed, image_urls, child)
-            parsed.extend(["---", ""])
+            parsed.extend(["", "---", "", ""])
         elif elem.name == "div" and elem.get("style") == "width: 60%; margin-right: auto; margin-left: auto;" \
             or elem.name == "p" and not elem.get("class") and elem.get("style") == "text-align: right;" \
             or elem.name == "p" and not elem.get("class") and elem.get("style") == "text-align: right; font-variant: small-caps;":
