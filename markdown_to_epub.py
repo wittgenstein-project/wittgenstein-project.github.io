@@ -1,5 +1,4 @@
-import os
-import subprocess
+import os, subprocess, sys
 from shlex import quote
 
 MARKDOWN_DIR = "markdown"
@@ -21,5 +20,7 @@ else:
             output_file = os.path.join(output_dir, f"{work}.epub")
             input_dir = os.path.join(MARKDOWN_DIR, lang, work)
             input_file = os.path.join(input_dir, f"{work}.md")
-            os.system(f"pandoc -o {quote(output_file)} {quote(input_file)}"
-                      f" --resource-path={quote(input_dir)}")
+            if os.system(f"pandoc -o {quote(output_file)} {quote(input_file)}"
+                         " --fail-if-warnings"
+                         f" --resource-path={quote(input_dir)}") != 0:
+                sys.exit(1)
