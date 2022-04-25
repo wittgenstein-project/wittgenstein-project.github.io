@@ -1,6 +1,0 @@
----
-author: Ludwig Wittgenstein
-title: Wörterbuch für Volks- und Bürgerschulen
----
-
-_This digital edition of the Preface is based on Wittgenstein's Ts-205 as it appears in the [Bergen Edition of the Nachlass](http://wab.uib.no/transform/wab.php?modus=opsjoner). The PDF version of the Dictionary (scroll to the [bottom](#footer) of this page to view/download) is based on L. Wittgenstein. *Wörterbuch für Volks- und Bürgerschulen*. Wien, Hölder-Pichler-Tempsky, 1926. Both original-language texts are in the public domain in their country of origin and other countries and areas where the copyright term is the author's life plus 70 years or fewer._
