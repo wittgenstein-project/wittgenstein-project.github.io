@@ -1,4 +1,4 @@
-name: Convert MediaWiki Texts
+name: Convert Texts
 
 on:
   push:
