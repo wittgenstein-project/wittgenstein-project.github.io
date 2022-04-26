@@ -3,9 +3,15 @@ author: Ludwig Wittgenstein
 title: Brown Book
 ---
 
+\newpage
+
+Published by the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.org/).
+
 _This digital edition is a normalised version of Wittgenstein’s *Nachlass* Ts-310 (so-called *Brown Book*) produced with the Interactive Dynamic Presentation tool[^1] provided by the [Wittgenstein Archives at the University of Bergen (WAB)](http://wab.uib.no/). This original-language text is in the public domain in its country of origin and other countries and areas where the copyright term is the author's life plus 70 years or fewer._
 
-**Part I**
+\newpage
+
+# Part I
 
 Augustine, in describing his learning of language, says that he was taught to speak by learning the names of things. It is clear that whoever says this has in mind the way in which a child learns such words as “man”, “sugar”, “table”, etc. He does not primarily think of such words as “today”, “not”, “but”, “perhaps”.
 
@@ -416,7 +422,7 @@ Our method is *purely descriptive*; the descriptions we give are not hints of ex
 
 ((Interval. Vacation after Michaelmas Term.))
 
-**Part II**
+# Part II
 
 Do we have a feeling of familiarity whenever we look at familiar objects? Or do we have it usually?
 

@@ -3,7 +3,13 @@ author: Ludwig Wittgenstein
 title: Notes on Logic
 ---
 
+\newpage
+
+Published by the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.org/).
+
 _This digital edition is based on Ludwig Wittgenstein. "Notes on Logic." *Notebooks 1914–1916*, edited by G. H. von Wright and G. E. M. Anscombe, Harper & Row, 1969, pp. 93–106. This original-language text is in the public domain in its country of origin and other countries and areas where the copyright term is the author's life plus 70 years or fewer._
+
+\newpage
 
 **Preliminary**
 

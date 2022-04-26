@@ -3,7 +3,13 @@ author: Ludwig Wittgenstein
 title: Some Remarks on Logical Form
 ---
 
+\newpage
+
+Published by the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.org/).
+
 _This digital edition is based on Ludwig Wittgenstein. *Philosophical Occasions 1912–1951*, edited by James Klagge and Alfred Nordmann, Hackett Publishing Company, 1993, pp. 29–35. This original-language text is in the public domain in its country of origin and other countries and areas where the copyright term is the author's life plus 70 years or fewer._
+
+\newpage
 
 Every proposition has a content and a form. We get the picture of the pure form if we abstract from the meaning of the single words, or symbols (so far as they have independent meanings). That is to say, if we substitute variables for the constants of the proposition. The rules of syntax which applied to the constants must apply to the variables also. By syntax in this general sense of the word I mean the rules which tell us in which connections only a word gives sense, thus excluding nonsensical structures. The syntax of ordinary language, as is well known, is not quite adequate for this purpose. It does not in all cases prevent the construction of nonsensical pseudopropositions (constructions such as "red is higher than green" or "the Real, though it is an *in itself*, must also be able to become a *for myself*", etc.).
 

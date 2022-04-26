@@ -3,15 +3,25 @@ author: Ludwig Wittgenstein
 title: Logisch-philosophische Abhandlung
 ---
 
+\newpage
+
+Published by the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.org/).
+
 _Diese digitale Ausgabe ist eine Reproduktion von L. Wittgenstein. *Tractatus Logico-Philosophicus*. Herausgegeben von C. K. Ogden und F. P. Ramsey, Kegan Paul, Trench, Trubner & Co., 1922. Dieses Werk ist gemeinfrei, weil seine urheberrechtliche Schutzfrist abgelaufen ist. Dies gilt für das Herkunftsland des Werks und alle weiteren Staaten mit einer gesetzlichen Schutzfrist von 70 oder weniger Jahren nach dem Tod des Urhebers._
+
+\newpage
 
 Dem Andenken meines Freundes
 DAVID H. PINSENT
 gewidmet
 
-*Motto:* . . . und alles, was man weiss, nicht bloss rauschen und brausen gehört hat, lässt sich in drei Worten sagen.
-
-*Kürnberger.*
+>
+>
+> *Motto:* . . . und alles, was man weiss, nicht bloss rauschen und brausen gehört hat, lässt sich in drei Worten sagen.
+>
+> *Kürnberger.*
+>
+>
 
 *Vorwort*
 

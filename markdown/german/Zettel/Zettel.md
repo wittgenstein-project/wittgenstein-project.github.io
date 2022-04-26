@@ -3,9 +3,15 @@ author: Ludwig Wittgenstein
 title: Zettel
 ---
 
+\newpage
+
+Published by the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.org/).
+
 _Herausgegeben von [P. Geach](https://en.wikipedia.org/wiki/Peter_Geach), [G. E. M. Anscombe](https://en.wikipedia.org/wiki/G._E._M._Anscombe) und [G. H. von Wright](https://en.wikipedia.org/wiki/Georg_Henrik_von_Wright)_
 
 _Diese digitale Ausgabe ist eine Reproduktion von L. Wittgenstein, *Zettel*. Herausgegeben von G. E. M. Anscombe und G. H. von Wright. Basil Blackwell, Oxford 1967. Dieses Werk ist gemeinfrei, weil seine urheberrechtliche Schutzfrist abgelaufen ist. Dies gilt für das Herkunftsland des Werks und alle weiteren Staaten mit einer gesetzlichen Schutzfrist von 70 oder weniger Jahren nach dem Tod des Urhebers._
+
+\newpage
 
 **1.** W. James: der Gedanke sei schon am Anfang des Satzes fertig. Wie kann man das wissen? – Aber die *Absicht*, ihn auszusprechen, kann schon bestehen, ehe das erste Wort gesagt ist. Denn fragt man Einen »weißt du, was du sagen willst?«, so wird er es oft bejahen.
 
