@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup, NavigableString
 SECONDS_BETWEEN_DOC_REQUESTS = 0.5
 SECONDS_BETWEEN_IMG_REQUESTS = 0.1
 WHITELISTED_LANGUAGES = ["German", "English"]
-BLACKLISTED_WORKS = ["Wörterbuch", "Coffey"]
+BLACKLISTED_WORKS = ["Wörterbuch", "Coffey", "Baumform", "tree-like"]
 
 # Functions to convert html to (pandoc) markdown:
 
@@ -320,7 +320,7 @@ for (language, texts) in all_languages.items():
     if not language in WHITELISTED_LANGUAGES:
         continue
     for [title, link] in texts:
-        if any([blacklisted_title in title for blacklisted_title in BLACKLISTED_WORKS]):
+        if any([blacklisted_title.lower() in title.lower() for blacklisted_title in BLACKLISTED_WORKS]):
             print(f"(✓) {title} (BLACKLISTED)")
             continue
         html_page = requests.get(f"{link}&action=render").content
