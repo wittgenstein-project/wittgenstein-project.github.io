@@ -221,7 +221,7 @@ def parse_html(errors, parsed, image_urls, elem):
                     parsed.append(f"_{child.strip()}_")
                 else:
                     parsed.append("")
-            parsed.append("")
+            parsed.extend(["", "\\newpage", "", ""])
         elif elem.name == "div" and elem.get("style") == "border: 1px solid silver; padding: 12px 20px; margin: 20px 0;":
             # box
             parsed.extend(["", "---", "", ""])
@@ -273,7 +273,17 @@ def parse_html(errors, parsed, image_urls, elem):
 def doc_as_md(text):
     title = text.find("p", "tl-title").text
     errors = []
-    parsed = f"---\nauthor: Ludwig Wittgenstein\ntitle: {title}\n---\n"
+    parsed = f"""
+---
+author: Ludwig Wittgenstein
+title: {title}
+---
+
+\\newpage
+
+Published by the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.org/).
+
+"""
     image_urls = []
     for line in parse_html(errors, [""], image_urls, text.find("div", "colophon")):
         parsed += line.strip() + "\n"
