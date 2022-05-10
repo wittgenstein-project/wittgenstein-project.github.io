@@ -801,7 +801,7 @@ Ausdrücke wie „*a* = *a*“, oder von diesen abgeleitete, sind weder Elementa
 
 **4.26** Die Angabe aller wahren Elementarsätze beschreibt die Welt vollständig. Die Welt ist vollständig beschrieben durch die Angaben aller Elementarsätze plus der Angabe, welche von ihnen wahr und welche falsch sind.
 
-**4.27** Bezüglich des Bestehens und Nichtbestehens von *n* Sachverhalten gibt es ![{\displaystyle K_{n}=\sum _{v=0}^{n}{\binom {n}{v}}}](images/fe8e3530ddfe568a9d945e402d5a6a0a9540bc43.svg) Möglichkeiten.
+**4.27** Bezüglich des Bestehens und Nichtbestehens von *n* Sachverhalten gibt es ![${\displaystyle K_{n}=\sum _{v=0}^{n}{\binom {n}{v}}}$](images/fe8e3530ddfe568a9d945e402d5a6a0a9540bc43.svg) Möglichkeiten.
 
 Es können alle Kombinationen der Sachverhalte bestehen, die andern nicht bestehen.
 
@@ -817,7 +817,7 @@ Es können alle Kombinationen der Sachverhalte bestehen, die andern nicht besteh
 
 **4.411** Es ist von vornherein wahrscheinlich, dass die Einführung der Elementarsätze für das Verständnis aller anderen Satzarten grundlegend ist. Ja, das Verständnis der allgemeinen Sätze hängt *fühlbar* von dem der Elementarsätze ab.
 
-**4.42** Bezüglich der Übereinstimmung und Nichtübereinstimmung eines Satzes mit den Wahrheitsmöglichkeiten von *n* Elementarsätzen gibt es ![{\displaystyle \sum _{k=0}^{K_{n}}{\binom {K_{n}}{k}}=L_{n}}](images/3bbf7a05fae70d7221d6ecba5775f538fa7fd7ad.svg) Möglichkeiten.
+**4.42** Bezüglich der Übereinstimmung und Nichtübereinstimmung eines Satzes mit den Wahrheitsmöglichkeiten von *n* Elementarsätzen gibt es ![${\displaystyle \sum _{k=0}^{K_{n}}{\binom {K_{n}}{k}}=L_{n}}$](images/3bbf7a05fae70d7221d6ecba5775f538fa7fd7ad.svg) Möglichkeiten.
 
 **4.43** Die Übereinstimmung mit den Wahrheitsmöglichkeiten können wir dadurch ausdrücken, indem wir ihnen im Schema etwa das Abzeichen „W“ (wahr) zuordnen.
 
@@ -850,7 +850,7 @@ Analoges gilt natürlich für alle Zeichen, die dasselbe ausdrücken wie die Sch
 
 ein Satzzeichen.
 
-Frege’s „Urteilsstrich“ „![{\displaystyle \vdash }](images/a0c0d30cf8cb7dba179e317fcde9583d842e80f6.svg)“ ist logisch ganz bedeutungslos; er zeigt bei Frege (und Russell) nur an, dass diese Autoren die so bezeichneten Sätze für wahr halten. „![{\displaystyle \vdash }](images/a0c0d30cf8cb7dba179e317fcde9583d842e80f6.svg)“ gehört daher ebenso wenig zum Satzgefüge, wie etwa die Nummer des Satzes. Ein Satz kann unmöglich von sich selbst aussagen, dass er wahr ist.)
+Frege’s „Urteilsstrich“ „![${\displaystyle \vdash }$](images/a0c0d30cf8cb7dba179e317fcde9583d842e80f6.svg)“ ist logisch ganz bedeutungslos; er zeigt bei Frege (und Russell) nur an, dass diese Autoren die so bezeichneten Sätze für wahr halten. „![${\displaystyle \vdash }$](images/a0c0d30cf8cb7dba179e317fcde9583d842e80f6.svg)“ gehört daher ebenso wenig zum Satzgefüge, wie etwa die Nummer des Satzes. Ein Satz kann unmöglich von sich selbst aussagen, dass er wahr ist.)
 
 Ist die Reihenfolge der Wahrheitsmöglichkeiten im Schema durch eine Kombinationsregel ein für allemal festgesetzt, dann ist die letzte Kolonne allein schon ein Ausdruck der Wahrheitsbedingungen. Schreiben wir diese Kolonne als Reihe hin, so wird das Satzzeichen zu:
 
@@ -1231,7 +1231,7 @@ Diese Operation verneint sämtliche Sätze in der rechten Klammer und ich nenne 
 
 **5.501** Einen Klammerausdruck, dessen Glieder Sätze sind, deute ich – wenn die Reihenfolge der Glieder in der Klammer gleichgültig ist – durch ein Zeichen von der Form „(*ξ*)“ an. „*ξ*“ ist eine Variable, deren Werte die Glieder des Klammerausdruckes sind; und der Strich über der Variablen deutet an, dass sie ihre sämtlichen Werte in der Klammer vertritt.
 
-(Hat also ![{\displaystyle \xi }](images/e0b461aaf61091abd5d2c808931c48b8ff9647db.svg) etwa die 3 Werte P, Q, R, so ist (![{\displaystyle {\bar {\xi }}}](images/bcc3567c88be2979b903c85f35c19be4dd92aef7.svg)) = (P, Q, R).)
+(Hat also ![${\displaystyle \xi }$](images/e0b461aaf61091abd5d2c808931c48b8ff9647db.svg) etwa die 3 Werte P, Q, R, so ist (![${\displaystyle {\bar {\xi }}}$](images/bcc3567c88be2979b903c85f35c19be4dd92aef7.svg)) = (P, Q, R).)
 
 Die Werte der Variablen werden festgesetzt.
 
@@ -1241,13 +1241,13 @@ Wie die Beschreibung der Glieder des Klammerausdruckes geschieht, ist unwesentli
 
 Wir *können* drei Arten der Beschreibung unterscheiden: 1. Die direkte Aufzählung. In diesem Fall können wir statt der Variablen einfach ihre konstanten Werte setzen. 2. Die Angabe einer Funktion *fx*, deren Werte für alle Werte von *x* die zu beschreibenden Sätze sind. 3. Die Angabe eines formalen Gesetzes, nach welchem jene Sätze gebildet sind. In diesem Falle sind die Glieder des Klammerausdrucks sämtliche Glieder einer Formenreihe.
 
-**5.502** Ich schreibe also statt „(– – – – –W)(*ξ, . . . .*)“ „*N* (![{\displaystyle {\bar {\xi }}}](images/bcc3567c88be2979b903c85f35c19be4dd92aef7.svg))“.
+**5.502** Ich schreibe also statt „(– – – – –W)(*ξ, . . . .*)“ „*N* (![${\displaystyle {\bar {\xi }}}$](images/bcc3567c88be2979b903c85f35c19be4dd92aef7.svg))“.
 
-„*N* (![{\displaystyle {\bar {\xi }}}](images/bcc3567c88be2979b903c85f35c19be4dd92aef7.svg))“ ist die Negation sämtlicher Werte der Satzvariablen ![{\displaystyle \xi }](images/e0b461aaf61091abd5d2c808931c48b8ff9647db.svg).
+„*N* (![${\displaystyle {\bar {\xi }}}$](images/bcc3567c88be2979b903c85f35c19be4dd92aef7.svg))“ ist die Negation sämtlicher Werte der Satzvariablen ![${\displaystyle \xi }$](images/e0b461aaf61091abd5d2c808931c48b8ff9647db.svg).
 
 **5.503** Da sich offenbar leicht ausdrücken lässt, wie mit dieser Operation Sätze gebildet werden können und wie Sätze mit ihr nicht zu bilden sind, so muss dies auch einen exakten Ausdruck finden können.
 
-**5.51** Hat ![{\displaystyle \xi }](images/e0b461aaf61091abd5d2c808931c48b8ff9647db.svg) nur einen Wert, so ist *N* (![{\displaystyle {\bar {\xi }}}](images/bcc3567c88be2979b903c85f35c19be4dd92aef7.svg)) = ∼*p* (nicht *p*), hat es zwei Werte, so ist *N* (![{\displaystyle {\bar {\xi }}}](images/bcc3567c88be2979b903c85f35c19be4dd92aef7.svg)) = ∼*p .* ∼*q* (weder *p* noch *q*).
+**5.51** Hat ![${\displaystyle \xi }$](images/e0b461aaf61091abd5d2c808931c48b8ff9647db.svg) nur einen Wert, so ist *N* (![${\displaystyle {\bar {\xi }}}$](images/bcc3567c88be2979b903c85f35c19be4dd92aef7.svg)) = ∼*p* (nicht *p*), hat es zwei Werte, so ist *N* (![${\displaystyle {\bar {\xi }}}$](images/bcc3567c88be2979b903c85f35c19be4dd92aef7.svg)) = ∼*p .* ∼*q* (weder *p* noch *q*).
 
 **5.511** Wie kann die allumfassende, weltspiegelnde Logik so spezielle Haken und Manipulationen gebrauchen? Nur, indem sich alle diese zu einem unendlich feinen Netzwerk, zu dem grossen Spiegel, verknüpfen.
 
@@ -1275,7 +1275,7 @@ Aber auch hier ist ja der negative Satz indirekt durch den positiven gebildet.
 
 Der positive *Satz* muss die Existenz des negativen *Satzes* voraussetzen und umgekehrt.
 
-**5.52** Sind die Werte von *ξ* sämtliche Werte einer Funktion *fx* für alle Werte von *x*, so wird *N* (![{\displaystyle {\bar {\xi }}}](images/bcc3567c88be2979b903c85f35c19be4dd92aef7.svg)) = ∼(∃*x*) *. fx*.
+**5.52** Sind die Werte von *ξ* sämtliche Werte einer Funktion *fx* für alle Werte von *x*, so wird *N* (![${\displaystyle {\bar {\xi }}}$](images/bcc3567c88be2979b903c85f35c19be4dd92aef7.svg)) = ∼(∃*x*) *. fx*.
 
 **5.521** Ich trenne den Begriff *Alle* von der Wahrheitsfunktion.
 
@@ -1479,34 +1479,34 @@ Das Ich tritt in die Philosophie dadurch ein, dass die „Welt meine Welt ist“
 
 Das philosophische Ich ist nicht der Mensch, nicht der menschliche Körper, oder die menschliche Seele, von der die Psychologie handelt, sondern das metaphysische Subjekt, die Grenze – nicht ein Teil der Welt.
 
-**6** Die allgemeine Form der Wahrheitsfunktion ist: ![{\displaystyle [{\bar {p}},{\bar {\xi }},N({\bar {\xi }})]}](images/2280fc5b18f2a18924aeac15d592429f9a30389c.svg).
+**6** Die allgemeine Form der Wahrheitsfunktion ist: ![${\displaystyle [{\bar {p}},{\bar {\xi }},N({\bar {\xi }})]}$](images/2280fc5b18f2a18924aeac15d592429f9a30389c.svg).
 
 Dies ist die allgemeine Form des Satzes.
 
-**6.001** Dies sagt nichts anderes, als dass jeder Satz ein Resultat der successiven Anwendung der Operation ![{\displaystyle N'({\bar {\xi }})}](images/2ab10eb80d5db3ae7e57da86a496c009f040deca.svg) auf die Elementarsätze ist.
+**6.001** Dies sagt nichts anderes, als dass jeder Satz ein Resultat der successiven Anwendung der Operation ![${\displaystyle N'({\bar {\xi }})}$](images/2ab10eb80d5db3ae7e57da86a496c009f040deca.svg) auf die Elementarsätze ist.
 
 **6.002** Ist die allgemeine Form gegeben, wie ein Satz gebaut ist, so ist damit auch schon die allgemeine Form davon gegeben, wie aus einem Satz durch eine Operation ein anderer erzeugt werden kann.
 
-**6.01** Die allgemeine Form der Operation ![{\displaystyle \Omega '({\bar {\eta }})}](images/669318bd2a57168707932f4274df0f1802173d37.svg) ist also: ![{\displaystyle [{\bar {\xi }},N({\bar {\xi }})]'({\bar {\eta }})(=[{\bar {\eta }},{\bar {\xi }},N({\bar {\xi }})])}](images/19f2e78167dfb205319e02f119533bdf7e948565.svg).
+**6.01** Die allgemeine Form der Operation ![${\displaystyle \Omega '({\bar {\eta }})}$](images/669318bd2a57168707932f4274df0f1802173d37.svg) ist also: ![${\displaystyle [{\bar {\xi }},N({\bar {\xi }})]'({\bar {\eta }})(=[{\bar {\eta }},{\bar {\xi }},N({\bar {\xi }})])}$](images/19f2e78167dfb205319e02f119533bdf7e948565.svg).
 
 Das ist die allgemeinste Form des Überganges von einem Satz zum anderen.
 
 **6.02** Und so kommen wir zu den Zahlen: Ich definiere
 
-![{\displaystyle x=\Omega ^{0\prime }x{\text{ Def.}}}](images/f1e7816f45d64cbe3aad02f6f0925ae55ade7666.svg) und
-![{\displaystyle \Omega ^{\prime }\Omega ^{\nu \prime }x=\Omega ^{\nu +1\prime }x{\text{ Def.}}}](images/f8b80c213502cc4cafe945e505349fd90149f42f.svg)
+![${\displaystyle x=\Omega ^{0\prime }x{\text{ Def.}}}$](images/f1e7816f45d64cbe3aad02f6f0925ae55ade7666.svg) und
+![${\displaystyle \Omega ^{\prime }\Omega ^{\nu \prime }x=\Omega ^{\nu +1\prime }x{\text{ Def.}}}$](images/f8b80c213502cc4cafe945e505349fd90149f42f.svg)
 
-Nach diesen Zeichenregeln schreiben wir also die Reihe ![{\displaystyle x,\Omega 'x,\Omega '\Omega 'x,\Omega '\Omega '\Omega 'x,.....}](images/927751975bdaabafaeb891850e079e0569723e09.svg)
+Nach diesen Zeichenregeln schreiben wir also die Reihe ![${\displaystyle x,\Omega 'x,\Omega '\Omega 'x,\Omega '\Omega '\Omega 'x,.....}$](images/927751975bdaabafaeb891850e079e0569723e09.svg)
 
-so: ![{\displaystyle \Omega ^{0\prime }x,\Omega ^{0+1\prime }x,\Omega ^{0+1+1\prime }x,\Omega ^{0+1+1+1\prime }x,.....}](images/6c8f120df1bc77d49c884554cdfc6fd58baa1204.svg)
+so: ![${\displaystyle \Omega ^{0\prime }x,\Omega ^{0+1\prime }x,\Omega ^{0+1+1\prime }x,\Omega ^{0+1+1+1\prime }x,.....}$](images/6c8f120df1bc77d49c884554cdfc6fd58baa1204.svg)
 
-Also schreibe ich statt „![{\displaystyle [x,\xi ,\Omega '\xi ]}](images/647cd7f45d7d8e877cdb29758e7c4dd75f1d5dd5.svg)“:
+Also schreibe ich statt „![${\displaystyle [x,\xi ,\Omega '\xi ]}$](images/647cd7f45d7d8e877cdb29758e7c4dd75f1d5dd5.svg)“:
 
-„![{\displaystyle [\Omega ^{0\prime }x,\Omega ^{\nu \prime }x,\Omega ^{\nu +1\prime }x]}](images/2331b535de38ab1c66bb7d9acc00e76de6a08577.svg)“.
+„![${\displaystyle [\Omega ^{0\prime }x,\Omega ^{\nu \prime }x,\Omega ^{\nu +1\prime }x]}$](images/2331b535de38ab1c66bb7d9acc00e76de6a08577.svg)“.
 
 Und definiere:
 
-![{\displaystyle 0+1=1{\text{ Def.}}}](images/88caa9592b85da03e493c9728d6e237bb862448c.svg) ![{\displaystyle 0+1+1=2{\text{ Def.}}}](images/06e38692117abb114e0ac170c6c601dc227980f4.svg) ![{\displaystyle 0+1+1+1=3{\text{ Def.}}}](images/c93245b177a751a2f4dcdc816414efac5c766274.svg) ![{\displaystyle {\text{(u. s. f.)}}}](images/fddbdcb548b5d15ae60c55b48aa2082aeb11f67b.svg)
+![${\displaystyle 0+1=1{\text{ Def.}}}$](images/88caa9592b85da03e493c9728d6e237bb862448c.svg) ![${\displaystyle 0+1+1=2{\text{ Def.}}}$](images/06e38692117abb114e0ac170c6c601dc227980f4.svg) ![${\displaystyle 0+1+1+1=3{\text{ Def.}}}$](images/c93245b177a751a2f4dcdc816414efac5c766274.svg) ![${\displaystyle {\text{(u. s. f.)}}}$](images/fddbdcb548b5d15ae60c55b48aa2082aeb11f67b.svg)
 
 **6.021** Die Zahl ist der Exponent einer Operation.
 
@@ -1516,7 +1516,7 @@ Der Zahlbegriff ist die variable Zahl.
 
 Und der Begriff der Zahlengleichheit ist die allgemeine Form aller speziellen Zahlengleichheiten.
 
-**6.03** Die allgemeine Form der ganzen Zahl ist: ![{\displaystyle [0,\xi ,\xi +1]}](images/4dec130b82634fa09cc82069b96774e9c1d9b93c.svg).
+**6.03** Die allgemeine Form der ganzen Zahl ist: ![${\displaystyle [0,\xi ,\xi +1]}$](images/4dec130b82634fa09cc82069b96774e9c1d9b93c.svg).
 
 **6.031** Die Theorie der Klassen ist in der Mathematik ganz überflüssig.
 
@@ -1670,11 +1670,11 @@ Denn die Gleichungen drücken die Ersetzbarkeit zweier Ausdrücke aus und wir sc
 
 **6.241** So lautet der Beweis des Satzes 2 × 2 = 4:
 
-![{\displaystyle (\Omega ^{\nu })^{\mu \prime }x=\Omega ^{\nu \times \mu \prime }x{\text{ Def.}}}](images/27496729a92504f4c31ffcae34a1adf369dc5749.svg)
+![${\displaystyle (\Omega ^{\nu })^{\mu \prime }x=\Omega ^{\nu \times \mu \prime }x{\text{ Def.}}}$](images/27496729a92504f4c31ffcae34a1adf369dc5749.svg)
 
-![{\displaystyle (\Omega ^{2\times 2\prime }x=(\Omega ^{2})^{2\prime }x=(\Omega ^{2})^{1+1\prime }x=\Omega ^{2\prime }\Omega ^{2\prime }x=\Omega ^{1+1\prime }\Omega ^{1+1\prime }x}](images/dcb650547344576fdddeee859f8b95d1ea2def94.svg)
+![${\displaystyle (\Omega ^{2\times 2\prime }x=(\Omega ^{2})^{2\prime }x=(\Omega ^{2})^{1+1\prime }x=\Omega ^{2\prime }\Omega ^{2\prime }x=\Omega ^{1+1\prime }\Omega ^{1+1\prime }x}$](images/dcb650547344576fdddeee859f8b95d1ea2def94.svg)
 
-![{\displaystyle (\Omega '\Omega )^{\prime }(\Omega '\Omega )^{\prime }x=\Omega '\Omega '\Omega '\Omega 'x=\Omega ^{1+1+1+1\prime }x=\Omega ^{4\prime }x}](images/d58f5a002e8c3899afea3cd5d0ef36e070224d6d.svg)
+![${\displaystyle (\Omega '\Omega )^{\prime }(\Omega '\Omega )^{\prime }x=\Omega '\Omega '\Omega '\Omega 'x=\Omega ^{1+1+1+1\prime }x=\Omega ^{4\prime }x}$](images/d58f5a002e8c3899afea3cd5d0ef36e070224d6d.svg)
 
 **6.3** Die Erforschung der Logik bedeutet die Erforschung *aller Gesetzmässigkeit*. Und ausserhalb der Logik ist alles Zufall.
 
