@@ -1,0 +1,7 @@
+---
+mainfont: GoNotoEuropeAmericas.ttf
+mainfontoptions:
+- BoldFont=NotoSans-Bold.ttf
+- ItalicFont=NotoSans-Italic.ttf
+- BoldItalicFont=NotoSans-BoldItalic.ttf
+---

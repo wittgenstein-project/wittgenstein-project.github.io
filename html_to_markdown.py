@@ -24,6 +24,8 @@ def parse_html(errors, parsed, image_urls, elem):
             parsed[-1] += f"[{title}]({href})"
         elif elem.name == "img":
             alt = elem["alt"]
+            if elem.get("class") == ["mwe-math-fallback-image-inline"]:
+                alt = f"${alt}$"
             src = elem["src"]
             image_urls.append(src)
             file_name = os.path.basename(src)
