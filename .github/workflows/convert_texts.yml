@@ -12,7 +12,9 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Install Dependencies
-        run: sudo apt-get update && sudo apt-get install -y pandoc texlive librsvg2-bin
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc librsvg2-bin texlive texlive-xetex texlive-latex-extra
       - name: Install Dependencies
         run: pip3 install -r ./requirements.txt
       - name: HTML -> Markdown
