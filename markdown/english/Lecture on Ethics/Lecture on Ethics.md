@@ -7,7 +7,7 @@ title: Lecture on Ethics
 
 Published by the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.org/).
 
-_This digital edition is based on Ludwig Wittgenstein. "A Lecture on Ethics." *The Philosophical Review*, vol. 74, no. 1, Jan. 1965, pp. 3–12. This original-language text is in the public domain in its country of origin and other countries and areas where the copyright term is the author's life plus 70 years or fewer._
+_This digital edition is based on Ludwig Wittgenstein. "A Lecture on Ethics." *The Philosophical Review*, vol. 74, no. 1, Jan. 1965, pp. 3–12. This original-language text is not in the public domain in its country of origin (the United States of America) but it was released by the copyright holders under [Creative Commons Attribution – NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/); it is in the public domain in countries and areas where the copyright term is the author's life plus 70 years or fewer._
 
 \newpage
 
