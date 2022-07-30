@@ -11,9 +11,9 @@ _This digital edition is based on Ludwig Wittgenstein. "Notes Dictated to G.E. M
 
 \newpage
 
-Logical so-called propositions *shew* [the] logical properties of language and therefore of [the] Universe, but *say* nothing. [*Cf*. 6.12.]
+Logical so-called propositions *shew* [the] logical properties of language and therefore of [the] Universe, but *say* nothing.
 
-This means that by merely looking at them you can *see* these proper­ ties; whereas, in a proposition proper, you cannot see what is true by looking at it. [*Cf*. 6.113.]
+This means that by merely looking at them you can *see* these proper­ ties; whereas, in a proposition proper, you cannot see what is true by looking at it.
 
 It is impossible to *say* what these properties are, because in order to do so, you would need a language, which hadn't got the properties in question, and it is impossible that this should be a *proper* language. Impossible to construct [an] illogical language.
 
@@ -25,11 +25,11 @@ Thus a language which *can* express everything *mirrors* certain properties of t
 
 How, usually, logical propositions do shew these properties is this: We give a certain description of a kind of symbol; we find that other symbols, combined in certain ways, yield a symbol of this description; and *that* they do shews something about these symbols.
 
-As a rule the description [given] in ordinary Logic is the description of a tautology; but *others* might shew equally well, e.g., a contradiction. [*Cf*. 6.1202.]
+As a rule the description [given] in ordinary Logic is the description of a tautology; but *others* might shew equally well, e.g., a contradiction.
 
 Every *real* proposition *shews* something, besides what it says, about the Universe: *for,* if it has no sense, it can't be used; and if it has a sense, it mirrors some logical property of the Universe.
 
-E.g., take *φ*a, *φ*a ⊃ *ψ*a, *ψ*a. By merely looking at these three, I can see that 3 follows from 1 and 2; i.e. I can see what is called the truth of a logical proposition, namely, of [the] proposition *φ*a . *φ*a ⊃ *ψ*a : ⊃ : *ψ*a. But this is *not* a proposition; but by seeing that it is a tautology I can see what I already saw by looking at the three propositions: the difference is that I *now* see *that* it is a tautology. [*Cf*. 6.1221.]
+E.g., take *φ*a, *φ*a ⊃ *ψ*a, *ψ*a. By merely looking at these three, I can see that 3 follows from 1 and 2; i.e. I can see what is called the truth of a logical proposition, namely, of [the] proposition *φ*a . *φ*a ⊃ *ψ*a : ⊃ : *ψ*a. But this is *not* a proposition; but by seeing that it is a tautology I can see what I already saw by looking at the three propositions: the difference is that I *now* see *that* it is a tautology.
 
 We want to say, in order to understand [the] above, what properties a symbol must have, in order to be a tautology.
 
@@ -39,9 +39,9 @@ One way is to give *certain symbols;* then to give a set of rules for combining 
 
 This is the actual procedure of [the] *old* Logic: it gives so-called primitive propositions; so-called rules of deduction; and then says that what you get by applying the rules to the propositions is a *logical* proposition that you have *proved.* The truth is, it tells you something *about* the kind of propositions you have got, viz. that it can be derived from the first symbols by these rules of combination (= is a tautology).
 
-Therefore, if we say one *logical* proposition *follows* logically from another, this means something quite different from saying that a *real* proposition follows logically from *another.* For so-called *proof* of a logical proposition does not prove its *truth * (logical propositions are neither true nor false) but proves *that* it is a logical proposition (= is a tautology). [*Cf*. 6.1263.]
+Therefore, if we say one *logical* proposition *follows* logically from another, this means something quite different from saying that a *real* proposition follows logically from *another.* For so-called *proof* of a logical proposition does not prove its *truth* (logical propositions are neither true nor false) but proves *that* it is a logical proposition (= is a tautology).
 
-Logical propositions *are forms of proof:* they shew that one or more propositions *follow* from one (or more). [*Cf*. 6.1264.]
+Logical propositions *are forms of proof:* they shew that one or more propositions *follow* from one (or more).
 
 Logical propositions *shew* something, *because* the language in which they are expressed can *say* everything that can be *said.*
 
@@ -83,7 +83,7 @@ If you had any unanalysable proposition in which particular names and relations 
 
 (1) means: (∃x) . *φ*x . x = a
 
-(2) means: (∃x, *ψξ*) . *φ*A = *ψ*x . *φ*x.[^1]
+(2) means: (∃x, *ψξ*) . *φ*A = *ψ*x . *φ*x.
 
 *Use of logical propositions.* You may have one so complicated that you cannot, by looking at it, see that it is a tautology; but you have shewn that it can be derived by certain operations from certain other propositions according to our rule for constructing tautologies; and hence you are enabled to see that one thing follows from another, when you would not have been able to see it otherwise. E.g., if our tautology is of [the] form p ⊃ q you can see that q follows from p; and so on.
 
@@ -93,13 +93,13 @@ That a proposition has a relation (in wide sense) to Reality, other than that of
 
 In analysing *Bedeutung,* you come upon *Sinn* as follows: We want to explain the relation of propositions to reality.
 
-The relation is as follows: Its *simples* have meaning = are names of simples; and its relations have a quite different relation to relations; and these two facts already establish a sort of correspondence between proposition which contains these and only these, and reality: i.e. if all the simples of a proposition are known, we already know that we *can* describe reality by saying that it *behaves*[^2] in a certain way to the whole proposition. (This amounts to saying that we can *compare* reality with the proposition. In the case of two lines we can *compare* them in respect of their length without any convention: the comarison is automatic. But in our case the possibility of comparison depends upon the conventions by which we have given meanings to our simples (names and relations).)
+The relation is as follows: Its *simples* have meaning = are names of simples; and its relations have a quite different relation to relations; and these two facts already establish a sort of correspondence between proposition which contains these and only these, and reality: i.e. if all the simples of a proposition are known, we already know that we *can* describe reality by saying that it *behaves* in a certain way to the whole proposition. (This amounts to saying that we can *compare* reality with the proposition. In the case of two lines we can *compare* them in respect of their length without any convention: the comarison is automatic. But in our case the possibility of comparison depends upon the conventions by which we have given meanings to our simples (names and relations).)
 
 It only remains to fix the method of comparison by saying *what* about our simples is to *say* what about reality. E.g., suppose we take two lines of unequal length: and say that the fact that the shorter is of the length it is is to mean that the longer is of the length *it* is. We should then have established a convention as to the meaning of the shorter, of the sort we are now to give.
 
-From this it results that "true" and "false" are not accidental properties of a proposition, such that, when it has meaning, we can say it is also true or false: on the contrary, to have meaning *means * to be true or false: the being true or false actually constitutes the relation of the proposition to reality, which we mean by saying that it has meaning (*Sinn*)*.*
+From this it results that "true" and "false" are not accidental properties of a proposition, such that, when it has meaning, we can say it is also true or false: on the contrary, to have meaning *means* to be true or false: the being true or false actually constitutes the relation of the proposition to reality, which we mean by saying that it has meaning (*Sinn*)*.*
 
-There seems at first sight to be a certain ambiguity in what is meant by saying that a proposition is "true", owing to the fact that it seems as if, in the case of different propositions, the way in which they correspond to the facts to which they correspond is quite different. But what is really common to all cases is that they must have *the general form of a proposition.* In giving the general form of a proposition you are explaining what kind of ways of putting together the symbols of things and relations will correspond to (be analogous to) the things having those relations in reality. In doing thus you are saying what is meant by saying that a proposition is true; and you must do it once for all. To say "This proposition *has sense*"* *means '"This proposition is true" means ... .' ("p" is true = "p" . p. Def. : only instead of "p" we must here introduce the general form of a proposition.)[^3]
+There seems at first sight to be a certain ambiguity in what is meant by saying that a proposition is "true", owing to the fact that it seems as if, in the case of different propositions, the way in which they correspond to the facts to which they correspond is quite different. But what is really common to all cases is that they must have *the general form of a proposition.* In giving the general form of a proposition you are explaining what kind of ways of putting together the symbols of things and relations will correspond to (be analogous to) the things having those relations in reality. In doing thus you are saying what is meant by saying that a proposition is true; and you must do it once for all. To say "This proposition *has sense*" means '"This proposition is true" means ... .' ("p" is true = "p" . p. Def. : only instead of "p" we must here introduce the general form of a proposition.)
 
 ---
 
@@ -113,7 +113,7 @@ Take p.q and q. When you write p.q in the ab notation, it is impossible to see f
 
 *Logical propositions*, *of course*, all shew something different: all of them shew, *in the same way*, viz. by the fact that they are tautologies, but they are different tautologies and therefore shew each something different.
 
-What is unarbitrary about our symbols is not them, nor the rules we give; but the fact that, having given certain rules, others are fixed = follow logically. [*Cf.* 3.342.]
+What is unarbitrary about our symbols is not them, nor the rules we give; but the fact that, having given certain rules, others are fixed = follow logically.
 
 Thus, though it would be possible to interpret the form which we take as the form of a tautology as that of a contradiction and vice versa, they *are* different in logical form because though the apparent form of the symbols is the same, what *symbolizes* in them is different, and hence what follows about the symbols from the one interpretation will be different from what follows from the other. But the difference between a and b is *not* one of logical form, so that nothing will follow from this difference alone as to the interpretation of other symbols. Thus, e.g., p.q, p ∨ q seem symbols of exactly the *same* logical form in the ab notation. Yet they say something entirely different; and, if you ask why, the answer seems to be: In the one case the scratch at the top has the shape b, in the other the shape a. Whereas the interpretation of a tautology as a tautology is an interpretation of a *logical form,* not the giving of a meaning to a scratch of a particular shape. The important thing is that the interpretation of the form of the symbolism must be fixed by giving an interpretation to its *logical properties*, *not* by giving interpretations to particular scratches.
 
@@ -129,11 +129,11 @@ That, when a certain rule is given, a symbol is tautological *shews* a logical t
 
 ![Notes Dictated to G.E. Moore in Norway schema.png](images/300px-Notes_Dictated_to_G.E._Moore_in_Norway_schema.png)
 
-This symbol might be interpreted either as a tautology or a contra­diction.
+This symbol might be interpreted either as a tautology or a contradiction.
 
 In settling that it is to be interpreted as a tautology and not as a contradiction, I am not assigning a *meaning* to a and b; i.e. saying that they symbolize different things but in the same way. What I am doing is to say that the way in which the a-pole is connected with the whole symbol symbolizes in a *different way* from that in which it would symbolize if the symbol were interpreted as a contradiction. And I add the scratches a and b merely in order to shew in which ways the connexion is symbolizing, so that it may be evident that wherever the same scratch occurs in the corresponding place in another symbol, there also the connexion is symbolizing in the same way.
 
-We could, of course, symbolize any ab-function without using two *outside* poles at all, merely, e.g., omitting the b-pole; and here what would symbolize would be that the three pairs of inside poles of the propositions were connected in a certain way with the a-pole, while the other pair was *not* connected with it. And thus the difference between the scratches a and b, where we do use them, merely shews that it is a different state of things that is symbolizing in the one case and the other: in the one case that certain inside poles *are * connected in a certain way with an outside pole, in the other *that* they are *not.*
+We could, of course, symbolize any ab-function without using two *outside* poles at all, merely, e.g., omitting the b-pole; and here what would symbolize would be that the three pairs of inside poles of the propositions were connected in a certain way with the a-pole, while the other pair was *not* connected with it. And thus the difference between the scratches a and b, where we do use them, merely shews that it is a different state of things that is symbolizing in the one case and the other: in the one case that certain inside poles *are* connected in a certain way with an outside pole, in the other *that* they are *not.*
 
 The symbol for a tautology, in whatever form we put it, e.g., whether by omitting the a-pole or by omitting the b, would always be capable of being used as the symbol for a contradiction; only not in the same language.
 
@@ -147,7 +147,7 @@ The reason why "The property of not being green is not green" is *nonsense,* is 
 
 p is false = ~(p is true) Def.
 
-It is very important that the apparent logical relations ∨, ⊃, etc. need brackets, dots, etc., i.e. have "ranges"; which by itself shews they are not relations. This fact has been overlooked, because it is so universal —the very thing which makes it so important. [*Cf*. 5.461.]
+It is very important that the apparent logical relations ∨, ⊃, etc. need brackets, dots, etc., i.e. have "ranges"; which by itself shews they are not relations. This fact has been overlooked, because it is so universal —the very thing which makes it so important.
 
 There are *internal* relations between one proposition and another; but a proposition cannot have to another *the* internal relation which a *name* has to the proposition of which it is a constituent, and which ought to be meant by saying it "occurs" in it. In this sense one proposition can't "occur" in another.
 
@@ -159,7 +159,7 @@ The symbol of identity expresses the internal relation between a function and it
 
 The proposition (∃x) . *φ*x . x = a : ≡ : *φ*a can be seen to be a tau­tology, if one expresses the *conditions* of the truth of (∃x) . *φ*x . x = a, successively, e.g., by saying: This is true *if* so and so; and this again is true *if* so and so, etc., for (∃x) . *φ*x . x = a; and then also for *φ*a. To express the matter in this way is itself a cumbrous notation, of which the ab-notation is a neater translation.
 
-What symbolizes in a symbol, is that which is common to all the symbols which could in accordance with the rules of logic = syntactical rules for manipulation of symbols, be substituted for it. [*Cf.* 3.344.]
+What symbolizes in a symbol, is that which is common to all the symbols which could in accordance with the rules of logic = syntactical rules for manipulation of symbols, be substituted for it.
 
 The question whether a proposition has sense (*Sinn*) can never depend on the *truth* of another proposition about a constituent of the first. E.g., the question whether (x) x = x has meaning (*Sinn*) can't depend on the question whether (∃x) x = x is *true.* It doesn't describe reality at all, and deals therefore solely with symbols; and it says that they must *symbolize*, but not *what* they symbolize.
 
@@ -169,9 +169,9 @@ The *variable proposition* p ⊃ p is not identical with the *variable propositi
 
 It's very important to realize that when you have two different relations (a,b)R, (c,d)S this does *not* establish a correlation between a and c, and b and d, or a and d, and b and c: there is no correlation whatsoever thus established. Of course, in the case of two pairs of terms united by the *same* relation, there is a correlation. This shews that the theory which held that a relational fact contained the terms and relations united by a *copula* (ε~2~) is untrue; for if this were so there would be a correspondence between the terms of different relations.
 
-The question arises how can one proposition (or function) occur in another proposition? The proposition or function itself can't possibly stand in relation to the other symbols. For this reason we must introduce functions as well as names at once in our general form of a fact that the names stand between the |,[^4] and that the function stands on the left of the names.
+The question arises how can one proposition (or function) occur in another proposition? The proposition or function itself can't possibly stand in relation to the other symbols. For this reason we must introduce functions as well as names at once in our general form of a fact that the names stand between the |, and that the function stands on the left of the names.
 
-It is true, in a sense, that logical propositions are "postulates"—something which we "demand"; for we *demand* a satisfactory notation. [*Cf.* 6.12.2.3.]
+It is true, in a sense, that logical propositions are "postulates"—something which we "demand"; for we *demand* a satisfactory notation.
 
 A tautology (*not* a logical proposition) is not nonsense in the same sense in which, e.g., a proposition in which words which have no meaning occur is nonsense. What happens in it is that all its simple parts have meaning, but it is such that the connexions between these paralyse or destroy one another, so that they are all connected only in some irrelevant manner.
 
@@ -187,14 +187,4 @@ From the fact that I *see* that one spot is to the left of another, or that one 
 
 Different logical types can have nothing whatever in common. But the mere fact that we can talk of the possibility of a relation of n places, or of an analogy between one with two places and one with four, shews that relations with different numbers of places have something in common, that therefore the difference is not one of type, but like the difference between different names-something which depends on experience. This answers the question how we can know that we have really got the most general form of a proposition. We have only to introduce what is *common* to all relations of whatever number of places.
 
-The relation of "I believe p" to "p" can be compared to the relation of' "p" says (besagt) p' to p: it is just as impossible that *I* should be a simple as that "p" should be. [*Cf*. 5.542.]
-
----
-
-[^1]: *ξ* is Frege's mark of an *Argumentstelle*, to show that *ψ* is a *Funktionsbuchstabe*. [*Edd*.]
-
-[^2]: Presumably "verhält sich zu", i.e. "is related." [*Edd*.]
-
-[^3]: The reader should remember that according to Wittgenstein '"p"' is not a name but a description of the fact constituting the proposition. See above, p. 109. [*Edd*.]
-
-[^4]: Possibly "between the Sheffer-strokes". [*Edd*.]
+The relation of "I believe p" to "p" can be compared to the relation of' "p" says (besagt) p' to p: it is just as impossible that *I* should be a simple as that "p" should be.
