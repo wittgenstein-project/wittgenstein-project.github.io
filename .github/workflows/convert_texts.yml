@@ -19,6 +19,8 @@ jobs:
         run: pip3 install -r ./requirements.txt
       - name: HTML -> Markdown
         run: python3 ./html_to_markdown.py
+      - name: Markdown -> Book Covers (SVG + PNG)
+        run: python3 ./markdown_to_book_covers.py
       - name: Markdown -> EPUB
         run: python3 ./markdown_to_epub.py
       - name: Markdown -> PDF

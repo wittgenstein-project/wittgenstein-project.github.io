@@ -20,7 +20,9 @@ else:
             output_file = os.path.join(output_dir, f"{work}.epub")
             input_dir = os.path.join(MARKDOWN_DIR, lang, work)
             input_file = os.path.join(input_dir, f"{work}.md")
+            cover_file = os.path.join(input_dir, "cover.png")
             if os.system(f"pandoc -o {quote(output_file)} {quote(input_file)}"
                          " --fail-if-warnings --mathml"
+                         f" --epub-cover-image={quote(cover_file)}"
                          f" --resource-path={quote(input_dir)}") != 0:
                 sys.exit(1)

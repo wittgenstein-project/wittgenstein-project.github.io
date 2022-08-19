@@ -1,6 +1,4 @@
-import os
-import subprocess
-import sys
+import os, subprocess, sys
 from shlex import quote
 
 MARKDOWN_DIR = "markdown"
