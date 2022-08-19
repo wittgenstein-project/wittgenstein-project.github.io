@@ -37,7 +37,7 @@ else:
             png_file_name = os.path.join(MARKDOWN_DIR, lang, work, "cover.png")
             with open(md_file_name, 'r') as md:
                 md = md.read()
-                words = re.split(" |(?<=-)", work)
+                words = re.split(" |(?<=-)", f"Wittgenstein — {work}")
                 svg = f"""<svg width="{WIDTH}" height="{HEIGHT}">"""
                 column = 0
                 row = 0
@@ -57,12 +57,16 @@ else:
                     cy = cell_width + row * cell_width
                     #r = math.log(len(remark) + 1) * 2
                     r = math.log(len(remark) + 1)**2 / 3
+                    periods = len([c for c in remark if c == "."])
+                    question_marks = len([c for c in remark if c == "?"])
+                    lightness = (question_marks * 2 / (periods + (question_marks * 2) + 1)) * 50
+                    color = f"hsl(0, 0%, {lightness}%)"
                     if "**" in remark:
-                        fill = "black"
+                        fill = color
                     else:
                         fill = "none"
                     #svg += f"""\n<rect x="{cx - r}" y="{cy - r}" width="{r * 2}" height="{r * 2}" fill="{fill}" stroke="black" stroke-width="6" />"""
-                    svg += f"""\n<circle cx="{cx}" cy="{cy}" r="{r}" fill="{fill}" stroke="black" stroke-width="6" />"""
+                    svg += f"""\n<circle cx="{cx}" cy="{cy}" r="{r}" fill="{fill}" stroke="{color}" stroke-width="6" />"""
                     #if "$" in remark:
                     #    x1 = (column * cell_width) + (cell_width / 2)
                     #    y1 = (row * cell_width) + (cell_width * 1.5)
