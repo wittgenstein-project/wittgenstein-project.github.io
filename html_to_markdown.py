@@ -99,6 +99,11 @@ def parse_html(errors, parsed, image_urls, elem):
         elif elem.name == "span" and elem.get("class") and elem.get("class")[0].endswith("-aside-par"):
             # page breaks within Nachlass source documents as margin notes
             pass
+        elif elem.name == "span" and elem.get("style") and elem.get("style").startswith("text-decoration: overline"):
+            parsed[-1] += "$\\overline{"
+            for child in elem.children:
+                parse_html(errors, parsed, image_urls, child)
+            parsed[-1] += "}$"
         elif elem.name == "ol":
             parsed.append("")
             counter = 1
