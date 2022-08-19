@@ -79,6 +79,7 @@ def parse_html(errors, parsed, image_urls, elem):
             parsed.append("")
         elif elem.name == "dd" and not elem.get("class"):
             for child in elem.children:
+                parsed.extend(["", ""])
                 parse_html(errors, parsed, image_urls, child)
         elif elem.name == "span" and elem.get("class") == ["tl-check"]:
             # does not seem to contain visible markup, so ignore
