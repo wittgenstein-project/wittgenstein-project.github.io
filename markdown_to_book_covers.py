@@ -55,8 +55,20 @@ else:
                         continue
                     cx = cell_width + column * cell_width
                     cy = cell_width + row * cell_width
-                    r = math.log(len(remark) + 1) * 2
-                    svg += f"""\n<circle cx="{cx}" cy="{cy}" r="{r}" stroke="black" stroke-width="2" />"""
+                    #r = math.log(len(remark) + 1) * 2
+                    r = math.log(len(remark) + 1)**2 / 3
+                    if "**" in remark:
+                        fill = "black"
+                    else:
+                        fill = "none"
+                    #svg += f"""\n<rect x="{cx - r}" y="{cy - r}" width="{r * 2}" height="{r * 2}" fill="{fill}" stroke="black" stroke-width="6" />"""
+                    svg += f"""\n<circle cx="{cx}" cy="{cy}" r="{r}" fill="{fill}" stroke="black" stroke-width="6" />"""
+                    #if "$" in remark:
+                    #    x1 = (column * cell_width) + (cell_width / 2)
+                    #    y1 = (row * cell_width) + (cell_width * 1.5)
+                    #    x2 = x1 + cell_width
+                    #    y2 = y1 - cell_width
+                    #    svg += f"""\n<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="black" stroke-width="6" />"""
                     while True:
                         column += 1
                         if column + 1 >= WIDTH / cell_width:
