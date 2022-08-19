@@ -21,6 +21,6 @@ else:
             input_dir = os.path.join(MARKDOWN_DIR, lang, work)
             input_file = os.path.join(input_dir, f"{work}.md")
             if os.system(f"pandoc -o {quote(output_file)} {quote(input_file)}"
-                         " --fail-if-warnings"
+                         " --fail-if-warnings --mathml"
                          f" --resource-path={quote(input_dir)}") != 0:
                 sys.exit(1)
