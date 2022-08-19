@@ -5,7 +5,7 @@ title: Tagebücher 1914-1916
 
 \newpage
 
-Published by the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.org/).
+_Published by the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.org/)._
 
 _Diese digitale Ausgabe ist eine Reproduktion von L. Wittgenstein, *Notebooks 1914–1916*. Herausgegeben von G. H. von Wright und G. E. M. Anscombe. Harper & Row, 1969. Dieses Werk ist gemeinfrei, weil seine urheberrechtliche Schutzfrist abgelaufen ist. Dies gilt für das Herkunftsland des Werks und alle weiteren Staaten mit einer gesetzlichen Schutzfrist von 70 oder weniger Jahren nach dem Tod des Urhebers._
 

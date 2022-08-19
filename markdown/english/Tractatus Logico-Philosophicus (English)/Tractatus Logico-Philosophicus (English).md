@@ -5,7 +5,7 @@ title: Tractatus Logico-Philosophicus (English)
 
 \newpage
 
-Published by the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.org/).
+_Published by the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.org/)._
 
 _Translated by [F. P. Ramsey](https://en.wikipedia.org/wiki/Frank_Ramsey_(mathematician))_
 

@@ -5,7 +5,7 @@ title: Bemerkungen über die Farben
 
 \newpage
 
-Published by the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.org/).
+_Published by the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.org/)._
 
 _Herausgegeben von [G. E. M. Anscombe](https://en.wikipedia.org/wiki/G._E._M._Anscombe)_
 

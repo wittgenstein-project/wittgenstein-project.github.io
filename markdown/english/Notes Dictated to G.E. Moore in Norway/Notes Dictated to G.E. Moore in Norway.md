@@ -5,7 +5,7 @@ title: Notes Dictated to G.E. Moore in Norway
 
 \newpage
 
-Published by the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.org/).
+_Published by the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.org/)._
 
 _This digital edition is based on Ludwig Wittgenstein. "Notes Dictated to G.E. Moore in Norway." *Notebooks 1914–1916*, edited by G. H. von Wright and G. E. M. Anscombe, Harper & Row, 1969, pp. 107–118. This original-language text is in the public domain in its country of origin and other countries and areas where the copyright term is the author's life plus 70 years or fewer._
 

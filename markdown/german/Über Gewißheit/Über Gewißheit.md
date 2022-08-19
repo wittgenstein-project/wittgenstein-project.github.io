@@ -5,7 +5,7 @@ title: Über Gewißheit
 
 \newpage
 
-Published by the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.org/).
+_Published by the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.org/)._
 
 _Herausgegeben von [G. E. M. Anscombe](https://en.wikipedia.org/wiki/G._E._M._Anscombe) und [G. H. von Wright](https://en.wikipedia.org/wiki/Georg_Henrik_von_Wright)_
 
