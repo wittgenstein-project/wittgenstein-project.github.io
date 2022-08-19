@@ -291,7 +291,7 @@ title: {title}
 
 \\newpage
 
-Published by the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.org/).
+_Published by the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.org/)._
 
 """
     image_urls = []
