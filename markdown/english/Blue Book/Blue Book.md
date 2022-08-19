@@ -29,7 +29,15 @@ Question: Need the ostensive definition itself be understood? – Can't the oste
 
 If the definition explains the meaning of a word, surely it can't be essential that you should have heard the word before. It is the ostensive definition's business to *give* it a meaning. Let us then explain the word “tove” by pointing to a pencil and saying “this is tove”. (Instead of “this is tove” I could here have said “this is called ‘tove’”. I point this out to remove, once and for all, the idea that the words of the ostensive definition predicate something of the defined; the confusion between the sentence “this is red”, attributing the colour red to something, and this ostensive definition “this is called ‘red’”.) Now the ostensive definition “this is tove” can be interpreted in all sorts of ways. I will give a few such interpretations and use English words with well established usage. The definition then can be interpreted to mean: –
 
-“This is a pencil”, “This is round”, “This is wood”, “This is one”, “This is hard”, etc. etc.
+“This is a pencil”,
+
+“This is round”,
+
+“This is wood”,
+
+“This is one”,
+
+“This is hard”, etc. etc.
 
 One might object to this argument that all these interpretations presuppose another word-language. And this objection is significant if by “interpretation” we only mean “Translation into a word-language”. – Let me give some hints which might make this clearer. Let us ask ourselves what is our criterion when we say that someone has interpreted the ostensive definition in a particular way. Suppose I give to an Englishman the ostensive definition “this is what the Germans call ‘Buch’”. Then, in the great majority of cases, at any rate, the English word “book” will come into the Englishman's mind. We may say he has interpreted “Buch” to mean “book”. The case will be different if e.g., we point to a thing which he has never seen before and say: “This is a banjo”. Possibly the word “guitar” will then come into his mind, possibly no word at all but the image of a similar instrument, possibly nothing at all. Supposing then I give him the order “now pick a banjo from amongst those things”. If he picks what we call a “banjo” we might say “he has given the word ‘banjo’ the correct interpretation”; if he picks some other instrument: – “he has interpreted ‘banjo’ to mean ‘string instrument’”.
 
@@ -177,7 +185,9 @@ If we study the grammar, say, of the words, “wishing”, “thinking”, “un
 
 The idea that in order to get clear about the meaning of a general term one had to find the common element in all its applications, has shackled philosophical investigation; for it has not only led to no result, but also made the philosopher dismiss as irrelevant the concrete cases, which alone could have helped him to understand the usage of the general term. When Socrates asks the question, “what is knowledge?” he does not even regard it as a *preliminary* answer to enumerate cases of knowledge. If I wished to find out what sort of thing arithmetic is, I should be very content indeed to have investigated the case of a finite cardinal  arithmetic. For
 
-(a) this would lead me on to all the more complicated cases, (b) a finite cardinal arithmetic is not incomplete, it has no gaps which are then filled in by the rest of arithmetic.
+(a) this would lead me on to all the more complicated cases,
+
+(b) a finite cardinal arithmetic is not incomplete, it has no gaps which are then filled in by the rest of arithmetic.
 
 What happens if from 4 till 4.30 A expects B to come to his room? In one sense in which the phrase “to expect something from 4 to 4.30” is used it certainly does not refer to one process or state of mind going on throughout that interval, but is a great many different activities, and states of mind. If for instance I expect B to come to tea, what happens *may* be this: At four o'clock I look at my diary and see the name ‘B’ against today's date; I prepare tea for two; I think for a moment “does B smoke?” and put out cigarettes; towards 4.30 I begin to feel impatient; I imagine B as he will look when he comes into my room. All this is called “expecting B from 4 to 4.30”. And there are endless variations to this process which we all describe by the same expression. If one asks what the different processes of expecting someone to tea have in common, the answer is that there is no single feature in common to all of them, though there are many common features overlapping. These cases of expectation form a family; they have family likenesses which are not clearly defined.
 
@@ -283,7 +293,7 @@ Now we might say that whenever we give someone an order by showing him an arrow,
 
 Is it then correct to say that no arrow could be the meaning, as every arrow could be meant the opposite way? – Suppose we write down the scheme of saying and meaning by a column of arrows one below the other.
 
-![Ts-309,54.png](images/250px-Ts-309%2C54.png)
+![Ts-309,54.png](images/250px-Ts-309%2C54.png)\
 
 Then if this scheme is to serve our purpose at all, it must show us which of the three levels is the level of meaning. I can, e.g., make a scheme with three levels, the bottom level always being the level of meaning. But adopt whatever model or scheme you may, it will have a bottom level, and there will be no such thing as an interpretation of that. To say in this case that every arrow can still be interpreted would only mean that I *could* always make a different model of saying and meaning which had one more level than the one I am using.
 
@@ -295,7 +305,9 @@ But let us imagine an instance in which it does happen. Supposing I had a habit 
 
 But what tempts us to think of the meaning of what we say as a process essentially of the kind which we have described is the analogy between the forms of expression:
 
-“to say something” “to mean something”,
+“to say something”
+
+“to mean something”,
 
 which seem to refer to two parallel processes.
 
@@ -465,7 +477,7 @@ The word “I” does not mean the same as “L.W.” even if I am L.W., nor doe
 
 All this comes to saying that the person of whom we say “he has pain” is, by the rules of the game, the person who cries, contorts his face, etc. The place of the pain – as we have said – may be in another person's body. If, in saying “I”, I point to my own body, I model the use of the word “I” on that of the demonstrative “this person” or “he”. (This way of making the two expressions similar is somewhat analogous to that which one sometimes adopts in mathematics, say in the proof that the sum of the three angles of a triangle is 180˚.
 
-![Ts-309,114.png](images/300px-Ts-309%2C114.png)
+![Ts-309,114.png](images/300px-Ts-309%2C114.png)\
 
 We say “α = α'”, “β = β'”, and “γ = γ”. The first two equalities are of an entirely  different kind from the third.) In “I have pain”, “I” is not a demonstrative pronoun.
 

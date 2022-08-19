@@ -150,7 +150,7 @@ Daraus muß sich (wenn ich nicht blind wäre) sofort das Wesen der Wahrheit erge
 
 Denken wir an hieroglyphische Schriften, bei denen jedes Wort seine Bedeutung darstellt! Denken wir daran, daß auch *wirkliche* Bilder von Sachverhalten *stimmen* und *nicht stimmen* können. [*Vgl.* 4.016.]
 
-"![Illustrazione 29.9.14.png](images/100px-Illustrazione_29.9.14.png)": Wenn in diesem Bild der rechte Mann den Menschen A vorstellt, und bezeichnet der linke den Menschen B, so könnte etwa das ganze aussagen "A ficht mit B". Der Satz in Bilderschrift kann wahr und falsch sein. Er hat einen Sinn unabhängig von seiner Wahr- oder Falschheit. An ihm muß sich alles Wesentliche demonstrieren lassen.
+"![Illustrazione 29.9.14.png](images/100px-Illustrazione_29.9.14.png)\ ": Wenn in diesem Bild der rechte Mann den Menschen A vorstellt, und bezeichnet der linke den Menschen B, so könnte etwa das ganze aussagen "A ficht mit B". Der Satz in Bilderschrift kann wahr und falsch sein. Er hat einen Sinn unabhängig von seiner Wahr- oder Falschheit. An ihm muß sich alles Wesentliche demonstrieren lassen.
 
 Man kann sagen, wir haben zwar nicht die Gewißheit, daß wir alle Sachverhalte in Bildern aufs Papier bringen können, wohl aber die Gewißheit, daß wir alle *logischen* Eigenschaften der Sachverhalte in einer zweidimensionalen Schrift abbilden können.
 
@@ -271,7 +271,7 @@ Betrachten wir den Satz: "Es gibt eine Klasse mit nur einem Glied". Oder, was au
 
 Bei "(∃x)x = x" könnte man verstehen, daß er tautologisch sei, da er überhaupt nicht hingeschrieben werden könnte, wenn er falsch wäre, aber hier! *Dieser* Satz kann an Stelle des "Axiom of Infinity" untersucht werden!
 
-Ich weiß, daß die folgenden Sätze, wie sie stehen, unsinnig sind: Kann man von den Zahlen reden, wenn es nur Dinge gibt? Wenn also z. B. die Welt nur aus einem Dinge bestünde und aus sonst nichts, könnte man sagen, es gäbe EIN Ding? Russell würde wahrscheinlich sagen: wenn es ein Ding gibt, dann gibt es auch die Funktion ![${\displaystyle (\exists x){\hat {\xi }}=x}$](images/33dfd994085c18885b072578634c12e4a43bc859.svg). Aber!––
+Ich weiß, daß die folgenden Sätze, wie sie stehen, unsinnig sind: Kann man von den Zahlen reden, wenn es nur Dinge gibt? Wenn also z. B. die Welt nur aus einem Dinge bestünde und aus sonst nichts, könnte man sagen, es gäbe EIN Ding? Russell würde wahrscheinlich sagen: wenn es ein Ding gibt, dann gibt es auch die Funktion ${\displaystyle (\exists x){\hat {\xi }}=x}$. Aber!––
 
 Wenn es diese Funktion nicht tut, dann kann von der 1 nur die Rede sein, wenn es eine materielle Funktion gibt, die nur von einem Argument befriedigt wird.
 
@@ -292,7 +292,15 @@ Gibt es denn eine Wissenschaft der vollständig verallgemeinerten Sätze? Dies k
 
 Nun aber die Sätze: "(∃*φ*,x). *φ*x"
 
-und "~(∃*φ*,x). *φ*x".
+und "~(∃
+
+*φ*
+
+,x).
+
+*φ*
+
+x".
 
 Welcher von ihnen ist tautologisch, welcher kontradiktorisch?
 
@@ -340,7 +348,49 @@ Man kann also ein Bild der Welt entwerfen, ohne zu sagen, was was darstellt.
 
 Nehmen wir z. B. an, die Welt bestünde aus den Dingen A und B und der Eigenschaft F, und es wäre F(A) der Fall und nicht F(B). Diese Welt könnten wir auch durch die folgenden Sätze beschreiben:
 
-(∃x,y).(∃*φ*).x ≠ y.*φ*x.~*φ*y:*φ*u.*φ*z. ⊃~u,z~.u = z (∃*φ*).(*ψ*).*ψ* = *φ* (∃x,y).(z).z = x v z = y
+(∃x,y).(∃
+
+*φ*
+
+).x ≠ y.
+
+*φ*
+
+x.~
+
+*φ*
+
+y:
+
+*φ*
+
+u.
+
+*φ*
+
+z. ⊃
+
+~u,z~
+
+.u = z
+
+(∃
+
+*φ*
+
+).(
+
+*ψ*
+
+).
+
+*ψ*
+
+=
+
+*φ*
+
+(∃x,y).(z).z = x v z = y
 
 Und hier braucht man auch Sätze von der Art der letzten zwei, um die Gegenstände identifizieren zu können.
 
@@ -378,7 +428,7 @@ Die Theorie der logischen Abbildung durch die Sprache sagt – ganz allgemein: D
 
 Das was in "~p" verneint, ist nicht das "~" vor dem "p" sondern dasjenige, was allen Zeichen, die in dieser Notation mit "~p" gleichbedeutend sind, gemeinsam ist; also das Gemeinsame von
 
-![${\displaystyle \left.{\begin{matrix}\sim p\\\sim \sim \sim p\\\sim p\lor \sim p\\\sim p.\sim p\\{\text{etc. etc.}}\end{matrix}}\right\}{\text{und dasselbe gilt für die Allgemeinheitsbezeichnung etc.}}}$](images/5a8d64ce7afcc2e2d844a8c3e62baf263ec27317.svg)
+${\displaystyle \left.{\begin{matrix}\sim p\\\sim \sim \sim p\\\sim p\lor \sim p\\\sim p.\sim p\\{\text{etc. etc.}}\end{matrix}}\right\}{\text{und dasselbe gilt für die Allgemeinheitsbezeichnung etc.}}}$
 
 [*Vgl.* 5.512.]
 
@@ -392,19 +442,21 @@ Daß sich von materiellen Sätzen auf ganz allgemeine Sätze schließen läßt �
 
 **21. 10. 14.**
 
-Ist die Russellsche Definition der Null nicht unsinnig? Kann man von einer Klasse ![${\displaystyle {\hat {x}}(x\neq x)}$](images/037950f0776947844cc9d76e99223e3f0ebc6060.svg) überhaupt reden? – Kann man denn von einer Klasse ![${\displaystyle {\hat {x}}(x=x)}$](images/dcf7f092636584f1aec66ee68731f7c457abb2ec.svg) reden? Ist denn x ≠ x oder x = x eine Funktion von x?? – Muß nicht die Null definiert werden durch die *Hypothese* (∃*φ*):(x)~*φ*x? Und Analoges würde von allen anderen Zahlen gelten. Dies nun wirft ein Licht auf die ganze Frage nach der Existenz von Anzahlen von Dingen.
+Ist die Russellsche Definition der Null nicht unsinnig? Kann man von einer Klasse ${\displaystyle {\hat {x}}(x\neq x)}$ überhaupt reden? – Kann man denn von einer Klasse ${\displaystyle {\hat {x}}(x=x)}$ reden? Ist denn x ≠ x oder x = x eine Funktion von x?? – Muß nicht die Null definiert werden durch die *Hypothese* (∃*φ*):(x)~*φ*x? Und Analoges würde von allen anderen Zahlen gelten. Dies nun wirft ein Licht auf die ganze Frage nach der Existenz von Anzahlen von Dingen.
 
-![${\displaystyle 0={\hat {\alpha }}\{(\exists \phi ):(x)\sim \phi x.\alpha ={\hat {u}}(\phi u)\}{\text{ Def.}}}$](images/49d0ca0a0cb5d83ef582139768125fb945c6a334.svg)
+${\displaystyle 0={\hat {\alpha }}\{(\exists \phi ):(x)\sim \phi x.\alpha ={\hat {u}}(\phi u)\}{\text{ Def.}}}$
 
-![${\displaystyle 1={\hat {\alpha }}\{(\exists \phi )::(\exists x).\phi x:\phi y.\phi z.\supset _{y,z}y=z:\alpha ={\hat {u}}(\phi u)\}{\text{ Def.}}}$](images/55ee710108a37b8bb5447ceff18f8ddd6c907ea2.svg)
+${\displaystyle 1={\hat {\alpha }}\{(\exists \phi )::(\exists x).\phi x:\phi y.\phi z.\supset _{y,z}y=z:\alpha ={\hat {u}}(\phi u)\}{\text{ Def.}}}$
 
 (Das Gleichheitszeichen in der geschweiften Klammer könnte man *vermeiden*, wenn man schriebe
 
-![${\displaystyle 0={\widehat {{\hat {u}}(\phi u)}}\{(x)\sim \phi x\}}$](images/bb7612b876810c063bd0631332690d35e3359ee9.svg).)
+${\displaystyle 0={\widehat {{\hat {u}}(\phi u)}}\{(x)\sim \phi x\}}$
+
+.)
 
 Der Satz muß die *Möglichhit seiner Wahrheit enthalten* (und so zeigen). Aber nicht mehr als die *Möglichkeit.* [*Vgl.* 2.203* u.* 3.02 *u.* 3.13.]
 
-Nach meiner Definition der Klassen ist ![${\displaystyle (x).\sim {\hat {x}}(\phi x)}$](images/ca972d4a1ab3bef75517f1f623a1fc35222aca51.svg) die Aussage, daß ![${\displaystyle {\hat {x}}(\phi x)}$](images/01a60164d2395ea21a2a2f6dbeb09fa51e5aa3ae.svg) null ist, und die Definition der Null ist dann ![${\displaystyle 0={\hat {\alpha }}[(x).\sim \alpha ]{\text{ Def.}}}$](images/41e9bc59aaf1fd6142337d71e602e9a6155e567d.svg)
+Nach meiner Definition der Klassen ist ${\displaystyle (x).\sim {\hat {x}}(\phi x)}$ die Aussage, daß ${\displaystyle {\hat {x}}(\phi x)}$ null ist, und die Definition der Null ist dann ${\displaystyle 0={\hat {\alpha }}[(x).\sim \alpha ]{\text{ Def.}}}$
 
 Ich dachte, die Möglichkeit der Wahrheit eines Satzes *φ*(a) ist an die Tatsache (∃x,*φ*).*φ*x gebunden: Aber es ist nicht einzusehen, warum *φ*a nur dann möglich sein soll, wenn es einen anderen Satz derselben Form gibt. *φ*a braucht doch keinen Präzedenzfall. (Denn angenommen, es gäbe nur die beiden Elementarsätze "*φ*a" und "*ψ*a" und "*φ*a" sei falsch: warum soll dieser Satz nur dann einen Sinn haben, wenn "*ψ*a" wahr ist?!)
 
@@ -740,7 +792,11 @@ Wenn ich nun eine Funktion von der Nullklasse auszusagen scheine, so sage ich, d
 
 Ist x ≠ x. ≡~x.~ *φ*x identisch mit
 
-(x).~*φ*x ? Gewiß!
+(x).~
+
+*φ*
+
+x ? Gewiß!
 
 Der Satz deutet auf die Möglichkeit, daß es sich so und so verhält.
 
@@ -770,7 +826,7 @@ Bei dieser Arbeit lohnt es sich mehr als bei jeder anderen, Fragen, die man für
 
 Denke an die Darstellung *negativer* Tatsachen, durch Modelle etwa: So und so dürfen zwei Eisenbahnzüge nicht auf den Gleisen stehen. Der Satz, das Bild, das Modell sind – im negativen Sinn – wie ein fester Körper, der die Bewegungsfreiheit der anderen beschränkt, im positiven Sinne, wie der von fester Substanz begrenzte Raum, worin ein Körper Platz hat. [*Vgl.* 4. 463.]
 
-![Illustrazione 14.11.14.png](images/380px-Illustrazione_14.11.14.png)
+![Illustrazione 14.11.14.png](images/380px-Illustrazione_14.11.14.png)\
 
 Diese Vorstellung ist *sehr* deutlich und müßte zur Lösung führen.
 
@@ -778,7 +834,7 @@ Diese Vorstellung ist *sehr* deutlich und müßte zur Lösung führen.
 
 Projektion des Bildes auf die Wirklichkeit
 
-![Illustrazione 15.11.14.png](images/380px-Illustrazione_15.11.14.png)
+![Illustrazione 15.11.14.png](images/380px-Illustrazione_15.11.14.png)\
 
 (Maxwell's Methode der mechanischen Modelle.)
 
@@ -1182,9 +1238,9 @@ Das subjektive Universum.
 
 Statt die logischen Operationen im Satz an dessen Teilsätzen zu vollziehen können wir diesen auch *Marken* zuordnen und mit ihnen operieren. Dann ist *einem* Satzbild ein mit ihm in kompliziertester Weise zusammenhängendes Markensternbild zugeordnet.
 
-![${\displaystyle (aRb,cSd,\phi e)((p\lor q).r:\supset :q.r.\equiv .p\lor r)}$](images/66ef1353ed4e2ec5cfe55c0436390e706b0fbb51.svg)
+${\displaystyle (aRb,cSd,\phi e)((p\lor q).r:\supset :q.r.\equiv .p\lor r)}$
 
-![${\displaystyle \quad p\quad q\quad r}$](images/91b0d2e6ff50be1981ed14aa7570782474cc75d1.svg)
+${\displaystyle \quad p\quad q\quad r}$
 
 **18. 4. 15.**
 
@@ -1420,7 +1476,7 @@ Wohl können wir einen Tatbestand räumlich darstellen, welcher den Gesetzen der
 
 **22. 5. 15.**
 
-Die mathematische Notation der unendlichen Reihen, wie "![${\displaystyle 1+{\frac {x}{1!}}+{\frac {x^{2}}{2!}}+...}$](images/7d48debeee8fbec8515f72f596f687c470389e93.svg)" *mit den Pünktchen* ist ein Beispiel jener erweiterten Allgemeinheit. Ein Gesetz ist gegeben und die hingeschriebenen Glieder dienen als Illustration.
+Die mathematische Notation der unendlichen Reihen, wie "${\displaystyle 1+{\frac {x}{1!}}+{\frac {x^{2}}{2!}}+...}$" *mit den Pünktchen* ist ein Beispiel jener erweiterten Allgemeinheit. Ein Gesetz ist gegeben und die hingeschriebenen Glieder dienen als Illustration.
 
 So könnte man statt (x)fx schreiben "fx.fy ... ".
 
@@ -1640,7 +1696,7 @@ p ∨ q ∨ ~p ist auch eine Tautologie. –
 
 Es gibt wohl Sätze, die sowohl p als auch ~p *zulassen*, aber *keinen*, den sowohl p als auch ~p *bejaht.*
 
-![Illustrazione 6.6.15.png](images/380px-Illustrazione_6.6.15.png)
+![Illustrazione 6.6.15.png](images/380px-Illustrazione_6.6.15.png)\
 
 Die Möglichkeit von. "p ∨ q", wenn "p" gegeben ist, ist eine Möglichkeit nach einer anderen Dimension als die Unmöglichkeit von "~p".
 
@@ -1716,7 +1772,7 @@ Wir sind also wieder bei der Quantität des Sagens.
 
 Aus allen Sätzen folgt das Gegenteil von "p.~p", heißt das soviel, daß "p.~p" nichts sagt? – Nach meiner früheren Regel müßte die Kontradiktion ja mehr sagen als alle anderen Sätze.
 
-![Illustrazione 11.6.15de.png](images/380px-Illustrazione_11.6.15de.png)
+![Illustrazione 11.6.15de.png](images/380px-Illustrazione_11.6.15de.png)\
 
 Wenn ein vielsagender Satz auch falsch ist, so sollte eben das interessant sein, daß er falsch ist. Es ist befremdend, daß das Negativ eines vielsagenden Satzes gänzlich nichtssagend sein soll.
 
@@ -2216,11 +2272,25 @@ Wenn nämlich die Elementarsätze gegeben sind, so sind damit auch *alle* Elemen
 
 Immer wieder fühlt man, daß auch im Elementarsatz von allen Gegenständen die Rede ist.
 
-(∃x)*φ*x.x = a
+(∃x)
+
+*φ*
+
+x.x = a
 
 Wenn zwei Operationen gegeben sind, die sich nicht auf *eine* reduzieren lassen, so muß sich zum mindesten eine allgemeine Form ihrer Kombination aufstellen lassen.
 
-*φ*x, *ψ*y | *χ*z , (∃x). , (x).
+*φ*
+
+x,
+
+*ψ*
+
+y |
+
+*χ*
+
+z , (∃x). , (x).
 
 Da sich offenbar leicht erklären läßt, wie mit diesen Operationen sich Sätze bilden lassen und wie Sätze nicht zu bilden sind, so muß sich dies auch *irgendwie* exakt ausdrücken lassen.
 
@@ -2378,7 +2448,7 @@ Das Ich tritt in die Philosophie dadurch ein, daß die Welt *meine* Welt ist. [*
 
 Das Gesichtsfeld hat nämlich nicht etwa eine solche Form:
 
-![Illustrazione 12.8.16.png](images/Illustrazione_12.8.16.png)
+![Illustrazione 12.8.16.png](images/Illustrazione_12.8.16.png)\
 
 [*S.* 5.6331.]
 
@@ -2620,7 +2690,7 @@ Dann wäre es aber denkbar, daß ich etwa darauf käme, daß z. B. dieser Sessel
 
 Ist das möglich?
 
-Bei dem Zeichnen des Vierecks ![Illustrazione 4.11.16.png](images/40px-Illustrazione_4.11.16.png) im Spiegel bemerkt man, daß man es nur ausführen kann, wenn man vom Gesichtsbild ganz absieht und nur das Muskelgefühl zu Hilfe nimmt. Also handelt es sich hier doch um zwei ganz verschiedene Willensakte. Der eine bezieht sich auf den Gesichtsteil der Welt, der andere auf den Teil des Muskelgefühls.
+Bei dem Zeichnen des Vierecks ![Illustrazione 4.11.16.png](images/40px-Illustrazione_4.11.16.png)\  im Spiegel bemerkt man, daß man es nur ausführen kann, wenn man vom Gesichtsbild ganz absieht und nur das Muskelgefühl zu Hilfe nimmt. Also handelt es sich hier doch um zwei ganz verschiedene Willensakte. Der eine bezieht sich auf den Gesichtsteil der Welt, der andere auf den Teil des Muskelgefühls.
 
 Haben wir mehr als erfahrungsmäßige Evidenz, daß es sich in beiden Fällen um die Bewegung desselben Körperteils handelt?
 

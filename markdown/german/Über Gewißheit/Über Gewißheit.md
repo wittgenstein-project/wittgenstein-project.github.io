@@ -981,7 +981,9 @@ Ein Irrtum wird dadurch zu etwas Unerlaubtem.
 
 **402.** In dieser Bemerkung ist schon der Ausdruck »Sätze von der Form der Erfahrungssätze« ganz schlecht; es handelt sich um Aussagen über Gegenstände. Und sie dienen nicht als Fundamente wie Hypothesen, die, wenn sie sich als falsch erweisen, durch andere ersetzt werden.
 
-... und schreib getrost »Im Anfang war die Tat.«
+... und schreib getrost
+
+»Im Anfang war die Tat.«
 
 **403.** Vom Menschen, in Moores Sinne, zu sagen, er *wisse* etwas; was er sage, sei also unbedingt die Wahrheit, scheint mir falsch. – Es ist die Wahrheit nur insofern, als es eine unwankende Grundlage seiner Sprachspiele ist.
 
