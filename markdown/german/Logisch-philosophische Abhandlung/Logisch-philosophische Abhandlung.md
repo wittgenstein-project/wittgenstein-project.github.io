@@ -1654,7 +1654,7 @@ Die Sätze der Mathematik sind Gleichungen also Scheinsätze.
 
 **6.21** Der Satz der Mathematik drückt keinen Gedanken aus.
 
-**6.211** Im Leben ist es ja nie der mathematische Satz, den wir brauchen, sondern wir benützen den mathematischen Satz nu r, um aus Sätzen, welche nicht der Mathematik angehören, auf andere zu schliessen, welche gleichfalls nicht der Mathematik angehören.
+**6.211** Im Leben ist es ja nie der mathematische Satz, den wir brauchen, sondern wir benützen den mathematischen Satz *nur*, um aus Sätzen, welche nicht der Mathematik angehören, auf andere zu schliessen, welche gleichfalls nicht der Mathematik angehören.
 
 (In der Philosophie führt die Frage „wozu gebrauchen wir eigentlich jenes Wort, jenen Satz“ immer wieder zu wertvollen Einsichten.)
 
