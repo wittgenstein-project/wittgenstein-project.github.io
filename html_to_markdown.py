@@ -8,6 +8,20 @@ BLACKLISTED_WORKS = ["Wörterbuch", "Coffey", "Baumform", "tree-like"]
 
 # Functions to convert html to (pandoc) markdown:
 
+def parse_line(errors, parsed, image_urls, elem, html_tag, md_tag, escape_whitespace=False):
+    line = [""]
+    for child in elem.children:
+        parse_html(errors, line, image_urls, child)
+    if len(line) == 1:
+        if escape_whitespace:
+            line = line[0].replace(" ", "\\ ")
+        else:
+            line = line[0].strip()
+        parsed[-1] += f"{md_tag}{line}{md_tag}"
+    else:
+        errors.append(f"Expected single line inside <{html_tag}></{html_tag}>, found {line}")
+
+
 def parse_html(errors, parsed, image_urls, elem):
     if isinstance(elem, NavigableString):
         text = re.sub(r"\s+", " ", elem.text.replace("\n", " "))
@@ -34,26 +48,24 @@ def parse_html(errors, parsed, image_urls, elem):
                     file_name += ".svg"
                 # add the non-breaking space "\ " to suppress the caption
                 parsed[-1] += f"![{alt}](images/{file_name})\\ "
+        elif elem.name == "span" and not elem.get("class") and elem.get("style") == "text-decoration-line: underline; text-decoration-style: dashed;":
+            # wavy underline, will be treated as normal text here
+            parsed[-1] += elem.text
         elif elem.name == "i" \
             or elem.name == "u" \
             or elem.name == "span" and not elem.get("class") and elem.get("style") == "letter-spacing: 0.2em; margin-right: -0.2em;" \
             or elem.name == "span" and not elem.get("class") and elem.get("style") == "font-variant: small-caps;":
-            parsed[-1] += f"*{elem.text}*"
+            parse_line(errors, parsed, image_urls, elem, "i", "*")
         elif elem.name == "b":
-            parsed[-1] += f"**{elem.text}**"
+            parse_line(errors, parsed, image_urls, elem, "b", "**")
         elif elem.name == "s":
-            parsed[-1] += f"~~{elem.text}~~"
-        elif elem.name == "span" and not elem.get("class") and elem.get("style") == "text-decoration-line: underline; text-decoration-style: dashed;":
-            # wavy underline, will be treated as normal text here
-            parsed[-1] += elem.text
+            parse_line(errors, parsed, image_urls, elem, "s", "~~")
         elif elem.name == "sub" and not elem.get("class"):
             # this is pandoc markdown syntax
-            text_escaped = elem.text.replace(" ", "\\ ");
-            parsed[-1] += f"~{text_escaped}~"
+            parse_line(errors, parsed, image_urls, elem, "sub", "~", escape_whitespace=True)
         elif elem.name == "sup" and not elem.get("class"):
             # this is pandoc markdown syntax
-            text_escaped = elem.text.replace(" ", "\\ ");
-            parsed[-1] += f"^{text_escaped}^"
+            parse_line(errors, parsed, image_urls, elem, "sup", "^", escape_whitespace=True)
         elif elem.name == "sup" and elem.get("class") == ["reference"] and elem.get("id"):
             ref_number = elem.get("id").replace("cite_ref-", "")
             parsed[-1] += f"[^{ref_number}]"
@@ -96,6 +108,9 @@ def parse_html(errors, parsed, image_urls, elem):
             or elem.name == "span" and elem.get("class") == ["mwe-math-element"] \
             or elem.name == "span" and elem.get("class") == ["mw-headline"] \
             or elem.name == "span" and elem.get("style") == "white-space: nowrap;":
+            for child in elem.children:
+                parse_html(errors, parsed, image_urls, child)
+        elif elem.name == "span" and elem.get("class") and elem.get("class")[0] == "tlp-aside-par":
             for child in elem.children:
                 parse_html(errors, parsed, image_urls, child)
         elif elem.name == "span" and elem.get("class") and elem.get("class")[0].endswith("-aside-par"):
