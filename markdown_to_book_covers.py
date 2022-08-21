@@ -7,7 +7,84 @@ WIDTH = 1600
 HEIGHT = 2400
 ROW_TITLE = 20
 COLUMN_TITLE = 2
-LWP_YELLOW = "hsl(52, 92%, 81%)"
+LWP_GRAY = "#4c4c4c"
+LWP_YELLOW = "#fbf0a4"
+LWP_LOGO_SVG = """<g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       inkscape:export-ydpi="6.959094"
+       inkscape:export-xdpi="6.959094"
+       transform="translate(10.151076,0.99040557)"
+       id="g945"
+       style="fill:none;stroke:#4c4c4c;stroke-opacity:1;stroke-width:3.96875;stroke-miterlimit:4;stroke-dasharray:none">
+      <path
+         inkscape:transform-center-y="-1.4357909e-06"
+         transform="rotate(-30,214.5413,172.89371)"
+         inkscape:transform-center-x="2.2365329e-06"
+         d="m 204.4255,66.549513 c -16.79115,29.083126 -9.82535,25.061419 -43.40765,25.061418 -33.5823,0 -26.6165,4.021707 -43.40765,-25.061418 -16.79115,-29.083126 -16.79115,-21.039712 0,-50.122837 16.79115,-29.083126 9.82535,-25.0614189 43.40765,-25.0614187 33.5823,1e-7 26.6165,-4.0217073 43.40765,25.0614187 16.79115,29.083126 16.79115,21.039711 0,50.122837 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0.67"
+         inkscape:flatsided="true"
+         sodipodi:arg2="1.0471976"
+         sodipodi:arg1="0.52359878"
+         sodipodi:r2="43.407646"
+         sodipodi:r1="50.122837"
+         sodipodi:cy="41.488094"
+         sodipodi:cx="161.01785"
+         sodipodi:sides="6"
+         id="path940"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#4c4c4c;stroke-width:3.96875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+      <path
+         sodipodi:type="star"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#4c4c4c;stroke-width:3.96875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path943"
+         sodipodi:sides="6"
+         sodipodi:cx="161.01785"
+         sodipodi:cy="41.488094"
+         sodipodi:r1="50.122837"
+         sodipodi:r2="43.407646"
+         sodipodi:arg1="0.52359878"
+         sodipodi:arg2="1.0471976"
+         inkscape:flatsided="true"
+         inkscape:rounded="0.67"
+         inkscape:randomized="0"
+         d="m 204.4255,66.549513 c -16.79115,29.083126 -9.82535,25.061419 -43.40765,25.061418 -33.5823,0 -26.6165,4.021707 -43.40765,-25.061418 -16.79115,-29.083126 -16.79115,-21.039712 0,-50.122837 16.79115,-29.083126 9.82535,-25.0614189 43.40765,-25.0614187 33.5823,1e-7 26.6165,-4.0217073 43.40765,25.0614187 16.79115,29.083126 16.79115,21.039711 0,50.122837 z"
+         inkscape:transform-center-x="2.2365329e-06"
+         transform="rotate(-30,214.5413,172.89371)"
+         inkscape:transform-center-y="-1.4357909e-06"
+         inkscape:export-xdpi="100"
+         inkscape:export-ydpi="100" />
+    </g>
+    <path
+       inkscape:export-ydpi="6.959094"
+       inkscape:export-xdpi="6.959094"
+       sodipodi:nodetypes="csczc"
+       inkscape:connector-curvature="0"
+       id="path947"
+       d="m 97.916286,69.236227 c 0,-8.20574 2.393794,-16.78667 14.720624,-16.78667 12.32682,0 14.72062,8.58093 14.72062,16.78667 0,0 -6.44546,-2.050791 -14.67337,-2.050791 -8.22791,0 -14.767874,2.050791 -14.767874,2.050791 z"
+       style="fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:0.36155897px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <g
+       transform="translate(-657.37874,-138.86078)"
+       id="g965"
+       inkscape:export-xdpi="6.959094"
+       inkscape:export-ydpi="6.959094">
+      <path
+         style="fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:0.30062637px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 771.29132,208.45025 c 8.18498,0 11.31264,1.64466 14.01757,2.70512 4.95929,1.94428 7.58322,8.19609 7.58322,16.56826 0,25.99077 -7.46342,32.52284 -19.54378,33.13876 -1.52441,-7.1807 -2.05701,-20.39336 -2.05701,-25.73529 z"
+         id="path951"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cssccc" />
+      <path
+         sodipodi:nodetypes="cssccc"
+         inkscape:connector-curvature="0"
+         id="path961"
+         d="m 768.73998,208.45025 c -8.18498,0 -11.31264,1.64466 -14.01757,2.70512 -4.95929,1.94428 -7.58322,8.19609 -7.58322,16.56826 0,25.99077 7.46342,32.52284 19.54378,33.13876 1.52441,-7.1807 2.05701,-20.39336 2.05701,-25.73529 z"
+         style="fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:0.30062637px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+  </g>"""
 
 def collides_exact(words, column, row):
     if row >= ROW_TITLE and row < ROW_TITLE + (len(words) * 3):
@@ -47,7 +124,8 @@ else:
                 while row < 10:
                     cx = cell_width + column * cell_width
                     cy = cell_width + row * cell_width
-                    svg_fg += f"""\n<circle cx="{cx}" cy="{cy}" r="4" stroke="black" fill="none" stroke-width="2" />"""
+                    if row < 2 or row > 6 or column < 2 or column > 27 or (row < 4 and column > 17):
+                        svg_fg += f"""\n<circle cx="{cx}" cy="{cy}" r="4" stroke="black" fill="none" stroke-width="2" />"""
                     column += 1
                     if column + 1 >= WIDTH / cell_width:
                         column = 0
@@ -98,7 +176,18 @@ else:
                 for word in words:
                     y += cell_width * 3
                     svg_fg += f"""<text x="{x}" y="{y}" fill="black" font-size="{font_size}" font-weight="bold" font-family="Space Mono">{word}</text>"""
-                svg = f"""<svg width="{WIDTH}" height="{HEIGHT}">"""
+                svg_fg += f"""<g transform="translate({cell_width * 2.1}, {cell_width * 3 - 6})">{LWP_LOGO_SVG}</g>"""
+                svg_fg += f"""<text x="{cell_width * 7.2}" y="{cell_width * 4.6}" fill="{LWP_GRAY}" font-size="{cell_width * 1.65}" font-weight="bold" font-family="Space Mono">The Ludwig</text>"""
+                svg_fg += f"""<text x="{cell_width * 7.2}" y="{cell_width * 6.4}" fill="{LWP_GRAY}" font-size="{cell_width * 1.65}" font-weight="bold" font-family="Space Mono">Wittgenstein Project</text>"""
+                svg = f"""<svg width="{WIDTH}" height="{HEIGHT}"
+                xmlns:dc="http://purl.org/dc/elements/1.1/"
+                xmlns:cc="http://creativecommons.org/ns#"
+                xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                xmlns:svg="http://www.w3.org/2000/svg"
+                xmlns="http://www.w3.org/2000/svg"
+                xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+                xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+                """                
                 svg += svg_bg
                 svg += svg_fg
                 svg += "\n</svg>"
