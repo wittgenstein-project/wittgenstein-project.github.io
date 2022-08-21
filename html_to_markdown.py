@@ -73,13 +73,12 @@ def parse_html(errors, parsed, image_urls, elem):
         elif elem.name == "hr" and not elem.get("class"):
             parsed.extend(["", "---", "", ""])
         elif elem.name == "dl" and not elem.get("class"):
-            parsed.append("")
-            for child in elem.children:
-                parse_html(errors, parsed, image_urls, child)
-            parsed.append("")
-        elif elem.name == "dd" and not elem.get("class"):
             for child in elem.children:
                 parsed.extend(["", ""])
+                parse_html(errors, parsed, image_urls, child)
+            parsed.extend(["", ""])
+        elif elem.name == "dd" and not elem.get("class"):
+            for child in elem.children:
                 parse_html(errors, parsed, image_urls, child)
         elif elem.name == "span" and elem.get("class") == ["tl-check"]:
             # does not seem to contain visible markup, so ignore
