@@ -7,6 +7,7 @@ WIDTH = 1600
 HEIGHT = 2400
 ROW_TITLE = 20
 COLUMN_TITLE = 2
+LWP_YELLOW = "hsl(52, 92%, 81%)"
 
 def collides_exact(words, column, row):
     if row >= ROW_TITLE and row < ROW_TITLE + (len(words) * 3):
@@ -38,14 +39,15 @@ else:
             with open(md_file_name, 'r') as md:
                 md = md.read()
                 words = re.split(" |(?<=-)", f"Wittgenstein — {work}")
-                svg = f"""<svg width="{WIDTH}" height="{HEIGHT}">"""
+                svg_fg = ""
+                svg_bg = ""
                 column = 0
                 row = 0
                 cell_width = 40
                 while row < 10:
                     cx = cell_width + column * cell_width
                     cy = cell_width + row * cell_width
-                    svg += f"""\n<circle cx="{cx}" cy="{cy}" r="4" stroke="black" fill="none" stroke-width="2" />"""
+                    svg_fg += f"""\n<circle cx="{cx}" cy="{cy}" r="4" stroke="black" fill="none" stroke-width="2" />"""
                     column += 1
                     if column + 1 >= WIDTH / cell_width:
                         column = 0
@@ -59,14 +61,14 @@ else:
                     r = math.log(len(remark) + 1)**2 / 3
                     periods = len([c for c in remark if c == "."])
                     question_marks = len([c for c in remark if c == "?"])
-                    lightness = (question_marks * 2 / (periods + (question_marks * 2) + 1)) * 50
-                    color = f"hsl(0, 0%, {lightness}%)"
+                    if periods <= question_marks:
+                        svg_bg += f"""\n<circle cx="{cx}" cy="{cy}" r="{r * 2 + 4}" fill="{LWP_YELLOW}" stroke="{LWP_YELLOW}" stroke-width="8" />"""
                     if "**" in remark:
-                        fill = color
+                        fill = "black"
                     else:
                         fill = "none"
                     #svg += f"""\n<rect x="{cx - r}" y="{cy - r}" width="{r * 2}" height="{r * 2}" fill="{fill}" stroke="black" stroke-width="6" />"""
-                    svg += f"""\n<circle cx="{cx}" cy="{cy}" r="{r}" fill="{fill}" stroke="{color}" stroke-width="6" />"""
+                    svg_fg += f"""\n<circle cx="{cx}" cy="{cy}" r="{r}" fill="{fill}" stroke="black" stroke-width="6" />"""
                     #if "$" in remark:
                     #    x1 = (column * cell_width) + (cell_width / 2)
                     #    y1 = (row * cell_width) + (cell_width * 1.5)
@@ -85,7 +87,7 @@ else:
                     if not collides_fuzzy(words, column, row):
                         cx = cell_width + column * cell_width
                         cy = cell_width + row * cell_width
-                        svg += f"""\n<circle cx="{cx}" cy="{cy}" r="4" stroke="black" fill="none" stroke-width="2" />"""
+                        svg_fg += f"""\n<circle cx="{cx}" cy="{cy}" r="4" stroke="black" fill="none" stroke-width="2" />"""
                     column += 1
                     if column + 1 >= WIDTH / cell_width:
                         column = 0
@@ -95,7 +97,10 @@ else:
                 font_size = cell_width * 3.3
                 for word in words:
                     y += cell_width * 3
-                    svg += f"""<text x="{x}" y="{y}" font-size="{font_size}" font-weight="bold" font-family="Space Mono">{word}</text>"""
+                    svg_fg += f"""<text x="{x}" y="{y}" fill="black" font-size="{font_size}" font-weight="bold" font-family="Space Mono">{word}</text>"""
+                svg = f"""<svg width="{WIDTH}" height="{HEIGHT}">"""
+                svg += svg_bg
+                svg += svg_fg
                 svg += "\n</svg>"
                 with open(svg_file_name, 'w') as file:
                     file.write(svg)
