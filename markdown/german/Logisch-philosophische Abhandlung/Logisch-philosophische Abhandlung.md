@@ -573,7 +573,7 @@ Die beiden müssen die gleiche logische (mathematische) Mannigfaltigkeit besitze
 
 **4.041** Diese mathematische Mannigfaltigkeit kann man natürlich nicht selbst wieder abbilden. Aus ihr kann man beim Abbilden nicht heraus.
 
-**4.0411** Wollten wir z. B. das, was wir durch „(*x*)*fx*“ ausdrücken, durch Vorsetzen eines Indexes vor „*fx*“ ausdrücken – etwa so: „Alg. *fx*“, es würde nicht genügen – wir wüssten nicht, was verallgemeinert wurde. Wollten wir es durch einen Index „*a*“ anzeigen – etwa so: „*f* (*xa*)“ – es würde auch nicht genügen – wir wüssten nicht den Bereich der Allgemeinheitsbezeichnung.
+**4.0411** Wollten wir z. B. das, was wir durch „(*x*)*fx*“ ausdrücken, durch Vorsetzen eines Indexes vor „*fx*“ ausdrücken – etwa so: „Alg. *fx*“, es würde nicht genügen – wir wüssten nicht, was verallgemeinert wurde. Wollten wir es durch einen Index „*a*“ anzeigen – etwa so: „*f* (*x~a~*)“ – es würde auch nicht genügen – wir wüssten nicht den Bereich der Allgemeinheitsbezeichnung.
 
 Wollten wir es durch Einführung einer Marke in die Argumentstellen versuchen – etwa so: „(*A, A*) *. F* (*A, A*)“ – es würde nicht genügen – wir könnten die Identität der Variablen nicht feststellen. U. s. w.
 
@@ -701,25 +701,9 @@ Die Zahlenreihe ist nicht nach einer externen, sondern nach einer internen Relat
 
 Ebenso die Reihe der Sätze „*aRb*“,
 
-„(∃
+„(∃*x*) : *aRx . xRb*“,
 
-*x*
-
-) :
-
-*aRx . xRb*
-
-“,
-
-„(∃
-
-*x, y*
-
-) :
-
-*aRx . xRy . yRb*
-
-“, u. s. f.
+„(∃*x, y*) : *aRx . xRy . yRb*“, u. s. f.
 
 (Steht *b* in einer dieser Beziehungen zu *a*, so nenne ich *b* einen Nachfolger von *a*.)
 
@@ -876,7 +860,7 @@ Ist die Reihenfolge der Wahrheitsmöglichkeiten im Schema durch eine Kombination
 
 (Die Anzahl der Stellen in der linken Klammer ist durch die Anzahl der Glieder in der rechten bestimmt.)
 
-**4.45** Für *n* Elementarsätze gibt es *Ln* mögliche Gruppen von Wahrheitsbedingungen.
+**4.45** Für *n* Elementarsätze gibt es *L~n~* mögliche Gruppen von Wahrheitsbedingungen.
 
 Die Gruppen von Wahrheitsbedingungen, welche zu den Wahrheitsmöglichkeiten einer Anzahl von Elementarsätzen gehören, lassen sich in eine Reihe ordnen.
 
@@ -946,7 +930,7 @@ Dass es eine allgemeine Satzform gibt, wird dadurch bewiesen, dass es keinen Sat
 
 **5.02** Es liegt nahe, die Argumente von Funktionen mit den Indices von Namen zu verwechseln. Ich erkenne nämlich sowohl am Argument wie am Index die Bedeutung des sie enthaltenden Zeichens.
 
-In Russell’s „+*c*“ ist z. B. „*c*“ ein Index, der darauf hinweist, dass das ganze Zeichen das Additionszeichen für Kardinalzahlen ist. Aber diese Bezeichnung beruht auf willkürlicher Übereinkunft und man könnte statt „+*c*“ auch ein einfaches Zeichen wählen; in „∼*p*“ aber ist „*p*“ kein Index, sondern ein Argument: der Sinn von „∼*p*“ *kann nicht* verstanden werden, ohne dass vorher der Sinn von „*p*“ verstanden worden wäre. (Im Namen Julius Cäsar ist „Julius“ ein Index. Der Index ist immer ein Teil einer Beschreibung des Gegenstandes, dessen Namen wir ihn anhängen. Z. B. *Der* Cäsar aus dem Geschlechte der Julier.)
+In Russell’s „+*~c~*“ ist z. B. „*c*“ ein Index, der darauf hinweist, dass das ganze Zeichen das Additionszeichen für Kardinalzahlen ist. Aber diese Bezeichnung beruht auf willkürlicher Übereinkunft und man könnte statt „+*~c~*“ auch ein einfaches Zeichen wählen; in „∼*p*“ aber ist „*p*“ kein Index, sondern ein Argument: der Sinn von „∼*p*“ *kann nicht* verstanden werden, ohne dass vorher der Sinn von „*p*“ verstanden worden wäre. (Im Namen Julius Cäsar ist „Julius“ ein Index. Der Index ist immer ein Teil einer Beschreibung des Gegenstandes, dessen Namen wir ihn anhängen. Z. B. *Der* Cäsar aus dem Geschlechte der Julier.)
 
 Die Verwechslung von Argument und Index liegt, wenn ich mich nicht irre, der Theorie Frege’s von der Bedeutung der Sätze und Funktionen zugrunde. Für Frege waren die Sätze der Logik Namen, und deren Argumente die Indices dieser Namen.
 
@@ -1039,9 +1023,9 @@ Die Kontradiktion verschwindet sozusagen ausserhalb, die Tautologie innerhalb al
 
 Die Kontradiktion ist die äussere Grenze der Sätze, die Tautologie ihr substanzloser Mittelpunkt.
 
-**5.15** Ist *Wr* die Anzahl der Wahrheitsgründe des Satzes „*r*“, *Wrs* die Anzahl derjenigen Wahrheitsgründe des Satzes „*s*“, die zugleich Wahrheitsgründe von „*r*“ sind, dann nennen wir das Verhältnis: *Wrs* : *Wr* das Mass der *Wahrscheinlichkeit*, welche der Satz „*r*“ dem Satz „*s*“ gibt.
+**5.15** Ist *W~r~* die Anzahl der Wahrheitsgründe des Satzes „*r*“, *W~rs~* die Anzahl derjenigen Wahrheitsgründe des Satzes „*s*“, die zugleich Wahrheitsgründe von „*r*“ sind, dann nennen wir das Verhältnis: *W~rs~* : *W~r~* das Mass der *Wahrscheinlichkeit*, welche der Satz „*r*“ dem Satz „*s*“ gibt.
 
-**5.151** Sei in einem Schema wie dem obigen in No. [5.101](#5.101) *Wr* die Anzahl der „*W* “ im Satze *r*; *Wrs* die Anzahl derjenigen „*W* “ im Satze *s*, die in gleichen Kolonnen mit „*W* “ des Satzes *r* stehen. Der Satz *r* gibt dann dem Satze *s* die Wahrscheinlichkeit: *Wrs* : *Wr*.
+**5.151** Sei in einem Schema wie dem obigen in No. [5.101](#5.101) *W~r~* die Anzahl der „*W* “ im Satze *r*; *W~rs~* die Anzahl derjenigen „*W* “ im Satze *s*, die in gleichen Kolonnen mit „*W* “ des Satzes *r* stehen. Der Satz *r* gibt dann dem Satze *s* die Wahrscheinlichkeit: *W~rs~* : *W~r~*.
 
 **5.1511** Es gibt keinen besonderen Gegenstand, der den Wahrscheinlichkeitssätzen eigen wäre.
 
@@ -1327,7 +1311,7 @@ Kennzeichen des zusammengesetzten Symbols: Es hat etwas mit *anderen* Symbolen g
 
 **5.53** Gleichheit des Gegenstandes drücke ich durch Gleichheit des Zeichens aus, und nicht mit Hilfe eines Gleichheitszeichens. Verschiedenheit der Gegenstände durch Verschiedenheit der Zeichen.
 
-**5.5301** Dass die Identität keine Relation zwischen Gegenständen ist, leuchtet ein. Dies wird sehr klar, wenn man z. B. den Satz „(*x*) : *fx.* ⊃* .x* = *a*“ betrachtet. Was dieser Satz sagt, ist einfach, dass *nur* *a* der Funktion *f* genügt, und nicht, dass nur solche Dinge der Funktion *f* genügen, welche eine gewisse Beziehung zu *a* haben.
+**5.5301** Dass die Identität keine Relation zwischen Gegenständen ist, leuchtet ein. Dies wird sehr klar, wenn man z. B. den Satz „(*x*) : *fx.* ⊃*.x* = *a*“ betrachtet. Was dieser Satz sagt, ist einfach, dass *nur* *a* der Funktion *f* genügt, und nicht, dass nur solche Dinge der Funktion *f* genügen, welche eine gewisse Beziehung zu *a* haben.
 
 Man könnte nun freilich sagen, dass eben *nur* *a* diese Beziehung zu *a* habe, aber um dies auszudrücken, brauchten wir das Gleichheitszeichen selber.
 

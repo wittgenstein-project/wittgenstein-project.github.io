@@ -1982,11 +1982,9 @@ Wir meinen leicht, wir müßten den Regreß ein paar Stufen weit durchlaufen und
 Zu beweisen ist, daß F'(n) nicht eine der Regeln F (k, n) sein kann. Angenommen, es sei die 100ste. Dann lautet die Regel zur Bildung
 
 von F'(1)
-
 F(1,1)
 
 von F'(2)
-
 F(2,2) etc.
 
 aber die Regel zur Bildung der 100sten Stelle von F'(n) wird F(100,100); d. h., sie sagt uns nur, daß die 100ste Stelle sich selber gleich sein soll, ist also für n = 100 *keine* Regel.

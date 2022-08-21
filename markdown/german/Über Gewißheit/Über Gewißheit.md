@@ -763,7 +763,7 @@ Bei dieser Ansicht werden wir verharren, es sei denn, daß sich unsere ganze Nat
 
 **311.** Oder denk dir, der Schüler bezweifelte die Geschichte (und alles, was mit ihr zusammenhängt), ja auch, ob die Erde vor 100 Jahren überhaupt existiert habe.
 
-**312.*** *Da ist es mir, als wäre dieser Zweifel hohl. Aber ist es dann nicht auch der *Glaube* an die Geschichte? Nein; dieser hängt mit so vielem zusammen.
+***312.*****Da ist es mir, als wäre dieser Zweifel hohl. Aber ist es dann nicht auch der *Glaube* an die Geschichte? Nein; dieser hängt mit so vielem zusammen.
 
 **313.** So ist *das* also, was uns einen Satz glauben macht? Nun, es hängt eben die Grammatik von »glauben« mit der des geglaubten Satzes zusammen.
 

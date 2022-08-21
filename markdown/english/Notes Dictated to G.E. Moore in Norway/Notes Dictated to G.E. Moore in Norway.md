@@ -59,11 +59,7 @@ For instance: Consider the two propositions (1) "What symbolizes here is a thing
 
 (1) Take *φ*x. We want to explain the meaning of 'In "*φ*x" a *thing* symbolizes'. The analysis is:—
 
-(∃y) . y symbolizes . y = "x" . "
-
-*φ*
-
-x"
+(∃y) . y symbolizes . y = "x" . "*φ*x"
 
 ["x" is the name of y: "*φ*x" = '"*φ*" is at [the] left of "x"' and *says* *φ*x.]
 
@@ -85,29 +81,9 @@ If you had any unanalysable proposition in which particular names and relations 
 
 (2) The point can here be brought out as follows. Take *φ*a and *φ*A: and ask what is meant by saying, "There is a thing in *φ*a, and a complex in *φ*A"?
 
-(1) means: (∃x) .
+(1) means: (∃x) . *φ*x . x = a
 
-*φ*
-
-x . x = a
-
-(2) means: (∃x,
-
-*ψξ*
-
-) .
-
-*φ*
-
-A =
-
-*ψ*
-
-x .
-
-*φ*
-
-x.
+(2) means: (∃x, *ψξ*) . *φ*A = *ψ*x . *φ*x.
 
 *Use of logical propositions.* You may have one so complicated that you cannot, by looking at it, see that it is a tautology; but you have shewn that it can be derived by certain operations from certain other propositions according to our rule for constructing tautologies; and hence you are enabled to see that one thing follows from another, when you would not have been able to see it otherwise. E.g., if our tautology is of [the] form p ⊃ q you can see that q follows from p; and so on.
 

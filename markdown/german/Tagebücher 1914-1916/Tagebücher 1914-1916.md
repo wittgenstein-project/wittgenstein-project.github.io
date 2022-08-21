@@ -292,15 +292,7 @@ Gibt es denn eine Wissenschaft der vollständig verallgemeinerten Sätze? Dies k
 
 Nun aber die Sätze: "(∃*φ*,x). *φ*x"
 
-und "~(∃
-
-*φ*
-
-,x).
-
-*φ*
-
-x".
+und "~(∃*φ*,x). *φ*x".
 
 Welcher von ihnen ist tautologisch, welcher kontradiktorisch?
 
@@ -348,47 +340,9 @@ Man kann also ein Bild der Welt entwerfen, ohne zu sagen, was was darstellt.
 
 Nehmen wir z. B. an, die Welt bestünde aus den Dingen A und B und der Eigenschaft F, und es wäre F(A) der Fall und nicht F(B). Diese Welt könnten wir auch durch die folgenden Sätze beschreiben:
 
-(∃x,y).(∃
+(∃x,y).(∃*φ*).x ≠ y.*φ*x.~*φ*y:*φ*u.*φ*z. ⊃~u,z~.u = z
 
-*φ*
-
-).x ≠ y.
-
-*φ*
-
-x.~
-
-*φ*
-
-y:
-
-*φ*
-
-u.
-
-*φ*
-
-z. ⊃
-
-~u,z~
-
-.u = z
-
-(∃
-
-*φ*
-
-).(
-
-*ψ*
-
-).
-
-*ψ*
-
-=
-
-*φ*
+(∃*φ*).(*ψ*).*ψ* = *φ*
 
 (∃x,y).(z).z = x v z = y
 
@@ -450,11 +404,9 @@ ${\displaystyle 1={\hat {\alpha }}\{(\exists \phi )::(\exists x).\phi x:\phi y.\
 
 (Das Gleichheitszeichen in der geschweiften Klammer könnte man *vermeiden*, wenn man schriebe
 
-${\displaystyle 0={\widehat {{\hat {u}}(\phi u)}}\{(x)\sim \phi x\}}$
+${\displaystyle 0={\widehat {{\hat {u}}(\phi u)}}\{(x)\sim \phi x\}}$.)
 
-.)
-
-Der Satz muß die *Möglichhit seiner Wahrheit enthalten* (und so zeigen). Aber nicht mehr als die *Möglichkeit.* [*Vgl.* 2.203* u.* 3.02 *u.* 3.13.]
+Der Satz muß die *Möglichhit seiner Wahrheit enthalten* (und so zeigen). Aber nicht mehr als die *Möglichkeit.* [*Vgl.* 2.203*u.* 3.02 *u.* 3.13.]
 
 Nach meiner Definition der Klassen ist ${\displaystyle (x).\sim {\hat {x}}(\phi x)}$ die Aussage, daß ${\displaystyle {\hat {x}}(\phi x)}$ null ist, und die Definition der Null ist dann ${\displaystyle 0={\hat {\alpha }}[(x).\sim \alpha ]{\text{ Def.}}}$
 
@@ -792,11 +744,7 @@ Wenn ich nun eine Funktion von der Nullklasse auszusagen scheine, so sage ich, d
 
 Ist x ≠ x. ≡~x.~ *φ*x identisch mit
 
-(x).~
-
-*φ*
-
-x ? Gewiß!
+(x).~*φ*x ? Gewiß!
 
 Der Satz deutet auf die Möglichkeit, daß es sich so und so verhält.
 
@@ -1182,7 +1130,7 @@ Wie ~*ξ*, ~*ξ* ∨ ~*ξ* etc. dieselbe Funktion ist, so ist auch ~*η* ∨ *η
 
 Meine Schwierigkeit ist nur eine – enorme – Schwierigkeit des Ausdrucks.
 
-**18. 3. 15.**
+**18. 3*.* 15.**
 
 Es ist klar, daß die genaueste Untersuchung des Satzzeichens nicht ergeben kann, was es aussagt – wohl aber, was es aussagen *kann.*
 
@@ -1266,7 +1214,7 @@ In der Logik (Mathematik) sind Prozeß und Resultat gleichwertig. (Darum keine �
 
 **25. 4. 15.**
 
-Da die Sprache in *internen * Relationen zur Welt steht, so bestimmt *sie* und diese Relationen die logische Möglichkeit der Tatsachen. Haben wir ein bedeutungsvolles Zeichen, so muß es in einer bestimmten internen Relation zu einem Gebilde stehen. Zeichen und Relation bestimmen eindeutig die logische Form des Bezeichneten.
+Da die Sprache in *internen* Relationen zur Welt steht, so bestimmt *sie* und diese Relationen die logische Möglichkeit der Tatsachen. Haben wir ein bedeutungsvolles Zeichen, so muß es in einer bestimmten internen Relation zu einem Gebilde stehen. Zeichen und Relation bestimmen eindeutig die logische Form des Bezeichneten.
 
 Aber kann nicht irgend ein so genanntes Ding mit irgend einem solchen auf ein und dieselbe Weise zugeordnet werden?
 
@@ -1304,7 +1252,7 @@ Wie zeigt es sich, wenn sich zwei Aussagen miteinander vertragen? Wenn man in p 
 
 Gehört das Zeichen p.q auch unter diejenigen, welche p bejahen?­ Ist p eins von den Zeichen für p ∨ q ?
 
-Kann man so sagen: Alle Zeichen, welche p *nicht * bejahen *nicht* von p bejaht werden und p *nicht* als Tautologie oder Kontradiktion enthalten, alle diese Zeichen verneinen p?
+Kann man so sagen: Alle Zeichen, welche p *nicht* bejahen *nicht* von p bejaht werden und p *nicht* als Tautologie oder Kontradiktion enthalten, alle diese Zeichen verneinen p?
 
 **29. 4. 15.**
 
@@ -2272,25 +2220,11 @@ Wenn nämlich die Elementarsätze gegeben sind, so sind damit auch *alle* Elemen
 
 Immer wieder fühlt man, daß auch im Elementarsatz von allen Gegenständen die Rede ist.
 
-(∃x)
-
-*φ*
-
-x.x = a
+(∃x)*φ*x.x = a
 
 Wenn zwei Operationen gegeben sind, die sich nicht auf *eine* reduzieren lassen, so muß sich zum mindesten eine allgemeine Form ihrer Kombination aufstellen lassen.
 
-*φ*
-
-x,
-
-*ψ*
-
-y |
-
-*χ*
-
-z , (∃x). , (x).
+*φ*x, *ψ*y | *χ*z , (∃x). , (x).
 
 Da sich offenbar leicht erklären läßt, wie mit diesen Operationen sich Sätze bilden lassen und wie Sätze nicht zu bilden sind, so muß sich dies auch *irgendwie* exakt ausdrücken lassen.
 
@@ -2440,7 +2374,7 @@ Das Ich ist kein Gegenstand.
 
 Jedem Gegenstand stehe ich objektiv gegenüber. Dem Ich nicht.
 
-Es gibt also wirklich eine Art und Weise, wie in der Philosophie *in einem nicht psychologischen Sinne * vom Ich die Rede sein kann und muß. [*Vgl.* 5.641.]
+Es gibt also wirklich eine Art und Weise, wie in der Philosophie *in einem nicht psychologischen Sinne* vom Ich die Rede sein kann und muß. [*Vgl.* 5.641.]
 
 **12. 8. 16.**
 
@@ -2610,7 +2544,7 @@ Ist etwa das böse Gesicht an sich böse oder bloß, weil es empirisch mit böse
 
 Aber es ist klar, daß der Kausalnexus gar kein Nexus ist. [*Vgl.* 5.136.]
 
-Ist es denn wahr, daß sich mein Charakter nach der psychophysischen Auffassung nur im Bau *meines * Körpers oder meines Gehirns und nicht ebenso im Bau der ganzen übrigen Welt ausdrückt?
+Ist es denn wahr, daß sich mein Charakter nach der psychophysischen Auffassung nur im Bau *meines* Körpers oder meines Gehirns und nicht ebenso im Bau der ganzen übrigen Welt ausdrückt?
 
 Hier liegt ein springender Punkt.
 
