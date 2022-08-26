@@ -21,10 +21,8 @@
 
 @page clean {
     @bottom-center {
-        content: none;
+        content: counter(page);
     }
-
-    counter-reset: page;
 }
 
 .fullpage img {
