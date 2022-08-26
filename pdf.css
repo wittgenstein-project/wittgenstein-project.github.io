@@ -4,6 +4,7 @@
     margin-bottom: 25mm;
     margin-left: 10mm;
     margin-right: 10mm;
+
     @bottom-center {
         content: counter(page)
     }
@@ -13,6 +14,7 @@
     @bottom-center {
         content: none;
     }
+
     margin: 0;
     counter-reset: page;
 }
@@ -21,20 +23,8 @@
     @bottom-center {
         content: none;
     }
+
     counter-reset: page;
-}
-
-p {
-    hyphens: auto;
-    margin: 0;
-    text-align: justify;
-    text-indent: 1em;
-}
-
-br::after {
-    content: '';
-    display: inline-block;
-    width: 0.78em;
 }
 
 .fullpage img {
@@ -58,4 +48,39 @@ br::after {
 .author {
     text-align: center;
     text-indent: 0;
+}
+
+h1.title {
+    font-size: 2.6em;
+    font-weight: bold;
+}
+
+h1::before, h2::before {
+    content: '';
+    page: clean;
+}
+
+h1 {
+    font-size: 2.6em;
+    font-weight: normal;
+    text-align: center;
+}
+
+h2 {
+    font-size: 1.3em;
+    font-weight: bold;
+    text-align: center;
+}
+
+p {
+    hyphens: auto;
+    margin: 0;
+    text-align: justify;
+    text-indent: 1em;
+}
+
+br::after {
+    content: '';
+    display: inline-block;
+    width: 0.78em;
 }

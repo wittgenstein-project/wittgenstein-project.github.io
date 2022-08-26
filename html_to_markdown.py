@@ -209,7 +209,7 @@ def parse_html(errors, parsed, image_urls, elem):
             parsed.extend(parsed_table)
         elif elem.name == "p" and not elem.get("class") and elem.get("style") == "text-align: center; font-size: 125%;" \
             or elem.name == "h2" and not elem.get("class"):
-            parsed.extend([f"# {elem.text}", ""])
+            parsed.extend([f"## {elem.text}", ""])
         elif elem.name == "p" and not elem.get("class") and not elem.get("style"):
             parsed.append("")
             for child in elem.children:
@@ -245,7 +245,7 @@ def parse_html(errors, parsed, image_urls, elem):
                     parsed.append(f"_{child.strip()}_")
                 else:
                     parsed.append("")
-            parsed.extend(["", "\\newpage", "", ""])
+            parsed.extend(["", "# <<TITLE>>", "", ""])
         elif elem.name == "div" and elem.get("style") == "border: 1px solid silver; padding: 12px 20px; margin: 20px 0;":
             # box
             parsed.extend(["", "---", "", ""])
@@ -303,14 +303,14 @@ author: Ludwig Wittgenstein
 title: {title}
 ---
 
-\\newpage
+# Editor's Note
 
 _Published by the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.org/)._
 
 """
     image_urls = []
     for line in parse_html(errors, [""], image_urls, text.find("div", "colophon")):
-        parsed += line.strip() + "\n"
+        parsed += line.strip().replace("# <<TITLE>>", f"# {title}") + "\n"
     after_title = text.find_all("p", "tl-title")[-1]
     while after_title.next_sibling:
         after_title = after_title.next_sibling
