@@ -16,18 +16,24 @@ else:
         if not os.path.exists(output_dir):
             os.mkdir(output_dir)
         for work in os.listdir(os.path.join(MARKDOWN_DIR, lang)):
-            if "Zettel" in work:
-                continue
             print(f"*** Converting {work} with pandoc from .md to .pdf ***")
             output_file = os.path.join(output_dir, f"{work}.pdf")
             input_dir = os.path.join(MARKDOWN_DIR, lang, work)
             input_file = os.path.join(input_dir, f"{work}.md")
-            if os.system(f"pandoc header-includes.yaml {quote(input_file)}"
+            if lang == "english":
+                html_lang = "en"
+            elif lang == "german":
+                html_lang = "de"
+            else:
+                raise Exception(f"Unknown language: '{lang}'")
+            if os.system(f"pandoc {quote(input_file)}"
                          f" --resource-path={quote(input_dir)}"
                          #" --fail-if-warnings"
-                         " -V linkcolor:blue"
-                         " -V geometry:a5paper"
-                         " -V geometry:margin=2.7cm"
-                         " --pdf-engine=xelatex"
+                         f" -V lang:{html_lang}"
+                         " -V backgroundcolor:#fff"
+                         " --template=template.html"
+                         " --pdf-engine=weasyprint"
+                         " --pdf-engine-opt=-s=pdf.css"
+                         f" --pdf-engine-opt=--base-url={quote(input_dir)}"
                          f" -o {quote(output_file)}") != 0:
                 sys.exit(1)

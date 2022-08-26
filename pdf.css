@@ -1,0 +1,61 @@
+@page {
+    size: 160mm 240mm;
+    margin-top: 20mm;
+    margin-bottom: 25mm;
+    margin-left: 10mm;
+    margin-right: 10mm;
+    @bottom-center {
+        content: counter(page)
+    }
+}
+
+@page full {
+    @bottom-center {
+        content: none;
+    }
+    margin: 0;
+    counter-reset: page;
+}
+
+@page clean {
+    @bottom-center {
+        content: none;
+    }
+    counter-reset: page;
+}
+
+p {
+    hyphens: auto;
+    margin: 0;
+    text-align: justify;
+    text-indent: 1em;
+}
+
+br::after {
+    content: '';
+    display: inline-block;
+    width: 0.78em;
+}
+
+.fullpage img {
+    width: 160mm;
+    height: 240mm;
+    bottom: 0;
+    left: 0;
+    margin: 0;
+    padding: 0;
+    max-width: none;
+    page: full;
+    position: absolute;
+}
+
+.blank {
+    height: 240mm;
+    width: 160mm;
+    page: full;
+}
+
+.author {
+    text-align: center;
+    text-indent: 0;
+}
