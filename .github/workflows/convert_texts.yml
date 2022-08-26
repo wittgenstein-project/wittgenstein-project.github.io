@@ -14,7 +14,9 @@ jobs:
       - name: Install Dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y pandoc librsvg2-bin texlive texlive-xetex texlive-latex-extra weasyprint
+          sudo wget https://github.com/jgm/pandoc/releases/download/2.19.2/pandoc-2.19.2-1-amd64.deb
+          sudo dpkg -i pandoc-2.19.2-1-amd64.deb
+          sudo apt-get install -y librsvg2-bin texlive texlive-xetex texlive-latex-extra weasyprint
           sudo cp -r ./fonts/Space_Mono_2/*.ttf /usr/share/fonts/truetype/
       - name: Install Dependencies
         run: pip3 install -r ./requirements.txt
