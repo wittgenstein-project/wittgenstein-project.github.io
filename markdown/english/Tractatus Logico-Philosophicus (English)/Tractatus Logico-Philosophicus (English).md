@@ -3,7 +3,7 @@ author: Ludwig Wittgenstein
 title: Tractatus Logico-Philosophicus (English)
 ---
 
-\newpage
+# Editor's Note
 
 _Published by the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.org/)._
 
@@ -11,7 +11,7 @@ _Translated by [F. P. Ramsey](https://en.wikipedia.org/wiki/Frank_Ramsey_(mathem
 
 _This digital edition is based on Project Gutenberg's *Tractatus Logico-Philosophicus*, by Ludwig Wittgenstein, which was produced by Jana Srna, Norbert H. Langkau, and the Online Distributed Proofreading Team at [pgdp.net](http://www.pgdp.net); the Project Gutenberg's edition is, in turn, a reproduction of Ludwig Wittgenstein. *Tractatus Logico-Philosophicus*, edited by C. K. Ogden and F. P. Ramsey, Kegan Paul, Trench, Trubner & Co., 1922. The original used a lower-case 'v' for the *logical or* operator; it has been replaced with the correct '∨' character. Every effort has been made to replicate the original text as faithfully as possible. The original-language text is in the public domain in its country of origin and other countries and areas where the copyright term is the author's life plus 70 years or fewer. This translation is in the public domain in its country of origin and other countries and areas where the copyright term is the author's life plus 70 years or fewer. Additionally, both the original-language text and the translation are in the public domain in the United States, because they were published before 1 January 1927._
 
-\newpage
+# Tractatus Logico-Philosophicus (English)
 
 Dedicated
 to the memory of my friend

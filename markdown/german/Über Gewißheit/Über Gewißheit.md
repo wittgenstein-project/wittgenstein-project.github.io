@@ -3,7 +3,7 @@ author: Ludwig Wittgenstein
 title: Über Gewißheit
 ---
 
-\newpage
+# Editor's Note
 
 _Published by the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.org/)._
 
@@ -11,7 +11,7 @@ _Herausgegeben von [G. E. M. Anscombe](https://en.wikipedia.org/wiki/G._E._M._An
 
 _Diese digitale Ausgabe ist eine Reproduktion von L. Wittgenstein, *Über Gewißheit*. Herausgegeben von G. E. M. Anscombe und G. H. von Wright. Suhrkamp Verlag, Frankfurt am Main, 1970. Dieses Werk ist gemeinfrei, weil seine urheberrechtliche Schutzfrist abgelaufen ist. Dies gilt für das Herkunftsland des Werks und alle weiteren Staaten mit einer gesetzlichen Schutzfrist von 70 oder weniger Jahren nach dem Tod des Urhebers._
 
-\newpage
+# Über Gewißheit
 
 **1.** Wenn du weißt, daß hier eine Hand ist, so geben wir dir alles übrige zu.
 

@@ -3,7 +3,7 @@ author: Ludwig Wittgenstein
 title: Zettel
 ---
 
-\newpage
+# Editor's Note
 
 _Published by the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.org/)._
 
@@ -11,7 +11,7 @@ _Herausgegeben von [P. Geach](https://en.wikipedia.org/wiki/Peter_Geach), [G. E.
 
 _Diese digitale Ausgabe ist eine Reproduktion von L. Wittgenstein, *Zettel*. Herausgegeben von G. E. M. Anscombe und G. H. von Wright. Basil Blackwell, Oxford 1967. Dieses Werk ist gemeinfrei, weil seine urheberrechtliche Schutzfrist abgelaufen ist. Dies gilt für das Herkunftsland des Werks und alle weiteren Staaten mit einer gesetzlichen Schutzfrist von 70 oder weniger Jahren nach dem Tod des Urhebers._
 
-\newpage
+# Zettel
 
 **1.** W. James: der Gedanke sei schon am Anfang des Satzes fertig. Wie kann man das wissen? – Aber die *Absicht*, ihn auszusprechen, kann schon bestehen, ehe das erste Wort gesagt ist. Denn fragt man Einen »weißt du, was du sagen willst?«, so wird er es oft bejahen.
 

@@ -3,7 +3,7 @@ author: Ludwig Wittgenstein
 title: Bemerkungen über die Farben
 ---
 
-\newpage
+# Editor's Note
 
 _Published by the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.org/)._
 
@@ -11,9 +11,9 @@ _Herausgegeben von [G. E. M. Anscombe](https://en.wikipedia.org/wiki/G._E._M._An
 
 _Diese digitale Ausgabe ist eine Reproduktion von L. Wittgenstein, *Bemerkungen über die Farben*. Herausgegeben von G. E. M. Anscombe. University of California Press, Berkeley and Los Angeles, 1977. Dieses Werk ist gemeinfrei, weil seine urheberrechtliche Schutzfrist abgelaufen ist. Dies gilt für das Herkunftsland des Werks und alle weiteren Staaten mit einer gesetzlichen Schutzfrist von 70 oder weniger Jahren nach dem Tod des Urhebers._
 
-\newpage
+# Bemerkungen über die Farben
 
-# Teil I.
+## Teil I.
 
 **1.** Ein Sprachspiel: Darüber berichten, ob ein bestimmter Körper heller oder dunkler als ein andrer sei. – Aber nun gibt es ein verwandtes: Über das Verhältnis der Helligkeiten bestimmter Farbtöne aussagen. (Damit ist zu vergleichen: Das Verhältnis der Längen zweier Stäbe bestimmen – und das Verhältnis zweier Zahlen bestimmen.) Die Form der Sätze in beiden Sprachspielen ist die gleiche: "X ist heller als Y". Aber im ersten ist es eine externe Relation und der Satz zeitlich, im zweiten ist es eine interne Relation und der Satz zeitlos.
 
@@ -223,7 +223,7 @@ Aber angenommen, ich hätte nie von der Existenz blinder Menschen gehört und ei
 
 **88.** Wenn der Psychologe uns lehrt "Es gibt Menschen, welche sehen", so können wir ihn fragen: "Und was nennst Du 'Menschen, welche sehen'?" Darauf müßte die Antwort sein: Menschen, die unter den und den Umständen sich so und so benehmen.
 
-# Teil II.
+## Teil II.
 
 **1.** Man könnte von dem Farbeindruck einer Fläche reden, womit nicht die Farbe gemeint wäre, sondern das Zusammen der Farbtöne, das den Eindruck einer braunen Fläche (z.B.) ergibt.
 
@@ -275,7 +275,7 @@ Ja, man spricht gar nicht von einem 'weißlichen Schein'!
 
 **20.** Ich *sehe* nicht, daß die Farben der Körper Licht in mein Auge reflektieren.
 
-# Teil III.
+## Teil III.
 
 24.3.50
 
