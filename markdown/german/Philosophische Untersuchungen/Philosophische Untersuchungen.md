@@ -13,6 +13,8 @@ _Diese digitale Ausgabe ist eine Reproduktion von L. Wittgenstein, *Philosophisc
 
 # Philosophische Untersuchungen
 
+## Motto
+
 >
 > Überhaupt hat der Fortschritt das an sich, daß er viel größer ausschaut, als er wirklich ist.
 >
@@ -20,7 +22,7 @@ _Diese digitale Ausgabe ist eine Reproduktion von L. Wittgenstein, *Philosophisc
 > *– Nestroy*
 >
 
-*Vorwort*
+## Vorwort
 
 In dem Folgenden veröffentliche ich Gedanken, den Niederschlag philosophischer Untersuchungen, die mich in den letzten 16 Jahren beschäftigt haben. Sie betreffen viele Gegenstände: Den Begriff der Bedeutung, des Verstehens, des Satzes, der Logik, die Grundlagen der Mathematik, die Bewußtseinszustände und Anderes. Ich habe diese Gedanken alle als Bemerkungen, kurze Absätze, niedergeschrieben. Manchmal in längeren Ketten, über den gleichen Gegenstand, manchmal in raschem Wechsel von einem Gebiet zum andern überspringend. – Meine Absicht war es von Anfang, alles dies einmal in einem Buche zusammenzufassen, von dessen Form ich mir zu verschiedenen Zeiten verschiedene Vorstellungen machte. Wesentlich aber schien es mir, daß darin die Gedanken von einem Gegenstand zum andern in einer natürlichen und lückenlosen Folge fortschreiten sollten.
 
