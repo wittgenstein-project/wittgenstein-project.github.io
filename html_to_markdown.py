@@ -234,6 +234,16 @@ def parse_html(errors, parsed, image_urls, elem):
             or elem.get("class") and elem.get("class") == ["custom-mobile-only"]:
             # ignore, seems to contain only page breaks of the Nachlass documents
             pass
+        elif (elem.name == "div" or elem.name == "span") and elem.get("class") and elem.get("class") == ["noebook"]:
+            pass
+        elif elem.name == "div" and elem.get("class") and elem.get("class") == ["ebookonly"]:
+            parsed.append("")
+            for child in elem.children:
+                parse_html(errors, parsed, image_urls, child)
+            parsed.append("")
+        elif elem.name == "span" and elem.get("class") and elem.get("class") == ["ebookonly"]:
+            for child in elem.children:
+                parse_html(errors, parsed, image_urls, child)
         elif elem.name == "div" and elem.get("class") and "colophon" in elem["class"]:
             # colophon
             parsed.append("")
