@@ -771,17 +771,17 @@ Und »wenn ich etwas damit meine« – heißt das etwas *Ähnliches* wie: »wenn
 
 **249.** »Nichts leichter, als sich einen 4-dimensionalen Würfel vorstellen! Er schaut so aus:[^1]
 
-[](https://commons.wikimedia.org/wiki/File:Net_of_tesseract.gif)
+![Zettel 249a (colour).png](images/320px-Zettel_249a_%28colour%29.png)\
 
 «.
 
 Aber das meine ich nicht, ich meine etwas wie
 
-![Zettel 249.png](images/220px-Zettel_249.png)\
+![Zettel 249b (colour).png](images/220px-Zettel_249b_%28colour%29.png)\
 
 nur mit 4 Ausdehnungen! – »Aber ist nicht, was ich dir gezeigt habe, eben etwas wie
 
-![Zettel 249.png](images/220px-Zettel_249.png)\
+![Zettel 249b (colour).png](images/220px-Zettel_249b_%28colour%29.png)\
 
 nur mit 4 Ausdehnungen?« – Nein; das *meine* ich nicht! –– Was aber meine ich? Was ist mein Bild? Nun, der 4-dimensionale Würfel, wie du ihn gezeichnet hast, ist es *nicht*! Ich habe jetzt als Bild nur die *Worte* und die Ablehnung alles dessen, was du mir zeigen kannst.
 
@@ -2049,7 +2049,7 @@ Hängt das nicht davon ab, was das Kriterium dafür ist, daß eine Farbe auf Deu
 
 ---
 
-[^1]: Im Original findet man keine Zeichnung: der Leser möge sich etwas Passendes ausdenken. Es gibt verschiedene Möglichkeiten; wir haben eine Zeichnung von [A2569875](https://commons.wikimedia.org/wiki/User:A2569875) ([CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/deed.en)) benutzt. Herausgeber der digitalen Ausgabe.
+[^1]: Im Original findet man keine Zeichnung: der Leser möge sich etwas Passendes ausdenken. Es gibt verschiedene Möglichkeiten; wir haben eine Zeichnung von Dr. R. B. O. Richards benutzt. Herausgeber der Papierausgabe.
 
 [^2]: Vermutung der Herausgeber der Papierausgabe.
 

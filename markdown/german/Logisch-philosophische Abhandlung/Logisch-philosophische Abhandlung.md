@@ -11,9 +11,13 @@ _Diese digitale Ausgabe ist eine Reproduktion von L. Wittgenstein. *Tractatus Lo
 
 # Logisch-philosophische Abhandlung
 
+## Widmung
+
 Dem Andenken meines Freundes
 DAVID H. PINSENT
 gewidmet
+
+## Motto
 
 >
 >
@@ -23,7 +27,7 @@ gewidmet
 >
 >
 
-*Vorwort*
+## Vorwort
 
 Dieses Buch wird vielleicht nur der verstehen, der die Gedanken, die darin ausgedrückt sind – oder doch ähnliche Gedanken – schon selbst einmal gedacht hat. – Es ist also kein Lehrbuch. – Sein Zweck wäre erreicht, wenn es Einem, der es mit Verständnis liest Vergnügen bereitete.
 
@@ -45,7 +49,7 @@ Dagegen scheint mir die *Wahrheit* der hier mitgeteilten Gedanken unantastbar un
 
 *Wien, 1918.*
 
----
+## Logisch-philosophische Abhandlung
 
 **1** Die Welt ist alles, was der Fall ist.[^1]
 

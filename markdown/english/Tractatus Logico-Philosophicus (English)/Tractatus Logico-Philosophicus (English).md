@@ -13,9 +13,13 @@ _This digital edition is based on Project Gutenberg's *Tractatus Logico-Philosop
 
 # Tractatus Logico-Philosophicus (English)
 
+## Dedication
+
 Dedicated
 to the memory of my friend
 DAVID H. PINSENT
+
+## Motto
 
 >
 >
@@ -25,7 +29,7 @@ DAVID H. PINSENT
 >
 >
 
-*Preface*
+## Preface
 
 This book will perhaps only be understood by those who have themselves already thought the thoughts which are expressed in it—or similar thoughts. It is therefore not a text-book. Its object would be attained if there were one person who read it with understanding and to whom it afforded pleasure.
 
@@ -43,7 +47,7 @@ If this work has a value it consists in two things. First that in it thoughts ar
 
 On the other hand the *truth* of the thoughts communicated here seems to me unassailable and definitive. I am, therefore, of the opinion that the problems have in essentials been finally solved. And if I am not mistaken in this, then the value of this work secondly consists in the fact that it shows how little has been done when these problems have been solved.
 
----
+## Tractatus Logico-Philosophicus
 
 **[1](https://www.wittgensteinproject.org/w/index.php?title=Logisch-philosophische_Abhandlung#1)** The world is everything that is the case.[^1]
 
