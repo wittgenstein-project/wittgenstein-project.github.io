@@ -31,9 +31,9 @@ else:
                          #" --fail-if-warnings"
                          f" -V lang:{html_lang}"
                          " -V backgroundcolor:#fff"
-                         " --template=template.html"
+                         " --template=.styles/template.html"
                          " --pdf-engine=weasyprint"
-                         " --pdf-engine-opt=-s=pdf.css"
+                         " --pdf-engine-opt=-s=.styles/pdf.css"
                          f" --pdf-engine-opt=--base-url={quote(input_dir)}"
                          f" -o {quote(output_file)}") != 0:
                 sys.exit(1)
