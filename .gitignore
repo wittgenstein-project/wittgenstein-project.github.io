@@ -1,3 +1,4 @@
 *.ipynb
+*.deb
 .DS_Store
 venv/
