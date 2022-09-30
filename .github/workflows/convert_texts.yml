@@ -16,7 +16,7 @@ jobs:
           sudo apt-get update
           sudo wget https://github.com/jgm/pandoc/releases/download/2.19.2/pandoc-2.19.2-1-amd64.deb
           sudo dpkg -i pandoc-2.19.2-1-amd64.deb
-          sudo apt-get install -y librsvg2-bin texlive texlive-xetex texlive-latex-extra weasyprint
+          sudo apt-get install -y librsvg2-bin texlive texlive-xetex texlive-latex-extra weasyprint calibre
           sudo cp -r ./fonts/Space_Mono_2/*.ttf /usr/share/fonts/truetype/
       - name: Install Dependencies
         run: pip3 install -r ./requirements.txt
@@ -24,8 +24,8 @@ jobs:
         run: python3 ./html_to_markdown.py && git status
       - name: Markdown -> Book Covers (SVG + PNG)
         run: python3 ./markdown_to_book_covers.py
-      - name: Markdown -> EPUB
-        run: python3 ./markdown_to_epub.py
+      - name: Markdown -> Ebook
+        run: python3 ./markdown_to_ebook.py
       - name: Markdown -> PDF
         run: python3 ./markdown_to_pdf.py
       - name: Commit
