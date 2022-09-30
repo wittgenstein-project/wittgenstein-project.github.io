@@ -87,7 +87,7 @@ If you had any unanalysable proposition in which particular names and relations 
 
 *Use of logical propositions*. You may have one so complicated that you cannot, by looking at it, see that it is a tautology; but you have shewn that it can be derived by certain operations from certain other propositions according to our rule for constructing tautologies; and hence you are enabled to see that one thing follows from another, when you would not have been able to see it otherwise. E.g., if our tautology is of [the] form p ⊃ q you can see that q follows from p; and so on.
 
-Th *Bedeutung* of a proposition is the fact that corresponds to it, e.g., if our proposition be "aRb", if it's true, the corresponding fact would be the fact aRb, if false, the fact ~aRb. *But* both "the fact aRb" and "the fact ~aRb" are incomplete symbols, which must be analysed.
+Th *Bedeutung* of a proposition is the fact that corresponds to it, e.g., if our proposition be "aRb", if it's true, the corresponding fact would be the fact aRb, if false, the fact \~aRb. *But* both "the fact aRb" and "the fact \~aRb" are incomplete symbols, which must be analysed.
 
 That a proposition has a relation (in wide sense) to Reality, other than that of *Bedeutung*, is shewn by the fact that you can understand it when you don't know the *Bedeutung*, i.e. don't know whether it is true or false. Let us express this by saying "It has *sense*" (*Sinn*).
 
@@ -123,9 +123,9 @@ Logical constants can't be made into variables: because in them *what* symbolize
 
 We describe a symbol, and say arbitrarily "A symbol of this description is a tautology". And then, it follows at once, both that any other symbol which answers to the same description is a tautology, and that any symbol which does *not* isn't. That is, we have arbitrarily fixed that any symbol of that description is to be a tautology; and this being fixed it is no longer arbitrary with regard to any other symbol whether it is a tautology or not.
 
-Having thus fixed what is a tautology and what is not, we can then, having fixed arbitrarily again that the relation a-b is transitive get from the two facts together that "p ≡ ~(~p)" is a tautology. For ~(~p) = a-b-a-p-b-a-b. The point is: that the process of reasoning by which we arrive at the result that a-b-a-p-b-a-b is the *same symbol* as a-p-b, is exactly the same as that by which we discover that its meaning is the same, viz. where we reason if b-a-p-b-a, then *not* a-p-b, if a-b-a-p-b-a-b then *not* b-a-p-b-a, therefore if a-b-a-p-b-a-b, then a-p-b.
+Having thus fixed what is a tautology and what is not, we can then, having fixed arbitrarily again that the relation a-b is transitive get from the two facts together that "p ≡ \~(\~p)" is a tautology. For \~(\~p) = a-b-a-p-b-a-b. The point is: that the process of reasoning by which we arrive at the result that a-b-a-p-b-a-b is the *same symbol* as a-p-b, is exactly the same as that by which we discover that its meaning is the same, viz. where we reason if b-a-p-b-a, then *not* a-p-b, if a-b-a-p-b-a-b then *not* b-a-p-b-a, therefore if a-b-a-p-b-a-b, then a-p-b.
 
-It follows from the fact that a-b is transitive, that where we have a-b-a the first a has to the second the same relation that it has to b. It is just as from the fact that a-true implies b-false, and b-false implies c-true, we get that a-true implies c-true. And we shall be able to see, having fixed the description of a tautology, that p ≡ ~(~p) is a tautology.
+It follows from the fact that a-b is transitive, that where we have a-b-a the first a has to the second the same relation that it has to b. It is just as from the fact that a-true implies b-false, and b-false implies c-true, we get that a-true implies c-true. And we shall be able to see, having fixed the description of a tautology, that p ≡ \~(\~p) is a tautology.
 
 That, when a certain rule is given, a symbol is tautological *shews* a logical truth.
 
@@ -139,7 +139,7 @@ We could, of course, symbolize any ab-function without using two *outside* poles
 
 The symbol for a tautology, in whatever form we put it, e.g., whether by omitting the a-pole or by omitting the b, would always be capable of being used as the symbol for a contradiction; only not in the same language.
 
-The reason why ~x is meaningless, is simply that we have given no meaning to the symbol ~*ξ*. I.e. whereas *φ*x and *φ*p look as if they were of the same type, they are not so because in order to give a meaning to ~x you would have to have some *property* ~*ξ*. What symbolizes in *φξ* is *that* *φ* stands to the left of *a* proper name and obviously this is not so in ~p. What is common to all propositions in which the name of a property (to speak loosely) occurs is that this name stands to the left of a *name-form*.
+The reason why \~x is meaningless, is simply that we have given no meaning to the symbol \~*ξ*. I.e. whereas *φ*x and *φ*p look as if they were of the same type, they are not so because in order to give a meaning to \~x you would have to have some *property* \~*ξ*. What symbolizes in *φξ* is *that* *φ* stands to the left of *a* proper name and obviously this is not so in \~p. What is common to all propositions in which the name of a property (to speak loosely) occurs is that this name stands to the left of a *name-form*.
 
 The reason why, e.g., it seems as if "Plato Socrates" might have a meaning, while "Abracadabra Socrates" will never be suspected to have one, is because we know that "Plato" has one, and do not observe that in order that the whole phrase should have one, what is necessary is *not* that "Plato" should have one, but that the fact *that* "Plato" *is to the left of a name* should.
 
@@ -147,7 +147,7 @@ The reason why "The property of not being green is not green" is *nonsense*, is 
 
 *φ* cannot possibly stand to the left of (or in any other relation to) the symbol of a property. For the symbol of a property, e.g., *ψ*x is *that* *ψ* stands to the left of a name form, and another symbol *φ* cannot possibly stand to the left of such a *fact*: if it could, we should have an illogical language, which is impossible.
 
-p is false = ~(p is true) Def.
+p is false = \~(p is true) Def.
 
 It is very important that the apparent logical relations ∨, ⊃, etc. need brackets, dots, etc., i.e. have "ranges"; which by itself shews they are not relations. This fact has been overlooked, because it is so universal —the very thing which makes it so important.
 
@@ -167,7 +167,7 @@ The question whether a proposition has sense (*Sinn*) can never depend on the *t
 
 It's obvious that the dots and brackets are symbols, and obvious that they haven't any *independent* meaning. You must, therefore, in order to introduce so-called "logical constants" properly, introduce the general notion of *all possible* combinations of them = the general form of a proposition. You thus introduce both ab-functions, identity, and universality (the three fundamental constants) simultaneously.
 
-The *variable proposition* p ⊃ p is not identical with the *variable proposition* ~(p . ~p). The corresponding universals *would* be identical. The variable proposition ~(p . ~p) shews that out of ~(p.q) you get a tautology by substituting ~p for q, whereas the other does not shew this.
+The *variable proposition* p ⊃ p is not identical with the *variable proposition* \~(p . \~p). The corresponding universals *would* be identical. The variable proposition \~(p . \~p) shews that out of \~(p.q) you get a tautology by substituting \~p for q, whereas the other does not shew this.
 
 It's very important to realize that when you have two different relations (a,b)R, (c,d)S this does *not* establish a correlation between a and c, and b and d, or a and d, and b and c: there is no correlation whatsoever thus established. Of course, in the case of two pairs of terms united by the *same* relation, there is a correlation. This shews that the theory which held that a relational fact contained the terms and relations united by a *copula* (ε~2~) is untrue; for if this were so there would be a correspondence between the terms of different relations.
 
@@ -179,7 +179,7 @@ A tautology (*not* a logical proposition) is not nonsense in the same sense in w
 
 ---
 
-Logical functions all presuppose one another. Just as we can see ~p has no sense, if p has none; so we can also say p has none if ~p has none. The case is quite different with *φ*a, and a; since here a has a meaning independently of *φ*a, though *φ*a presupposes it.
+Logical functions all presuppose one another. Just as we can see \~p has no sense, if p has none; so we can also say p has none if \~p has none. The case is quite different with *φ*a, and a; since here a has a meaning independently of *φ*a, though *φ*a presupposes it.
 
 The logical constants seem to be complex-symbols, but on the other hand, they can be interchanged with one another. They are not therefore really complex; what symbolizes is simply the general way in which they are combined.
 

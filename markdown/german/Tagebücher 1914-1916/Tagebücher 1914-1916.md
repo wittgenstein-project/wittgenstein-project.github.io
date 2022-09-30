@@ -214,7 +214,7 @@ Die Übereinstimmung zweier Komplexe ist offenbar *intern* und kann daher nicht 
 
 **7. 10. 14.**
 
-Wenn ein Satz *φ*a gegeben ist, so sind mit ihm auch *schon* alle seine logischen Funktionen (~*φ*a etc.) mitgegeben! [*Vgl.* 5.442.]
+Wenn ein Satz *φ*a gegeben ist, so sind mit ihm auch *schon* alle seine logischen Funktionen (\~*φ*a etc.) mitgegeben! [*Vgl.* 5.442.]
 
 **8. 10. 14.**
 
@@ -278,7 +278,7 @@ Wenn es diese Funktion nicht tut, dann kann von der 1 nur die Rede sein, wenn es
 Wie verhält es sich mit Sätzen wie:
 
 (∃*φ*).(∃x).*φ*x
-und: (∃*φ*).(∃x).~*φ*x.
+und: (∃*φ*).(∃x).\~*φ*x.
 
 Ist einer von diesen eine Tautologie? Sind dies Sätze einer Wissenschaft d. h., sind dies überhaupt *Sätze*?
 
@@ -292,7 +292,7 @@ Gibt es denn eine Wissenschaft der vollständig verallgemeinerten Sätze? Dies k
 
 Nun aber die Sätze: "(∃*φ*,x). *φ*x"
 
-und "~(∃*φ*,x). *φ*x".
+und "\~(∃*φ*,x). *φ*x".
 
 Welcher von ihnen ist tautologisch, welcher kontradiktorisch?
 
@@ -322,7 +322,7 @@ Ich habe hier die Beziehungen der Satz-Elemente zu ihren Bedeutungen gleichsam a
 
 **16. 10. 14.**
 
-Nun scheint es aber als sprächen genau dieselben Gründe, die ich aufführte, um zu zeigen, daß "(∃x,*φ*).*φ*x" nicht falsch sein *könne*, als sprächen diese Gründe auch dafür, daß "~(∃x,*φ*).*φ*x nicht falsch sein könne; und hier zeigt sich ein grundlegender Fehler. Denn es ist gar nicht einzusehen, warum gerade der erste Satz und nicht der zweite eine Tautologie sein soll. Vergiß doch nicht, daß auch die Kontradiktion "p.~p" etc. etc. nicht wahr sein kann und doch selbst ein logisches Gebilde ist.
+Nun scheint es aber als sprächen genau dieselben Gründe, die ich aufführte, um zu zeigen, daß "(∃x,*φ*).*φ*x" nicht falsch sein *könne*, als sprächen diese Gründe auch dafür, daß "\~(∃x,*φ*).*φ*x nicht falsch sein könne; und hier zeigt sich ein grundlegender Fehler. Denn es ist gar nicht einzusehen, warum gerade der erste Satz und nicht der zweite eine Tautologie sein soll. Vergiß doch nicht, daß auch die Kontradiktion "p.\~p" etc. etc. nicht wahr sein kann und doch selbst ein logisches Gebilde ist.
 
 Angenommen, daß keine Verneinung eines Elementarsatze wahr ist, hat in diesem Falle "Verneinung" nicht einen anderen Sinn als im entgegengesetzten Falle?
 
@@ -340,7 +340,7 @@ Man kann also ein Bild der Welt entwerfen, ohne zu sagen, was was darstellt.
 
 Nehmen wir z. B. an, die Welt bestünde aus den Dingen A und B und der Eigenschaft F, und es wäre F(A) der Fall und nicht F(B). Diese Welt könnten wir auch durch die folgenden Sätze beschreiben:
 
-(∃x,y).(∃*φ*).x ≠ y.*φ*x.~*φ*y:*φ*u.*φ*z. ⊃~u,z~.u = z
+(∃x,y).(∃*φ*).x ≠ y.*φ*x.\~*φ*y:*φ*u.*φ*z. ⊃~u,z~.u = z
 
 (∃*φ*).(*ψ*).*ψ* = *φ*
 
@@ -350,7 +350,7 @@ Und hier braucht man auch Sätze von der Art der letzten zwei, um die Gegenstän
 
 Aus alledem folgt natürlich, daß es *ganz allgemeine Sätze gibt*!
 
-Genügt oben nicht der erste Satz (∃x,y,*φ*)*φ*x.~*φ*y.x ≠ y? Die Schwierigkeit der Identifizierung kann man dadurch wegschaffen, indem man die ganze Welt in *einem* allgemeinen Satz beschreibt, welcher anfängt: "(∃x,y,z ... *φ*,*ψ* ... R,S ...)" und nun folgt ein logisches Produkt, etc.
+Genügt oben nicht der erste Satz (∃x,y,*φ*)*φ*x.\~*φ*y.x ≠ y? Die Schwierigkeit der Identifizierung kann man dadurch wegschaffen, indem man die ganze Welt in *einem* allgemeinen Satz beschreibt, welcher anfängt: "(∃x,y,z ... *φ*,*ψ* ... R,S ...)" und nun folgt ein logisches Produkt, etc.
 
 Wenn wir sagen "*φ* ist eine Einheitsfunktion und (x).*φ*x", so heißt das soviel wie: "es gibt nur ein Ding"! (Wir sind hiermit *scheinbar* um den Satz "(∃x)(y).y = x" herumgekommen.)
 
@@ -380,7 +380,7 @@ Die Theorie der logischen Abbildung durch die Sprache gibt als erste einen Aufsc
 
 Die Theorie der logischen Abbildung durch die Sprache sagt – ganz allgemein: Damit es möglich ist, daß ein Satz wahr oder falsch sei – daß er mit der Wirklichkeit übereinstimme oder nicht – dazu muß im Satze etwas mit der Wirklichkeit *identisch* sein. [*Vgl.* 2.18.]
 
-Das was in "~p" verneint, ist nicht das "~" vor dem "p" sondern dasjenige, was allen Zeichen, die in dieser Notation mit "~p" gleichbedeutend sind, gemeinsam ist; also das Gemeinsame von
+Das was in "\~p" verneint, ist nicht das "\~" vor dem "p" sondern dasjenige, was allen Zeichen, die in dieser Notation mit "\~p" gleichbedeutend sind, gemeinsam ist; also das Gemeinsame von
 
 ${\displaystyle \left.{\begin{matrix}\sim p\\\sim \sim \sim p\\\sim p\lor \sim p\\\sim p.\sim p\\{\text{etc. etc.}}\end{matrix}}\right\}{\text{und dasselbe gilt für die Allgemeinheitsbezeichnung etc.}}}$
 
@@ -396,7 +396,7 @@ Daß sich von materiellen Sätzen auf ganz allgemeine Sätze schließen läßt �
 
 **21. 10. 14.**
 
-Ist die Russellsche Definition der Null nicht unsinnig? Kann man von einer Klasse ${\displaystyle {\hat {x}}(x\neq x)}$ überhaupt reden? – Kann man denn von einer Klasse ${\displaystyle {\hat {x}}(x=x)}$ reden? Ist denn x ≠ x oder x = x eine Funktion von x?? – Muß nicht die Null definiert werden durch die *Hypothese* (∃*φ*):(x)~*φ*x? Und Analoges würde von allen anderen Zahlen gelten. Dies nun wirft ein Licht auf die ganze Frage nach der Existenz von Anzahlen von Dingen.
+Ist die Russellsche Definition der Null nicht unsinnig? Kann man von einer Klasse ${\displaystyle {\hat {x}}(x\neq x)}$ überhaupt reden? – Kann man denn von einer Klasse ${\displaystyle {\hat {x}}(x=x)}$ reden? Ist denn x ≠ x oder x = x eine Funktion von x?? – Muß nicht die Null definiert werden durch die *Hypothese* (∃*φ*):(x)\~*φ*x? Und Analoges würde von allen anderen Zahlen gelten. Dies nun wirft ein Licht auf die ganze Frage nach der Existenz von Anzahlen von Dingen.
 
 ${\displaystyle 0={\hat {\alpha }}\{(\exists \phi ):(x)\sim \phi x.\alpha ={\hat {u}}(\phi u)\}{\text{ Def.}}}$
 
@@ -518,7 +518,7 @@ Man könnte zwei Koordinaten a~P~ und b~P~ als einen Satz auffassen der aussagt,
 
 (Der Gegenstand, von welchem die allgemeinen Sätze handeln, ist recht eigentlich die Welt; die in ihnen durch eine logische Beschreibung eintritt. – Und darum kommt die Welt eigentlich doch nicht in ihnen vor, so wie ja auch der Gegenstand der Beschreibung nicht in dieser vorkommt.)
 
-Daß in gewissem Sinne die logische Form von p vorhanden sein muß, auch wenn p nicht der Fall ist, das zeigt sich symbolisch dadurch, daß "p" in "~p" vorkommt.
+Daß in gewissem Sinne die logische Form von p vorhanden sein muß, auch wenn p nicht der Fall ist, das zeigt sich symbolisch dadurch, daß "p" in "\~p" vorkommt.
 
 Die Schwierigkeit ist die: wie kann es die Form von p geben, wenn es keinen Sachverhalt dieser Form gibt. Und worin besteht diese Form dann eigentlich?!
 
@@ -526,7 +526,7 @@ Analytische *Sätze* gibt es nicht.
 
 **30. 10. 14.**
 
-Könnte man sagen : in "~*φ*(x)" stellt "*φ*(x)" vor, wie es sich *nicht* verhält?
+Könnte man sagen : in "\~*φ*(x)" stellt "*φ*(x)" vor, wie es sich *nicht* verhält?
 
 Man könnte auch auf einem Bild eine negative Tatsache darstellen, indem man darstellt, was *nicht* der Fall ist.
 
@@ -568,7 +568,7 @@ Es scheint als wäre "(x,*φ*).*φ*x" die Form einer Tatsache *φ*a.*ψ*b.*θ*c 
 
 Und hier muß eben mein Fehler liegen.
 
-Untersuche doch den Elementarsatz: welches ist denn die Form von "*φ*a" und wie verhält sie sich zu "~*φ*a".
+Untersuche doch den Elementarsatz: welches ist denn die Form von "*φ*a" und wie verhält sie sich zu "\~*φ*a".
 
 Jener Präzedenzfall, auf den man sich immer berufen möchte, muß schon im Zeichen selber liegen. [*Vgl.* 5.525.]
 
@@ -682,7 +682,7 @@ Damit also ein Satz einen Sachverhalt darstelle, ist nur nötig, daß seine Best
 
 Das Satzzeichen verbürgt die Möglichkeit der Tatsache, welche es darstellt (nicht, daß diese Tatsache wirklich der Fall ist), das gilt auch für die allgemeinen Sätze.
 
-Denn, wenn die positive Tatsache *φ*a gegeben ist, dann ist auch die *Möglichkeit* für (x).*φ*x, ~(∃x).*φ*x, ~*φ*a etc. etc. gegeben. (Alle logischen Konstanten sind bereits im Elementarsatz enthalten.) [*Vgl.* 5.47.]
+Denn, wenn die positive Tatsache *φ*a gegeben ist, dann ist auch die *Möglichkeit* für (x).*φ*x, \~(∃x).*φ*x, \~*φ*a etc. etc. gegeben. (Alle logischen Konstanten sind bereits im Elementarsatz enthalten.) [*Vgl.* 5.47.]
 
 So entsteht das Bild.
 
@@ -692,7 +692,7 @@ Man könnte z. B. mittelst fechtenden Puppen zeigen, wie man *nicht* fechten sol
 
 **6. 11. 14.**
 
-Und der Fall ist hier ganz der gleiche, wie bei ~*φ*a, obwohl das Bild von dem handelt, was nicht geschehen *soll*, statt von dem, was nicht geschieht.
+Und der Fall ist hier ganz der gleiche, wie bei \~*φ*a, obwohl das Bild von dem handelt, was nicht geschehen *soll*, statt von dem, was nicht geschieht.
 
 Daß man den verneinten Satz wieder verneinen kann, zeigt, daß das, was verneint wird, schon ein Satz und nicht erst die Vorbereitung zu einem Satz ist. [*S.* 4.0641.]
 
@@ -724,13 +724,13 @@ Es war das, was ich mein starkes scholastisches Gefühl nennen möchte, was die 
 
 "Nicht p" und "p" widersprechen einander, beide können nicht wahr sein; aber doch kann ich beide aussprechen, *beide Bilder gibt es*. Sie liegen nebeneinander.
 
-Oder vielmehr "p" und "~p" sind wie ein Bild und die unendliche Ebene außerhalb dieses Bildes (logischer Ort).
+Oder vielmehr "p" und "\~p" sind wie ein Bild und die unendliche Ebene außerhalb dieses Bildes (logischer Ort).
 
 Den unendlichen Raum außerhalb kann ich nur mit Hilfe des Bildes herstellen, indem ich ihn durch dieses begrenze.
 
 **10. 11. 14.**
 
-Wenn ich sage "p ist möglich", heißt das "'p' hat einen Sinn"? Redet jener Satz von der Sprache, sodaß also für seinen Sinn die Existenz eines Satzzeichens ("p") wesentlich ist? (Dann wäre er ganz unwichtig.) Aber will er nicht vielmehr das sagen, was "p ∨ ~p" zeigt?
+Wenn ich sage "p ist möglich", heißt das "'p' hat einen Sinn"? Redet jener Satz von der Sprache, sodaß also für seinen Sinn die Existenz eines Satzzeichens ("p") wesentlich ist? (Dann wäre er ganz unwichtig.) Aber will er nicht vielmehr das sagen, was "p ∨ \~p" zeigt?
 
 Entspricht nicht mein Studium der Zeichensprache dem Studium der Denkprozesse, welches die Philosophen für die Philosophie der Logik immer für so wesentlich hielten? – Nur verwickelten sie sich immer in unwesentliche psychologische Untersuchungen und eine analoge Gefahr gibt es auch bei meiner Methode. [*S*. 4.1121.]
 
@@ -744,7 +744,7 @@ Wenn ich nun eine Funktion von der Nullklasse auszusagen scheine, so sage ich, d
 
 Ist x ≠ x. ≡~x.~ *φ*x identisch mit
 
-(x).~*φ*x ? Gewiß!
+(x).\~*φ*x ? Gewiß!
 
 Der Satz deutet auf die Möglichkeit, daß es sich so und so verhält.
 
@@ -804,9 +804,9 @@ Einführung des Zeichens "0" um die Dezimalnotation möglich zu machen: Die logi
 
 **17. 11. 14.**
 
-Angenommen "*φ*a" ist wahr: Was heißt es zu sagen ~*φ*a ist möglich?
+Angenommen "*φ*a" ist wahr: Was heißt es zu sagen \~*φ*a ist möglich?
 
-(*φ*a ist selber gleichbedeutend mit ~(~*φ*a).)
+(*φ*a ist selber gleichbedeutend mit \~(\~*φ*a).)
 
 **18. 11. 14.**
 
@@ -824,7 +824,7 @@ Wenn die Realität in noch etwas Anderem besteht, so kann dies jedenfalls weder 
 
 **21. 11. 14.**
 
-Was weiß ich eigentlich, wenn ich den Sinn von "*φ*a" verstehe, aber nicht weiß, ob es wahr oder falsch ist? Dann weiß ich doch nicht mehr als *φ*a ∨ ~*φ*a; und das heißt, ich *weiß* nichts.
+Was weiß ich eigentlich, wenn ich den Sinn von "*φ*a" verstehe, aber nicht weiß, ob es wahr oder falsch ist? Dann weiß ich doch nicht mehr als *φ*a ∨ \~*φ*a; und das heißt, ich *weiß* nichts.
 
 Da die Realitäten, die dem Sinn des Satzes entsprechen, nur seine Bestandteile sind, so können sich auch die logischen Koordinaten nur auf jene beziehen.
 
@@ -852,7 +852,7 @@ Im Satze legen wir ein Urbild an die Wirklichkeit an.
 
 Warum sollte man den negativen Satz nicht durch eine negative Tatsache ausdrücken können?! Es ist, wie wenn man statt des Meterstabes den Raum außerhalb des Meterstabes als Vergleichsobjekt nähme. [*Vgl.* 5.5151.]
 
-Wie widerspricht eigentlich der *Satz* "~p" dem *Satze* "p"? Die internen Relationen der beiden Zeichen müssen Widerspruch bedeuten.
+Wie widerspricht eigentlich der *Satz* "\~p" dem *Satze* "p"? Die internen Relationen der beiden Zeichen müssen Widerspruch bedeuten.
 
 Freilich muß nach jedem negativen Satz gefragt werden können: *Wie* verhält es sich *nicht;* aber die Antwort hierauf ist ja nur wieder ein Satz. (Diese Bemerkung unvollständig.)
 
@@ -862,11 +862,11 @@ Jener negative Tatbestand, der als Zeichen dient, kann doch wohl bestehen ohne e
 
 Immer wieder ist es bei der Untersuchung dieser Probleme, als wären sie schon gelöst, und diese Täuschung kommt daher, daß die Probleme oft ganz unseren Blicken entschwinden.
 
-Daß ~*φ*a der Fall ist, kann ich durch die Beobachtung von *φ*x̂ und a allein ersehen.
+Daß \~*φ*a der Fall ist, kann ich durch die Beobachtung von *φ*x̂ und a allein ersehen.
 
-Die Frage ist hier: Ist die positive Tatsache primär, die negative sekundär, oder sind sie gleichberechtigt? Und wenn so, wie ist es dann mit den Tatsachen p ∨ q, p ⊃ q etc., sind diese nicht mit ~p gleichberechtigt? Aber *müssen* denn nicht *alle Tatsachen* gleichberechtigt sein? Die Frage ist eigentlich die: Gibt es Tatsachen außer den positiven? (Es ist nämlich schwer, das was nicht der Fall ist, nicht zu verwechseln mit dem was stattdessen der Fall *ist*.)
+Die Frage ist hier: Ist die positive Tatsache primär, die negative sekundär, oder sind sie gleichberechtigt? Und wenn so, wie ist es dann mit den Tatsachen p ∨ q, p ⊃ q etc., sind diese nicht mit \~p gleichberechtigt? Aber *müssen* denn nicht *alle Tatsachen* gleichberechtigt sein? Die Frage ist eigentlich die: Gibt es Tatsachen außer den positiven? (Es ist nämlich schwer, das was nicht der Fall ist, nicht zu verwechseln mit dem was stattdessen der Fall *ist*.)
 
-Es ist ja klar, daß alle die ab-Funktionen nur so viele verschiedene Meßmethoden der Wirklichkeit sind. – Und gewiß haben die Meßmethoden durch p und ~p etwas Besonderes allen anderen voraus. ––
+Es ist ja klar, daß alle die ab-Funktionen nur so viele verschiedene Meßmethoden der Wirklichkeit sind. – Und gewiß haben die Meßmethoden durch p und \~p etwas Besonderes allen anderen voraus. ––
 
 Es ist der *Dualismus*, positive und negative Tatsachen, der mich nicht zur Ruhe kommen läßt. So einen Dualismus kann es ja nicht geben. Aber wie ihm entgehen?
 
@@ -880,7 +880,7 @@ Der gefürchtete Dualismus von positiv und negativ besteht nicht denn (x).*φ*x 
 
 Wenn schon der positive Satz nicht im negativen vorkommen *muß*, muß nicht in jedem Fall das Urbild des positiven Satzes im negativen vorkommen?
 
-Indem wir – und zwar in jeder möglichen Notation – zwischen ~aRb und ~bRa unterscheiden, setzen wir in einer jeden eine bestimmte Zuordnung von Argument und Argumentstelle im negativen Satz voraus; die ja das Urbild des verneinten positiven Satzes ausmacht.
+Indem wir – und zwar in jeder möglichen Notation – zwischen \~aRb und \~bRa unterscheiden, setzen wir in einer jeden eine bestimmte Zuordnung von Argument und Argumentstelle im negativen Satz voraus; die ja das Urbild des verneinten positiven Satzes ausmacht.
 
 Ist also nicht jene Zuordnung der Bestandteile des Satzes, mit welcher noch nichts *gesagt* ist, das eigentliche Bild im Satze?
 
@@ -892,7 +892,7 @@ Dadurch, daß ich den Bestandteilen des Bildes Gegenstände zuordne, *dadurch* s
 
 **27. 11. 14.**
 
-"~p" ist wahr, wenn p falsch ist. Also, in dem wahren Satz "~p" ist der Teil ein falscher Satz. Wie kann ihn nun der Haken "~" mit der Wirklichkeit zum Stimmen bringen? Wir haben freilich schon gesagt, daß es nicht der Haken "~" allein ist, sondern alles, was den verschiedenen Verneinungszeichen gemeinsam ist. Und was diesen allen gemeinsam ist, muß offenbar aus der Bedeutung der Verneinung selbst hervorgehen. Und so muß sich also in dem Negationszeichen doch seine eigene Bedeutung spiegeln. [*Vgl.* 5.512.]
+"\~p" ist wahr, wenn p falsch ist. Also, in dem wahren Satz "\~p" ist der Teil ein falscher Satz. Wie kann ihn nun der Haken "\~" mit der Wirklichkeit zum Stimmen bringen? Wir haben freilich schon gesagt, daß es nicht der Haken "\~" allein ist, sondern alles, was den verschiedenen Verneinungszeichen gemeinsam ist. Und was diesen allen gemeinsam ist, muß offenbar aus der Bedeutung der Verneinung selbst hervorgehen. Und so muß sich also in dem Negationszeichen doch seine eigene Bedeutung spiegeln. [*Vgl.* 5.512.]
 
 **28. 11. 14.**
 
@@ -904,7 +904,7 @@ Die ab-Funktion bleibt nicht *vor* dem Elementarsatz stehen, sondern sie durchdr
 
 Was gezeigt werden *kann*, kann nicht gesagt werden. [*S.* 4.1212.]
 
-Ich glaube, man könnte das Gleichheitszeichen ganz aus unserer Notation entfernen und die Gleichheit immer nur durch die Gleichheit der Zeichen (u. U.) andeuten. Es wäre dann freilich *φ*(a,a) kein spezieller Fall von (x,y).*φ*(x,y) und *φ*a keiner von (∃x,y).*φ*x.*φ*y. Dann aber könnte man statt *φ*x.*φ*y ⊃~x,y~ x = y einfach schreiben ~(∃x,y).*φ*x.*φ*y. [*Vgl.* 5.53 *u.* 5.533.]
+Ich glaube, man könnte das Gleichheitszeichen ganz aus unserer Notation entfernen und die Gleichheit immer nur durch die Gleichheit der Zeichen (u. U.) andeuten. Es wäre dann freilich *φ*(a,a) kein spezieller Fall von (x,y).*φ*(x,y) und *φ*a keiner von (∃x,y).*φ*x.*φ*y. Dann aber könnte man statt *φ*x.*φ*y ⊃~x,y~ x = y einfach schreiben \~(∃x,y).*φ*x.*φ*y. [*Vgl.* 5.53 *u.* 5.533.]
 
 Durch diese Notation verlören auch der Scheinsatz (x)x = a oder ähnliche allen Schein von Berechtigung. [*Vgl.* 5.534.]
 
@@ -918,11 +918,11 @@ Es kommt aber darauf an, das festzusetzen, was den Satz vom bloßen Bild untersc
 
 **4. 12. 14.**
 
-Sehen wir uns z. B. die Gleichung ~~p = p an: diese bestimmt mit anderen das Zeichen für p, da sie besagt, daß es etwas sei, was "p" und "~~p" gemein haben. Dadurch erhält jenes Zeichen Eigenschaften, die wiederspiegeln, daß die doppelte Verneinung eine Bejahung ist.
+Sehen wir uns z. B. die Gleichung \~\~p = p an: diese bestimmt mit anderen das Zeichen für p, da sie besagt, daß es etwas sei, was "p" und "\~\~p" gemein haben. Dadurch erhält jenes Zeichen Eigenschaften, die wiederspiegeln, daß die doppelte Verneinung eine Bejahung ist.
 
 **5. 12. 14.**
 
-Wie sagt "p ∨ ~p" nichts?
+Wie sagt "p ∨ \~p" nichts?
 
 **6. 12. 14.**
 
@@ -980,9 +980,9 @@ Am eigentlichen Satzzeichen muß geradesoviel zu unterscheiden sein, als am Sach
 
 **20. 12. 14.**
 
-In "p" ist nicht mehr und nicht weniger zu erkennen als in "~p".
+In "p" ist nicht mehr und nicht weniger zu erkennen als in "\~p".
 
-Wie kann ein Sachverhalt mit "p" übereinstimmen und mit "~p" nicht übereinstimmen?
+Wie kann ein Sachverhalt mit "p" übereinstimmen und mit "\~p" nicht übereinstimmen?
 
 Man könnte auch so fragen: Wenn ich zum Zweck der Verständigung mit einem Anderen *die Sprache* erfinden wollte, was für Regeln müßte ich mit ihm über unseren Ausdruck vereinbaren?
 
@@ -1092,7 +1092,7 @@ Wie kann die allumfassende, weltspiegelnde Logik so spezielle Haken und Manipula
 
 **25. 1. 15.**
 
-Man kann auch sagen: ~p ist falsch, wenn p wahr ist.
+Man kann auch sagen: \~p ist falsch, wenn p wahr ist.
 
 **29. 1. 15.**
 
@@ -1124,7 +1124,7 @@ Die Probleme der Verneinung, der Disjunktion, von Wahr und Falsch – sind nur S
 
 **7. 3. 15.**
 
-Wie ~*ξ*, ~*ξ* ∨ ~*ξ* etc. dieselbe Funktion ist, so ist auch ~*η* ∨ *η*, *η* ⊃ *η*, etc. dieselbe – nämlich die tautologische – Funktion. Wie die anderen, so kann auch sie – und vielleicht mit Vorteil – untersucht werden.
+Wie \~*ξ*, \~*ξ* ∨ \~*ξ* etc. dieselbe Funktion ist, so ist auch \~*η* ∨ *η*, *η* ⊃ *η*, etc. dieselbe – nämlich die tautologische – Funktion. Wie die anderen, so kann auch sie – und vielleicht mit Vorteil – untersucht werden.
 
 **8. 3. 15.**
 
@@ -1192,7 +1192,7 @@ ${\displaystyle \quad p\quad q\quad r}$
 
 **18. 4. 15.**
 
-Für die Operation der Verneinung ist der Übergang von p auf ~p *nicht* charakteristisch. (Der *beste Beweis*: sie führt auch von ~p zu p.)
+Für die Operation der Verneinung ist der Übergang von p auf \~p *nicht* charakteristisch. (Der *beste Beweis*: sie führt auch von \~p zu p.)
 
 **19. 4. 15.**
 
@@ -1244,7 +1244,7 @@ Das Nicht-Stimmen ist ähnlich wie die Nicht-Identität.
 
 **28. 4. 15.**
 
-Die Operation des Verneinens besteht nicht etwa im Vorsetzen von ~, sondern in der Klasse aller verneinenden Operationen.
+Die Operation des Verneinens besteht nicht etwa im Vorsetzen von \~, sondern in der Klasse aller verneinenden Operationen.
 
 Was für Eigenschaften hat aber dann eigentlich diese ideale verneinende Operation?
 
@@ -1268,7 +1268,7 @@ Jeder Satz, der p widerspricht, verneint p. [*S.* 5.1241.]
 
 **1. 5. 15.**
 
-Daß p.~p eine Kontradiktion ist, zeigt, daß ~p p widerspricht. [*Vgl.* 6.1201.]
+Daß p.\~p eine Kontradiktion ist, zeigt, daß \~p p widerspricht. [*Vgl.* 6.1201.]
 
 Skeptizismus ist *nicht* unwiderleglich sondern *offenbar unsinnig*, wenn er bezweifeln will, wo nicht gefragt werden kann. [*S.* 6.51.]
 
@@ -1350,7 +1350,7 @@ Die Bedeutung unserer Sätze aber ist nicht unendlich kompliziert.
 
 Der Satz ist das Bild der Tatsache. Ich kann von einer Tatsache verschiedene Bilder entwerfen. (Dazu dienen mir die logischen Operationen.) Aber das für die *Tatsache* Charakteristische in diesen Bildern wird in allen dasselbe sein und von mir nicht abhängen.
 
-Mit der Zeichenklasse des Satzes "p" ist bereits die Klasse "~p" etc., etc., gegeben. Wie es auch sein muß.
+Mit der Zeichenklasse des Satzes "p" ist bereits die Klasse "\~p" etc., etc., gegeben. Wie es auch sein muß.
 
 *Aber*, setzt das nicht schon voraus, daß uns die Klasse aller Sätze gegeben ist? Und wie kommen wir zu *ihr*?
 
@@ -1364,7 +1364,7 @@ Unser Einfaches IST: das Einfachste, was wir kennen. – Das Einfachste zu dem u
 
 Der allgemeine Begriff der Abbildung und *der* der Koordinaten.
 
-Angenommen, der Ausdruck "~(∃x)x = x" wäre ein Satz, nämlich etwa der: "Es gibt keine Dinge", dann müßte es sehr wunder nehmen, daß wir, um diesen Satz in Symbolen auszudrücken, eine Relation (=) benützen müssen, von der in ihm eigentlich gar nicht die Rede ist.
+Angenommen, der Ausdruck "\~(∃x)x = x" wäre ein Satz, nämlich etwa der: "Es gibt keine Dinge", dann müßte es sehr wunder nehmen, daß wir, um diesen Satz in Symbolen auszudrücken, eine Relation (=) benützen müssen, von der in ihm eigentlich gar nicht die Rede ist.
 
 **13. 5. 15.**
 
@@ -1564,7 +1564,7 @@ Du siehst in die Nebelwolke und kannst dir dabei einreden, das Ziel sei schon na
 
 **2. 6. 15.**
 
-Ich sagte: "Eine Tautologie wird von *jedem* Satze bejaht"; damit ist aber noch nicht gesagt, warum sie kein *Satz* ist. Ist denn damit schon gesagt, *warum* ein Satz nicht von p *und* von ~p bejaht werden kann?!
+Ich sagte: "Eine Tautologie wird von *jedem* Satze bejaht"; damit ist aber noch nicht gesagt, warum sie kein *Satz* ist. Ist denn damit schon gesagt, *warum* ein Satz nicht von p *und* von \~p bejaht werden kann?!
 
 Meine Theorie bringt nämlich eigentlich nicht heraus, daß der Satz zwei Pole haben *muß.*
 
@@ -1586,11 +1586,11 @@ Nun aber folgt aus einer Tautologie gar nichts. – Sie aber folgt aus jedem Sat
 
 Analoges gilt von ihrem Gegenteil.
 
-Aber wie! Wäre da die Kontradiktion nicht der vielsagendste Satz? Aus "p.~p" folgt ja nicht nur "p" sondern auch "~p"! Aus ihnen folgt jeder Satz und sie folgen aus keinem!? Aber ich kann doch aus einer Kontradiktion nichts schließen, eben *weil* sie eine Kontradiktion ist!
+Aber wie! Wäre da die Kontradiktion nicht der vielsagendste Satz? Aus "p.\~p" folgt ja nicht nur "p" sondern auch "\~p"! Aus ihnen folgt jeder Satz und sie folgen aus keinem!? Aber ich kann doch aus einer Kontradiktion nichts schließen, eben *weil* sie eine Kontradiktion ist!
 
 Aber wenn die Kontradiktion die Klasse *aller Sätze* ist, so wird die Tautologie das Gemeinsame aller Klassen von Sätzen, welche nichts Gemeinsames haben, und verschwindet gänzlich. [*Vgl.* 5.143.]
 
-"p ∨ ~p" wäre also nur scheinbar ein Zeichen. In Wirklichkeit aber die Auflösung des Satzes.
+"p ∨ \~p" wäre also nur scheinbar ein Zeichen. In Wirklichkeit aber die Auflösung des Satzes.
 
 Die Tautologie verschwindet sozusagen innerhalb aller Sätze, die Kontradiktion außerhalb aller Sätze. [*S.* 5.143.]
 
@@ -1622,7 +1622,7 @@ Warum sagt die Tautologie nichts? Weil in ihr von vornherein jede Möglichkeit z
 
 Es muß sich *im Satz selbst* zeigen, daß er *etwas* sagt und an der Tautologie, daß sie nichts sagt.
 
-p . ~p ist dasjenige – etwa *das Nichts* – welches p und ~p gemeinsam haben.
+p . \~p ist dasjenige – etwa *das Nichts* – welches p und \~p gemeinsam haben.
 
 In dem *eigentlichen* Zeichen für p liegt wirklich schon das Zeichen "p ∨ q". (Denn es ist dann möglich, dies Zeichen OHNE WEITERES zu bilden.)
 
@@ -1640,51 +1640,51 @@ In der Klassen-Theorie ist noch nicht ersichtlich, warum der Satz seinen Gegensa
 
 Der Satz sagt, es ist: *so*, und nicht: *so.* Er stellt eine Möglichkeit dar und bildet doch schon *ersichtlich* den Teil eines Ganzen – dessen Züge er trägt – und von welchem er sich abhebt.
 
-p ∨ q ∨ ~p ist auch eine Tautologie. –
+p ∨ q ∨ \~p ist auch eine Tautologie. –
 
-Es gibt wohl Sätze, die sowohl p als auch ~p *zulassen*, aber *keinen*, den sowohl p als auch ~p *bejaht.*
+Es gibt wohl Sätze, die sowohl p als auch \~p *zulassen*, aber *keinen*, den sowohl p als auch \~p *bejaht.*
 
 ![Illustrazione 6.6.15.png](images/380px-Illustrazione_6.6.15.png)\
 
-Die Möglichkeit von. "p ∨ q", wenn "p" gegeben ist, ist eine Möglichkeit nach einer anderen Dimension als die Unmöglichkeit von "~p".
+Die Möglichkeit von. "p ∨ q", wenn "p" gegeben ist, ist eine Möglichkeit nach einer anderen Dimension als die Unmöglichkeit von "\~p".
 
-"p ∨ ~p" ist ein GANZ SPEZIELLER FALL von "p ∨ q".
+"p ∨ \~p" ist ein GANZ SPEZIELLER FALL von "p ∨ q".
 
-"p" hat nichts mit "~p ∨ q" gemein.
+"p" hat nichts mit "\~p ∨ q" gemein.
 
-Dadurch daß ich an "p" das "~" hänge, tritt der Satz in eine andere Satzklasse.
+Dadurch daß ich an "p" das "\~" hänge, tritt der Satz in eine andere Satzklasse.
 
 Jeder Satz hat nur ein Negativ; ... Es gibt nur einen Satz der ganz außerhalb von "p" liegt. [*Vgl.* 5.513.]
 
-Man könnte auch so sagen: Der Satz, welcher p und ~p bejaht, wird von allen Sätzen verneint; der Satz, welcher p oder ~p bejaht, wird von allen Sätzen bejaht.
+Man könnte auch so sagen: Der Satz, welcher p und \~p bejaht, wird von allen Sätzen verneint; der Satz, welcher p oder \~p bejaht, wird von allen Sätzen bejaht.
 
-Mein Fehler muß darin liegen, daß ich dasjenige, was aus dem Wesen der Verneinung u. a. folgt, zu ihrer Definition gebrauchen will. – Die Gemeinsamkeit der Grenze von "p" und "~p" kommt in der von mir versuchten Erklärung der Verneinung gar nicht vor.
+Mein Fehler muß darin liegen, daß ich dasjenige, was aus dem Wesen der Verneinung u. a. folgt, zu ihrer Definition gebrauchen will. – Die Gemeinsamkeit der Grenze von "p" und "\~p" kommt in der von mir versuchten Erklärung der Verneinung gar nicht vor.
 
 **7. 6. 15.**
 
-Wenn man z. B. sagen könnte: alle Sätze, die p nicht bejahen, bejahen ~p, so hätte man damit eine genügende Beschreibung. – Aber so geht es nicht.
+Wenn man z. B. sagen könnte: alle Sätze, die p nicht bejahen, bejahen \~p, so hätte man damit eine genügende Beschreibung. – Aber so geht es nicht.
 
-Kann man aber nicht sagen "~p" ist dasjenige, was nur solche Sätze gemeinsam haben, welche "p" nicht bejahen? – Und hieraus folgt ja schon die Unmöglichkeit von "p.~p".
+Kann man aber nicht sagen "\~p" ist dasjenige, was nur solche Sätze gemeinsam haben, welche "p" nicht bejahen? – Und hieraus folgt ja schon die Unmöglichkeit von "p.\~p".
 
 (All dies setzt natürlich schon die Existenz der gesammten *Satzwelt* voraus. Mit Recht?)
 
-Es GENÜGT NICHT, darauf hinzuweisen, daß ~p außerhalb p liegt! Nur dann wird man alle Eigenschaften von "~p" ableiten können, wenn "~p" *wesentlich als das Negativ von p* eingeführt wird!!
+Es GENÜGT NICHT, darauf hinzuweisen, daß \~p außerhalb p liegt! Nur dann wird man alle Eigenschaften von "\~p" ableiten können, wenn "\~p" *wesentlich als das Negativ von p* eingeführt wird!!
 
 Aber wie das tun!? –
 
-Oder verhält es sich so, daß wir den Satz ~p überhaupt nicht "einführen" können, sondern, er tritt uns als vollendete Tatsache entgegen, und wir können nur auf seine einzelnen formellen Eigenschaften hinweisen, wie z. B., daß er nichts mit p gemeinsam hat, daß kein Satz ihn und p enthält etc. etc.?
+Oder verhält es sich so, daß wir den Satz \~p überhaupt nicht "einführen" können, sondern, er tritt uns als vollendete Tatsache entgegen, und wir können nur auf seine einzelnen formellen Eigenschaften hinweisen, wie z. B., daß er nichts mit p gemeinsam hat, daß kein Satz ihn und p enthält etc. etc.?
 
 **8. 6. 15.**
 
 Jeder "mathematische Satz" ist ein in Zeichen dargestellter Modus ponens. (Und es ist klar, daß man den Modus ponens nicht in einem Satz ausdrücken kann.) [*Vgl.* 6.1264.]
 
-Die Gemeinsamkeit der Grenze von p und ~p drückt sich dadurch aus, daß das Negativ eines Satzes nur mit Hilfe eben dieses bestimmt wird. Wir sagen ja eben: das Negativ eines Satzes ist der Satz, welcher... und nun folgt die Beziehung von ~p zu p. –
+Die Gemeinsamkeit der Grenze von p und \~p drückt sich dadurch aus, daß das Negativ eines Satzes nur mit Hilfe eben dieses bestimmt wird. Wir sagen ja eben: das Negativ eines Satzes ist der Satz, welcher... und nun folgt die Beziehung von \~p zu p. –
 
 **9. 6. 15.**
 
 Man könnte natürlich einfach so sagen: Die Verneinung von p ist der Satz, welcher keinen Satz mit p gemeinsam hat.
 
-Der Ausdruck "tertium non datur" ist eigentlich ein Unsinn. (Von einem Dritten ist eben in p ∨ ~p nicht die Rede!)
+Der Ausdruck "tertium non datur" ist eigentlich ein Unsinn. (Von einem Dritten ist eben in p ∨ \~p nicht die Rede!)
 
 Sollten wir das nicht auf unsere Erklärung des Negativs eines Satzes anwenden können?
 
@@ -1694,31 +1694,31 @@ Ich kann also sagen, das Negativ von p ist die Klasse aller Sätze, welche nur v
 
 **10. 6. 15.**
 
-*"p.q ∨ ~q" ist von "q"* NICHT *abhängig*!!
+*"p.q ∨ \~q" ist von "q"* NICHT *abhängig*!!
 
 *Ganze Sätze* verschwinden!
 
-Schon das, daß "p.q ∨ ~q" von "q" unabhängig ist, obwohl es das Schriftzeichen "q" offenbar enthält, zeigt uns, wie Zeichen von der Form *η* ∨ ~*η* scheinbar, aber doch nur *scheinbar* existieren können.
+Schon das, daß "p.q ∨ \~q" von "q" unabhängig ist, obwohl es das Schriftzeichen "q" offenbar enthält, zeigt uns, wie Zeichen von der Form *η* ∨ \~*η* scheinbar, aber doch nur *scheinbar* existieren können.
 
-Dies kommt natürlich daher, daß diese Zusammenstellung "p ∨ ~p" zwar äußerlich möglich ist, aber nicht den Bedingungen genügt unter welchen ein solcher Komplex *etwas sagt*, also ein Satz ist.
+Dies kommt natürlich daher, daß diese Zusammenstellung "p ∨ \~p" zwar äußerlich möglich ist, aber nicht den Bedingungen genügt unter welchen ein solcher Komplex *etwas sagt*, also ein Satz ist.
 
-"p.q ∨ ~q" sagt dasselbe wie
+"p.q ∨ \~q" sagt dasselbe wie
 
-"p.r ∨ ~r"
+"p.r ∨ \~r"
 
 was immer q und r besagen mag: Alle Tautologien besagen dasselbe. (Nämlich nichts.) [*Vgl.* 5.43.]
 
-Aus der letzten Erklärung der Verneinung folgt, daß alle von p allein abhängigen Sätze, welche p nicht bejahen – und nur solche – p verneinen. Also sind "p v ~p" und "p.~p" keine Sätze, denn das erste Zeichen bejaht weder noch verneint es p, und das zweite müßte beide bejahen.
+Aus der letzten Erklärung der Verneinung folgt, daß alle von p allein abhängigen Sätze, welche p nicht bejahen – und nur solche – p verneinen. Also sind "p v \~p" und "p.\~p" keine Sätze, denn das erste Zeichen bejaht weder noch verneint es p, und das zweite müßte beide bejahen.
 
-Da ich nun aber doch p ∨ ~p und p.~p hinschreiben kann, zumal in Verbindung mit anderen Sätzen, so muß klar gestellt werden, welche Rolle diese Scheinsätze nun, besonders *in* jenen Verbindungen, spielen. Denn sie sind natürlich nicht als ein völlig bedeutungsloses Anhängsel – wie etwa ein bedeutungsloser Name – zu behandeln. Sie gehören vielmehr mit in den Symbolismus – wie die "0" in der Arithmetik. [*Vgl.* 4.4611.]
+Da ich nun aber doch p ∨ \~p und p.\~p hinschreiben kann, zumal in Verbindung mit anderen Sätzen, so muß klar gestellt werden, welche Rolle diese Scheinsätze nun, besonders *in* jenen Verbindungen, spielen. Denn sie sind natürlich nicht als ein völlig bedeutungsloses Anhängsel – wie etwa ein bedeutungsloser Name – zu behandeln. Sie gehören vielmehr mit in den Symbolismus – wie die "0" in der Arithmetik. [*Vgl.* 4.4611.]
 
-Da ist es klar, daß p ∨ ~p die Rolle eines wahren Satzes spielt, der aber *zero* sagt.
+Da ist es klar, daß p ∨ \~p die Rolle eines wahren Satzes spielt, der aber *zero* sagt.
 
 Wir sind also wieder bei der Quantität des Sagens.
 
 **11. 6. 15.**
 
-Aus allen Sätzen folgt das Gegenteil von "p.~p", heißt das soviel, daß "p.~p" nichts sagt? – Nach meiner früheren Regel müßte die Kontradiktion ja mehr sagen als alle anderen Sätze.
+Aus allen Sätzen folgt das Gegenteil von "p.\~p", heißt das soviel, daß "p.\~p" nichts sagt? – Nach meiner früheren Regel müßte die Kontradiktion ja mehr sagen als alle anderen Sätze.
 
 ![Illustrazione 11.6.15de.png](images/380px-Illustrazione_11.6.15de.png)\
 
@@ -1728,21 +1728,21 @@ Wenn ein vielsagender Satz auch falsch ist, so sollte eben das interessant sein,
 
 Man könnte eigentlich bei jedem Satz fragen: Was hat es zu bedeuten, wenn er wahr ist, was hat es zu bedeuten, wenn er falsch ist?
 
-Nun ist p.~p seiner Annahme nach immer nur falsch, und dies hat also nichts zu bedeuten; und wieviel es bedeutet, wenn er wahr ist, kann man ja gar nicht fragen.
+Nun ist p.\~p seiner Annahme nach immer nur falsch, und dies hat also nichts zu bedeuten; und wieviel es bedeutet, wenn er wahr ist, kann man ja gar nicht fragen.
 
 **13. 6. 15.**
 
-Wenn "p.~p" wahr sein KÖNNTE, so würde es allerdings *sehr* viel besagen. Aber *die Annahme*, daß es wahr ist, kommt eben bei ihm nicht in Betracht, da es seiner Annahme nach immer falsch ist.
+Wenn "p.\~p" wahr sein KÖNNTE, so würde es allerdings *sehr* viel besagen. Aber *die Annahme*, daß es wahr ist, kommt eben bei ihm nicht in Betracht, da es seiner Annahme nach immer falsch ist.
 
 Eigentümlich: Die Wörter "Wahr" und "Falsch" beziehen sich auf die Beziehung des Satzes zur Welt; daß diese Wörter in ihm selbst zur Darstellung verwendet werden können!
 
-Wir sagten: Wenn ein Satz nur von p abhängig ist, und wenn er p bejaht, dann verneint er es nicht, und umgekehrt: *Ist dies das Bild jener gegenseitigen Ausschließung von p und ~p*? Der Tatsache, daß ~p *das* ist, was *außerhalb* p liegt?
+Wir sagten: Wenn ein Satz nur von p abhängig ist, und wenn er p bejaht, dann verneint er es nicht, und umgekehrt: *Ist dies das Bild jener gegenseitigen Ausschließung von p und \~p*? Der Tatsache, daß \~p *das* ist, was *außerhalb* p liegt?
 
-*Es scheint doch so*! Der Satz "~p" ist in demselben Sinne das, was außerhalb "p" liegt. – (Vergiß auch nicht, daß das Bild sehr komplizierte Koordinaten zur Welt haben kann.)
+*Es scheint doch so*! Der Satz "\~p" ist in demselben Sinne das, was außerhalb "p" liegt. – (Vergiß auch nicht, daß das Bild sehr komplizierte Koordinaten zur Welt haben kann.)
 
-Man könnte übrigens einfach sagen: "p.~p" sagt im eigentlichen Sinne des Wortes nichts. Weil im vornherein keine Möglichkeit gelassen ist, die er *richtig* darstellen kann.
+Man könnte übrigens einfach sagen: "p.\~p" sagt im eigentlichen Sinne des Wortes nichts. Weil im vornherein keine Möglichkeit gelassen ist, die er *richtig* darstellen kann.
 
-Wenn, beiläufig gesprochen, "p folgt aus q" heißt, wenn q wahr ist, so muß p wahr sein, dann kann man überhaupt nicht sagen, daß irgend etwas aus "p.~p" folgt, da es die Hypothese, daß "p.~p" wahr sei, nicht gibt!!
+Wenn, beiläufig gesprochen, "p folgt aus q" heißt, wenn q wahr ist, so muß p wahr sein, dann kann man überhaupt nicht sagen, daß irgend etwas aus "p.\~p" folgt, da es die Hypothese, daß "p.\~p" wahr sei, nicht gibt!!
 
 **14. 6. 15.**
 
@@ -1758,7 +1758,7 @@ Wie steht es aber mit der Bedeutung der Namen außerhalb des Satzzusammenhanges?
 
 Man könnte aber die Frage auch so vorbringen: Es scheint, daß die Idee des EINFACHEN in der des Komplexen und in der Idee der Analyse bereits enthalten liegt, so zwar, daß wir ganz absehend von irgend­ welchen Beispielen einfacher Gegenstände oder von Sätzen, in welchen von solchen die Rede ist, zu dieser Idee kommen und die Existenz der einfachen Gegenstände als eine logische Notwendigkeit – a priori – einsehen.
 
-Es hat also den Anschein, daß sich die Existenz der einfachen Gegenstände zu der der komplexen so verhält, wie der Sinn von ~p zum Sinn von p: Der *einfache* Gegenstand sei im komplexen *präjudiziert.*
+Es hat also den Anschein, daß sich die Existenz der einfachen Gegenstände zu der der komplexen so verhält, wie der Sinn von \~p zum Sinn von p: Der *einfache* Gegenstand sei im komplexen *präjudiziert.*
 
 **15. 6. 15.**
 

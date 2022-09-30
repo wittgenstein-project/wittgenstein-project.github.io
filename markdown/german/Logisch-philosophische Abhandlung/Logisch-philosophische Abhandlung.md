@@ -945,21 +945,21 @@ Die Verwechslung von Argument und Index liegt, wenn ich mich nicht irre, der The
 |   |   |   |
 |---|---|---|
 |(WWWW)(*p*, *q*) |Tautologie |(Wenn *p*, so *p*; und wenn *q*, so *q*.) (*p* ⊃ *p . q* ⊃ *q*) |
-|(FWWW)(*p*, *q*) |in Worten: |Nicht beides *p* und *q*. (~(*p* . *q*)) |
+|(FWWW)(*p*, *q*) |in Worten: |Nicht beides *p* und *q*. (\~(*p* . *q*)) |
 |(WFWW)(*p*, *q*) |„ „ |Wenn *q*, so *p*. (q ⊃ p) |
 |(WWFW)(*p*, *q*) |„ „ |Wenn *p*, so *q*. (p ⊃ q) |
 |(WWWF)(*p*, *q*) |„ „ |*p* oder *q*. (*p* ∨ *q*) |
-|(FFWW)(*p*, *q*) |„ „ |Nicht *q*. ~*q* |
-|(FWFW)(*p*, *q*) |„ „ |Nicht *p*. ~*p* |
-|(FWWF)(*p*, *q*) |„ „ |*p* oder *q*, aber nicht beide. (*p* . ~*q* : ∨ : *q* . ~*p*) |
+|(FFWW)(*p*, *q*) |„ „ |Nicht *q*. \~*q* |
+|(FWFW)(*p*, *q*) |„ „ |Nicht *p*. \~*p* |
+|(FWWF)(*p*, *q*) |„ „ |*p* oder *q*, aber nicht beide. (*p* . \~*q* : ∨ : *q* . \~*p*) |
 |(WFFW)(*p*, *q*) |„ „ |Wenn *p*, so *q*; und wenn *q*, so *p*. (*p* ≡ *q*) |
 |(WFWF)(*p*, *q*) |„ „ |*p* |
 |(WWFF)(*p*, *q*) |„ „ |*q* |
-|(FFFW)(*p*, *q*) |„ „ |Weder *p* noch *q*. (~*p* . ~*q*) oder (*p* | *q*) |
-|(FFWF)(*p*, *q*) |„ „ |*p* und nicht *q*. (*p* . ~*q*) |
-|(FWFF)(*p*, *q*) |„ „ |*q* und nicht *p*. (*q* . ~*p*) |
+|(FFFW)(*p*, *q*) |„ „ |Weder *p* noch *q*. (\~*p* . \~*q*) oder (*p* | *q*) |
+|(FFWF)(*p*, *q*) |„ „ |*p* und nicht *q*. (*p* . \~*q*) |
+|(FWFF)(*p*, *q*) |„ „ |*q* und nicht *p*. (*q* . \~*p*) |
 |(WFFF)(*p*, *q*) |„ „ |*q* und *p*. (*q* . *p*) |
-|(FFFF)(*p*, *q*) |Kontradiktion |(*p* und nicht *p*; und *q* und nicht *q*.) (*p* . ~*p* . *q* . ~*q*) |
+|(FFFF)(*p*, *q*) |Kontradiktion |(*p* und nicht *p*; und *q* und nicht *q*.) (*p* . \~*p* . *q* . \~*q*) |
 
 Diejenigen Wahrheitsmöglichkeiten seiner Wahrheitsargumente, welche den Satz bewahrheiten, will ich seine *Wahrheitsgründe* nennen.
 
