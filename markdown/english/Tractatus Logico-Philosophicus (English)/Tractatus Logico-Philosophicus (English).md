@@ -1740,7 +1740,9 @@ A right-hand glove could be put on a left hand if it could be turned round in fo
 
 **[6.363](https://www.wittgensteinproject.org/w/index.php?title=Logisch-philosophische_Abhandlung#6.363)** The process of induction is the process of assuming the *simplest* law that can be made to harmonize with our experience.
 
-**[6.3631](https://www.wittgensteinproject.org/w/index.php?title=Logisch-philosophische_Abhandlung#6.3631)** This process, however, has no logical foundation but only a psychological one. It is clear that there are no grounds for believing that the simplest course of events will really happen.
+**[6.3631](https://www.wittgensteinproject.org/w/index.php?title=Logisch-philosophische_Abhandlung#6.3631)** This process, however, has no logical foundation but only a psychological one.
+
+It is clear that there are no grounds for believing that the simplest course of events will really happen.
 
 **[6.36311](https://www.wittgensteinproject.org/w/index.php?title=Logisch-philosophische_Abhandlung#6.36311)** That the sun will rise to-morrow, is an hypothesis; and that means that we do not know whether it will rise.
 
