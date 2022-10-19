@@ -1229,6 +1229,8 @@ Thus "Socrates is identical" says nothing, because we have given *no* meaning to
 
 **[5.5](https://www.wittgensteinproject.org/w/index.php?title=Logisch-philosophische_Abhandlung#5.5)** Every truth-function is a result of the successive application of the operation (– – – – – T)(*ξ*, ....) to elementary propositions.
 
+This operation denies all the propositions in the right-hand bracket and I call it the negation of these propositions.
+
 **[5.501](https://www.wittgensteinproject.org/w/index.php?title=Logisch-philosophische_Abhandlung#5.501)** An expression in brackets whose terms are propositions I indicate—if the order of the terms in the bracket is indifferent—by a sign of the form "${\displaystyle ({\bar {\xi }})}$". "*ξ*" is a variable whose values are the terms of the expression in brackets, and the line over the variable indicates that it stands for all its values in the bracket.
 
 (Thus if *ξ* has the 3 values P, Q, R, then ${\displaystyle ({\bar {\xi }})}$ = (P, Q, R).)
@@ -1731,6 +1733,8 @@ It is exactly analogous for space. When, for example, we say that neither of two
 **[6.36111](https://www.wittgensteinproject.org/w/index.php?title=Logisch-philosophische_Abhandlung#6.36111)** The Kantian problem of the right and left hand which cannot be made to cover one another already exists in the plane, and even in one-dimensional space; where the two congruent figures *a* and *b* cannot be made to cover one another without moving them out of this space. The right and left hand are in fact completely congruent. And the fact that they cannot be made to cover one another has nothing to do with it.
 
 ![TLP 6.36111.png](images/330px-TLP_6.36111.png)\
+
+A right-hand glove could be put on a left hand if it could be turned round in four-dimensional space.
 
 **[6.362](https://www.wittgensteinproject.org/w/index.php?title=Logisch-philosophische_Abhandlung#6.362)** What can be described can happen too, and what is excluded by the law of causality cannot be described.
 
