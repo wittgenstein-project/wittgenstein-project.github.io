@@ -1247,13 +1247,13 @@ Wie die Beschreibung der Glieder des Klammerausdruckes geschieht, ist unwesentli
 
 Wir *können* drei Arten der Beschreibung unterscheiden: 1. Die direkte Aufzählung. In diesem Fall können wir statt der Variablen einfach ihre konstanten Werte setzen. 2. Die Angabe einer Funktion *fx*, deren Werte für alle Werte von *x* die zu beschreibenden Sätze sind. 3. Die Angabe eines formalen Gesetzes, nach welchem jene Sätze gebildet sind. In diesem Falle sind die Glieder des Klammerausdrucks sämtliche Glieder einer Formenreihe.
 
-**5.502** Ich schreibe also statt „(– – – – –W)(*ξ, . . . .*)“ „*N* (${\displaystyle {\bar {\xi }}}$)“.
+**5.502** Ich schreibe also statt „(– – – – –W)(*ξ, . . . .*)“ „${\displaystyle N({\bar {\xi }})}$“.
 
-„*N* (${\displaystyle {\bar {\xi }}}$)“ ist die Negation sämtlicher Werte der Satzvariablen ${\displaystyle \xi }$.
+${\displaystyle N({\bar {\xi }})}$ ist die Negation sämtlicher Werte der Satzvariablen *ξ*.
 
 **5.503** Da sich offenbar leicht ausdrücken lässt, wie mit dieser Operation Sätze gebildet werden können und wie Sätze mit ihr nicht zu bilden sind, so muss dies auch einen exakten Ausdruck finden können.
 
-**5.51** Hat ${\displaystyle \xi }$ nur einen Wert, so ist *N* (${\displaystyle {\bar {\xi }}}$) = ∼*p* (nicht *p*), hat es zwei Werte, so ist *N* (${\displaystyle {\bar {\xi }}}$) = ∼*p .* ∼*q* (weder *p* noch *q*).
+**5.51** Hat *ξ* nur einen Wert, so ist ${\displaystyle N({\bar {\xi }})}$ = ∼*p* (nicht *p*), hat es zwei Werte, so ist ${\displaystyle N({\bar {\xi }})}$ = ∼*p .* ∼*q* (weder *p* noch *q*).
 
 **5.511** Wie kann die allumfassende, weltspiegelnde Logik so spezielle Haken und Manipulationen gebrauchen? Nur, indem sich alle diese zu einem unendlich feinen Netzwerk, zu dem grossen Spiegel, verknüpfen.
 
@@ -1281,7 +1281,7 @@ Aber auch hier ist ja der negative Satz indirekt durch den positiven gebildet.
 
 Der positive *Satz* muss die Existenz des negativen *Satzes* voraussetzen und umgekehrt.
 
-**5.52** Sind die Werte von *ξ* sämtliche Werte einer Funktion *fx* für alle Werte von *x*, so wird *N* (${\displaystyle {\bar {\xi }}}$) = ∼(∃*x*) *. fx*.
+**5.52** Sind die Werte von *ξ* sämtliche Werte einer Funktion *fx* für alle Werte von *x*, so wird ${\displaystyle N({\bar {\xi }})}$ = ∼(∃*x*) *. fx*.
 
 **5.521** Ich trenne den Begriff *Alle* von der Wahrheitsfunktion.
 
