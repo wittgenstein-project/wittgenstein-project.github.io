@@ -1235,9 +1235,9 @@ So sagt „Sokrates ist identisch“ darum nichts, weil wir dem Wort „identisc
 
 Diese Operation verneint sämtliche Sätze in der rechten Klammer und ich nenne sie die Negation dieser Sätze.
 
-**5.501** Einen Klammerausdruck, dessen Glieder Sätze sind, deute ich – wenn die Reihenfolge der Glieder in der Klammer gleichgültig ist – durch ein Zeichen von der Form „(*ξ*)“ an. „*ξ*“ ist eine Variable, deren Werte die Glieder des Klammerausdruckes sind; und der Strich über der Variablen deutet an, dass sie ihre sämtlichen Werte in der Klammer vertritt.
+**5.501** Einen Klammerausdruck, dessen Glieder Sätze sind, deute ich – wenn die Reihenfolge der Glieder in der Klammer gleichgültig ist – durch ein Zeichen von der Form „${\displaystyle ({\bar {\xi }}}$)“ an. „*ξ*“ ist eine Variable, deren Werte die Glieder des Klammerausdruckes sind; und der Strich über der Variablen deutet an, dass sie ihre sämtlichen Werte in der Klammer vertritt.
 
-(Hat also ${\displaystyle \xi }$ etwa die 3 Werte P, Q, R, so ist (${\displaystyle {\bar {\xi }}}$) = (P, Q, R).)
+(Hat also *ξ* etwa die 3 Werte P, Q, R, so ist ${\displaystyle ({\bar {\xi }})}$ = (P, Q, R).)
 
 Die Werte der Variablen werden festgesetzt.
 
