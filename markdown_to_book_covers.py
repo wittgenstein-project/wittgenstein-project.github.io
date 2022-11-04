@@ -130,7 +130,7 @@ else:
                     if column + 1 >= WIDTH / cell_width:
                         column = 0
                         row += 1
-                for remark in md.split("\n"):
+                for remark in md.split("\n")[12:]: # skip 12 paragraphs (titles + colophon)
                     if not remark:
                         continue
                     cx = cell_width + column * cell_width
