@@ -224,6 +224,11 @@ def parse_html(errors, parsed, image_urls, elem):
             for child in elem.children:
                 parse_html(errors, parsed, image_urls, child)
             parsed.append("")
+        elif elem.name == "div" and elem.get("class") == ["tlp-column"]:
+            parsed.append("")
+            for child in elem.children:
+                parse_html(errors, parsed, image_urls, child)
+            parsed.append("")
         elif elem.name == "div" and not elem.get("class") and elem.get("style") == "margin-left: -3em; float: left;":
             # section mark, ignore
             pass
