@@ -817,6 +817,29 @@ Es können alle Kombinationen der Sachverhalte bestehen, die andern nicht besteh
 
 **4.31** Die Wahrheitsmöglichkeiten können wir durch Schemata folgender Art darstellen („W“ bedeutet „wahr“, „F“, „falsch“. Die Reihen der „W“ und „F“ unter der Reihe der Elementarsätze bedeuten in leichtverständlicher Symbolik deren Wahrheitsmöglichkeiten):
 
+|p |q |r |
+|---|---|---|
+|W|W|W |
+|F|W|W |
+|W|F|W |
+|W|W|F |
+|F|F|W |
+|F|W|F |
+|W|F|F |
+|F|F|F |
+
+|p |q |
+|---|---|
+|W|W |
+|F|W |
+|W|F |
+|F|F |
+
+|p |
+|---|
+|W |
+|F |
+
 **4.4** Der Satz ist der Ausdruck der Übereinstimmung und Nichtübereinstimmung mit den Wahrheitsmöglichkeiten der Elementarsätze.
 
 **4.41** Die Wahrheitsmöglichkeiten der Elementarsätze sind die Bedingungen der Wahrheit und Falschheit der Sätze.
@@ -1518,7 +1541,7 @@ ${\displaystyle 0+1+1=2{\text{ Def.}}}$
 
 ${\displaystyle 0+1+1+1=3{\text{ Def.}}}$
 
-${\displaystyle {\text{(u. s. f.)}}}$
+(u. s. f.)
 
 **6.021** Die Zahl ist der Exponent einer Operation.
 

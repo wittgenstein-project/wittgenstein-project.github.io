@@ -815,6 +815,29 @@ It is possible for all combinations of atomic facts to exist, and the others not
 
 **[4.31](https://www.wittgensteinproject.org/w/index.php?title=Logisch-philosophische_Abhandlung#4.31)** The truth-possibilities can be presented by schemata of the following kind ("T" means "true", "F" "false". The rows of T's and F's under the row of the elementary propositions mean their truth-possibilities in an easily intelligible symbolism).
 
+|p |q |r |
+|---|---|---|
+|T|T|T |
+|F|T|T |
+|T|F|T |
+|T|T|F |
+|F|F|T |
+|F|T|F |
+|T|F|F |
+|F|F|F |
+
+|p |q |
+|---|---|
+|T|T |
+|F|T |
+|T|F |
+|F|F |
+
+|p |
+|---|
+|T |
+|F |
+
 **[4.4](https://www.wittgensteinproject.org/w/index.php?title=Logisch-philosophische_Abhandlung#4.4)** A proposition is the expression of agreement and disagreement with the truth-possibilities of the elementary propositions.
 
 **[4.41](https://www.wittgensteinproject.org/w/index.php?title=Logisch-philosophische_Abhandlung#4.41)** The truth-possibilities of the elementary propositions are the conditions of the truth and falsehood of the propositions.
