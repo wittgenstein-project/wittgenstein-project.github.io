@@ -97,7 +97,7 @@ A new possibility cannot subsequently be found.
 
 **[2.0131](https://www.wittgensteinproject.org/w/index.php?title=Logisch-philosophische_Abhandlung#2.0131)** A spatial object must lie in infinite space. (A point in space is an argument place.)
 
-A speck in a visual field need not be red, but it must have a colour; it has, so to speak, a colour space round it. A tone must have *a* pitch, the object of the sense of touch a hardness, etc.
+A speck in a visual field need not be red, but it must have a colour; it has, so to speak, a colour space round it. A tone must have *a* pitch, the object of the sense of touch *a* hardness, etc.
 
 **[2.014](https://www.wittgensteinproject.org/w/index.php?title=Logisch-philosophische_Abhandlung#2.014)** Objects contain the possibility of all states of affairs.
 
