@@ -167,7 +167,7 @@ Ich möchte sagen: nichts zeigt unsere Verwandtschaft mit jenen Wilden besser, a
 
 (Das ist ja doch etwas anderes, als wenn er etwa beschriebe, die Wilden bildeten //bilden// sich ein, dass ihnen ihr Kopf herunterfällt, wenn sie einen Feind erschlagen haben. Hier hätte *unsere Beschreibung* nichts Abergläubisches oder Magisches an sich.)
 
-Ja, diese Sonderbarkeit bezieht sich nur auf die Ausdrücke »ghost«~~,~~ //und// »shade«, und es wird viel zu wenig Aufhebens davon gemacht, dass wir das Wort »Seele«, »Geist« (»spirit«) zu unserem eigenen gebildeten Vokabular zählen. Dagegen ist eine Kleinigkeit, dass wir nicht glauben, dass unsere Seele isst und trinkt.
+Ja, diese Sonderbarkeit bezieht sich nicht nur auf die Ausdrücke »ghost«~~,~~ //und// »shade«, und es wird viel zu wenig Aufhebens davon gemacht, dass wir das Wort »Seele«, »Geist« (»spirit«) zu unserem eigenen gebildeten Vokabular zählen. Dagegen ist eine Kleinigkeit, dass wir nicht glauben, dass unsere Seele isst und trinkt.
 
 In unserer Sprache ist eine ganze Mythologie niedergelegt.
 
