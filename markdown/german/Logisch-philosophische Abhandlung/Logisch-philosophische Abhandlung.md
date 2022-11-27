@@ -807,7 +807,7 @@ Ausdrücke wie „*a* = *a*“, oder von diesen abgeleitete, sind weder Elementa
 
 **4.26** Die Angabe aller wahren Elementarsätze beschreibt die Welt vollständig. Die Welt ist vollständig beschrieben durch die Angaben aller Elementarsätze plus der Angabe, welche von ihnen wahr und welche falsch sind.
 
-**4.27** Bezüglich des Bestehens und Nichtbestehens von *n* Sachverhalten gibt es ${\displaystyle K_{n}=\sum _{v=0}^{n}{\binom {n}{v}}}$ Möglichkeiten.
+**4.27** Bezüglich des Bestehens und Nichtbestehens von *n* Sachverhalten gibt es ${\displaystyle K_{n}=\sum _{\nu =0}^{n}{\binom {n}{\nu }}}$ Möglichkeiten.
 
 Es können alle Kombinationen der Sachverhalte bestehen, die andern nicht bestehen.
 
@@ -846,7 +846,7 @@ Es können alle Kombinationen der Sachverhalte bestehen, die andern nicht besteh
 
 **4.411** Es ist von vornherein wahrscheinlich, dass die Einführung der Elementarsätze für das Verständnis aller anderen Satzarten grundlegend ist. Ja, das Verständnis der allgemeinen Sätze hängt *fühlbar* von dem der Elementarsätze ab.
 
-**4.42** Bezüglich der Übereinstimmung und Nichtübereinstimmung eines Satzes mit den Wahrheitsmöglichkeiten von *n* Elementarsätzen gibt es ${\displaystyle \sum _{k=0}^{K_{n}}{\binom {K_{n}}{k}}=L_{n}}$ Möglichkeiten.
+**4.42** Bezüglich der Übereinstimmung und Nichtübereinstimmung eines Satzes mit den Wahrheitsmöglichkeiten von *n* Elementarsätzen gibt es ${\displaystyle \sum _{\kappa =0}^{K_{n}}{\binom {K_{n}}{\kappa }}=L_{n}}$ Möglichkeiten.
 
 **4.43** Die Übereinstimmung mit den Wahrheitsmöglichkeiten können wir dadurch ausdrücken, indem wir ihnen im Schema etwa das Abzeichen „W“ (wahr) zuordnen.
 

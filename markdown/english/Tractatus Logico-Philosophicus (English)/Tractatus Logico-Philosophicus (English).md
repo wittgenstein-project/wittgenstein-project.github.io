@@ -805,7 +805,7 @@ Expressions like “*a=a*”, or expressions deduced from these are neither elem
 
 **[4.26](https://www.wittgensteinproject.org/w/index.php?title=Logisch-philosophische_Abhandlung#4.26)** The specification of all true elementary propositions describes the world completely. The world is completely described by the specification of all elementary propositions plus the specification, which of them are true and which false.
 
-**[4.27](https://www.wittgensteinproject.org/w/index.php?title=Logisch-philosophische_Abhandlung#4.27)** With regard to the existence of n atomic facts there are ${\displaystyle K_{n}=\sum _{v=0}^{n}{\binom {n}{v}}}$ possibilities.
+**[4.27](https://www.wittgensteinproject.org/w/index.php?title=Logisch-philosophische_Abhandlung#4.27)** With regard to the existence of n atomic facts there are ${\displaystyle K_{n}=\sum _{\nu =0}^{n}{\binom {n}{\nu }}}$ possibilities.
 
 It is possible for all combinations of atomic facts to exist, and the others not to exist.
 
@@ -844,7 +844,7 @@ It is possible for all combinations of atomic facts to exist, and the others not
 
 **[4.411](https://www.wittgensteinproject.org/w/index.php?title=Logisch-philosophische_Abhandlung#4.411)** It seems probable even at first sight that the introduction of the elementary propositions is fundamental for the comprehension of the other kinds of propositions. Indeed the comprehension of the general propositions depends *palpably* on that of the elementary propositions.
 
-**[4.42](https://www.wittgensteinproject.org/w/index.php?title=Logisch-philosophische_Abhandlung#4.42)** With regard to the agreement and disagreement of a proposition with the truth-possibilities of n elementary propositions there are ${\displaystyle \sum _{k=0}^{K_{n}}{\binom {K_{n}}{k}}=L_{n}}$ possibilities.
+**[4.42](https://www.wittgensteinproject.org/w/index.php?title=Logisch-philosophische_Abhandlung#4.42)** With regard to the agreement and disagreement of a proposition with the truth-possibilities of n elementary propositions there are ${\displaystyle \sum _{\kappa =0}^{K_{n}}{\binom {K_{n}}{\kappa }}=L_{n}}$ possibilities.
 
 **[4.43](https://www.wittgensteinproject.org/w/index.php?title=Logisch-philosophische_Abhandlung#4.43)** Agreement with the truth-possibilities can be expressed by co-ordinating with them in the schema the mark "T" (true).
 
