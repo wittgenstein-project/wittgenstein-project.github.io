@@ -1248,7 +1248,7 @@ Signs which serve *one* purpose are logically equivalent, signs which serve *no*
 
 Thus "Socrates is identical" says nothing, because we have given *no* meaning to the word "identical" as *adjective*. For when it occurs as the sign of equality it symbolizes in an entirely different way—the symbolizing relation is another—therefore the symbol is in the two cases entirely different; the two symbols have the sign in common with one another only by accident.
 
-**[5.474](https://www.wittgensteinproject.org/w/index.php?title=Logisch-philosophische_Abhandlung#5.474)** The number of necessary fundamental operations depends only on our notation.
+**[5.474](https://www.wittgensteinproject.org/w/index.php?title=Logisch-philosophische_Abhandlung#5.474)** The number of necessary fundamental operations depends *only* on our notation.
 
 **[5.475](https://www.wittgensteinproject.org/w/index.php?title=Logisch-philosophische_Abhandlung#5.475)** It is only a question of constructing a system of signs of a definite number of dimensions—of a definite mathematical multiplicity.
 
@@ -1304,7 +1304,7 @@ But here also the negative proposition is indirectly constructed with the positi
 
 The positive *proposition* must presuppose the existence of the negative *proposition* and conversely.
 
-**[5.52](https://www.wittgensteinproject.org/w/index.php?title=Logisch-philosophische_Abhandlung#5.52)** If the values of *ξ* are the total values of a function *f x* for all values of *x*, then ${\displaystyle N({\bar {\xi }})=\sim (\exists x).fx}$.
+**[5.52](https://www.wittgensteinproject.org/w/index.php?title=Logisch-philosophische_Abhandlung#5.52)** If the values of *ξ* are the total values of a function *f x* for all values of *x*, then ${\displaystyle N({\bar {\xi }})}$ = \~(∃*x*) . *f x*.
 
 **[5.521](https://www.wittgensteinproject.org/w/index.php?title=Logisch-philosophische_Abhandlung#5.521)** I separate the concept *all* from the truth-function.
 
@@ -1462,7 +1462,9 @@ Therefore logic and its application may not overlap one another.
 
 We cannot therefore say in logic: This and this there is in the world, that there is not.
 
-For that would apparently presuppose that we exclude certain possibilities, and this cannot be the case since otherwise logic must get outside the limits of the world: that is, if it could consider these limits from the other side also. What we cannot think, that we cannot think: we cannot therefore *say* what we cannot think.
+For that would apparently presuppose that we exclude certain possibilities, and this cannot be the case since otherwise logic must get outside the limits of the world: that is, if it could consider these limits from the other side also.
+
+What we cannot think, that we cannot think: we cannot therefore *say* what we cannot think.
 
 **[5.62](https://www.wittgensteinproject.org/w/index.php?title=Logisch-philosophische_Abhandlung#5.62)** This remark provides a key to the question, to what extent solipsism is a truth.
 
@@ -1633,7 +1635,7 @@ To be general is only to be accidentally valid for all things. An ungeneralized 
 
 **[6.126](https://www.wittgensteinproject.org/w/index.php?title=Logisch-philosophische_Abhandlung#6.126)** Whether a proposition belongs to logic can be calculated by calculating the logical properties of the *symbol*.
 
-And this we do when we prove a logical proposition. For without troubling ourselves about a sense and a meaning, we form the logical propositions out of others by mere symbolic rules.
+And this we do when we prove a logical proposition. For without troubling ourselves about a sense and a meaning, we form the logical propositions out of others by mere *symbolic rules*.
 
 We prove a logical proposition by creating it out of other logical propositions by applying in succession certain operations, which again generate tautologies out of the first. (And from a tautology only tautologies *follow*.)
 
