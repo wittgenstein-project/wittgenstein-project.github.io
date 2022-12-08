@@ -879,7 +879,7 @@ is a propositional sign.
 
 "${\displaystyle \vdash }$" belongs therefore to the propositions no more than does the number of the proposition. A proposition cannot possibly assert of itself that it is true.)
 
-If the sequence of the truth-possibilities in the schema is once for all determined by a rule of combination, then the last column is by itself an expression of the truth-conditions. If we write this column as a row the propositional sign becomes: "(T—T) (*p,q*)" or more plainly: "(T T F T) (*p,q*)".
+If the sequence of the truth-possibilities in the schema is once for all determined by a rule of combination, then the last column is by itself an expression of the truth-conditions. If we write this column as a row the propositional sign becomes: "(TT–T) (*p,q*)" or more plainly: "(T T F T) (*p,q*)".
 
 (The number of places in the left-hand bracket is determined by the number of terms in the right-hand bracket.)
 
@@ -957,7 +957,9 @@ In Russell's "+~*c*~", for example, "*c*" is an index which indicates that the w
 
 The confusion of argument and index is, if I am not mistaken, at the root of Frege's theory of the meaning of propositions and functions. For Frege the propositions of logic were names and their arguments the indices of these names.
 
-**[5.1](https://www.wittgensteinproject.org/w/index.php?title=Logisch-philosophische_Abhandlung#5.1)** The truth-functions can be ordered in series. That is the foundation of the theory of probability.
+**[5.1](https://www.wittgensteinproject.org/w/index.php?title=Logisch-philosophische_Abhandlung#5.1)** The truth-functions can be ordered in series.
+
+That is the foundation of the theory of probability.
 
 **[5.101](https://www.wittgensteinproject.org/w/index.php?title=Logisch-philosophische_Abhandlung#5.101)** The truth-functions of every number of elementary propositions can be written in a schema of the following kind:
 
@@ -979,6 +981,8 @@ The confusion of argument and index is, if I am not mistaken, at the root of Fre
 |(FTFF)(*p*, *q*) |" " |*q* and not *p*. [*q* . \~*p*] |
 |(TFFF)(*p*, *q*) |" " |*q* and *p*. [*q* . *p*] |
 |(FFFF)(*p*, *q*) |Contradiction |(*p* and not *p*; and *q* and not *q*.) [*p* . \~*p* . *q* . \~*q*] |
+
+Those truth-possibilities of its truth-arguments, which verify the proposition, I shall call its *truth-grounds*.
 
 **[5.11](https://www.wittgensteinproject.org/w/index.php?title=Logisch-philosophische_Abhandlung#5.11)** If the truth-grounds which are common to a number of propositions are all also truth-grounds of some one proposition, we say that the truth of this proposition follows from the truth of those propositions.
 
@@ -1124,7 +1128,7 @@ For an operation does not assert anything; only its result does, and this depend
 
 In a similar sense I speak of the successive application of *several* operations to a number of propositions.
 
-**[5.2522](https://www.wittgensteinproject.org/w/index.php?title=Logisch-philosophische_Abhandlung#5.2522)** The general term of the formal series *a, O', a, O' O' a,* ... I write thus: "[*a, x, O' x*]". This expression in brackets is a variable. The first term of the expression is the beginning of the formal series, the second the form of an arbitrary term *x* of the series, and the third the form of that term of the series which immediately follows *x*.
+**[5.2522](https://www.wittgensteinproject.org/w/index.php?title=Logisch-philosophische_Abhandlung#5.2522)** The general term of the formal series *a*, *O' a*, *O' O' a*, ... I write thus: "[*a*, *x*, *O' x*]". This expression in brackets is a variable. The first term of the expression is the beginning of the formal series, the second the form of an arbitrary term *x* of the series, and the third the form of that term of the series which immediately follows *x*.
 
 **[5.2523](https://www.wittgensteinproject.org/w/index.php?title=Logisch-philosophische_Abhandlung#5.2523)** The concept of the successive application of an operation is equivalent to the concept "and so on".
 
