@@ -1773,7 +1773,7 @@ A right-hand glove could be put on a left hand if it could be turned round in fo
 
 It is clear that there are no grounds for believing that the simplest course of events will really happen.
 
-**[6.36311](https://www.wittgensteinproject.org/w/index.php?title=Logisch-philosophische_Abhandlung#6.36311)** That the sun will rise to-morrow, is an hypothesis; and that means that we do not know whether it will rise.
+**[6.36311](https://www.wittgensteinproject.org/w/index.php?title=Logisch-philosophische_Abhandlung#6.36311)** That the sun will rise to-morrow, is an hypothesis; and that means that we do not *know* whether it will rise.
 
 **[6.37](https://www.wittgensteinproject.org/w/index.php?title=Logisch-philosophische_Abhandlung#6.37)** A necessity for one thing to happen because another has happened does not exist. There is only *logical* necessity.
 
