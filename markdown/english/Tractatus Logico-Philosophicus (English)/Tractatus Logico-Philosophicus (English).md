@@ -1146,7 +1146,7 @@ Every proposition is the result of truth-operations on elementary propositions.
 
 **[5.31](https://www.wittgensteinproject.org/w/index.php?title=Logisch-philosophische_Abhandlung#5.31)** The Schemata No. [4.31](#4.31) are also significant, if "*p*", "*q*", "*r*", etc. are not elementary propositions.
 
-And it is easy to see that the propositional sign in No. [4.42](#4.42) expresses one truth-function of elementary propositions even when "*p*" and "*q*" are truth-functions of elementary propositions.
+And it is easy to see that the propositional sign in No. [4.442](#4.442) expresses one truth-function of elementary propositions even when "*p*" and "*q*" are truth-functions of elementary propositions.
 
 **[5.32](https://www.wittgensteinproject.org/w/index.php?title=Logisch-philosophische_Abhandlung#5.32)** All truth-functions are results of the successive application of a finite number of truth-operations to elementary propositions.
 
