@@ -314,7 +314,7 @@ Jede Zeichenverbindung, die etwas über ihren eigen Sinn auszusagen scheint, ist
 
 Der Satz soll einen Sachverhalt logisch vorbilden. Das kann er aber doch nur dadurch, daß seinen Elementen willkürlich Gegen­stände zugeordnet wurden. Wenn dies nun im ganz allgemeinen Satz nicht der Fall ist, so ist nicht einzusehen, wie er etwas außerhalb ihm darstellen soll.
 
-Im Satze stellen wir – sozusagen – *zur Probe* die Dinge zusammen, wie sie sich in Wirklichkeit aber *nicht* zu verhalten brauchen, wir können aber nicht etwas *Unlogisches* zusammenstellen, denn dazu müßten wir in der Sprache aus der Logik heraus können. – Wenn aber der ganz allgemeine Satz *nur "logische* Konstante" enthält, so kann er für uns nicht mehr sein als – einfach – ein logisches Gebilde, und kann nicht mehr tun als uns seine eigenen logischen Eigenschaften zu zeigen. –– Wenn es ganz allgemeine Sätze gibt, – *was* stellen wir in ihnen probeweise zusammen?? [*Vgl.* 4.031 *u.* 3.03.]
+Im Satze stellen wir – sozusagen – *zur Probe* die Dinge zusammen, wie sie sich in Wirklichkeit aber *nicht* zu verhalten brauchen, wir können aber nicht etwas *Unlogisches* zusammenstellen, denn dazu müßten wir in der Sprache aus der Logik heraus können. – Wenn aber der ganz allgemeine Satz *nur* "*logische* Konstante" enthält, so kann er für uns nicht mehr sein als – einfach – ein logisches Gebilde, und kann nicht mehr tun als uns seine eigenen logischen Eigenschaften zu zeigen. –– Wenn es ganz allgemeine Sätze gibt, – *was* stellen wir in ihnen probeweise zusammen?? [*Vgl.* 4.031 *u.* 3.03.]
 
 Wenn man sich vor der Wahrheit fürchtet (wie ich jetzt), so ahnt man nie die *volle* Wahrheit.
 
