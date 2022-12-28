@@ -1086,7 +1086,7 @@ Nur Operationen können verschwinden!
 
 Der negative Satz schließt die Wirklichkeit aus.
 
-Wie kann die allumfassende, weltspiegelnde Logik so spezielle Haken und Manipulationen gebrauchen?! Nur, indem sich alle diese zusammen zu einem *unendlich* feinen Netzwerk, zu dem großen Spiegel verknüpfen!.
+Wie kann die allumfassende, weltspiegelnde Logik so spezielle Haken und Manipulationen gebrauchen?! Nur, indem sich alle diese zusammen zu einem *unendlich* feinen Netzwerk, zu dem großen Spiegel verknüpfen!
 
 **25. 1. 15.**
 
@@ -2034,6 +2034,14 @@ Die obige Definition handelt aber gar nicht von allen Sätzen, denn sie enthält
 
 So und nur so ist das Fortschreiten von einer Type zur anderen möglich.
 
+Und man kann sagen, alle Typen stehen in Hierarchien.
+
+Und die Hierarchie ist nur möglich durch den Aufbau, durch die Operation.
+
+Die empirische Realität ist begrenzt durch die Zahl der Gegenstände.
+
+Die Grenze zeigt sich wieder in der Gesamtheit der einfachen Sätze.
+
 Die Hierarchien sind und müssen unabhängig sein von der Realität.
 
 Die Bedeutungen ihrer Glieder werden erst durch Zuordnung der Gegenstände zu den Namen bestimmt.
@@ -2373,8 +2381,6 @@ Das Ich tritt in die Philosophie dadurch ein, daß die Welt *meine* Welt ist.
 Das Gesichtsfeld hat nämlich nicht etwa eine solche Form:
 
 ![Illustrazione 12.8.16.png](images/Illustrazione_12.8.16.png)\
-
-[*S.* 5.6331.]-->
 
 Das hängt damit zusammen, daß kein Teil unserer Erfahrung a priori ist.
 
