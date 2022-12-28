@@ -29,7 +29,7 @@ As a rule the description [given] in ordinary Logic is the description of a taut
 
 Every *real* proposition *shews* something, besides what it says, about the Universe: *for*, if it has no sense, it can't be used; and if it has a sense, it mirrors some logical property of the Universe.
 
-E.g., take *φ*a, *φ*a ⊃ *ψ*a, *ψ*a. By merely looking at these three, I can see that 3 follows from 1 and 2; i.e. I can see what is called the truth of a logical proposition, namely, of [the] proposition *φ*a . *φ*a ⊃ *ψ*a : ⊃ : *ψ*a. But this is *not* a proposition; but by seeing that it is a tautology I can see what I already saw by looking at the three propositions: the difference is that I *now* see *that* it is a tautology.
+E.g., take *ϕ*a, *ϕ*a ⊃ *ψ*a, *ψ*a. By merely looking at these three, I can see that 3 follows from 1 and 2; i.e. I can see what is called the truth of a logical proposition, namely, of [the] proposition *ϕ*a . *ϕ*a ⊃ *ψ*a : ⊃ : *ψ*a. But this is *not* a proposition; but by seeing that it is a tautology I can see what I already saw by looking at the three propositions: the difference is that I *now* see *that* it is a tautology.
 
 We want to say, in order to understand [the] above, what properties a symbol must have, in order to be a tautology.
 
@@ -57,15 +57,15 @@ For instance: Consider the two propositions (1) "What symbolizes here is a thing
 
 *Now* we shall see how properly to analyse propositions in which "thing", "relation", etc., occur.
 
-(1) Take *φ*x. We want to explain the meaning of 'In "*φ*x" a *thing* symbolizes'. The analysis is:—
+(1) Take *ϕ*x. We want to explain the meaning of 'In "*ϕ*x" a *thing* symbolizes'. The analysis is:—
 
-(∃y) . y symbolizes . y = "x" . "*φ*x"
+(∃y) . y symbolizes . y = "x" . "*ϕ*x"
 
-["x" is the name of y: "*φ*x" = '"*φ*" is at [the] left of "x"' and *says* *φ*x.]
+["x" is the name of y: "*ϕ*x" = '"*ϕ*" is at [the] left of "x"' and *says* *ϕ*x.]
 
 N.B. "x" can't be the name of this actual scratch y, because this isn't a thing: but it can be the name of *a thing*; and we must understand that what we are doing is to explain what would be meant by saying of an ideal symbol, which did actually consist in one *thing's* being to the left of another, that in it a *thing* symbolized.
 
-(N.B. In [the] expression (∃y) . *φ*y, one *is* apt to say this means "There is a *thing* such that...". But in fact we should say "There is a y, such that..."; the fact that the y symbolizes expressing what we mean.)
+(N.B. In [the] expression (∃y) . *ϕ*y, one *is* apt to say this means "There is a *thing* such that...". But in fact we should say "There is a y, such that..."; the fact that the y symbolizes expressing what we mean.)
 
 In general: When such propositions are analysed, while the words "thing", "fact", etc. will disappear, there will appear instead of them a new symbol, of the same form as the one of which we are speaking; and hence it will be at once obvious that we *cannot* get the one kind of proposition from the other by substitution.
 
@@ -79,11 +79,11 @@ How can we talk of the general form of a proposition, without knowing any unanal
 
 If you had any unanalysable proposition in which particular names and relations occurred (and *unanalysable* proposition = one in which only fundamental symbols = ones not capable of *definition*, occur) then you can always form from it a proposition of the form (∃x, y, R) . xRy, which though it contains no particular names and relations, is unanalysable.
 
-(2) The point can here be brought out as follows. Take *φ*a and *φ*A: and ask what is meant by saying, "There is a thing in *φ*a, and a complex in *φ*A"?
+(2) The point can here be brought out as follows. Take *ϕ*a and *ϕ*A: and ask what is meant by saying, "There is a thing in *ϕ*a, and a complex in *ϕ*A"?
 
-(1) means: (∃x) . *φ*x . x = a
+(1) means: (∃x) . *ϕ*x . x = a
 
-(2) means: (∃x, *ψξ*) . *φ*A = *ψ*x . *φ*x.
+(2) means: (∃x, *ψξ*) . *ϕ*A = *ψ*x . *ϕ*x.
 
 *Use of logical propositions*. You may have one so complicated that you cannot, by looking at it, see that it is a tautology; but you have shewn that it can be derived by certain operations from certain other propositions according to our rule for constructing tautologies; and hence you are enabled to see that one thing follows from another, when you would not have been able to see it otherwise. E.g., if our tautology is of [the] form p ⊃ q you can see that q follows from p; and so on.
 
@@ -139,13 +139,13 @@ We could, of course, symbolize any ab-function without using two *outside* poles
 
 The symbol for a tautology, in whatever form we put it, e.g., whether by omitting the a-pole or by omitting the b, would always be capable of being used as the symbol for a contradiction; only not in the same language.
 
-The reason why \~x is meaningless, is simply that we have given no meaning to the symbol \~*ξ*. I.e. whereas *φ*x and *φ*p look as if they were of the same type, they are not so because in order to give a meaning to \~x you would have to have some *property* \~*ξ*. What symbolizes in *φξ* is *that* *φ* stands to the left of *a* proper name and obviously this is not so in \~p. What is common to all propositions in which the name of a property (to speak loosely) occurs is that this name stands to the left of a *name-form*.
+The reason why \~x is meaningless, is simply that we have given no meaning to the symbol \~*ξ*. I.e. whereas *ϕ*x and *ϕ*p look as if they were of the same type, they are not so because in order to give a meaning to \~x you would have to have some *property* \~*ξ*. What symbolizes in *ϕξ* is *that* *ϕ* stands to the left of *a* proper name and obviously this is not so in \~p. What is common to all propositions in which the name of a property (to speak loosely) occurs is that this name stands to the left of a *name-form*.
 
 The reason why, e.g., it seems as if "Plato Socrates" might have a meaning, while "Abracadabra Socrates" will never be suspected to have one, is because we know that "Plato" has one, and do not observe that in order that the whole phrase should have one, what is necessary is *not* that "Plato" should have one, but that the fact *that* "Plato" *is to the left of a name* should.
 
 The reason why "The property of not being green is not green" is *nonsense*, is because we have only given meaning to the fact that "green" stands to the right of a name; and "the property of not being green" is obviously not *that*.
 
-*φ* cannot possibly stand to the left of (or in any other relation to) the symbol of a property. For the symbol of a property, e.g., *ψ*x is *that* *ψ* stands to the left of a name form, and another symbol *φ* cannot possibly stand to the left of such a *fact*: if it could, we should have an illogical language, which is impossible.
+*ϕ* cannot possibly stand to the left of (or in any other relation to) the symbol of a property. For the symbol of a property, e.g., *ψ*x is *that* *ψ* stands to the left of a name form, and another symbol *ϕ* cannot possibly stand to the left of such a *fact*: if it could, we should have an illogical language, which is impossible.
 
 p is false = \~(p is true) Def.
 
@@ -155,11 +155,11 @@ There are *internal* relations between one proposition and another; but a propos
 
 *Internal* relations are relations between types, which can't be expressed in propositions, but are all shewn in the symbols themselves, and can be exhibited systematically in tautologies. Why we come to call them "relations" is because logical propositions have an analogous relation to them, to that which properly relational propositions have to relations.
 
-Propositions can have many different internal relations to one another. *The* one which entitles us to deduce one from another is that if, say, they are *φ*a and *φ*a ⊃ *ψ*a, then *φ*a . *φ*a ⊃ *ψ*a : ⊃ : *ψ*a is a tautology.
+Propositions can have many different internal relations to one another. *The* one which entitles us to deduce one from another is that if, say, they are *ϕ*a and *ϕ*a ⊃ *ψ*a, then *ϕ*a . *ϕ*a ⊃ *ψ*a : ⊃ : *ψ*a is a tautology.
 
-The symbol of identity expresses the internal relation between a function and its argument: i.e. *φ*a = (∃x) . *φ*x . x = a.
+The symbol of identity expresses the internal relation between a function and its argument: i.e. *ϕ*a = (∃x) . *ϕ*x . x = a.
 
-The proposition (∃x) . *φ*x . x = a : ≡ : *φ*a can be seen to be a tau­tology, if one expresses the *conditions* of the truth of (∃x) . *φ*x . x = a, successively, e.g., by saying: This is true *if* so and so; and this again is true *if* so and so, etc., for (∃x) . *φ*x . x = a; and then also for *φ*a. To express the matter in this way is itself a cumbrous notation, of which the ab-notation is a neater translation.
+The proposition (∃x) . *ϕ*x . x = a : ≡ : *ϕ*a can be seen to be a tau­tology, if one expresses the *conditions* of the truth of (∃x) . *ϕ*x . x = a, successively, e.g., by saying: This is true *if* so and so; and this again is true *if* so and so, etc., for (∃x) . *ϕ*x . x = a; and then also for *ϕ*a. To express the matter in this way is itself a cumbrous notation, of which the ab-notation is a neater translation.
 
 What symbolizes in a symbol, is that which is common to all the symbols which could in accordance with the rules of logic = syntactical rules for manipulation of symbols, be substituted for it.
 
@@ -179,7 +179,7 @@ A tautology (*not* a logical proposition) is not nonsense in the same sense in w
 
 ---
 
-Logical functions all presuppose one another. Just as we can see \~p has no sense, if p has none; so we can also say p has none if \~p has none. The case is quite different with *φ*a, and a; since here a has a meaning independently of *φ*a, though *φ*a presupposes it.
+Logical functions all presuppose one another. Just as we can see \~p has no sense, if p has none; so we can also say p has none if \~p has none. The case is quite different with *ϕ*a, and a; since here a has a meaning independently of *ϕ*a, though *ϕ*a presupposes it.
 
 The logical constants seem to be complex-symbols, but on the other hand, they can be interchanged with one another. They are not therefore really complex; what symbolizes is simply the general way in which they are combined.
 

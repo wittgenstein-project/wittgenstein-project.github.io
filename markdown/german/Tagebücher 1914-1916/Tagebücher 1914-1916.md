@@ -49,7 +49,7 @@ Wären Zeichen und Bezeichnetes *nicht* ihrem vollen logischen Inhalte nach iden
 
 **5. 9. 14.**
 
-*φ*a, *φ*b, aRb = Def *φ* [aRb]
+*ϕ*a, *ϕ*b, aRb = Def *ϕ* [aRb]
 
 Erinnere dich, daß die Worte "Funktion", "Argument", "Satz" etc. in der Logik nicht vorkommen dürfen!
 
@@ -97,13 +97,13 @@ Wie kann sich eine Funktion *auf einen Satz beziehen*?? Immer die uralten Fragen
 
 Nur sich nicht von Fragen überhäufen lassen; nur es sich bequem machen!
 
-"*φ*(*ψ*x)": Nehmen wir an, uns sei eine Funktion eines Subjekt­-Prädikat Satzes gegeben, und wir wollen die Art der Beziehung der Funktion zum Satz dadurch erklären, daß wir sagen: Die Funktion bezieht sich unmittelbar nur auf das Subjekt des Subjekt-Prädikat Satzes, und was bezeichnet, ist das logische Produkt aus dieser Beziehung und dem Subjekt-Prädikat Satzzeichen. Wenn wir das nun sagen, so könnte man fragen: wenn du den Satz so erklären kannst, warum erklärst du dann nicht auch seine Bedeutung auf die analoge Art und Weise? Nämlich "sie sei keine Funktion einer Subjekt­-Prädikat Tatsache sondern das logische Produkt einer solchen und einer Funktion ihres Subjektes"? Muß nicht der Einwand, der gegen diese Erklärung gilt, auch gegen jene gelten?
+"*ϕ*(*ψ*x)": Nehmen wir an, uns sei eine Funktion eines Subjekt­-Prädikat Satzes gegeben, und wir wollen die Art der Beziehung der Funktion zum Satz dadurch erklären, daß wir sagen: Die Funktion bezieht sich unmittelbar nur auf das Subjekt des Subjekt-Prädikat Satzes, und was bezeichnet, ist das logische Produkt aus dieser Beziehung und dem Subjekt-Prädikat Satzzeichen. Wenn wir das nun sagen, so könnte man fragen: wenn du den Satz so erklären kannst, warum erklärst du dann nicht auch seine Bedeutung auf die analoge Art und Weise? Nämlich "sie sei keine Funktion einer Subjekt­-Prädikat Tatsache sondern das logische Produkt einer solchen und einer Funktion ihres Subjektes"? Muß nicht der Einwand, der gegen diese Erklärung gilt, auch gegen jene gelten?
 
 **21. 9. 14.**
 
 Es scheint mir jetzt plötzlich in irgend einem Sinne klar, daß eine Eigenschaft eines Sachverhalts immer intern sein muß.
 
-*φ*a, *ψ*b, aRb. Man könnte sagen, der Sachverhalt aRb habe er eine gewisse Eigenschaft, wenn die beiden ersten Satze wahr sind.
+*ϕ*a, *ψ*b, aRb. Man könnte sagen, der Sachverhalt aRb habe er eine gewisse Eigenschaft, wenn die beiden ersten Satze wahr sind.
 
 Wenn ich sage: Es ist gut, daß p der Fall ist, dann muß dies eben *in sich* gut sein.
 
@@ -214,7 +214,7 @@ Die Übereinstimmung zweier Komplexe ist offenbar *intern* und kann daher nicht 
 
 **7. 10. 14.**
 
-Wenn ein Satz *φ*a gegeben ist, so sind mit ihm auch *schon* alle seine logischen Funktionen (\~*φ*a etc.) mitgegeben! [*Vgl.* 5.442.]
+Wenn ein Satz *ϕ*a gegeben ist, so sind mit ihm auch *schon* alle seine logischen Funktionen (\~*ϕ*a etc.) mitgegeben! [*Vgl.* 5.442.]
 
 **8. 10. 14.**
 
@@ -267,7 +267,7 @@ Die Logik sorgt für sich selbst; wir müssen ihr nur zusehen, wie sie es macht.
 
 Betrachten wir den Satz: "Es gibt eine Klasse mit nur einem Glied". Oder, was auf dasselbe hinauskommt, den Satz:
 
-(∃*φ*):.( ∃x):*φ*x:*φ*y.*φ*z. ⊃~y,z~.y = z
+(∃*ϕ*):.( ∃x):*ϕ*x:*ϕ*y.*ϕ*z. ⊃~y,z~.y = z
 
 Bei "(∃x)x = x" könnte man verstehen, daß er tautologisch sei, da er überhaupt nicht hingeschrieben werden könnte, wenn er falsch wäre, aber hier! *Dieser* Satz kann an Stelle des "Axiom of Infinity" untersucht werden!
 
@@ -277,8 +277,8 @@ Wenn es diese Funktion nicht tut, dann kann von der 1 nur die Rede sein, wenn es
 
 Wie verhält es sich mit Sätzen wie:
 
-(∃*φ*).(∃x).*φ*x
-und: (∃*φ*).(∃x).\~*φ*x.
+(∃*ϕ*).(∃x).*ϕ*x
+und: (∃*ϕ*).(∃x).\~*ϕ*x.
 
 Ist einer von diesen eine Tautologie? Sind dies Sätze einer Wissenschaft d. h., sind dies überhaupt *Sätze*?
 
@@ -290,9 +290,9 @@ Gibt es denn eine Wissenschaft der vollständig verallgemeinerten Sätze? Dies k
 
 *Das ist klar*: Wenn es völlig verallgemeinerte *Sätze* gibt, dann hängt ihr Sinn von keiner willkürlichen Zeichengebung mehr ab! Dann aber kann eine solche Zeichenverbindung die Welt nur durch ihre eigenen logischen Eigenschaften darstellen d. h., sie kann nicht falsch, und nicht wahr sein. Also gibt es keine vollständig verallgemeinerten SÄTZE. Aber jetzt die Anwendung!
 
-Nun aber die Sätze: "(∃*φ*,x). *φ*x"
+Nun aber die Sätze: "(∃*ϕ*,x). *ϕ*x"
 
-und "\~(∃*φ*,x). *φ*x".
+und "\~(∃*ϕ*,x). *ϕ*x".
 
 Welcher von ihnen ist tautologisch, welcher kontradiktorisch?
 
@@ -306,7 +306,7 @@ Man kann sagen: die völlig allgemeinen Sätze kann man alle *a priori* bilden.
 
 **15. 10. 14**
 
-Es scheint doch, als könnte die bloße Existenz der in "(∃x,*φ*). *φ*x" enthaltenen Formen die Wahr- oder Falschheit dieses Satzes *allein nicht* bestimmen! Es scheint also nicht *undenkbar*, daß, z. B., die Verneinung keines Elementarsatzes wahr sei. Aber würde diese Aussage nicht schon den SINN *der Verneinung* betreffen?
+Es scheint doch, als könnte die bloße Existenz der in "(∃x,*ϕ*). *ϕ*x" enthaltenen Formen die Wahr- oder Falschheit dieses Satzes *allein nicht* bestimmen! Es scheint also nicht *undenkbar*, daß, z. B., die Verneinung keines Elementarsatzes wahr sei. Aber würde diese Aussage nicht schon den SINN *der Verneinung* betreffen?
 
 Offenbar können wir jeden ganz allgemeinen Satz auffassen als die Bejahung oder Verneinung der Existenz irgend einer Art von Tatsachen. Aber gilt dies nicht von allen Sätzen?
 
@@ -318,15 +318,15 @@ Im Satze stellen wir – sozusagen – *zur Probe* die Dinge zusammen, wie sie s
 
 Wenn man sich vor der Wahrheit fürchtet (wie ich jetzt), so ahnt man nie die *volle* Wahrheit.
 
-Ich habe hier die Beziehungen der Satz-Elemente zu ihren Bedeutungen gleichsam als Fühler betrachtet, durch welche der Satz mit der Außenwelt in Berührung steht; und das Verallgemeinern eines Satzes gleicht dann dem Einziehen der Fühler; bis endlich der ganz allgemeine Satz ganz isoliert ist. Aber stimmt dieses Bild? (Ziehe ich wirklich einen Fühler ein, wenn ich statt *φ*a, (∃x).*φ*x sage?) [*Vgl.* 2.1515.]
+Ich habe hier die Beziehungen der Satz-Elemente zu ihren Bedeutungen gleichsam als Fühler betrachtet, durch welche der Satz mit der Außenwelt in Berührung steht; und das Verallgemeinern eines Satzes gleicht dann dem Einziehen der Fühler; bis endlich der ganz allgemeine Satz ganz isoliert ist. Aber stimmt dieses Bild? (Ziehe ich wirklich einen Fühler ein, wenn ich statt *ϕ*a, (∃x).*ϕ*x sage?) [*Vgl.* 2.1515.]
 
 **16. 10. 14.**
 
-Nun scheint es aber als sprächen genau dieselben Gründe, die ich aufführte, um zu zeigen, daß "(∃x,*φ*).*φ*x" nicht falsch sein *könne*, als sprächen diese Gründe auch dafür, daß "\~(∃x,*φ*).*φ*x nicht falsch sein könne; und hier zeigt sich ein grundlegender Fehler. Denn es ist gar nicht einzusehen, warum gerade der erste Satz und nicht der zweite eine Tautologie sein soll. Vergiß doch nicht, daß auch die Kontradiktion "p.\~p" etc. etc. nicht wahr sein kann und doch selbst ein logisches Gebilde ist.
+Nun scheint es aber als sprächen genau dieselben Gründe, die ich aufführte, um zu zeigen, daß "(∃x,*ϕ*).*ϕ*x" nicht falsch sein *könne*, als sprächen diese Gründe auch dafür, daß "\~(∃x,*ϕ*).*ϕ*x nicht falsch sein könne; und hier zeigt sich ein grundlegender Fehler. Denn es ist gar nicht einzusehen, warum gerade der erste Satz und nicht der zweite eine Tautologie sein soll. Vergiß doch nicht, daß auch die Kontradiktion "p.\~p" etc. etc. nicht wahr sein kann und doch selbst ein logisches Gebilde ist.
 
 Angenommen, daß keine Verneinung eines Elementarsatze wahr ist, hat in diesem Falle "Verneinung" nicht einen anderen Sinn als im entgegengesetzten Falle?
 
-"(∃*φ*):(x).*φ*x" – von diesem Satz scheint es fast gewiß, daß er weder eine Tautologie noch eine Kontradiktion ist. Hier spitzt sich das Problem unerhört zu.
+"(∃*ϕ*):(x).*ϕ*x" – von diesem Satz scheint es fast gewiß, daß er weder eine Tautologie noch eine Kontradiktion ist. Hier spitzt sich das Problem unerhört zu.
 
 **17. 10. 14.**
 
@@ -340,9 +340,9 @@ Man kann also ein Bild der Welt entwerfen, ohne zu sagen, was was darstellt.
 
 Nehmen wir z. B. an, die Welt bestünde aus den Dingen A und B und der Eigenschaft F, und es wäre F(A) der Fall und nicht F(B). Diese Welt könnten wir auch durch die folgenden Sätze beschreiben:
 
-(∃x,y).(∃*φ*).x ≠ y.*φ*x.\~*φ*y:*φ*u.*φ*z. ⊃~u,z~.u = z
+(∃x,y).(∃*ϕ*).x ≠ y.*ϕ*x.\~*ϕ*y:*ϕ*u.*ϕ*z. ⊃~u,z~.u = z
 
-(∃*φ*).(*ψ*).*ψ* = *φ*
+(∃*ϕ*).(*ψ*).*ψ* = *ϕ*
 
 (∃x,y).(z).z = x v z = y
 
@@ -350,9 +350,9 @@ Und hier braucht man auch Sätze von der Art der letzten zwei, um die Gegenstän
 
 Aus alledem folgt natürlich, daß es *ganz allgemeine Sätze gibt*!
 
-Genügt oben nicht der erste Satz (∃x,y,*φ*)*φ*x.\~*φ*y.x ≠ y? Die Schwierigkeit der Identifizierung kann man dadurch wegschaffen, indem man die ganze Welt in *einem* allgemeinen Satz beschreibt, welcher anfängt: "(∃x,y,z ... *φ*,*ψ* ... R,S ...)" und nun folgt ein logisches Produkt, etc.
+Genügt oben nicht der erste Satz (∃x,y,*ϕ*)*ϕ*x.\~*ϕ*y.x ≠ y? Die Schwierigkeit der Identifizierung kann man dadurch wegschaffen, indem man die ganze Welt in *einem* allgemeinen Satz beschreibt, welcher anfängt: "(∃x,y,z ... *ϕ*,*ψ* ... R,S ...)" und nun folgt ein logisches Produkt, etc.
 
-Wenn wir sagen "*φ* ist eine Einheitsfunktion und (x).*φ*x", so heißt das soviel wie: "es gibt nur ein Ding"! (Wir sind hiermit *scheinbar* um den Satz "(∃x)(y).y = x" herumgekommen.)
+Wenn wir sagen "*ϕ* ist eine Einheitsfunktion und (x).*ϕ*x", so heißt das soviel wie: "es gibt nur ein Ding"! (Wir sind hiermit *scheinbar* um den Satz "(∃x)(y).y = x" herumgekommen.)
 
 **18. 10. 14.**
 
@@ -390,13 +390,13 @@ Scheinsätze sind solche, die, wenn analysiert, das, was sie *sagen* sollten, do
 
 Das Gefühl, daß der Satz einen Komplex auf die Art der Russellschen Beschreibungen beschreibe, rechtfertigt sich jetzt: Der Satz beschreibt den Komplex durch seine logischen Eigenschaften.
 
-Der Satz konstruiert eine Welt mit Hilfe seines logischen Gerüstes, und darum kann man am Satz auch sehen, wie sich alles Logische verhielte, wenn er wahr wäre: man kann aus einem falschen Satz *Schlüsse ziehen* etc. (So kann ich sehen daß, wenn "(x,*φ*).*φ*x" wahr wäre, dieser Satz im Widerspruch stünde mit einem Satze "*ψ*a".) [*Vgl.* 4.023.]
+Der Satz konstruiert eine Welt mit Hilfe seines logischen Gerüstes, und darum kann man am Satz auch sehen, wie sich alles Logische verhielte, wenn er wahr wäre: man kann aus einem falschen Satz *Schlüsse ziehen* etc. (So kann ich sehen daß, wenn "(x,*ϕ*).*ϕ*x" wahr wäre, dieser Satz im Widerspruch stünde mit einem Satze "*ψ*a".) [*Vgl.* 4.023.]
 
 Daß sich von materiellen Sätzen auf ganz allgemeine Sätze schließen läßt – daß diese zu jenen in *bedeutungsvollen* internen Beziehungen stehen können – zeigt, daß die ganz allgemeinen Sätze logische Konstruktionen von Sachverhalten sind.
 
 **21. 10. 14.**
 
-Ist die Russellsche Definition der Null nicht unsinnig? Kann man von einer Klasse ${\displaystyle {\hat {x}}(x\neq x)}$ überhaupt reden? – Kann man denn von einer Klasse ${\displaystyle {\hat {x}}(x=x)}$ reden? Ist denn x ≠ x oder x = x eine Funktion von x?? – Muß nicht die Null definiert werden durch die *Hypothese* (∃*φ*):(x)\~*φ*x? Und Analoges würde von allen anderen Zahlen gelten. Dies nun wirft ein Licht auf die ganze Frage nach der Existenz von Anzahlen von Dingen.
+Ist die Russellsche Definition der Null nicht unsinnig? Kann man von einer Klasse ${\displaystyle {\hat {x}}(x\neq x)}$ überhaupt reden? – Kann man denn von einer Klasse ${\displaystyle {\hat {x}}(x=x)}$ reden? Ist denn x ≠ x oder x = x eine Funktion von x?? – Muß nicht die Null definiert werden durch die *Hypothese* (∃*ϕ*):(x)\~*ϕ*x? Und Analoges würde von allen anderen Zahlen gelten. Dies nun wirft ein Licht auf die ganze Frage nach der Existenz von Anzahlen von Dingen.
 
 ${\displaystyle 0={\hat {\alpha }}\{(\exists \phi ):(x)\sim \phi x.\alpha ={\hat {u}}(\phi u)\}{\text{ Def.}}}$
 
@@ -410,7 +410,7 @@ Der Satz muß die *Möglichhit seiner Wahrheit enthalten* (und so zeigen). Aber 
 
 Nach meiner Definition der Klassen ist ${\displaystyle (x).\sim {\hat {x}}(\phi x)}$ die Aussage, daß ${\displaystyle {\hat {x}}(\phi x)}$ null ist, und die Definition der Null ist dann ${\displaystyle 0={\hat {\alpha }}[(x).\sim \alpha ]{\text{ Def.}}}$
 
-Ich dachte, die Möglichkeit der Wahrheit eines Satzes *φ*(a) ist an die Tatsache (∃x,*φ*).*φ*x gebunden: Aber es ist nicht einzusehen, warum *φ*a nur dann möglich sein soll, wenn es einen anderen Satz derselben Form gibt. *φ*a braucht doch keinen Präzedenzfall. (Denn angenommen, es gäbe nur die beiden Elementarsätze "*φ*a" und "*ψ*a" und "*φ*a" sei falsch: warum soll dieser Satz nur dann einen Sinn haben, wenn "*ψ*a" wahr ist?!)
+Ich dachte, die Möglichkeit der Wahrheit eines Satzes *ϕ*(a) ist an die Tatsache (∃x,*ϕ*).*ϕ*x gebunden: Aber es ist nicht einzusehen, warum *ϕ*a nur dann möglich sein soll, wenn es einen anderen Satz derselben Form gibt. *ϕ*a braucht doch keinen Präzedenzfall. (Denn angenommen, es gäbe nur die beiden Elementarsätze "*ϕ*a" und "*ψ*a" und "*ϕ*a" sei falsch: warum soll dieser Satz nur dann einen Sinn haben, wenn "*ψ*a" wahr ist?!)
 
 **22. 10. 14.**
 
@@ -434,9 +434,9 @@ Wie, wenn unsere Zeichen ebenso unbestimmt wären, wie die Welt, welche sie spie
 
 Um das Zeichen im Zeichen zu erkennen, muß man auf den Gebrauch achten. [*Vgl.* 3.326.]
 
-Wollten wir dasjenige, welches wir durch "(x).*φ*x" ausdrücken, durch das Vorsetzen eines Index vor "*φ*x" ausdrücken, etwa so "Alg. *φ*x", es würde nicht genügen (wir wüßten nicht, was verallgemeinert wurde).
+Wollten wir dasjenige, welches wir durch "(x).*ϕ*x" ausdrücken, durch das Vorsetzen eines Index vor "*ϕ*x" ausdrücken, etwa so "Alg. *ϕ*x", es würde nicht genügen (wir wüßten nicht, was verallgemeinert wurde).
 
-Wollten wir es durch einen Index am "x" anzeigen, etwa so *φ*(x~A~), es würde auch nicht genügen (wir wüßten auf diese Weise nicht den Bereich der Allgemeinheit).
+Wollten wir es durch einen Index am "x" anzeigen, etwa so *ϕ*(x~A~), es würde auch nicht genügen (wir wüßten auf diese Weise nicht den Bereich der Allgemeinheit).
 
 Wollten wir es durch Einfüllen einer Marke in die leeren Argumentstellen versuchen, etwa so "(A, A).*ψ*(A, A)", es würde nicht genügen (wir könnten die Identität der Variablen nicht feststellen).
 
@@ -462,9 +462,9 @@ Er scheint nicht, wie alle anderen Sätze, aus willkürlich bezeichnenden Bestan
 
 Man braucht bei den logischen Konstanten nie nach ihrer Existenz zu fragen, sie können ja auch *verschwinden*!
 
-Warum soll "*φ*(x̂)" nicht vorstellen, wie (x).*φ*x ist? Kommt es da nicht *nur* darauf an, *wie* – auf welche Art und Weise – jenes Zeichen etwas vorstellt?
+Warum soll "*ϕ*(x̂)" nicht vorstellen, wie (x).*ϕ*x ist? Kommt es da nicht *nur* darauf an, *wie* – auf welche Art und Weise – jenes Zeichen etwas vorstellt?
 
-Angenommen, ich wollte vier Paare kämpfender Männer darstellen, könnte ich es nicht so machen, daß ich nur eines darstelle und sage: "So sehen alle viere aus"? (Durch diesen Nachsatz bestimme ich die Art und Weise der Darstellung.) (Ähnlich stelle ich (x).*φ*x durch "*φ*(x̂)" dar.)
+Angenommen, ich wollte vier Paare kämpfender Männer darstellen, könnte ich es nicht so machen, daß ich nur eines darstelle und sage: "So sehen alle viere aus"? (Durch diesen Nachsatz bestimme ich die Art und Weise der Darstellung.) (Ähnlich stelle ich (x).*ϕ*x durch "*ϕ*(x̂)" dar.)
 
 Bedenke aber, daß es keine hypothetischen internen Beziehungen gibt. Ist eine Struktur gegeben und eine strukturelle Beziehung an ihr, dann muß es eine andere Struktur geben, die jene Beziehung zu der ersten hat. (Dies liegt ja im Wesen der strukturellen Beziehungen.)
 
@@ -526,7 +526,7 @@ Analytische *Sätze* gibt es nicht.
 
 **30. 10. 14.**
 
-Könnte man sagen : in "\~*φ*(x)" stellt "*φ*(x)" vor, wie es sich *nicht* verhält?
+Könnte man sagen : in "\~*ϕ*(x)" stellt "*ϕ*(x)" vor, wie es sich *nicht* verhält?
 
 Man könnte auch auf einem Bild eine negative Tatsache darstellen, indem man darstellt, was *nicht* der Fall ist.
 
@@ -548,7 +548,7 @@ In der Logik gibt es kein Nebeneinander, kann es keine Klassifikation geben! [*S
 
 **31. 10. 14.**
 
-Ein Satz wie "(∃x,*φ*).*φ*x" ist gerade so gut zusammengesetzt wie ein elementarer; dies zeigt sich darin, daß wir in der Klammer "*φ*" und "x" *extra* erwähnen müssen. Beide stehen – unabhängig – in bezeichnenden Beziehungen zur Welt, gerade wie im Falle eines Elementarsatzes "*ψ*a". [*Vgl.* 5.5261.]
+Ein Satz wie "(∃x,*ϕ*).*ϕ*x" ist gerade so gut zusammengesetzt wie ein elementarer; dies zeigt sich darin, daß wir in der Klammer "*ϕ*" und "x" *extra* erwähnen müssen. Beide stehen – unabhängig – in bezeichnenden Beziehungen zur Welt, gerade wie im Falle eines Elementarsatzes "*ψ*a". [*Vgl.* 5.5261.]
 
 Verhält es sich nicht so: Die logischen Konstanten charakterisieren die Darstellungsweise der Elementarformen des Satzes?
 
@@ -564,11 +564,11 @@ Vor allem muß die Elementarsatzform abbilden, alle Abbildung geschieht durch di
 
 Sehr nahe liegt die Verwechslung zwischen der darstellenden Beziehung des Satzes zu seiner Bedeutung und der Wahrheitsbeziehung. Jene ist für verschiedene Sätze verschieden, diese ist eine und für alle Sätze die Gleiche.
 
-Es scheint als wäre "(x,*φ*).*φ*x" die Form einer Tatsache *φ*a.*ψ*b.*θ*c etc. (Ähnlich wäre (∃x).*φ*x die Form von *φ*a, wie ich auch wirklich glaubte.)
+Es scheint als wäre "(x,*ϕ*).*ϕ*x" die Form einer Tatsache *ϕ*a.*ψ*b.*θ*c etc. (Ähnlich wäre (∃x).*ϕ*x die Form von *ϕ*a, wie ich auch wirklich glaubte.)
 
 Und hier muß eben mein Fehler liegen.
 
-Untersuche doch den Elementarsatz: welches ist denn die Form von "*φ*a" und wie verhält sie sich zu "\~*φ*a".
+Untersuche doch den Elementarsatz: welches ist denn die Form von "*ϕ*a" und wie verhält sie sich zu "\~*ϕ*a".
 
 Jener Präzedenzfall, auf den man sich immer berufen möchte, muß schon im Zeichen selber liegen. [*Vgl.* 5.525.]
 
@@ -682,7 +682,7 @@ Damit also ein Satz einen Sachverhalt darstelle, ist nur nötig, daß seine Best
 
 Das Satzzeichen verbürgt die Möglichkeit der Tatsache, welche es darstellt (nicht, daß diese Tatsache wirklich der Fall ist), das gilt auch für die allgemeinen Sätze.
 
-Denn, wenn die positive Tatsache *φ*a gegeben ist, dann ist auch die *Möglichkeit* für (x).*φ*x, \~(∃x).*φ*x, \~*φ*a etc. etc. gegeben. (Alle logischen Konstanten sind bereits im Elementarsatz enthalten.) [*Vgl.* 5.47.]
+Denn, wenn die positive Tatsache *ϕ*a gegeben ist, dann ist auch die *Möglichkeit* für (x).*ϕ*x, \~(∃x).*ϕ*x, \~*ϕ*a etc. etc. gegeben. (Alle logischen Konstanten sind bereits im Elementarsatz enthalten.) [*Vgl.* 5.47.]
 
 So entsteht das Bild.
 
@@ -692,7 +692,7 @@ Man könnte z. B. mittelst fechtenden Puppen zeigen, wie man *nicht* fechten sol
 
 **6. 11. 14.**
 
-Und der Fall ist hier ganz der gleiche, wie bei \~*φ*a, obwohl das Bild von dem handelt, was nicht geschehen *soll*, statt von dem, was nicht geschieht.
+Und der Fall ist hier ganz der gleiche, wie bei \~*ϕ*a, obwohl das Bild von dem handelt, was nicht geschehen *soll*, statt von dem, was nicht geschieht.
 
 Daß man den verneinten Satz wieder verneinen kann, zeigt, daß das, was verneint wird, schon ein Satz und nicht erst die Vorbereitung zu einem Satz ist. [*S.* 4.0641.]
 
@@ -742,9 +742,9 @@ Da "a = b" kein Satz, "x = y" keine Funktion ist, so ist eine "Klasse x̂ (x = x
 
 Wenn ich nun eine Funktion von der Nullklasse auszusagen scheine, so sage ich, daß diese Funktion von allen Funktionen wahr ist, welche null sind – und dies kann ich auch dann sagen, wenn *keine* Funktion null ist.
 
-Ist x ≠ x. ≡~x.~ *φ*x identisch mit
+Ist x ≠ x. ≡~x.~ *ϕ*x identisch mit
 
-(x).\~*φ*x ? Gewiß!
+(x).\~*ϕ*x ? Gewiß!
 
 Der Satz deutet auf die Möglichkeit, daß es sich so und so verhält.
 
@@ -804,9 +804,9 @@ Einführung des Zeichens "0" um die Dezimalnotation möglich zu machen: Die logi
 
 **17. 11. 14.**
 
-Angenommen "*φ*a" ist wahr: Was heißt es zu sagen \~*φ*a ist möglich?
+Angenommen "*ϕ*a" ist wahr: Was heißt es zu sagen \~*ϕ*a ist möglich?
 
-(*φ*a ist selber gleichbedeutend mit \~(\~*φ*a).)
+(*ϕ*a ist selber gleichbedeutend mit \~(\~*ϕ*a).)
 
 **18. 11. 14.**
 
@@ -824,7 +824,7 @@ Wenn die Realität in noch etwas Anderem besteht, so kann dies jedenfalls weder 
 
 **21. 11. 14.**
 
-Was weiß ich eigentlich, wenn ich den Sinn von "*φ*a" verstehe, aber nicht weiß, ob es wahr oder falsch ist? Dann weiß ich doch nicht mehr als *φ*a ∨ \~*φ*a; und das heißt, ich *weiß* nichts.
+Was weiß ich eigentlich, wenn ich den Sinn von "*ϕ*a" verstehe, aber nicht weiß, ob es wahr oder falsch ist? Dann weiß ich doch nicht mehr als *ϕ*a ∨ \~*ϕ*a; und das heißt, ich *weiß* nichts.
 
 Da die Realitäten, die dem Sinn des Satzes entsprechen, nur seine Bestandteile sind, so können sich auch die logischen Koordinaten nur auf jene beziehen.
 
@@ -840,7 +840,7 @@ Obwohl der Satz nur auf einen Ort des logischen Raumes deuten darf, so muß doch
 
 Satz und Sachverhalt verhalten sich zueinander, wie der Meterstab zu der zu messenden Länge.
 
-Daß man aus dem *Satz* "(x).*φ*x" auf den *Satz* "*φ*a" schließen kann, das zeigt, wie die Allgemeinheit auch im *Zeichen* "(x).*φ*x" vorhanden ist.
+Daß man aus dem *Satz* "(x).*ϕ*x" auf den *Satz* "*ϕ*a" schließen kann, das zeigt, wie die Allgemeinheit auch im *Zeichen* "(x).*ϕ*x" vorhanden ist.
 
 Und das Gleiche gilt natürlich für die Allgemeinheitsbezeichnung überhaupt.
 
@@ -862,7 +862,7 @@ Jener negative Tatbestand, der als Zeichen dient, kann doch wohl bestehen ohne e
 
 Immer wieder ist es bei der Untersuchung dieser Probleme, als wären sie schon gelöst, und diese Täuschung kommt daher, daß die Probleme oft ganz unseren Blicken entschwinden.
 
-Daß \~*φ*a der Fall ist, kann ich durch die Beobachtung von *φ*x̂ und a allein ersehen.
+Daß \~*ϕ*a der Fall ist, kann ich durch die Beobachtung von *ϕ*x̂ und a allein ersehen.
 
 Die Frage ist hier: Ist die positive Tatsache primär, die negative sekundär, oder sind sie gleichberechtigt? Und wenn so, wie ist es dann mit den Tatsachen p ∨ q, p ⊃ q etc., sind diese nicht mit \~p gleichberechtigt? Aber *müssen* denn nicht *alle Tatsachen* gleichberechtigt sein? Die Frage ist eigentlich die: Gibt es Tatsachen außer den positiven? (Es ist nämlich schwer, das was nicht der Fall ist, nicht zu verwechseln mit dem was stattdessen der Fall *ist*.)
 
@@ -876,7 +876,7 @@ Alles das würde sich von selbst lösen durch ein Verständnis des Wesens des Sa
 
 Wenn von einem Dinge alle positiven Aussagen gemacht sind, sind doch nicht schon alle negativen auch gemacht! Und darauf kommt alles an!
 
-Der gefürchtete Dualismus von positiv und negativ besteht nicht denn (x).*φ*x etc., etc. sind weder positiv noch negativ.
+Der gefürchtete Dualismus von positiv und negativ besteht nicht denn (x).*ϕ*x etc., etc. sind weder positiv noch negativ.
 
 Wenn schon der positive Satz nicht im negativen vorkommen *muß*, muß nicht in jedem Fall das Urbild des positiven Satzes im negativen vorkommen?
 
@@ -904,7 +904,7 @@ Die ab-Funktion bleibt nicht *vor* dem Elementarsatz stehen, sondern sie durchdr
 
 Was gezeigt werden *kann*, kann nicht gesagt werden. [*S.* 4.1212.]
 
-Ich glaube, man könnte das Gleichheitszeichen ganz aus unserer Notation entfernen und die Gleichheit immer nur durch die Gleichheit der Zeichen (u. U.) andeuten. Es wäre dann freilich *φ*(a,a) kein spezieller Fall von (x,y).*φ*(x,y) und *φ*a keiner von (∃x,y).*φ*x.*φ*y. Dann aber könnte man statt *φ*x.*φ*y ⊃~x,y~ x = y einfach schreiben \~(∃x,y).*φ*x.*φ*y. [*Vgl.* 5.53 *u.* 5.533.]
+Ich glaube, man könnte das Gleichheitszeichen ganz aus unserer Notation entfernen und die Gleichheit immer nur durch die Gleichheit der Zeichen (u. U.) andeuten. Es wäre dann freilich *ϕ*(a,a) kein spezieller Fall von (x,y).*ϕ*(x,y) und *ϕ*a keiner von (∃x,y).*ϕ*x.*ϕ*y. Dann aber könnte man statt *ϕ*x.*ϕ*y ⊃~x,y~ x = y einfach schreiben \~(∃x,y).*ϕ*x.*ϕ*y. [*Vgl.* 5.53 *u.* 5.533.]
 
 Durch diese Notation verlören auch der Scheinsatz (x)x = a oder ähnliche allen Schein von Berechtigung. [*Vgl.* 5.534.]
 
@@ -1298,7 +1298,7 @@ Man stellt sich also die Sätze als Klassen von Zeichen vor – die Sätze "p" u
 
 Das sogenannte Gesetz der Induktion kann jedenfalls kein logisches Gesetz sein, denn es ist offenbar ein Satz. [*S.* 6.31.]
 
-Die Klasse aller Sätze von der Form Fx ist der Satz (x)*φ*x.
+Die Klasse aller Sätze von der Form Fx ist der Satz (x)*ϕ*x.
 
 **5. 5. 15.**
 
@@ -1870,9 +1870,9 @@ Kurz: Wenn wir die Urbilder nur bei Namen anwenden würden, so wäre die Möglic
 
 Wir bilden das Ding, die Relation, die Eigenschaft vermittelst Variablen ab und zeigen so, daß wir diese Ideen nicht aus gewissen uns vorkommenden Fällen ableiten, sondern sie irgendwie a priori besitzen.
 
-Es fragt sich nämlich: Wenn die einzelnen Formen mir sozusagen in der Erfahrung gegeben sind, dann darf ich doch in der Logik von ihnen nicht Gebrauch machen, dann darf ich eigentlich kein x und kein *φ*y schreiben. Aber das kann ich doch gar nicht vermeiden.
+Es fragt sich nämlich: Wenn die einzelnen Formen mir sozusagen in der Erfahrung gegeben sind, dann darf ich doch in der Logik von ihnen nicht Gebrauch machen, dann darf ich eigentlich kein x und kein *ϕ*y schreiben. Aber das kann ich doch gar nicht vermeiden.
 
-Beiläufig gefragt: handelt die Logik von gewissen Gattungen von Funktionen und dergleichen? Und wenn nicht, was bedeuten dann Fx, *φ*z u.s.w. in der Logik?
+Beiläufig gefragt: handelt die Logik von gewissen Gattungen von Funktionen und dergleichen? Und wenn nicht, was bedeuten dann Fx, *ϕ*z u.s.w. in der Logik?
 
 *Dies müßen dann Zeichen allgemeinerer Bedeutung sein!*
 
@@ -2010,7 +2010,7 @@ Denn das einzige Zeichen, welches für seine Bedeutung bürgt, ist Funktion und 
 
 **16. 4. 16.**
 
-*Jeder* einfache Satz läßt sich auf die Form *φ*x bringen.
+*Jeder* einfache Satz läßt sich auf die Form *ϕ*x bringen.
 
 Darum darf man aus dieser Form alle einfachen Sätze zusammen­ stellen.
 
@@ -2052,7 +2052,7 @@ Die Bedeutungen ihrer Glieder werden erst durch Zuordnung der Gegenstände zu de
 
 Sagen wir, ich wollte eine Funktion von 3 unter einander unauswechselbaren Argumenten darstellen.
 
-*φ*(x): *φ*( ), x
+*ϕ*(x): *ϕ*( ), x
 
 Soll nun aber in der Logik von unvertauschbaren Argumenten die Rede sein? Wenn ja, so setzt dies doch etwas über die Beschaffenheit der Realität voraus.
 
@@ -2072,7 +2072,7 @@ Es gibt eben auch Operationen mit zwei Basen. Und die "|"-Opera­tion ist von di
 
 | (*ξ*, *η*) ... ist ein beliebiges Glied der Reihe der Operationsresultate.
 
-(∃x).*φ*x
+(∃x).*ϕ*x
 
 Ist denn (∃x) etc. wirklich eine Operation?
 
@@ -2220,11 +2220,11 @@ Wenn nämlich die Elementarsätze gegeben sind, so sind damit auch *alle* Elemen
 
 Immer wieder fühlt man, daß auch im Elementarsatz von allen Gegenständen die Rede ist.
 
-(∃x)*φ*x.x = a
+(∃x)*ϕ*x.x = a
 
 Wenn zwei Operationen gegeben sind, die sich nicht auf *eine* reduzieren lassen, so muß sich zum mindesten eine allgemeine Form ihrer Kombination aufstellen lassen.
 
-*φ*x, *ψ*y | *χ*z , (∃x). , (x).
+*ϕ*x, *ψ*y | *χ*z , (∃x). , (x).
 
 Da sich offenbar leicht erklären läßt, wie mit diesen Operationen sich Sätze bilden lassen und wie Sätze nicht zu bilden sind, so muß sich dies auch *irgendwie* exakt ausdrücken lassen.
 
@@ -2758,9 +2758,9 @@ Entweder eine Tatsache ist in einer anderen enthalten, oder sie ist unabhängig 
 
 **2. 12. 16.**
 
-Die Ähnlichkeit der Allgemeinheitsbezeichnung mit dem Argument zeigt sich, wenn wir statt *φ*a schreiben (ax)*φ*x. [*Vgl.* 5.523.]
+Die Ähnlichkeit der Allgemeinheitsbezeichnung mit dem Argument zeigt sich, wenn wir statt *ϕ*a schreiben (ax)*ϕ*x. [*Vgl.* 5.523.]
 
-Man könnte die Argumente auch so einführen, daß sie nur auf einer Seite des Gleichheitszeichens auftreten. Also immer analog "(∃x).*φ*x.x = a" statt "*φ*a".
+Man könnte die Argumente auch so einführen, daß sie nur auf einer Seite des Gleichheitszeichens auftreten. Also immer analog "(∃x).*ϕ*x.x = a" statt "*ϕ*a".
 
 Die richtige Methode in der Philosophie wäre eigentlich die, nichts zu sagen, als was sich sagen läßt, also Naturwissenschaftliches, also etwas, was mit Philosophie nichts zu tun hat, und dann immer, wenn ein anderer etwas Metaphysisches sagen wollte, ihm nachweisen, daß er gewissen Zeichen in seinen Sätzen keine Bedeutung gegeben hat. [*S.* 6.53.]
 
