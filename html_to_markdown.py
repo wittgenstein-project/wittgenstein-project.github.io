@@ -31,7 +31,8 @@ def parse_line(errors, parsed, image_urls, elem, html_tag, md_tag, escape_whites
 
 def parse_html(errors, parsed, image_urls, elem):
     if isinstance(elem, NavigableString):
-        escaped = elem.text.replace("\n", " ").replace("~", "\\~")
+        escaped = elem.text.replace("\\", "\\\\").replace(
+            "\n", " ").replace("~", "\\~").replace("|", "\\|")
         text = re.sub(r"\s+", " ", escaped)
         parsed[-1] += text
     else:
