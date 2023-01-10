@@ -362,7 +362,7 @@ for (language, texts) in all_languages.items():
         if any([blacklisted_title.lower() in title.lower() for blacklisted_title in BLACKLISTED_WORKS]):
             print(f"(✓) {title} (BLACKLISTED)")
             continue
-        html_page = requests.get(f"{link}&action=render").content
+        html_page = requests.get(link, params={"action": "render"}).content
         text = BeautifulSoup(html_page, features="html.parser")
         [errors, md, image_urls] = doc_as_md(text)
         if errors:
