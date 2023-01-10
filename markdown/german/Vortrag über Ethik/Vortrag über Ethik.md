@@ -56,10 +56,10 @@ Denn durch sie wollte ich nur *über die Welt hinausgehen*; das heißt: über di
 [^4]: *Anm. d. Übers.*: Dies – »egal, was geschieht« – ist eine Anspielung auf die Komödie in drei Akten *Die Kreuzelschreiber* von Ludwig Anzengruber (1839–89). Belegt in: Hans Biesenbach: *Anspielungen und Zitate im Werk Ludwig Wittgensteins. Erweiterte Ausgabe*. Sofia University Press, Sofia 2014, S. 21–23.
 
 [^5]: *Anm. d. Übers*.: Die Übersetzung des Verbs »to create« mit »erschaffen« ruht auf einem Gespräch zwischen Wittgenstein und Waismann, das wiedergegeben wurde, in Brian McGuinness (Hrsg.): *Ludwig Wittgenstein und der Wiener Kreis: Gespräche, aufgezeichnet von Friedrich Waismann*. Suhrkamp Verlag, Frankfurt am Main 1967, S. 118.:
->
-> **Wittgenstein*: Daß hier ein Zusammenhang besteht, haben die Menschen gefühlt und das so ausgedrückt: Gottvater hat die Welt erschaffen, Gott-Sohn (oder das Wort, das von Gott ausgeht) ist das Ethische*. […]
->
-
+\
+**Wittgenstein*: Daß hier ein Zusammenhang besteht, haben die Menschen gefühlt und das so ausgedrückt: Gottvater hat die Welt erschaffen, Gott-Sohn (oder das Wort, das von Gott ausgeht) ist das Ethische*. […]
+\
+\
 Dem ersten Anschein nach stimmt diese Wortwahl mit der Wortwahl überein, die heute in der Einheitsübersetzung der Bibel (sprich: in der katholischen Bibel) enthalten ist: »Im Anfang *erschuf* Gott […]« (Genesis 1,1) [*Hervorhebung diesseits*]. Dahingegen lautet die Wortwahl in der lutherischen Bibel so: »Am Anfang *schuf* Gott […]« [*Hervorhebung diesseits*]. Bei diesem Umstand häufen sich Fragen, unter anderem: Sollte Wittgensteins Wortwahl tatsächlich katholisch sein? Wie lautet diese Stelle in der damaligen katholischen Bibel? in Österreich? Hatte Waismann die Worte Wittgensteins in leicht abgeänderter Form aufgezeichnet? Während diese und weitere Fragen interessante Problemstellungen für die künftige Forschung darstellen, sprengten jede Ausführung zu ihnen den Rahmen einer Anmerkung. Dieser Umstand ist nur deswegen im Rahmen dieser Übersetzung von Belang, weil diese Wortwahl auf eine weitere, nachstehende Stelle der Übersetzung wirkt. Siehe die nachstehende [Anm. d. Übers. Nr. 7](#cite_note-7).
 
 [^6]: *Anm. d. Übers.*: Vergleiche § 7 von Moores *Principia Ethica*: »Wir können z. B. einem Menschen klarmachen, was eine Chimäre ist, obwohl er nie davon gehört oder eine gesehen hat. Wir können ihm sagen, daß es ein Tier mit Kopf und Körper einer Löwin ist […]« (Deutsch nach: G.E. Moore: *Principia Ethica. Erweiterte Ausgabe*. Philipp Reclam jun. GmbH & Co., Stuttgart 1996, S. 37 (§ 7)).

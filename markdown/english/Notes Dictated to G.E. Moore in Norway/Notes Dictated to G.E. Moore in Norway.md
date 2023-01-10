@@ -194,27 +194,30 @@ The relation of "I believe p" to "p" can be compared to the relation of '"p" say
 ---
 
 [^1]: *Note of the editor of the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.org/w/index.php/Main_Page)’s digital edition:* The diagram originally drawn by Moore looked like this:
-
+\
 ![Notes Dictated to G.E. Moore in Norway schema.png](images/300px-Notes_Dictated_to_G.E._Moore_in_Norway_schema.png)\
-
+\
+\
 In the truth table notation (where the combinations of the truth values of individual propositions are displayed by means of a table and the two poles are indicated by “T” and “F” instead of “a” and “b” respectively) the equivalent of that diagram is as follows:
-
+\
+\
 |*p* |*p* |*p* ≡ \~(\~*p*) |
 |---|---|---|
 |T |T |T |
 |T |F |T |
 |F |T |F |
 |F |F |T |
-
+\
 This, however, does not correspond to the truth table of *p* ≡ \~(\~*p*), which is instead as follows:
-
+\
+\
 |*p* |*p* |*p* ≡ \~(\~*p*) |
 |---|---|---|
 |T |T |T |
 |T |F |F |
 |F |V |F |
 |F |F |T |
-
+\
 The paper edition this digital edition is based upon faithfully reproduces Moore’s drawing. In this digital edition, instead, the original diagram was replaced by a corrected version which corresponds to this truth table.
-
+\
 See Michael A.R. Biggs. “Editing Wittgenstein’s Notes on Logic. Vol. 1.” *Working Papers from the Wittgenstein Archives at the University of Bergen*, no. 11, 1996, § 1.8.
