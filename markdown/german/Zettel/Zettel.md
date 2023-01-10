@@ -323,9 +323,9 @@ Das ist nicht das gewöhnliche Erlebnis. Man hört sich für gewöhnlich nicht h
 
 **97.** Was man nachmacht, ist etwa der Ton der Rede, die Miene und dergleichen, und das genügt uns. Das beweist, daß *hier* die wichtigen Begleitphänomene der Rede liegen.
 
-**98.** Sagen wir, es denke *jeder*, der sinnvoll spricht? Z. B. der Bauende im Sprachspiel [No.2](https://www.wittgensteinproject.org/w/index.php?title=Philosophische_Untersuchungen#2)? Könnten wir uns nicht das Bauen und Rufen der Wörter etc. in einer Umgebung denken, in der wir es mit einem Denken nicht im entferntesten in Zusammenhang brachten?
+**98.** Sagen wir, es denke *jeder*, der sinnvoll spricht? Z. B. der Bauende im Sprachspiel [No.2](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#2)? Könnten wir uns nicht das Bauen und Rufen der Wörter etc. in einer Umgebung denken, in der wir es mit einem Denken nicht im entferntesten in Zusammenhang brachten?
 
-**99.** (Zum Sprachspiel [No.2](https://www.wittgensteinproject.org/w/index.php?title=Philosophische_Untersuchungen#2)) »Du setzt eben stillschweigend schon voraus, daß diese Menschen *denken*; daß sie in *dieser* Beziehung den uns bekannten Menschen gleichen; daß sie jenes Sprachspiel nicht rein mechanisch betreiben. Denn stelltest du dir vor, sie täten's, so würdest du's selbst nicht den Gebrauch einer rudimentären Sprache nennen.«
+**99.** (Zum Sprachspiel [No.2](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#2)) »Du setzt eben stillschweigend schon voraus, daß diese Menschen *denken*; daß sie in *dieser* Beziehung den uns bekannten Menschen gleichen; daß sie jenes Sprachspiel nicht rein mechanisch betreiben. Denn stelltest du dir vor, sie täten's, so würdest du's selbst nicht den Gebrauch einer rudimentären Sprache nennen.«
 
 Was soll ich nun dem antworten? Es ist natürlich wahr, das Leben jener Menschen muß dem unsern in vieler Beziehung gleichen, und ich habe über diese Ähnlichkeiten nichts gesagt. Das Wichtige aber ist, daß ihre Sprache, wie auch ihr Denken, rudimentär sein kann, daß es ein ›primitives Denken‹ gibt, welches durch ein primitives *Verhalten* zu beschreiben ist. Die Umgebung ist nicht die ›Denkbegleitung‹ des Sprechens.
 

@@ -7,9 +7,9 @@ title: Vortrag über Ethik
 
 _Published by the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.org/)._
 
-_Übersetzt von [Peter Winslow](https://www.wittgensteinproject.org/w/index.php?title=Project:People#Peter_Winslow)[^1]_
+_Übersetzt von [Peter Winslow](https://www.wittgensteinproject.org/w/index.php/Project:People#Peter_Winslow)[^1]_
 
-_Originaltext: Ludwig Wittgenstein: *[A Lecture on Ethics](https://www.wittgensteinproject.org/w/index.php?title=Lecture_on_Ethics)*. In: *The Philosophical Review*. Band 74, Nr. 1, Januar 1965, S. 3–12. Der Originaltext ist in seinem Herkunftsland (USA) nicht gemeinfrei, wurde aber durch die Rechteinhaber weltweit unter der Lizenz [Creative Commons Namensnennung – Nicht kommerziell 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/deed.de) zur Verfügung gestellt. Außerdem ist der Originaltext in allen Staaten mit einer gesetzlichen Schutzfrist von 70 oder weniger Jahren nach dem Tod des Urhebers gemeinfrei, weil seine urheberrechtliche Schutzfrist abgelaufen ist. Diese Übersetzung ist unter der Lizenz [Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed.de) veröffentlicht._
+_Originaltext: Ludwig Wittgenstein: *[A Lecture on Ethics](https://www.wittgensteinproject.org/w/index.php/Lecture_on_Ethics)*. In: *The Philosophical Review*. Band 74, Nr. 1, Januar 1965, S. 3–12. Der Originaltext ist in seinem Herkunftsland (USA) nicht gemeinfrei, wurde aber durch die Rechteinhaber weltweit unter der Lizenz [Creative Commons Namensnennung – Nicht kommerziell 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/deed.de) zur Verfügung gestellt. Außerdem ist der Originaltext in allen Staaten mit einer gesetzlichen Schutzfrist von 70 oder weniger Jahren nach dem Tod des Urhebers gemeinfrei, weil seine urheberrechtliche Schutzfrist abgelaufen ist. Diese Übersetzung ist unter der Lizenz [Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed.de) veröffentlicht._
 
 # Vortrag über Ethik
 
@@ -47,7 +47,7 @@ Denn durch sie wollte ich nur *über die Welt hinausgehen*; das heißt: über di
 
 ## Fußnoten
 
-[^1]: *Anm. d. Übers.*: Ich bedanke mich bei [The Ludwig Wittgenstein Project](https://www.wittgensteinproject.org/w/index.php?title=Main_Page) für den stets konstruktiven Austausch im Zusammenhang mit dieser Übersetzung. Insbesondere bedanke ich mich bei Frau Dr. [Jasmin Trächtler](https://www.wittgensteinproject.org/w/index.php?title=Project:People#Jasmin_Tr.C3.A4chtler), Herrn Dr. [Frederic Kettelhoit](https://www.wittgensteinproject.org/w/index.php?title=Project:People#Frederic_Kettelhoit) und Herrn [Michele Lavazza](https://www.wittgensteinproject.org/w/index.php?title=Project:People#Michele_Lavazza) für ihre Kommentare und Kritik. Ohne diese wäre diese Übersetzung eine ganz andere geworden. Sollte die Übersetzung wider Erwarten mangelhaft sein, so trage ich allein die Verantwortung.
+[^1]: *Anm. d. Übers.*: Ich bedanke mich bei [The Ludwig Wittgenstein Project](https://www.wittgensteinproject.org/w/index.php/Main_Page) für den stets konstruktiven Austausch im Zusammenhang mit dieser Übersetzung. Insbesondere bedanke ich mich bei Frau Dr. [Jasmin Trächtler](https://www.wittgensteinproject.org/w/index.php/Project:People#Jasmin_Tr%C3%A4chtler), Herrn Dr. [Frederic Kettelhoit](https://www.wittgensteinproject.org/w/index.php/Project:People#Frederic_Kettelhoit) und Herrn [Michele Lavazza](https://www.wittgensteinproject.org/w/index.php/Project:People#Michele_Lavazza) für ihre Kommentare und Kritik. Ohne diese wäre diese Übersetzung eine ganz andere geworden. Sollte die Übersetzung wider Erwarten mangelhaft sein, so trage ich allein die Verantwortung.
 
 [^2]: *Anm. d. Übers.*: G.E. Moore: *Principia Ethica*. SophiaOmni, 2017, S. 10 (§ 2). Deutsch nach: G.E. Moore: *Principia Ethica. Erweiterte Ausgabe*. Philipp Reclam jun. GmbH & Co., Stuttgart 1996, S. 30 (§ 2).
 
@@ -56,8 +56,9 @@ Denn durch sie wollte ich nur *über die Welt hinausgehen*; das heißt: über di
 [^4]: *Anm. d. Übers.*: Dies – »egal, was geschieht« – ist eine Anspielung auf die Komödie in drei Akten *Die Kreuzelschreiber* von Ludwig Anzengruber (1839–89). Belegt in: Hans Biesenbach: *Anspielungen und Zitate im Werk Ludwig Wittgensteins. Erweiterte Ausgabe*. Sofia University Press, Sofia 2014, S. 21–23.
 
 [^5]: *Anm. d. Übers*.: Die Übersetzung des Verbs »to create« mit »erschaffen« ruht auf einem Gespräch zwischen Wittgenstein und Waismann, das wiedergegeben wurde, in Brian McGuinness (Hrsg.): *Ludwig Wittgenstein und der Wiener Kreis: Gespräche, aufgezeichnet von Friedrich Waismann*. Suhrkamp Verlag, Frankfurt am Main 1967, S. 118.:
-
-**Wittgenstein*: Daß hier ein Zusammenhang besteht, haben die Menschen gefühlt und das so ausgedrückt: Gottvater hat die Welt erschaffen, Gott-Sohn (oder das Wort, das von Gott ausgeht) ist das Ethische*. […]
+>
+> **Wittgenstein*: Daß hier ein Zusammenhang besteht, haben die Menschen gefühlt und das so ausgedrückt: Gottvater hat die Welt erschaffen, Gott-Sohn (oder das Wort, das von Gott ausgeht) ist das Ethische*. […]
+>
 
 Dem ersten Anschein nach stimmt diese Wortwahl mit der Wortwahl überein, die heute in der Einheitsübersetzung der Bibel (sprich: in der katholischen Bibel) enthalten ist: »Im Anfang *erschuf* Gott […]« (Genesis 1,1) [*Hervorhebung diesseits*]. Dahingegen lautet die Wortwahl in der lutherischen Bibel so: »Am Anfang *schuf* Gott […]« [*Hervorhebung diesseits*]. Bei diesem Umstand häufen sich Fragen, unter anderem: Sollte Wittgensteins Wortwahl tatsächlich katholisch sein? Wie lautet diese Stelle in der damaligen katholischen Bibel? in Österreich? Hatte Waismann die Worte Wittgensteins in leicht abgeänderter Form aufgezeichnet? Während diese und weitere Fragen interessante Problemstellungen für die künftige Forschung darstellen, sprengten jede Ausführung zu ihnen den Rahmen einer Anmerkung. Dieser Umstand ist nur deswegen im Rahmen dieser Übersetzung von Belang, weil diese Wortwahl auf eine weitere, nachstehende Stelle der Übersetzung wirkt. Siehe die nachstehende [Anm. d. Übers. Nr. 7](#cite_note-7).
 

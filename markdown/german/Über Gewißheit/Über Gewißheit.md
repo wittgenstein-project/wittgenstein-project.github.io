@@ -93,9 +93,7 @@ Regel und Ausnahme.
 
 **35.** Aber kann man sich nicht vorstellen, es gäbe keine physikalischen Gegenstände? Ich weiß nicht. Und doch ist »Es gibt physikalische Gegenstände« Unsinn. Soll es ein Satz der Erfahrung sein? – Und ist *das* ein Erfahrungssatz: »Es scheint physikalische Gegenstände zu geben«?
 
-**36.** Die Belehrung »A ist ein physikalischer Gegenstand« geben wir nur dem, der entweder noch nicht versteht, was »A« bedeutet, oder was »physikalischer Gegenstand« bedeutet. Es ist also eine Belehrung über den Gebrauch von Worten und »physikalischer Gegenstand«, ein logischer Begriff. (Wie Farbe, Maß, ...) Und darum läßt sich ein Satz
-
-»Es gibt physikalische Gegenstände« nicht bilden.
+**36.** Die Belehrung »A ist ein physikalischer Gegenstand« geben wir nur dem, der entweder noch nicht versteht, was »A« bedeutet, oder was »physikalischer Gegenstand« bedeutet. Es ist also eine Belehrung über den Gebrauch von Worten und »physikalischer Gegenstand«, ein logischer Begriff. (Wie Farbe, Maß, ...) Und darum läßt sich ein Satz »Es gibt physikalische Gegenstände« nicht bilden.
 
 Solchen verunglückten Versuchen begegnen wir aber auf Schritt und Tritt.
 
@@ -155,7 +153,7 @@ Aber ist er dann nicht wie *der*: »Ich weiß, ich vermute nicht nur, daß ich R
 
 **60.** Es ist falsch zu sagen, daß die »Hypothese«, *dies* sei ein Stück Papier, durch spätere Erfahrung bestätigt oder entkräftet würde, und daß, in »Ich weiß, daß das ein Stück Papier ist«, das »Ich weiß« sich entweder auf eine solche Hypothese bezieht oder auf eine logische Bestimmung.
 
-**61.**Eine Bedeutung eines Wortes ist eine Art seiner Verwendung.
+**61.** Eine Bedeutung eines Wortes ist eine Art seiner Verwendung.
 
 Denn sie ist das, was wir erlernen, wenn das Wort zuerst unserer Sprache einverleibt wird.
 
@@ -227,7 +225,7 @@ Aber könnte ich nicht doch das Gegenteil glauben? Aber die Frage ist: wie würd
 
 **90.** »Ich weiß« hat eine primitive Bedeutung, ähnlich und verwandt der von »Ich sehe«. (»Wissen«, »videre«.) Und »Ich wußte, daß er im Zimmer war, aber er war nicht im Zimmer« ist ähnlich wie »Ich sah ihn im Zimmer, aber er war nicht da«. »Ich weiß« soll eine Beziehung ausdrücken, nicht zwischen mir und einem Satzsinn (wie »Ich glaube«), sondern zwischen mir und einer Tatsache. So daß die *Tatsache* in mein Bewußtsein aufgenommen wird. (Hier ist auch der Grund, warum man sagen will, man *wisse* eigentlich nicht, was in der Außenwelt, sondern nur, was im Reich der sogenannten Sinnesdaten geschieht.) Ein Bild des Wissens wäre dann das Wahrnehmen eines äußern Vorgangs durch Sehstrahlen, die ihn, wie er ist, ins Auge und Bewußtsein projizieren. Nur ist sofort die Frage, ob man denn dieser Projektion auch sicher sein könne. Und dieses Bild zeigt zwar die *Vorstellung*, die wir uns vom Wissen machen, aber nicht eigentlich, was ihr zugrunde liegt.
 
-**91.** Wenn Moore sagt, er wisse, daß die Erde existiert habe etc., so werden ihm die meisten von uns darin recht geben, daß sie so lange existiert hat, und ihm auch glauben, daß er davon überzeugt ist. Aber hat er auch den richtigen *Grund* zu seiner Überzeugung? Denn, wenn nicht, so *weiß* er es doch nicht (Russell)
+**91.** Wenn Moore sagt, er wisse, daß die Erde existiert habe etc., so werden ihm die meisten von uns darin recht geben, daß sie so lange existiert hat, und ihm auch glauben, daß er davon überzeugt ist. Aber hat er auch den richtigen *Grund* zu seiner Überzeugung? Denn, wenn nicht, so *weiß* er es doch nicht (Russell).
 
 **92.** Man kann aber fragen: »Kann Einer einen triftigen Grund haben zu glauben, die Erde existiere erst seit kurzem, etwa erst seit seiner Geburt?« –
 
@@ -235,7 +233,7 @@ Angenommen, es wäre ihm immer so gesagt worden, – hätte er einen guten Grund
 
 Bedenke, daß man von der *Richtigkeit* einer Anschauung manchmal durch ihre *Einfachheit* oder *Symmetrie* überzeugt wird, d. h.: dazu gebracht wird, zu dieser Anschauung überzugehen. Man sagt dann etwa einfach: »*So* muß es sein.«
 
-**93.** Die Sätze, die darstellen, was Moore *»weiß«*, sind alle solcher Art, daß man sich schwer vorstellen kann, *warum* Einer das Gegenteil glauben sollte. Z. B. der Satz, daß Moore sein ganzes Leben in geringer Entfernung von der Erde verbracht hat. – Wieder kann ich hier von mir selber statt von Moore reden. Was könnte mich dazu bringen, das Gegenteil davon zu glauben? Entweder eine Erinnerung, oder daß es mir gesagt wurde. – Alles, was ich gesehen oder gehört habe, macht mich der Überzeugung, daß kein Mensch sich je weit von der Erde entfernt hat. Nichts spricht in meinem Weltbild für das Gegenteil.
+**93.** Die Sätze, die darstellen, was Moore »*weiß*«, sind alle solcher Art, daß man sich schwer vorstellen kann, *warum* Einer das Gegenteil glauben sollte. Z. B. der Satz, daß Moore sein ganzes Leben in geringer Entfernung von der Erde verbracht hat. – Wieder kann ich hier von mir selber statt von Moore reden. Was könnte mich dazu bringen, das Gegenteil davon zu glauben? Entweder eine Erinnerung, oder daß es mir gesagt wurde. – Alles, was ich gesehen oder gehört habe, macht mich der Überzeugung, daß kein Mensch sich je weit von der Erde entfernt hat. Nichts spricht in meinem Weltbild für das Gegenteil.
 
 **94.** Aber mein Weltbild habe ich nicht, weil ich mich von seiner Richtigkeit überzeugt habe; auch nicht, weil ich von seiner Richtigkeit überzeugt bin. Sondern es ist der überkommene Hintergrund, auf welchem ich zwischen wahr und falsch unterscheide.
 
@@ -435,7 +433,7 @@ Ich glaube, daß dort ein Sessel steht. Kann ich mich nicht irren? Aber kann ich
 
 **179.** Es wäre richtig zu sagen: »Ich glaube ...« hat subjektive Wahrheit; aber »Ich weiß ...« nicht.
 
-**180.** Oder auch: »Ich glaube ...« ist eine Äußerung, nicht aber »Ich weiß...«.
+**180.** Oder auch: »Ich glaube ...« ist eine Äußerung, nicht aber »Ich weiß ...«.
 
 **181.** Wie, wenn Moore statt »Ich weiß ...« gesagt hätte »Ich schwöre ...«?
 
@@ -487,13 +485,15 @@ Was wir »Irrtum« nennen, spielt eine ganz bestimmte Rolle in unsern Sprachspie
 
 **203.** [Alles, was wir als Evidenz betrachten, deutet darauf hin, die Erde habe schon lange vor meiner Geburt existiert. Die entgegengesetzte Hypothese hat *keinerlei* Bekräftigung.
 
-Wenn auch alles *für* eine Hypothese, nichts gegen sie spricht, – ist sie objektiv sicher? Man kann sie so *nennen*. Aber stimmt sie *unbedingt* mit der Welt der Tatsachen überein? Sie zeigt uns bestenfalls, was »übereinstimmen« heißt. Wir finden es schwierig, sie uns (als) falsch vorzustellen, aber auch schwierig, eine Anwendung von ihr zu machen.] Worin besteht denn diese Übereinstimmung, wenn nicht darin, daß, was in diesen Sprachspielen Evidenz ist, für unseren Satz spricht? (Log. Phil. Abh.)
+Wenn auch alles *für* eine Hypothese, nichts gegen sie spricht, – ist sie objektiv sicher? Man kann sie so *nennen*. Aber stimmt sie *unbedingt* mit der Welt der Tatsachen überein? Sie zeigt uns bestenfalls, was »übereinstimmen« heißt. Wir finden es schwierig, sie uns (als) falsch vorzustellen, aber auch schwierig, eine Anwendung von ihr zu machen.]
+
+Worin besteht denn diese Übereinstimmung, wenn nicht darin, daß, was in diesen Sprachspielen Evidenz ist, für unseren Satz spricht? (Log. Phil. Abh.)
 
 **204.** Die Begründung aber, die Rechtfertigung der Evidenz kommt zu einem Ende; – das Ende aber ist nicht, daß uns gewisse Sätze unmittelbar als wahr einleuchten, also eine Art *Sehen* unsrerseits, sondern unser *Handeln*, welches am Grunde des Sprachspiels liegt.
 
 **205.** Wenn das Wahre das Begründete ist, dann ist der Grund nicht *wahr*, noch falsch.
 
-**206.** Wenn Einer uns fragte »Aber ist das *wahr?*«, könnten wir ihm sagen »Ja«; und wenn er Gründe verlangte, so könnten wir sagen »Ich kann dir keine Gründe geben, aber wenn du mehr lernst, wirst du auch dieser Meinung sein«.
+**206.** Wenn Einer uns fragte »Aber ist das *wahr*?«, könnten wir ihm sagen »Ja«; und wenn er Gründe verlangte, so könnten wir sagen »Ich kann dir keine Gründe geben, aber wenn du mehr lernst, wirst du auch dieser Meinung sein«.
 
 Käme es nun nicht dahin, so hieße das, daß er, z. B. Geschichte nicht lernen kann.
 
@@ -533,7 +533,7 @@ Manches scheint uns festzustehen, und es scheidet aus dem Verkehr aus. Es wird s
 
 **223.** Könnte ich nicht eben verrückt sein und das nicht bezweifeln, was ich unbedingt bezweifeln sollte.
 
-**224.** »Ich weiß, daß es nie geschehen ist, denn wäre es geschehen, so hätte ich es ummöglich vergessen können.«
+**224.** »Ich weiß, daß es nie geschehen ist, denn wäre es geschehen, so hätte ich es unmöglich vergessen können.«
 
 Aber, angenommen, es wäre geschehen, so hättest du’s eben doch vergessen. Und wie weißt du, daß du’s unmöglich hättest vergessen können? Nicht bloß aus früherer Erfahrung?
 
@@ -723,7 +723,7 @@ Bei dieser Ansicht werden wir verharren, es sei denn, daß sich unsere ganze Nat
 
 **292.** Weitere Versuche können die früheren nicht *Lügen strafen*, höchstens unsere ganze Betrachtung ändern.
 
-**293.** Ähnlich der Satz »Das Wasser siedet bei 100º C.«
+**293.** Ähnlich der Satz »Das Wasser siedet bei 100 °C.«
 
 **294.** *So* überzeugen wir uns, *das* nennt man »mit Recht davon überzeugt sein«.
 
@@ -809,7 +809,7 @@ Wir würden sagen, er habe ja gar keinen *Grund* zu diesem Mißtrauen.
 
 **330.** Der Satz »Ich weiß ...« drückt also hier die Bereitschaft aus, gewisse Dinge zu glauben.
 
-13.3.
+13.3.51
 
 **331.** Wenn wir überhaupt auf den Glauben hin mit Sicherheit handeln, sollen wir uns dann wundern, daß wir an Vielem nicht zweifeln können?
 
@@ -883,7 +883,7 @@ Wie der Satz *gemeint* ist, kann ja durch eine Ergänzung des Satzes ausgedrück
 
 **359.** Das heißt doch, ich will sie als etwas auffassen, was jenseits von berechtigt und unberechtigt liegt; also gleichsam als etwas Animalisches.
 
-**360.** Ich **weiß**, daß dies mein Fuß ist. Ich könnte keine Erfahrung als Beweis des Gegenteils anerkennen. – Das kann ein Ausruf sein; aber was *folgt* daraus? Jedenfalls, daß ich mit einer Sicherheit, die den Zweifel nicht kennt, meinem Glauben gemäß handeln werde.
+**360.** Ich *weiß*, daß dies mein Fuß ist. Ich könnte keine Erfahrung als Beweis des Gegenteils anerkennen. – Das kann ein Ausruf sein; aber was *folgt* daraus? Jedenfalls, daß ich mit einer Sicherheit, die den Zweifel nicht kennt, meinem Glauben gemäß handeln werde.
 
 **361.** Ich könnte aber auch sagen: Es ist mir von Gott geoffenbart, daß das so ist. Gott hat mich gelehrt, daß das mein Fuß ist. Und geschähe also etwas, was dieser Erkenntnis zu widerstreiten scheint, so müßte ich *das* als Trug ansehen.
 
@@ -919,7 +919,7 @@ Ein Irrtum wird dadurch zu etwas Unerlaubtem.
 
 **375.** Man muß hier einsehen, daß die vollkommene Zweifellosigkeit in einem Punkt, sogar dort wo, wie wir sagen würden, »berechtigte« Zweifel bestehen können, ein Sprachspiel nicht falsifizieren muß. Es gibt eben auch so etwas wie eine *andere* Arithmetik. Dieses Eingeständnis muß, glaube ich, am Grunde alles Verständnisses der Logik liegen.
 
-17.3.
+17.3.51
 
 **376.** Ich kann mich mit Leidenschaft dafür erklären, daß ich weiß, daß das (z. B.) mein Fuß ist.
 
@@ -949,7 +949,7 @@ Ein Irrtum wird dadurch zu etwas Unerlaubtem.
 
 **388.** Jeder von uns gebraucht oft einen solchen Satz, und es ist nicht fraglich, ob er Sinn hat. Läßt sich damit auch ein philosophischer Aufschluß geben? Ist es mehr ein Beweiß der Existenz der äußern Dinge, daß ich weiß, daß das eine Hand ist, als daß ich nicht weiß, ob das Gold oder Messing ist?
 
-18.3.
+18.3.51
 
 **389.** Moore wollte ein Beispiel dafür geben, daß man Sätze über physikalische Gegenstände wirklich wissen könne. Wenn es streitig wäre, ob man an der und der bestimmten Stelle des Körpers Schmerzen haben kann, dann könnte Einer, der gerade dort Schmerzen hat, sagen: »Ich versichere dich, ich habe jetzt da Schmerzen.« Es klänge aber seltsam, wenn Moore gesagt hätte: »Ich versichere dich, ich weiß, daß das ein Baum ist.« Es hat eben hier nicht ein persönliches Erlebnis für uns Interesse.
 
@@ -965,7 +965,7 @@ Ein Irrtum wird dadurch zu etwas Unerlaubtem.
 
 **395.** »Ich weiß das alles.« Und das wird sich darin zeigen, wie ich handle und über die Dinge spreche.
 
-**396.** Im Sprachspiel (2), kann er sagen, er wisse, daß das Bausteine sind? – »Nein, aber er *weiß* es.«
+**396.** Im Sprachspiel [(2)](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#2), kann er sagen, er wisse, daß das Bausteine sind? – »Nein, aber er *weiß* es.«
 
 **397.** Habe ich mich nicht geirrt und hat nicht Moore vollkommen recht? Habe ich nicht den elementaren Fehler gemacht, zu verwechseln, was man denkt, mit dem, was man weiß? Freilich denke ich nicht »Die Erde hat einige Zeit vor meiner Geburt schon existiert«, aber *weiß* ich’s drum nicht? Zeige ich nicht, daß ich’s weiß, indem ich immer die Konsequenzen draus ziehe?
 
@@ -973,7 +973,7 @@ Ein Irrtum wird dadurch zu etwas Unerlaubtem.
 
 **399.** Aber zeigt, daß ich die Konsequenzen draus ziehe, nicht nur, daß ich diese Hypothese annehme?
 
-19.3.
+19.3.51
 
 **400.** Ich bin hier geneigt, gegen Windmühlen zu kämpfen, weil ich das noch nicht sagen kann, was ich eigentlich sagen will.
 
@@ -981,9 +981,10 @@ Ein Irrtum wird dadurch zu etwas Unerlaubtem.
 
 **402.** In dieser Bemerkung ist schon der Ausdruck »Sätze von der Form der Erfahrungssätze« ganz schlecht; es handelt sich um Aussagen über Gegenstände. Und sie dienen nicht als Fundamente wie Hypothesen, die, wenn sie sich als falsch erweisen, durch andere ersetzt werden.
 
-... und schreib getrost
-
-»Im Anfang war die Tat.«
+>
+> ... und schreib getrost
+>  »Im Anfang war die Tat.«
+>
 
 **403.** Vom Menschen, in Moores Sinne, zu sagen, er *wisse* etwas; was er sage, sei also unbedingt die Wahrheit, scheint mir falsch. – Es ist die Wahrheit nur insofern, als es eine unwankende Grundlage seiner Sprachspiele ist.
 
@@ -999,7 +1000,7 @@ Ein Irrtum wird dadurch zu etwas Unerlaubtem.
 
 **409.** Wenn ich sage »Ich weiß, daß das ein Fuß ist« – was sage ich eigentlich? Ist nicht der ganze Witz, daß ich der Konsequenzen sicher bin, daß, wenn ein Andrer gezweifelt hätte, ich ihm sagen könnte »Siehst du, ich hab dir’s gesagt«? Wäre mein Wissen noch etwas wert, wenn es als Richtschnur des Handelns versagte? Und *kann* es nicht versagen?
 
-20.3.
+20.3.51
 
 **410.** Unser Wissen bildet ein großes System. Und nur in diesem System hat das Einzelne den Wert, den wir ihm beilegen.
 
@@ -1019,7 +1020,7 @@ Ein Irrtum wird dadurch zu etwas Unerlaubtem.
 
 – »certain beyond all reasonable doubt« –
 
-21.3.
+21.3.51
 
 **417.** »Ich weiß, daß ich im letzten Monat täglich gebadet habe.« Woran erinnre ich mich? An jeden Tag und das Bad an jedem Morgen? Nein. Ich *weiß*, daß ich jeden Tag gebadet habe, und ich entnehme das nicht aus einem andern unmittelbaren Datum. Ähnlich sage ich »Ich habe einen Stich im Arm empfunden«, ohne daß diese Lokalität mir auf eine andre Weise (durch ein Bild etwa) zum Bewußtsein käme.
 
@@ -1049,7 +1050,7 @@ Und dennoch war es richtig unter den Umständen, die diesem Satz Sinn verleihen,
 
 **426.** Wie aber ist es Einem zu *zeigen*, daß wir nicht nur Wahrheiten über Sinnesdaten, sondern auch solche über Dinge *wissen?* Denn es kann doch nicht genug sein, daß jemand uns versichert, *er* wisse dies. Wovon muß man denn ausgehen, um das zu zeigen?
 
-22.3.
+22.3.51
 
 **427.** Man muß zeigen, daß, auch wenn er nie die Worte gebraucht »Ich weiß, ...«, sein Gebaren das zeigt, worauf es uns ankommt.
 
@@ -1077,7 +1078,7 @@ Was entnimmt nun der Andre aus diesen meinen Handlungen und Reden? Nicht nur, da
 
 **434.** Lehrt uns nun *Erfahrung*, daß Menschen unter den und den Umständen das und das wissen? Erfahrung zeigt uns gewiß, daß für gewöhnlich ein Mensch nach soundso viel Tagen sich in einem Haus, das er bewohnt, auskennt. Oder auch: Erfahrung lehrt uns, daß eines Menschen Urteil nach der und der Lehrdauer zu trauen ist. Er muß, erfahrungsgemäß, soundso lang gelernt haben, um eine richtige Vorhersage machen zu können. Aber – – –
 
-27.3.
+27.3.51
 
 **435.** Man wird oft von einem Wort behext. Z. B. vom Wort »wissen«.
 
@@ -1107,7 +1108,7 @@ Auch die Versicherung »Ich weiß, daß das eine Hand ist«, wobei man die eigen
 
 Oder: Ist in dem Sprachspiel diese »Sicherheit« nicht (schon) vorausgesetzt? Dadurch nämlich, daß *der* es nicht spielt, oder falsch spielt, der Gegenstände nicht mit Sicherheit erkennt.
 
-28.3.
+28.3.51
 
 **447.** Vergleiche damit 12 × 12 = 144. Auch hier sagen wir nicht »vielleicht«. Denn sofern dieser Satz darauf beruht, daß wir uns nicht verzählen oder verrechnen, daß uns unsre Sinne beim Rechnen nicht trügen, sind die beiden, der arithmetische und der physische Satz, auf der gleichen Stufe.
 
@@ -1133,7 +1134,7 @@ Daß es mir (als) zweifellos erscheint, darauf kommt’s nicht an. Wenn es unver
 
 **454.** Es gibt Fälle, in denen der Zweifel unvernünftig ist, andre aber, in denen er logisch unmöglich scheint. Und zwischen ihnen scheint es keine klare Grenze zu geben.
 
-29.3.
+29.3.51
 
 **455.** Alles Sprachspiel beruht darauf, daß Wörter und Gegenstände wiedererkannt werden. Wir lernen mit der gleichen Unerbittlichkeit, daß dies ein Sessel ist, wie daß 2 × 2 = 4 ist.
 
@@ -1149,11 +1150,11 @@ Daß es mir (als) zweifellos erscheint, darauf kommt’s nicht an. Wenn es unver
 
 **461.** Angenommen, ich wäre der Arzt, und ein Patient kommt zu mir, zeigt mir seine Hand und sagt: »Was hier wie eine Hand ausschaut, ist nicht eine ausgezeichnete Imitation, sondern wirklich eine Hand.« Worauf er von seiner Verletzung redet. – Würde ich dies wirklich als eine Mitteilung, wenn auch eine überflüssige, ansehen? Würde ich es nicht vielmehr für Unsinn halten, der allerdings die Form einer Mitteilung hat? Denn, würde ich sagen, wenn diese Mitteilung wirklich Sinn hätte, wie kann er seiner Sache sicher sein? Es fehlt der Mitteilung der Hintergrund.
 
-30.3.
+30.3.51
 
 **462.** Warum gibt Moore unter den Dingen, die er weiß, nicht z. B. an, es gebe in dem und dem Teil von England ein Dorf, das soundso heiße? Mit andern Worten: Warum erwähnt er nicht eine Tatsache, die ihm, und nicht *jedem* von uns, bekannt ist?
 
-31.3.
+31.3.51
 
 **463.** Gewiß ist doch, daß die Mitteilung »Das ist ein Baum«, wenn niemand daran zweifeln könnte, eine Art Witz sein könnte und als solche Sinn hätte. Ein Witz dieser Art ist wirklich einmal von Renan gemacht worden.
 
@@ -1169,7 +1170,7 @@ Es kommt mir vor, als wären diese Worte ähnlich einem »Grüß Gott«, wenn ma
 
 **467.** Ich sitze mit einem Philosophen im Garten; er sagt zu wiederholten Malen »Ich weiß, daß das ein Baum ist«, wobei er auf einen Baum in unsrer Nähe zeigt. Ein Dritter kommt daher und hört das, und ich sage ihm: »Dieser Mensch ist nicht verrückt: Wir philosophieren nur.«
 
-4.4.
+4.4.51
 
 **468.** Jemand sagt irrelevant »Das ist ein Baum«. Er könnte den Satz sagen, weil er sich erinnert, ihn in einer ähnlichen Situation gehört zu haben; oder er wurde plötzlich von der Schönheit dieses Baumes getroffen, und der Satz war ein Ausruf; oder er sagte sich den Satz als grammatisches Beispiel vor. (Etc.) Ich frage ihn nun: »Wie hast du das gemeint?«, und er antwortet: »Es war eine Mitteilung, an dich gerichtet.« Stünde mir da nicht frei, anzunehmen, er wisse nicht, was er sage, wenn er verrückt genug ist, mir diese Mitteilung machen zu wollen?
 
@@ -1177,7 +1178,7 @@ Es kommt mir vor, als wären diese Worte ähnlich einem »Grüß Gott«, wenn ma
 
 **470.** Warum ist kein Zweifel, daß ich L. W. heiße? Es scheint durchaus nichts, das man ohne weiteres zweifelfrei feststellen könnte. Man sollte nicht meinen, daß das eine der unzweifelhaften Wahrheiten ist.
 
-5.4.
+5.4.51
 
 [Hier ist noch eine große Lücke in meinem Denken. Und ich zweifle, ob sie noch ausgefüllt werden wird.]
 
@@ -1191,7 +1192,7 @@ Es kommt mir vor, als wären diese Worte ähnlich einem »Grüß Gott«, wenn ma
 
 **475.** Ich will den Menschen hier als Tier betrachten; als ein primitives Wesen, dem man zwar Instinkt, aber nicht Raisonnement zutraut. Als ein Wesen in einem primitiven Zustande. Denn welche Logik für ein primitives Verständigungsmittel genügt, deren brauchen wir uns auch nicht zu schämen. Die Sprache ist nicht aus einem Raisonnement hervorgegangen.
 
-6.4.
+6.4.51
 
 **476.** Das Kind lernt nicht, daß es Bücher gibt, daß es Sessel gibt, etc. etc., sondern es lernt Bücher holen, sich auf Sessel (zu) setzen, etc.
 
@@ -1201,13 +1202,13 @@ Es kommen freilich später auch Fragen nach der Existenz auf: »Gibt es ein Einh
 
 Warum soll denn das Sprachspiel auf einem Wissen ruhen?
 
-7.4.
+7.4.51
 
 **478.** Glaubt das Kind, daß es Milch gibt? Oder weiß es, daß es Milch gibt? Weiß die Katze, daß es eine Maus gibt?
 
 **479.** Sollen wir sagen, daß die Erkenntnis, es gebe physikalische Gegenstände, eine sehr frühe oder eine sehr späte sei?
 
-8.4.
+8.4.51
 
 **480.** Das Kind, das das Wort »Baum« gebrauchen lernt. Man steht mit ihm vor einem Baum und sagt »*Schöner* Baum!«. Daß kein Zweifel an der Existenz des Baums in das Sprachspiel eintritt, ist klar. Aber kann man sagen, das Kind *wisse:* daß es einen Baum gibt? Es ist allerdings wahr, daß »etwas wissen« nicht in sich beschließt: daran *denken* – aber muß nicht, wer etwas weiß, eines Zweifels fähig sein? Und zweifeln heißt denken.
 
@@ -1227,11 +1228,11 @@ Ein Schwachsichtiger fragt mich: »Glaubst du, daß das, was wir dort sehen, ein
 
 **485.** Man kann sich auch einen Fall denken, in welchem Einer eine Liste von Sätzen durchgeht und sich dabei immer wieder fragt »Weiß ich das, oder glaube ich es nur?« Er will die Sicherheit jedes einzelnen Satzes überprüfen. Es könnte sich um eine Zeugenaussage vor Gericht handeln.
 
-9.4.
+9.4.51
 
 **486.** »Weißt du, oder glaubst du nur, daß du L. W. heißt?« Ist das eine sinnvolle Frage? Weißt du, oder glaubst du nur, daß, was du hier hinschreibst, deutsche Worte sind? Glaubst du nur, daß »glauben« *diese* Bedeutung hat? Welche Bedeutung?
 
-**487.** Was ist der Beweis dafür, daß ich etwas *weiß?* Doch gewiß nicht, daß ich sage, ich wisse es.
+**487.** Was ist der Beweis dafür, daß ich etwas *weiß*? Doch gewiß nicht, daß ich sage, ich wisse es.
 
 **488.** Wenn also Autoren aufzählen, was sie alles *wissen*, so beweist das also gar nichts. Daß man also etwas über physikalische Dinge wissen kann, kann nicht durch die Beteuerungen derer erwiesen werden, die es zu wissen glauben.
 
@@ -1241,7 +1242,7 @@ Ein Schwachsichtiger fragt mich: »Glaubst du, daß das, was wir dort sehen, ein
 
 Ich könnte aber sagen: Nicht nur zweifle ich nie im mindesten, daß ich so heiße, sondern ich könnte keines Urteils sicher sein, wenn sich darüber ein Zweifel erhöbe.
 
-10.4.
+10.4.51
 
 **491.** »Weiß ich, oder glaub ich nur, daß ich L. W. heiße?« – Ja, wenn die Frage hieße »Bin ich sicher, oder vermute ich nur, daß ich ...?«, da könnte man sich auf meine Antwort verlassen. –
 
@@ -1261,7 +1262,7 @@ Aber was für ein Satz ist das? (Er erinnert an das, was Frege über das Gesetz 
 
 **497.** Wenn Einer Zweifel in mir immer aufrufen wollte und spräche: da täuscht dich dein Gedächtnis, dort bist du betrogen worden, dort wieder hast du dich nicht gründlich genug überzeugt, etc., und ich ließe mich nicht erschüttern und bliebe bei meiner Gewißheit – dann kann das schon darum nicht falsch sein, weil es erst ein Spiel definiert.
 
-11.4.
+11.4.51
 
 **498.** Das Seltsame ist, daß, wenn schon ich es ganz richtig finde, daß Einer den Versuch, ihn mit Zweifeln in dem Fundamente irrezumachen, mit dem Wort »Unsinn!« abweist, ich es für unrichtig halte, wenn er sich verteidigen will, wobei er etwa die Worte »Ich weiß« gebraucht.
 
@@ -1299,7 +1300,7 @@ Ich denke nicht an Vergangenheit oder Zukunft. (Und so geht es natürlich auch M
 
 Aber greif ich so nicht auch zum Namen eines Dinges?
 
-12.4.
+12.4.51
 
 **512.** Die Frage ist doch die: »Wie, wenn du auch in diesen fundamentalsten Dingen deine Meinung ändern müßtest?« Und darauf scheint mir die Antwort zu sein: »Du *mußt* sie nicht ändern. Gerade darin liegt es, daß sie ›fundamental‹ sind.«
 
@@ -1321,11 +1322,11 @@ Um also einen Befehl befolgen zu können, mußt du über eine Erfahrungstatsache
 
 Da aber ein Sprachspiel etwas ist, was in wiederholten Spielhandlungen in der Zeit besteht, so scheint es, man könne in keinem *einzelnen* Falle sagen, das und das müsse außer Zweifel stehen, wenn es ein Sprachspiel geben solle, wohl aber, daß, *in der Regel*, irgendwelche Erfahrungsurteile außer Zweifel stehen müssen.
 
-13.4.
+13.4.51
 
 **520.** Moore hat ein gutes Recht zu sagen, er wisse, daß vor ihm ein Baum steht. Natürlich kann er sich darin irren. (Denn es ist ja hier nicht wie mit der Äußerung »Ich glaube, dort steht ein Baum«.) Aber, ob er in diesem Fall recht hat oder sich irrt, ist philosophisch nicht von Belang. Wenn Moore die bekämpft, die sagen, so etwas könne man nicht eigentlich wissen, so kann er es nicht tun, indem er versichert: *Er* wisse das und das. Denn das braucht man ihm nicht zu glauben. Hätten seine Gegner behauptet, man könne das und das nicht *glauben*, so hätte er ihnen antworten können »*Ich* glaube es«.
 
-14.4.
+14.4.51
 
 **521.** Moores Fehler liegt darin, auf die Behauptung, man könne das nicht wissen, zu entgegnen »Ich weiß es«.
 
@@ -1333,7 +1334,7 @@ Da aber ein Sprachspiel etwas ist, was in wiederholten Spielhandlungen in der Ze
 
 **523.** Ja, hier vermißt auch niemand den Zweifel; wundert sich niemand, daß wir die Bedeutung der Worte nicht nur *vermuten*.
 
-15.4.
+15.4.51
 
 **524.** Ist es für unsre Sprachspiele (»Befehlen und Gehorchen«, z. B.) wesentlich, daß ein Zweifel an gewissen Stellen nicht eintritt, oder genügt es, wenn das Gefühl der Sicherheit besteht, wenn auch mit einem leichten Anhauch des Zweifels?
 
@@ -1345,7 +1346,7 @@ Man könnte fragen, ob er überall dort, wo wir, z. B., mit Sicherheit eine Meld
 
 **525.** Wie sieht also der Fall aus, wo Einer wirklich zu den Farbnamen, z. B., eine andere Beziehung hat als wir? Wo nämlich ein leiser Zweifel, oder die Möglichkeit eines Zweifels, in ihrem Gebrauch bestehenbleibt.
 
-16.4.
+16.4.51
 
 **526.** Wer beim Anblick eines englischen Postkastens sagte »Ich bin sicher, er ist rot«, den müßten wir für farbenblind halten oder glauben, er beherrschte das Deutsche nicht und wüßte den richtigen Farbnamen in einer andern Sprache.
 
@@ -1389,7 +1390,7 @@ Wäre keines von beiden der Fall, so würden wir ihn nicht recht verstehen.
 
 **544.** Ich kann freilich wahrheitsgemäß sagen »Ich weiß, wie diese Farbe auf deutsch heißt«, indem ich z. B. auf die Farbe des frischen Blutes deute. Aber – – –
 
-17.4.
+17.4.51
 
 **545.** »Das Kind weiß, welche Farbe das Wort »blau« bedeutet.« Was es da weiß, ist gar nicht so einfach.
 
@@ -1403,7 +1404,7 @@ Wäre keines von beiden der Fall, so würden wir ihn nicht recht verstehen.
 
 [Die Prätensionen sind eine Hypothek, die die Denkkraft des Philosophen belastet.]
 
-18.4.
+18.4.51
 
 **550.** Wenn Einer etwas glaubt, so muß man nicht immer die Frage beantworten können, »warum er es glaubt«; weiß er aber etwas, so muß die Frage »Wie weiß er es?« beantwortet werden können.
 
@@ -1419,7 +1420,7 @@ Aber wenn man’s nun auch nicht sagt, *ist* es darum nicht so??
 
 Wie ich aber den Satz außerhalb seines Zusammenhangs sage, so erscheint er in einem falschen Lichte. Denn dann ist es, als wollte ich versichern, daß es Dinge gibt, die ich *weiß*. Worüber Gott selber mir nichts erzählen könnte.
 
-19.4.
+19.4.51
 
 **555.** Wir sagen, wir wissen, daß das Wasser kocht, wenn es ans Feuer gestellt wird. Wie wissen wir’s? Erfahrung hat es uns gelehrt. – Ich sage »Ich weiß, daß ich heute früh gefrühstückt habe«; Erfahrung hat mich das nicht gelehrt. Man sagt auch »Ich weiß, daß er Schmerzen hat«. Jedesmal ist das Sprachspiel anders, jedesmal sind wir *sicher*, und jedesmal wird man mit uns übereinstimmen, daß wir *in der Lage sind* zu wissen. Daher finden sich ja auch die Lehrsätze der Physik in Lehrbüchern für jedermann.
 
@@ -1461,11 +1462,11 @@ Und die Begründung hat ein Ende.
 
 **565.** Aber hier ist von einem »Wissen«, daß dies »Platte«, *dies* »Säule« etc. heißt, noch gar nicht die Rede.
 
-**566.** Ja, das Kind, das mein Sprachspiel (No. 2) lernt, lernt nicht sagen »Ich weiß, daß dies »Platte« heißt«.
+**566.** Ja, das Kind, das mein Sprachspiel [(No. 2)](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#2) lernt, lernt nicht sagen »Ich weiß, daß dies »Platte« heißt«.
 
 Es gibt nun freilich ein Sprachspiel, in welchem das Kind *diesen* Satz gebraucht. Dies setzt voraus, daß das Kind, sowie ihm der Name gegeben ist, ihn auch schon gebrauchen kann. Wie wenn mir jemand sagte »Diese Farbe heißt ›...‹« – Wenn also das Kind ein Sprachspiel mit Bausteinen gelernt hat, so kann man ihm nun etwa sagen »Und dieser Stein heißt ›...‹« und man hat dadurch das ursprüngliche Sprachspiel *erweitert*.
 
-**567.** Und ist nun mein Wissen, daß ich L. W. heiße, von der gleichen Art wie das, daß Wasser bei 100°C siedet? Diese Frage ist natürlich falsch gestellt.
+**567.** Und ist nun mein Wissen, daß ich L. W. heiße, von der gleichen Art wie das, daß Wasser bei 100 °C siedet? Diese Frage ist natürlich falsch gestellt.
 
 **568.** Wenn einer meiner Namen nur ganz selten gebraucht würde, so könnte es sein, daß ich ihn nicht wüßte. Daß ich meinen Namen weiß, ist nur darum selbstverständlich, weil ich ihn, wie jeder Andre, unzählige Male verwende.
 
@@ -1499,7 +1500,7 @@ Und was heißt »Ich *würde* mich weigern«? Ist es der Ausdruck einer Absicht?
 
 **579.** Es gehört zu dem Sprachspiel mit den Personennamen, daß jeder seinen Namen mit der größten Sicherheit weiß.
 
-20.4.
+20.4.51
 
 **580.** Es könnte doch sein, daß, wenn immer ich sagte »Ich weiß es«, es sich als falsch herausstellte. (Aufzeigen.)
 
@@ -1533,7 +1534,7 @@ Aber wie hat denn das Kind den Ausdruck gelernt?
 
 »Ich weiß, was das für ein Baum ist. Ich weiß, daß es eine Kastanie ist.«
 
-Die erste Aussage klingt natürlicher als die zweite. Man wird nur dann zum zweitenmal »Ich weiß« sagen, wenn man die Gewißheit besonders betonen will; etwa um einem Widerspruch zuvorzukommen. Das erste »Ich weiß« heißt ungefähr: Ich kann sagen.
+Die erste Aussage klingt natürlicher als die zweite. Man wird nur dann zum zweiten mal »Ich weiß« sagen, wenn man die Gewißheit besonders betonen will; etwa um einem Widerspruch zuvorzukommen. Das erste »Ich weiß« heißt ungefähr: Ich kann sagen.
 
 In einem andern Fall aber könnte man mit der Konstatierung »Das ist ein ...« beginnen, und dann, auf einen Widerspruch, entgegnen: »Ich weiß, was das für ein Baum ist« und damit die Sicherheit betonen.
 
@@ -1557,7 +1558,7 @@ Wenn ich mir jenen Menschen vorstelle, so stelle ich mir auch eine Realität vor
 
 Z. B., wenn es sich um den Namen der Person handelt, könnte der Fall so stehen, daß die Person diesen Namen nie gebraucht hat, sich aber entsinnt, ihn auf einem Dokument gelesen zu haben, – und anderseits könnte die Antwort sein: »Ich habe diesen Namen mein ganzes Leben lang geführt, bin von allen Menschen so genannt worden.« Wenn *das* nicht der Antwort »Ich kann mich darin nicht irren« gleichkommt, so hat sie überhaupt keinen Sinn. Und ganz offenbar wird doch damit auf einen sehr wichtigen Unterschied gedeutet.
 
-**599.** Man könnte z. B. die Sicherheit des Satzes, daß Wasser bei ca. 100°C kocht, beschreiben. Es ist das z. B. nicht ein Satz, den ich einmal gehört habe wie etwa den und jenen, die ich nennen könnte. Ich habe das Experiment selber in der Schule gemacht. Der Satz ist ein sehr elementarer unserer Lehrbücher, denen in solchen Dingen zu trauen ist, weil ... – Man kann nun allem dem Beispiele entgegenhalten, die zeigen, daß Menschen dies und jenes für gewiß gehalten haben, was sich später, unsrer Meinung nach, für falsch erwiesen hat. Aber dieses Argument ist wertlos. Zu sagen: wir können am Ende nur solche Gründe anführen, die *wir* für Gründe halten, sagt gar nichts.
+**599.** Man könnte z. B. die Sicherheit des Satzes, daß Wasser bei ca. 100 °C kocht, beschreiben. Es ist das z. B. nicht ein Satz, den ich einmal gehört habe wie etwa den und jenen, die ich nennen könnte. Ich habe das Experiment selber in der Schule gemacht. Der Satz ist ein sehr elementarer unserer Lehrbücher, denen in solchen Dingen zu trauen ist, weil ... – Man kann nun allem dem Beispiele entgegenhalten, die zeigen, daß Menschen dies und jenes für gewiß gehalten haben, was sich später, unsrer Meinung nach, für falsch erwiesen hat. Aber dieses Argument ist wertlos. Zu sagen: wir können am Ende nur solche Gründe anführen, die *wir* für Gründe halten, sagt gar nichts.
 
 Ich glaube, es liegt hier ein Mißverständnis des Wesens unserer Sprachspiele zugrunde.
 
@@ -1565,11 +1566,11 @@ Ich glaube, es liegt hier ein Mißverständnis des Wesens unserer Sprachspiele z
 
 Ich habe keinen Grund, ihnen nicht zu trauen. Und ich traue ihnen. Ich weiß, wie solche Bücher entstehen – oder vielmehr, ich glaube es zu wissen. Ich habe einige Evidenz, aber sie reicht nicht weit und ist von sehr zerstreuter Art. Ich habe Dinge gehört, gesehen, gelesen.
 
-22.4.
+22.4.51
 
 **601.** Es ist immer die Gefahr, die Bedeutung durch Betrachtung des Ausdrucks und der Stimmung, in welcher man ihn gebraucht, erkennen zu wollen, statt immer an die Praxis zu denken. Darum sagt man sich den Ausdruck so oft vor, weil es ist, als müßte man in ihm und in dem Gefühl, das man hat, das Gesuchte sehen.
 
-23.4.
+23.4.51
 
 **602.** Soll ich sagen »Ich glaube an die Physik«, oder »Ich weiß, daß die Physik wahr ist«?
 
@@ -1577,7 +1578,7 @@ Ich habe keinen Grund, ihnen nicht zu trauen. Und ich traue ihnen. Ich weiß, wi
 
 Am Ende aber verlasse ich mich auf diese Erfahrungen oder auf die Berichte von ihnen, richte meine eigenen Handlungen ohne jede Skrupel danach. Aber hat sich dieses Vertrauen nicht auch bewährt? Soweit ich es beurteilen kann – ja.
 
-**604.** In einem Gerichtssaal würde die Aussage eines Physikers, daß Wasser bei ca. 100° C koche, unbedingt als Wahrheit angenommen.
+**604.** In einem Gerichtssaal würde die Aussage eines Physikers, daß Wasser bei ca. 100 °C koche, unbedingt als Wahrheit angenommen.
 
 Wenn ich dieser Aussage nun mißtraute, was könnte ich tun, um sie zu entkräften? Selbst Versuche anstellen? Was würden die beweisen?
 
@@ -1617,7 +1618,7 @@ Kann man denn sagen, daß nur eine gewisse Regelmäßigkeit in den Geschehnissen
 
 **620.** Unter bestimmten Umständen sagt man »Du kannst dich drauf verlassen«; und diese Versicherung kann in der Alltagssprache berechtigt oder unberechtigt sein, und sie kann auch dann als berechtigt gelten, wenn das nicht zutrifft, was vorhergesagt wurde. *Es gibt ein Sprachspiel*, worin die Versicherung verwendet wird.
 
-24.4.
+24.4.51
 
 **621.** Wenn von Anatomie die Rede wäre, würde ich sagen: »Ich weiß, daß vom Gehirn 12 Nervenpaare ausgehen.« Ich habe diese Nerven nie gesehen, und auch ein Fachmann hat sie nur an wenigen Specimina beobachtet. – So wird eben hier das Wort »Ich weiß« richtig gebraucht.
 
@@ -1661,7 +1662,7 @@ Ein Zweifel ohne Ende ist nicht einmal ein Zweifel.
 
 **637.** »Ich kann mich etc.« weist meiner Behauptung ihren Platz im Spiel an. Aber es bezieht sich wesentlich auf *mich*, nicht auf das Spiel im allgemeinen. Wenn ich mich in meiner Behauptung irre, so nimmt das dem Sprachspiel nicht seinen Nutzen.
 
-25.4.
+25.4.51
 
 **638.** »Ich kann mich darin nicht irren« ist ein gewöhnlicher Satz, der dazu dient, den Gewißheitswert einer Aussage anzugeben. Und nur in seinem alltäglichen Gebrauch ist er berechtigt.
 
@@ -1747,7 +1748,7 @@ Der Andre könnte dennoch an meiner Aussage zweifeln. Aber nicht nur wird er, we
 
 **669.** Der Satz »Ich kann mich darin nicht irren« wird sicher in der Praxis gebraucht. Man kann aber bezweifeln, ob er dann in ganz strengem Sinne zu verstehen ist, oder ob er eher von der Art einer Übertreibung ist, die vielleicht nur zum Zweck der Überredung gebraucht wird.
 
-27.4.
+27.4.51
 
 **670.** Man könnte von Grundprinzipien der menschlichen Forschung reden.
 
