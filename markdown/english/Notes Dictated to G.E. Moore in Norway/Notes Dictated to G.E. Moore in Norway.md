@@ -171,7 +171,7 @@ The *variable proposition* p ⊃ p is not identical with the *variable propositi
 
 It's very important to realize that when you have two different relations (a,b)R, (c,d)S this does *not* establish a correlation between a and c, and b and d, or a and d, and b and c: there is no correlation whatsoever thus established. Of course, in the case of two pairs of terms united by the *same* relation, there is a correlation. This shews that the theory which held that a relational fact contained the terms and relations united by a *copula* (ε~2~) is untrue; for if this were so there would be a correspondence between the terms of different relations.
 
-The question arises how can one proposition (or function) occur in another proposition? The proposition or function itself can't possibly stand in relation to the other symbols. For this reason we must introduce functions as well as names at once in our general form of a proposition; explaining what is meant, by assigning meaning to the fact that the names stand between the |, and that the function stands on the left of the names.
+The question arises how can one proposition (or function) occur in another proposition? The proposition or function itself can't possibly stand in relation to the other symbols. For this reason we must introduce functions as well as names at once in our general form of a proposition; explaining what is meant, by assigning meaning to the fact that the names stand between the \|, and that the function stands on the left of the names.
 
 It is true, in a sense, that logical propositions are "postulates"—something which we "demand"; for we *demand* a satisfactory notation.
 

@@ -976,7 +976,7 @@ That is the foundation of the theory of probability.
 |(TFFT)(*p*, *q*) |" " |If *p*, then *q*; and if *q*, then *p*. [*p* ≡ *q*] |
 |(TFTF)(*p*, *q*) |" " |*p* |
 |(TTFF)(*p*, *q*) |" " |*q* |
-|(FFFT)(*p*, *q*) |" " |Neither *p* nor *q*. [\~*p* . \~*q* or *p* | *q*] |
+|(FFFT)(*p*, *q*) |" " |Neither *p* nor *q*. [\~*p* . \~*q* or *p* \| *q*] |
 |(FFTF)(*p*, *q*) |" " |*p* and not *q*. [*p* . \~*q*] |
 |(FTFF)(*p*, *q*) |" " |*q* and not *p*. [*q* . \~*p*] |
 |(TFFF)(*p*, *q*) |" " |*q* and *p*. [*q* . *p*] |
@@ -1006,7 +1006,7 @@ Every proposition which contradicts another, denies it.
 
 **[5.131](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.131)** If the truth of one proposition follows from the truth of others, this expresses itself in relations in which the forms of these propositions stand to one another, and we do not need to put them in these relations first by connecting them with one another in a proposition; for these relations are internal, and exist as soon as, and by the very fact that, the propositions exist.
 
-**[5.1311](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.1311)** When we conclude from *p*v*q* and \~*p* to *q* the relation between the forms of the propositions "*p*v*q*" and "\~*p*" is here concealed by the method of symbolizing. But if we write, *e.g.* instead of "*p*v*q*" "*p*|*q* .|. *p*|*q*" and instead of "\~*p*" "*p*|*p*" (*p*|*q* = neither *p* nor *q*), then the inner connexion becomes obvious.
+**[5.1311](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.1311)** When we conclude from *p*v*q* and \~*p* to *q* the relation between the forms of the propositions "*p*v*q*" and "\~*p*" is here concealed by the method of symbolizing. But if we write, *e.g.* instead of "*p*v*q*" "*p*\|*q* .\|. *p*\|*q*" and instead of "\~*p*" "*p*\|*p*" (*p*\|*q* = neither *p* nor *q*), then the inner connexion becomes obvious.
 
 (The fact that we can infer *fa* from (x)*fx* shows that generality is present also in the symbol "(*x*).*fx*".)
 

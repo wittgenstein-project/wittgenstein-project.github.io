@@ -829,9 +829,9 @@ Als könnte ich in den Gedanken gleichsam von hinten herum kommen und einen Blic
 
 **264.** Wie, wenn einer sagte: »Ich kann mir nicht vorstellen, wie das ist, wenn man einen Sessel sieht, außer wenn ich ihn gerade *sehe*«? Wäre er berechtigt, das zu sagen?
 
-**265.** *Bin ich berechtigt* zu sagen, »Ich kann |||||||||| nicht als Gestalt sehen«? Was berechtigt mich dazu? (Was berechtigt den Blinden zu sagen, er könne nicht sehen?)
+**265.** *Bin ich berechtigt* zu sagen, »Ich kann \|\|\|\|\|\|\|\|\|\| nicht als Gestalt sehen«? Was berechtigt mich dazu? (Was berechtigt den Blinden zu sagen, er könne nicht sehen?)
 
-**266.** Kannst du dir absolutes Gehör vorstellen, wenn du es nicht hast? – Kannst du es dir vorstellen, *wenn* du es hast? – Kann ein Blinder sich das Sehen vorstellen? Kann *ich* mir es vorstellen? – Kann ich mir vorstellen, daß ich so und so spontan reagiere, wenn ich's nicht tue? – Kann ich mir's besser vorstellen, wenn ich's tue? ((Gehört zu der Frage: Kann ich mir vorstellen, daß jemand |||||||||| als artikulierte Gestalt sieht.))
+**266.** Kannst du dir absolutes Gehör vorstellen, wenn du es nicht hast? – Kannst du es dir vorstellen, *wenn* du es hast? – Kann ein Blinder sich das Sehen vorstellen? Kann *ich* mir es vorstellen? – Kann ich mir vorstellen, daß ich so und so spontan reagiere, wenn ich's nicht tue? – Kann ich mir's besser vorstellen, wenn ich's tue? ((Gehört zu der Frage: Kann ich mir vorstellen, daß jemand \|\|\|\|\|\|\|\|\|\| als artikulierte Gestalt sieht.))
 
 **267.** Soll es Erfahrungstatsache sein, daß, wer ein Erlebnis hatte, es sich vorstellen kann, und daß es ein Andrer *nicht* kann? (Wie weiß ich, daß der Blinde sich die Farben vorstellen kann?) Aber: er kann ein Sprachspiel nicht spielen (nicht erlernen). Aber wie? Erfahrungsgemäß oder eo ipso? Das letztere.
 

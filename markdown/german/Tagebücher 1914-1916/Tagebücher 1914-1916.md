@@ -123,7 +123,7 @@ Denn dies ist identisch mit der Frage, wie ist die Zuordnung von Sachverhalten m
 
 Sie ist nur durch die Zuordnung der Bestandteile möglich; ein Beispiel bietet die Zuordnung von Name und Benanntem. (Und es ist klar, daß auch eine Zuordnung der Relationen auf irgend eine Weise stattfindet.)
 
-| aRb | ; | a b | ; p = aRb Def
+\| aRb \| ; \| a b \| ; p = aRb Def
 
 Hier wird ein einfaches Zeichen einem Sachverhalt zugeordnet.
 
@@ -2064,11 +2064,11 @@ Und sie haben ja beide recht und unrecht. Die Alten sind allerdings insofern kla
 
 **11. 5. 16.**
 
-| P | (a, a)
+\| P \| (a, a)
 
-Es gibt eben auch Operationen mit zwei Basen. Und die "|"-Opera­tion ist von dieser Art.
+Es gibt eben auch Operationen mit zwei Basen. Und die "\|"-Opera­tion ist von dieser Art.
 
-| (*ξ*, *η*) ... ist ein beliebiges Glied der Reihe der Operationsresultate.
+\| (*ξ*, *η*) ... ist ein beliebiges Glied der Reihe der Operationsresultate.
 
 (∃x).*ϕ*x
 
@@ -2222,7 +2222,7 @@ Immer wieder fühlt man, daß auch im Elementarsatz von allen Gegenständen die 
 
 Wenn zwei Operationen gegeben sind, die sich nicht auf *eine* reduzieren lassen, so muß sich zum mindesten eine allgemeine Form ihrer Kombination aufstellen lassen.
 
-*ϕ*x, *ψ*y | *χ*z , (∃x). , (x).
+*ϕ*x, *ψ*y \| *χ*z , (∃x). , (x).
 
 Da sich offenbar leicht erklären läßt, wie mit diesen Operationen sich Sätze bilden lassen und wie Sätze nicht zu bilden sind, so muß sich dies auch *irgendwie* exakt ausdrücken lassen.
 

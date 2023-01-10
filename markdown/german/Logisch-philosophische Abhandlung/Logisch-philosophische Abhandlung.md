@@ -978,7 +978,7 @@ Die Verwechslung von Argument und Index liegt, wenn ich mich nicht irre, der The
 |(WFFW)(*p*, *q*) |„ „ |Wenn *p*, so *q*; und wenn *q*, so *p*. (*p* ≡ *q*) |
 |(WFWF)(*p*, *q*) |„ „ |*p* |
 |(WWFF)(*p*, *q*) |„ „ |*q* |
-|(FFFW)(*p*, *q*) |„ „ |Weder *p* noch *q*. (\~*p* . \~*q*) oder (*p* | *q*) |
+|(FFFW)(*p*, *q*) |„ „ |Weder *p* noch *q*. (\~*p* . \~*q*) oder (*p* \| *q*) |
 |(FFWF)(*p*, *q*) |„ „ |*p* und nicht *q*. (*p* . \~*q*) |
 |(FWFF)(*p*, *q*) |„ „ |*q* und nicht *p*. (*q* . \~*p*) |
 |(WFFF)(*p*, *q*) |„ „ |*q* und *p*. (*q* . *p*) |
@@ -1008,7 +1008,7 @@ Jeder Satz der einem anderen widerspricht, verneint ihn.
 
 **5.131** Folgt die Wahrheit eines Satzes aus der Wahrheit anderer, so drückt sich dies durch Beziehungen aus, in welchen die Formen jener Sätze zu einander stehen; und zwar brauchen wir sie nicht erst in jene Beziehungen zu setzen, indem wir sie in einem Satze miteinander verbinden, sondern diese Beziehungen sind intern und bestehen, sobald, und dadurch dass, jene Sätze bestehen.
 
-**5.1311** Wenn wir von *p* ∨ *q* und ∼*p* auf *q* schliessen, so ist hier durch die Bezeichnungsweise die Beziehung der Satzformen von „*p* ∨ *q*“ und „∼*p*“ verhüllt. Schreiben wir aber z. B. statt „*p* ∨ *q*“ „*p* | *q* . | . *p* | *q*“ und statt „∼*p*“ „*p* | *p*“ (*p* | *q* = weder *p*, noch *q*), so wird der innere Zusammenhang offenbar.
+**5.1311** Wenn wir von *p* ∨ *q* und ∼*p* auf *q* schliessen, so ist hier durch die Bezeichnungsweise die Beziehung der Satzformen von „*p* ∨ *q*“ und „∼*p*“ verhüllt. Schreiben wir aber z. B. statt „*p* ∨ *q*“ „*p* \| *q* . \| . *p* \| *q*“ und statt „∼*p*“ „*p* \| *p*“ (*p* \| *q* = weder *p*, noch *q*), so wird der innere Zusammenhang offenbar.
 
 (Dass man aus (*x*) *. fx* auf *fa* schliessen kann, das zeigt, dass die Allgemeinheit auch im Symbol „(*x*) . *fx*“ vorhanden ist.)
 
