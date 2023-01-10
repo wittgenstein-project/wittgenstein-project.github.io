@@ -29,7 +29,8 @@ def parse_line(errors, parsed, image_urls, elem, html_tag, md_tag, escape_whites
             f"Expected single line inside <{html_tag}></{html_tag}>, found {line}")
 
 
-def parse_html(errors, parsed, image_urls, elem):
+def parse_html(errors, parsed, image_urls, elem, escape_newlines = False):
+    newline = "\\" if escape_newlines else ""
     if isinstance(elem, NavigableString):
         escaped = elem.text.replace("\\", "\\\\").replace(
             "\n", " ").replace("~", "\\~").replace("|", "\\|")
@@ -41,7 +42,7 @@ def parse_html(errors, parsed, image_urls, elem):
                 ":", ": ").replace("  ", " ").strip()
 
         if elem.name == "br":
-            parsed.append("")
+            parsed.append(newline)
         elif elem.name == "a":
             title = elem.text
             href = elem["href"]
@@ -84,16 +85,26 @@ def parse_html(errors, parsed, image_urls, elem):
         elif elem.name == "div" and elem.get("class") == ["mw-references-wrap"]:
             for i, ref in enumerate(elem.find_all("span", "reference-text")):
                 ref_number = i + 1
-                parsed.append(f"[^{ref_number}]: ")
+                parsed_ref = [f"[^{ref_number}]: "]
                 for child in ref.children:
-                    parse_html(errors, parsed, image_urls, child)
-                parsed.append("")
+                    parse_html(errors, parsed_ref, image_urls, child)
+                for line in parsed_ref:
+                    if line.lstrip().startswith(">"):
+                        line = line.lstrip()[1:].lstrip()
+                    if line.strip() == "":
+                        parsed.append("\\")
+                    else:
+                        parsed.append(line)
+                if parsed[-1] == "\\":
+                    parsed[-1] = ""
+                else:
+                    parsed.append(newline)
         elif elem.name == "blockquote" and not elem.get("class"):
             parsed_children = [""]
             for child in elem.children:
                 parse_html(errors, parsed_children, image_urls, child)
             parsed.extend([f"> {child}" for child in parsed_children])
-            parsed.append("")
+            parsed.append(newline)
         elif elem.name == "hr" and not elem.get("class"):
             parsed.extend(["", "---", "", ""])
         elif elem.name == "dl" and not elem.get("class"):
@@ -134,7 +145,7 @@ def parse_html(errors, parsed, image_urls, elem):
                 parse_html(errors, parsed, image_urls, child)
             parsed[-1] += "}$"
         elif elem.name == "ol":
-            parsed.append("")
+            parsed.append(newline)
             counter = 1
             for child in elem.children:
                 if child.name == "li":
@@ -154,7 +165,7 @@ def parse_html(errors, parsed, image_urls, elem):
                     ])
                     counter += 1
         elif elem.name == "ul":
-            parsed.append("")
+            parsed.append(newline)
             for child in elem.children:
                 if child.name == "li":
                     parsed.append(f"  - ")
@@ -221,30 +232,30 @@ def parse_html(errors, parsed, image_urls, elem):
 
             if caption:
                 parsed_table.extend([f"  : {caption}", ""])
-            parsed_table.append("")
+            parsed_table.append(newline)
             parsed.extend(parsed_table)
         elif elem.name == "p" and not elem.get("class") and elem.get("style") == "text-align: center; font-size: 125%;" \
                 or elem.name == "h2" and not elem.get("class"):
             parsed.extend([f"## {elem.text}", ""])
         elif elem.name == "p" and not elem.get("class") and not elem.get("style"):
-            parsed.append("")
+            parsed.append(newline)
             for child in elem.children:
                 parse_html(errors, parsed, image_urls, child)
-            parsed.append("")
+            parsed.append(newline)
         elif elem.name == "p" and elem.get("class") == ["mw-empty-elt"]:
             # empty element, ignore
             pass
         elif elem.name == "div" and elem.get("class") and elem.get("class")[0].endswith("-container"):
             # generic container
-            parsed.append("")
+            parsed.append(newline)
             for child in elem.children:
                 parse_html(errors, parsed, image_urls, child)
-            parsed.append("")
+            parsed.append(newline)
         elif elem.name == "div" and elem.get("class") == ["tlp-column"]:
-            parsed.append("")
+            parsed.append(newline)
             for child in elem.children:
                 parse_html(errors, parsed, image_urls, child)
-            parsed.append("")
+            parsed.append(newline)
         elif elem.name == "div" and not elem.get("class") and elem.get("style") == "margin-left: -3em; float: left;":
             # section mark, ignore
             pass
@@ -258,16 +269,16 @@ def parse_html(errors, parsed, image_urls, elem):
         elif (elem.name == "div" or elem.name == "span") and elem.get("class") and elem.get("class") == ["noebook"]:
             pass
         elif elem.name == "div" and elem.get("class") and elem.get("class") == ["ebookonly"]:
-            parsed.append("")
+            parsed.append(newline)
             for child in elem.children:
                 parse_html(errors, parsed, image_urls, child)
-            parsed.append("")
+            parsed.append(newline)
         elif elem.name == "span" and elem.get("class") and elem.get("class") == ["ebookonly"]:
             for child in elem.children:
                 parse_html(errors, parsed, image_urls, child)
         elif elem.name == "div" and elem.get("class") and "colophon" in elem["class"]:
             # colophon
-            parsed.append("")
+            parsed.append(newline)
             parsed_children = [""]
             for child in elem.children:
                 parse_html(errors, parsed_children, image_urls, child)
@@ -275,7 +286,7 @@ def parse_html(errors, parsed, image_urls, elem):
                 if child.strip():
                     parsed.append(f"_{child.strip()}_")
                 else:
-                    parsed.append("")
+                    parsed.append(newline)
             parsed.extend(["", "# <<TITLE>>", "", ""])
         elif elem.name == "div" and elem.get("style") == "border: 1px solid silver; padding: 12px 20px; margin: 20px 0;":
             # box
@@ -287,7 +298,7 @@ def parse_html(errors, parsed, image_urls, elem):
                 or elem.name == "p" and not elem.get("class") and elem.get("style") == "text-align: right;" \
                 or elem.name == "p" and not elem.get("class") and elem.get("style") == "text-align: right; font-variant: small-caps;":
             # right
-            parsed.append("")
+            parsed.append(newline)
             parsed_right = [""]
             for child in elem.children:
                 parse_html(errors, parsed_right, image_urls, child)
@@ -296,7 +307,7 @@ def parse_html(errors, parsed, image_urls, elem):
                     parsed.append(f"*{line}*")
                 else:
                     parsed.append(line)
-            parsed.append("")
+            parsed.append(newline)
         elif elem.name == "div" and (elem.get("class") == ["center"] or elem.get("style") == "text-align: center;") \
                 or elem.name == "div" and not elem.get("class") and elem.get("style") == "display: flex; justify-content: center; align-items: center;" \
                 or elem.name == "div" and not elem.get("class") and elem.get("style") == "width: 25%; margin: 2em auto 2em auto;" \
@@ -304,26 +315,26 @@ def parse_html(errors, parsed, image_urls, elem):
                 or elem.name == "p" and not elem.get("class") and elem.get("style") == "text-align: center; font-variant: small-caps;" \
                 or elem.name == "p" and elem.get("class") == ["plainlinks"] and elem.get("style") == "text-align: center;":
             # center
-            parsed.append("")
+            parsed.append(newline)
             for child in elem.children:
                 parse_html(errors, parsed, image_urls, child)
-            parsed.append("")
+            parsed.append(newline)
         elif elem.name == "div" and elem.get("class") == ["floatnone"] \
                 or elem.name == "div" and not elem.get("class") and elem.get("style") == "float: left; width: 33.3%":
             # floatnone
-            parsed.append("")
+            parsed.append(newline)
             for child in elem.children:
                 parse_html(errors, parsed, image_urls, child)
-            parsed.append("")
+            parsed.append(newline)
         elif elem.name == "div" and not elem.get("class") and not elem.text.strip() and elem.get("style") == "display: inline-block; width: 3em;":
             # 4 times unicode NO-BREAK-SPACE
             parsed.append("\u00a0\u00a0\u00a0\u00a0")
         else:
             errors.append(
                 f"Unrecognized element: <{elem.name} class=\"{elem.get('class')}\", style=\"{elem.get('style')}\">")
-            parsed.append("")
+            parsed.append(newline)
             parsed.append(str(elem))
-            parsed.append("")
+            parsed.append(newline)
     return parsed
 
 
