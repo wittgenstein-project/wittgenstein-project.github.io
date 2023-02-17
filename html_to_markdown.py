@@ -29,7 +29,7 @@ def parse_line(errors, parsed, image_urls, elem, html_tag, md_tag, escape_whites
             f"Expected single line inside <{html_tag}></{html_tag}>, found {line}")
 
 
-def parse_html(errors, parsed, image_urls, elem, escape_newlines = False):
+def parse_html(errors, parsed, image_urls, elem, escape_newlines=False):
     newline = "\\" if escape_newlines else ""
     if isinstance(elem, NavigableString):
         escaped = elem.text.replace("\\", "\\\\").replace(
@@ -235,7 +235,8 @@ def parse_html(errors, parsed, image_urls, elem, escape_newlines = False):
             parsed_table.append(newline)
             parsed.extend(parsed_table)
         elif elem.name == "p" and not elem.get("class") and elem.get("style") == "text-align: center; font-size: 125%;" \
-                or elem.name == "h2" and not elem.get("class"):
+                or elem.name == "h2" and not elem.get("class") \
+                or elem.name == "p" and elem.get("style") and "border-bottom: none; text-align: center; margin-top: 0.5em; margin-bottom: 0.5em;" in elem.get("style") and not elem.get("class"):
             parsed.extend([f"## {elem.text}", ""])
         elif elem.name == "p" and not elem.get("class") and not elem.get("style"):
             parsed.append(newline)
