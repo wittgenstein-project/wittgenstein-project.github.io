@@ -1875,6 +1875,4 @@ He must surmount these propositions; then he sees the world rightly.
 
 **[7](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#7)** Whereof one cannot speak, thereof one must be silent.
 
----
-
 [^1]: The decimal figures as numbers of the separate propositions indicate the logical importance of the propositions, the emphasis laid upon them in my exposition. The propositions *n*.1, *n*.2, *n*.3, etc., are comments on proposition No. *n*; the propositions *n*.*m*1, *n*.*m*2, etc., are comments on the proposition No. *n*.*m*; and so on.

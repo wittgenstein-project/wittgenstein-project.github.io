@@ -1869,6 +1869,4 @@ Er muss diese Sätze überwinden, dann sieht er die Welt richtig.
 
 **7** Wovon man nicht sprechen kann, darüber muss man schweigen.
 
----
-
 [^1]: Die Decimalzahlen als Nummern der einzelnen Sätze deuten das logische Gewicht der Sätze an, den Nachdruck, der auf ihnen in meiner Darstellung liegt. Die Sätze *n*.1, *n*.2, *n*.3, etc., sind Bemerkungen zum Satze No. *n*; die Sätze *n*.*m*1, *n*.*m*2, etc. Bemerkungen zum Satze No. *n*.*m*; und so weiter.

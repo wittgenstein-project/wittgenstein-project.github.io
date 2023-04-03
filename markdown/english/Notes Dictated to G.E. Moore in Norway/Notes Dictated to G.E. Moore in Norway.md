@@ -191,8 +191,6 @@ Different logical types can have nothing whatever in common. But the mere fact t
 
 The relation of "I believe p" to "p" can be compared to the relation of '"p" says (besagt) p' to p: it is just as impossible that *I* should be a simple as that "p" should be.
 
----
-
 [^1]: *Note of the editor of the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.org/w/index.php/Main_Page)’s digital edition:* The diagram originally drawn by Moore looked like this:
 \
 ![Notes Dictated to G.E. Moore in Norway schema.png](images/300px-Notes_Dictated_to_G.E._Moore_in_Norway_schema.png)\
