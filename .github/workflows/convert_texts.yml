@@ -1,6 +1,7 @@
 name: Convert Texts
 
 on:
+  workflow_dispatch:
   push:
   schedule:
     - cron: '0 20 * * *'
