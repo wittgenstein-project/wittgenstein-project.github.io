@@ -238,7 +238,8 @@ def parse_html(errors, parsed, image_urls, elem, escape_newlines=False):
                 or elem.name == "h2" and not elem.get("class") \
                 or elem.name == "p" and elem.get("style") and "border-bottom: none; text-align: center; margin-top: 0.5em; margin-bottom: 0.5em;" in elem.get("style") and not elem.get("class"):
             parsed.extend([f"## {elem.text}", ""])
-        elif elem.name == "p" and not elem.get("class") and not elem.get("style"):
+        elif elem.name == "p" and not elem.get("class") and not elem.get("style") \
+            or elem.name == "p" and not elem.get("class") and elem.get("style") == "margin-left: 3em;":
             parsed.append(newline)
             for child in elem.children:
                 parse_html(errors, parsed, image_urls, child)
