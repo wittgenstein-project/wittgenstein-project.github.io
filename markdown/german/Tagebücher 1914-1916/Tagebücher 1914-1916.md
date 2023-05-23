@@ -2222,7 +2222,7 @@ Immer wieder fühlt man, daß auch im Elementarsatz von allen Gegenständen die 
 
 Wenn zwei Operationen gegeben sind, die sich nicht auf *eine* reduzieren lassen, so muß sich zum mindesten eine allgemeine Form ihrer Kombination aufstellen lassen.
 
-*ϕ*x, *ψ*y \| *χ*z , (∃x). , (x).
+*ϕ*x, *ψ*y
 
 Da sich offenbar leicht erklären läßt, wie mit diesen Operationen sich Sätze bilden lassen und wie Sätze nicht zu bilden sind, so muß sich dies auch *irgendwie* exakt ausdrücken lassen.
 

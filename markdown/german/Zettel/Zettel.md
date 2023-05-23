@@ -567,21 +567,21 @@ Im Gegenteil: Wenn er diese Worte verstehen gelernt hat, dann kann er auch auf j
 
 **193.** Ist es nicht genau so mit dem Verbum »verstehen«? Es erklärt mir jemand die Route, die ich dort und dorthin zu nehmen habe. Er fragt »Hast du mich verstanden?« Ich antworte »Ich hab's verstanden.« – Will ich ihm mitteilen, was in mir während seiner Erklärung vorging? – Und doch liebe sich auch das mitteilen.
 
-**194.**‌ ‌Denk‌ ‌dir‌ ‌dieses‌ ‌Spiel:‌ ‌Eine‌ ‌Liste‌ ‌von‌ ‌Wörtern‌ ‌verschiedener‌ ‌Sprachen‌ ‌und‌ ‌von‌ sinnlosen‌ ‌Lautreihen‌ ‌wird‌ ‌mir‌ ‌vorgelesen.‌ ‌Ich‌ ‌soll‌ ‌nach‌ ‌jedem‌ ‌sagen,‌ ‌ob‌ ‌ich‌ ‌es‌ ‌verstehe‌ ‌oder‌ ‌nicht;‌ ‌auch,‌ ‌was‌ ‌beim‌ ‌Verstehen‌ ‌oder‌ ‌Nichtverstehen‌ ‌in‌ ‌mir‌ ‌vorging. – Auf‌ ‌das‌ ‌Wort‌ »Baum«‌ ‌werde‌ ‌ich,‌ ‌ohne‌ ‌mich‌ ‌zu‌ ‌bedenken,‌ ‌mit‌ »ja«‌ ‌antworten‌ ‌(ein‌ ‌Bild‌ ‌mag‌ ‌mir‌ ‌dabei‌ ‌vorschweben);‌ ‌auf‌ ‌eine‌ ‌Lautzusammenstellung,‌ ‌die‌ ‌ich‌ ‌noch‌ ‌nie‌ ‌gehört‌ ‌habe,‌ ‌antworte‌ ich‌ ‌ebenso‌ ‌unbedenklich‌ ‌mit‌ ‌»nein«.‌ ‌Bei‌ ‌Wörtern,‌ ‌die‌ ‌einen‌ ‌speziellen‌ ‌Farbton‌ ‌bezeichnen,‌ ‌wird‌ ‌häufig‌ ‌ein‌ ‌Vorstellen‌ ‌der‌ ‌Antwort‌ ‌vorhergehen;‌ ‌bei‌ ‌seltenen‌ ‌Wörtern (»Kontinuum« ‌etwa)‌ ‌ein‌ ‌Überlegen;‌ ‌bei‌ ‌Wörtern,‌ ‌wie‌ ‌der‌ ‌Artikel‌ »das«‌ ‌etwa‌ ‌ein‌ ‌Achselzucken;‌ ‌Wörter‌ ‌einer‌ ‌fremden‌ ‌Sprache‌ ‌werde‌ ‌ich‌ ‌*manchmal‌* ‌ins‌ ‌Deutsche‌ Übersetzen;‌ ‌schweben‌ ‌mir‌ ‌Bilder‌ ‌vor,‌ ‌so‌ ‌sind‌ ‌es‌ ‌manchmal‌ ‌die‌ ‌der‌ ‌Gegenstände,‌ ‌die‌ von‌ ‌den‌ ‌Worten‌ ‌bezeichnet‌ ‌werden‌ ‌(wieder‌ ‌tausenderlei‌ ‌Fälle),‌ ‌manchmal‌ ‌andere‌ ‌Bilder.‌ ‌
+**194.**‌ Denk‌ dir‌ dieses‌ Spiel:‌ Eine‌ Liste‌ von‌ Wörtern‌ verschiedener‌ Sprachen‌ und‌ von‌ sinnlosen‌ Lautreihen‌ wird‌ mir‌ vorgelesen.‌ Ich‌ soll‌ nach‌ jedem‌ sagen,‌ ob‌ ich‌ es‌ verstehe‌ oder‌ nicht;‌ auch,‌ was‌ beim‌ Verstehen‌ oder‌ Nichtverstehen‌ in‌ mir‌ vorging. – Auf‌ das‌ Wort‌ »Baum«‌ werde‌ ich,‌ ohne‌ mich‌ zu‌ bedenken,‌ mit‌ »ja«‌ antworten‌ (ein‌ Bild‌ mag‌ mir‌ dabei‌ vorschweben);‌ auf‌ eine‌ Lautzusammenstellung,‌ die‌ ich‌ noch‌ nie‌ gehört‌ habe,‌ antworte‌ ich‌ ebenso‌ unbedenklich‌ mit‌ »nein«.‌ Bei‌ Wörtern,‌ die‌ einen‌ speziellen‌ Farbton‌ bezeichnen,‌ wird‌ häufig‌ ein‌ Vorstellen‌ der‌ Antwort‌ vorhergehen;‌ bei‌ seltenen‌ Wörtern (»Kontinuum« etwa)‌ ein‌ Überlegen;‌ bei‌ Wörtern,‌ wie‌ der‌ Artikel‌ »das«‌ etwa‌ ein‌ Achselzucken;‌ Wörter‌ einer‌ fremden‌ Sprache‌ werde‌ ich‌ *manchmal‌* ins‌ Deutsche‌ Übersetzen;‌ schweben‌ mir‌ Bilder‌ vor,‌ so‌ sind‌ es‌ manchmal‌ die‌ der‌ Gegenstände,‌ die‌ von‌ den‌ Worten‌ bezeichnet‌ werden‌ (wieder‌ tausenderlei‌ Fälle),‌ manchmal‌ andere‌ Bilder.‌
 
-Dies‌ ‌Spiel‌ ‌könnte‌ ‌man‌ ‌durch‌ ‌eines‌ ‌ergänzen,‌ ‌in‌ ‌welchem‌ einer‌ ‌die‌ ‌Namen‌ ‌von‌ *Tätigkeiten‌* ‌nennt‌ ‌und‌ ‌bei‌ ‌jeder‌ ‌fragt:‌ ‌»Kannst‌ ‌du‌ ‌das?« – Das‌ ‌Subjekt‌ ‌soll‌ ‌angeben,‌ ‌welche‌ ‌Gründe‌ ‌es‌ ‌hatte,‌ ‌die‌ ‌Frage‌ ‌mit‌ »ja« ‌oder »nein« zu‌ ‌beantworten.‌‌
+Dies‌ Spiel‌ könnte‌ man‌ durch‌ eines‌ ergänzen,‌ in‌ welchem‌ einer‌ die‌ Namen‌ von‌ *Tätigkeiten‌* nennt‌ und‌ bei‌ jeder‌ fragt:‌ »Kannst‌ du‌ das?« – Das‌ Subjekt‌ soll‌ angeben,‌ welche‌ Gründe‌ es‌ hatte,‌ die‌ Frage‌ mit‌ »ja« oder »nein« zu‌ beantworten.‌‌
 
-**195.**‌ ‌Denken‌ ‌wir‌ ‌uns‌ ‌eine‌ ‌Art‌ ‌Vexierbild,‌ ‌worin‌ ‌nicht‌ ‌*ein‌* ‌bestimmter‌ ‌Gegenstand‌ ‌aufzufinden‌ ‌ist,‌ ‌sondern‌ ‌das‌ ‌uns‌ ‌auf‌ ‌den‌ ‌ersten‌ ‌Blick‌ ‌als‌ ‌ein‌ ‌Gewirr‌ ‌nichtssagender‌ ‌Striche‌ ‌erscheint‌ ‌und‌ ‌nach‌ ‌einigem‌ ‌Suchen‌ ‌erst‌ ‌als,‌ ‌sagen‌ ‌wir,‌ ‌ein‌ ‌Landschaftsbild. – Worin‌ ‌besteht‌ ‌der‌ ‌Unterschied‌ zwischen‌ ‌dem‌ ‌Anblick‌ ‌des‌ ‌Bildes‌ ‌vor‌ ‌und‌ ‌nach‌ ‌der‌ ‌Lösung?‌ ‌Daß‌ ‌wir‌ ‌es‌ ‌beide‌ ‌Male‌ ‌anders‌ ‌sehen,‌ ‌ist‌ ‌klar.‌ ‌In‌ ‌wiefern‌ ‌aber‌ ‌kann‌ ‌man‌ ‌nach‌ ‌der‌ ‌Auflösung‌ ‌sagen,‌ ‌jetzt‌ ‌sage‌ ‌uns‌ ‌das‌ ‌Bild‌ etwas,‌ ‌früher‌ ‌habe‌ ‌es‌ ‌uns‌ ‌nichts‌ ‌gesagt?‌ ‌
+**195.**‌ Denken‌ wir‌ uns‌ eine‌ Art‌ Vexierbild,‌ worin‌ nicht‌ *ein‌* bestimmter‌ Gegenstand‌ aufzufinden‌ ist,‌ sondern‌ das‌ uns‌ auf‌ den‌ ersten‌ Blick‌ als‌ ein‌ Gewirr‌ nichtssagender‌ Striche‌ erscheint‌ und‌ nach‌ einigem‌ Suchen‌ erst‌ als,‌ sagen‌ wir,‌ ein‌ Landschaftsbild. – Worin‌ besteht‌ der‌ Unterschied‌ zwischen‌ dem‌ Anblick‌ des‌ Bildes‌ vor‌ und‌ nach‌ der‌ Lösung?‌ Daß‌ wir‌ es‌ beide‌ Male‌ anders‌ sehen,‌ ist‌ klar.‌ In‌ wiefern‌ aber‌ kann‌ man‌ nach‌ der‌ Auflösung‌ sagen,‌ jetzt‌ sage‌ uns‌ das‌ Bild‌ etwas,‌ früher‌ habe‌ es‌ uns‌ nichts‌ gesagt?‌
 
-**196.**‌ ‌Wir‌ ‌können‌ ‌diese‌ ‌Frage‌ ‌auch‌ ‌so‌ ‌stellen:‌ ‌Was‌ ‌ist‌ ‌das‌ ‌allgemeine‌ ‌Charakteristikum‌ dafür,‌ ‌daß‌ ‌die‌ ‌Lösung‌ ‌gefunden‌ ‌ist?‌ ‌
+**196.**‌ Wir‌ können‌ diese‌ Frage‌ auch‌ so‌ stellen:‌ Was‌ ist‌ das‌ allgemeine‌ Charakteristikum‌ dafür,‌ daß‌ die‌ Lösung‌ gefunden‌ ist?‌
 
-**197.**‌ ‌Ich‌ ‌will‌ ‌annehmen,‌ ‌daß‌ ‌ich,‌ ‌sobald‌ ‌es‌ ‌gelöst‌ ‌ist,‌ ‌die‌ ‌Lösung‌ ‌dadurch‌ kenntlich‌ ‌mache,‌ ‌daß‌ ‌ich‌ ‌gewisse‌ ‌Striche‌ ‌des‌ ‌Bildes‌ ‌stark‌ ‌nachziehe‌ ‌und‌ ‌etwa‌ ‌Schatten‌ ‌eintrage.‌ ‌Warum‌ ‌nennst‌ ‌du‌ ‌nun‌ ‌das‌ ‌Bild,‌ ‌was‌ ‌du‌ ‌eingezeichnet‌ ‌hast,‌ eine‌ ‌Auflösung?‌
+**197.**‌ Ich‌ will‌ annehmen,‌ daß‌ ich,‌ sobald‌ es‌ gelöst‌ ist,‌ die‌ Lösung‌ dadurch‌ kenntlich‌ mache,‌ daß‌ ich‌ gewisse‌ Striche‌ des‌ Bildes‌ stark‌ nachziehe‌ und‌ etwa‌ Schatten‌ eintrage.‌ Warum‌ nennst‌ du‌ nun‌ das‌ Bild,‌ was‌ du‌ eingezeichnet‌ hast,‌ eine‌ Auflösung?
 
-‌(a)‌ ‌Weil‌ ‌es‌ ‌die‌ ‌klare‌ ‌Darstellung‌ ‌einer‌ ‌Gruppe‌ ‌räumlicher‌ Gegenstände‌ ‌ist.‌
+‌(a)‌ Weil‌ es‌ die‌ klare‌ Darstellung‌ einer‌ Gruppe‌ räumlicher‌ Gegenstände‌ ist.‌
 
-(b)‌ ‌Weil‌ ‌es‌ ‌die‌ ‌Darstellung‌ ‌eines‌ ‌regelmäßigen‌ ‌Körpers‌ ‌ist.‌
+(b)‌ Weil‌ es‌ die‌ Darstellung‌ eines‌ regelmäßigen‌ Körpers‌ ist.‌
 
-(c)‌ ‌Weil‌ ‌es‌ ‌eine‌ ‌symmetrische‌ ‌Figur‌ ‌ist.‌
+(c)‌ Weil‌ es‌ eine‌ symmetrische‌ Figur‌ ist.‌
 
 (d) Weil es eine Figur ist, die mir einen ornamentalen Eindruck macht.
 
@@ -1981,11 +1981,10 @@ Wir meinen leicht, wir müßten den Regreß ein paar Stufen weit durchlaufen und
 
 Zu beweisen ist, daß F'(n) nicht eine der Regeln F (k, n) sein kann. Angenommen, es sei die 100ste. Dann lautet die Regel zur Bildung
 
-von F'(1)
-F(1,1)
-
-von F'(2)
-F(2,2) etc.
+|   |   |
+|---|---|
+|von F'(1) |F(1,1) |
+|von F'(2) |F(2,2) etc. |
 
 aber die Regel zur Bildung der 100sten Stelle von F'(n) wird F(100,100); d. h., sie sagt uns nur, daß die 100ste Stelle sich selber gleich sein soll, ist also für n = 100 *keine* Regel.
 
