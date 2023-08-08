@@ -131,7 +131,7 @@ That, when a certain rule is given, a symbol is tautological *shews* a logical t
 
 ![Notes Dictated to G.E. Moore in Norway schema corrected.png](images/300px-Notes_Dictated_to_G.E._Moore_in_Norway_schema_corrected.png)\
 
-This symbol might be interpreted either as a tautology or a contradiction.[^1]
+This symbol might be interpreted either as a tautology or a contradiction.
 
 In settling that it is to be interpreted as a tautology and not as a contradiction, I am not assigning a *meaning* to a and b; i.e. saying that they symbolize different things but in the same way. What I am doing is to say that the way in which the a-pole is connected with the whole symbol symbolizes in a *different way* from that in which it would symbolize if the symbol were interpreted as a contradiction. And I add the scratches a and b merely in order to shew in which ways the connexion is symbolizing, so that it may be evident that wherever the same scratch occurs in the corresponding place in another symbol, there also the connexion is symbolizing in the same way.
 
@@ -149,7 +149,7 @@ The reason why "The property of not being green is not green" is *nonsense*, is 
 
 p is false = \~(p is true) Def.
 
-It is very important that the apparent logical relations ∨, ⊃, etc. need brackets, dots, etc., i.e. have "ranges"; which by itself shews they are not relations. This fact has been overlooked, because it is so universal —the very thing which makes it so important.
+It is very important that the apparent logical relations ∨, ⊃, etc. need brackets, dots, etc., i.e. have "ranges"; which by itself shews they are not relations. This fact has been overlooked, because it is so universal—the very thing which makes it so important.
 
 There are *internal* relations between one proposition and another; but a proposition cannot have to another *the* internal relation which a *name* has to the proposition of which it is a constituent, and which ought to be meant by saying it "occurs" in it. In this sense one proposition can't "occur" in another.
 
@@ -190,32 +190,3 @@ From the fact that I *see* that one spot is to the left of another, or that one 
 Different logical types can have nothing whatever in common. But the mere fact that we can talk of the possibility of a relation of n places, or of an analogy between one with two places and one with four, shews that relations with different numbers of places have something in common, that therefore the difference is not one of type, but like the difference between different names—something which depends on experience. This answers the question how we can know that we have really got the most general form of a proposition. We have only to introduce what is *common* to all relations of whatever number of places.
 
 The relation of "I believe p" to "p" can be compared to the relation of '"p" says (besagt) p' to p: it is just as impossible that *I* should be a simple as that "p" should be.
-
-[^1]: *Note of the editor of the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.org/w/index.php/Main_Page)’s digital edition:* The diagram originally drawn by Moore looked like this:
-\
-![Notes Dictated to G.E. Moore in Norway schema.png](images/300px-Notes_Dictated_to_G.E._Moore_in_Norway_schema.png)\
-\
-\
-In the truth table notation (where the combinations of the truth values of individual propositions are displayed by means of a table and the two poles are indicated by “T” and “F” instead of “a” and “b” respectively) the equivalent of that diagram is as follows:
-\
-\
-|*p* |*p* |*p* ≡ \~(\~*p*) |
-|---|---|---|
-|T |T |T |
-|T |F |T |
-|F |T |F |
-|F |F |T |
-\
-This, however, does not correspond to the truth table of *p* ≡ \~(\~*p*), which is instead as follows:
-\
-\
-|*p* |*p* |*p* ≡ \~(\~*p*) |
-|---|---|---|
-|T |T |T |
-|T |F |F |
-|F |V |F |
-|F |F |T |
-\
-The paper edition this digital edition is based upon faithfully reproduces Moore’s drawing. In this digital edition, instead, the original diagram was replaced by a corrected version which corresponds to this truth table.
-\
-See Michael A.R. Biggs. “Editing Wittgenstein’s Notes on Logic. Vol. 1.” *Working Papers from the Wittgenstein Archives at the University of Bergen*, no. 11, 1996, § 1.8.
