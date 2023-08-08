@@ -368,7 +368,11 @@ _Published by the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.
     while after_title.next_sibling:
         after_title = after_title.next_sibling
         for line in parse_html(state, [""], image_urls, after_title):
-            parsed += line.strip() + "\n"
+            line = line.strip()
+            if len(line) > 2 and line[1] == "." and line[2] == " ":
+                parsed += line[0] + "\." + line[2:] + "\n"
+            else:
+                parsed += line.strip() + "\n"
     return [errors, re.sub(r"\n(\s|\n)+", "\n\n", parsed).strip(), image_urls]
 
 # Find all texts (language, title, link) on the main page:
