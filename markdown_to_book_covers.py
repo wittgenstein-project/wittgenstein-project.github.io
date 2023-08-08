@@ -104,7 +104,7 @@ def collides_fuzzy(words, column, row):
 
 has_changed_files = subprocess.check_output(
     ["git", "ls-files", "-m", "-o", "--exclude-from=.gitignore"])
-if not has_changed_files:
+if not has_changed_files and not os.environ["GITHUB_EVENT_NAME"] == "push":
     print("No .md files have changed, nothing to do...")
 else:
     for lang in os.listdir(MARKDOWN_DIR):
