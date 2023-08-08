@@ -165,7 +165,7 @@ Aber auch die Entwicklungshypothese kann ich als weiter Nichts sehen, als die //
 
 Ich möchte sagen: nichts zeigt unsere Verwandtschaft mit jenen Wilden besser, als dass Frazer ein ihm und uns so geläufiges Wort wie »ghost« oder »shade« bei der Hand hat, um die Ansichten dieser Leute zu beschreiben.
 
-(Das ist ja doch etwas anderes, als wenn er etwa beschriebe, die Wilden bildeten //bilden// sich ein, dass ihnen ihr Kopf herunterfällt, wenn sie einen Feind erschlagen haben. Hier hätte *unsere Beschreibung* nichts Abergläubisches oder Magisches an sich.)
+\(Das ist ja doch etwas anderes, als wenn er etwa beschriebe, die Wilden bildeten //bilden// sich ein, dass ihnen ihr Kopf herunterfällt, wenn sie einen Feind erschlagen haben. Hier hätte *unsere Beschreibung* nichts Abergläubisches oder Magisches an sich.)
 
 Ja, diese Sonderbarkeit bezieht sich nicht nur auf die Ausdrücke »ghost«~~,~~ //und// »shade«, und es wird viel zu wenig Aufhebens davon gemacht, dass wir das Wort »Seele«, »Geist« (»spirit«) zu unserem eigenen gebildeten Vokabular zählen. Dagegen ist eine Kleinigkeit, dass wir nicht glauben, dass unsere Seele isst und trinkt.
 
@@ -205,7 +205,7 @@ Man könnte sagen, nicht ihre Vereinigung (von Eiche und Mensch) hat zu diesen R
 
 Denn das Erwachen des Intellekts geht mit einer Trennung von dem ursprünglichen *Boden* der ursprünglichen Grundlage des Lebens vor sich. (Die Entstehung der *Wahl*.)
 
-(Die Form des erwachenden Geistes ist die Verehrung.)
+\(Die Form des erwachenden Geistes ist die Verehrung.)
 
 ---
 
@@ -311,7 +311,7 @@ Da sieht man, wie eine solche Hypothese arbeitet.
 
 Das würde darauf deuten, dass hier eine Wahrheit zu Grunde liegt und kein Aberglaube. (Freilich ist es dem dummen Wissenschaftler gegenüber leicht, in den Geist des Widerspruchs zu verfallen.) Aber es kann sehr wohl sein, dass der völlig enthaarte Leib uns in irgend einem Sinne den Selbstrespekt zu verlieren verleitet.
 
-(Brüder Karamasoff)
+\(Brüder Karamasoff)
 
 Es ist gar kein Zweifel, dass eine Verstümmelung, die uns in unseren  Augen unwürdig, lächerlich, aussehen macht, uns allen Willen rauben kann, uns zu verteidigen. Wie verlegen werden wir manchmal – oder doch viele Menschen (ich) – durch unsere physische oder ästhetische Inferiorität.
 

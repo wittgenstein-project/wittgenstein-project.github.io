@@ -75,7 +75,7 @@ On the other hand the *truth* of the thoughts communicated here seems to me unas
 
 If things can occur in atomic facts, this possibility must already lie in them.
 
-(A logical entity cannot be merely possible. Logic treats of every possibility, and all possibilities are its facts.)
+\(A logical entity cannot be merely possible. Logic treats of every possibility, and all possibilities are its facts.)
 
 Just as we cannot think of spatial objects at all apart from space, or temporal objects apart from time, so we cannot think of *any* object apart from the possibility of its connexion with other things.
 
@@ -85,7 +85,7 @@ If I can think of an object in the context of an atomic fact, I cannot think of 
 
 **[2.0123](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#2.0123)** If I know an object, then I also know all the possibilities of its occurrence in atomic facts.
 
-(Every such possibility must lie in the nature of the object.)
+\(Every such possibility must lie in the nature of the object.)
 
 A new possibility cannot subsequently be found.
 
@@ -157,7 +157,7 @@ For if a thing is not distinguished by anything, I cannot distinguish it—for o
 
 **[2.06](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#2.06)** The existence and non-existence of atomic facts is the reality.
 
-(The existence of atomic facts we also call a positive fact, their non-existence a negative fact.)
+\(The existence of atomic facts we also call a positive fact, their non-existence a negative fact.)
 
 **[2.061](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#2.061)** Atomic facts are independent of one another.
 
@@ -279,7 +279,7 @@ Therefore the possibility of what is projected but not this itself.
 
 In the proposition, therefore, its sense is not yet contained, but the possibility of expressing it.
 
-(“The content of the proposition” means the content of the significant proposition.)
+\(“The content of the proposition” means the content of the significant proposition.)
 
 In the proposition the form of its sense is contained, but not its content.
 
@@ -295,7 +295,7 @@ The proposition is articulate.
 
 **[3.143](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#3.143)** That the propositional sign is a fact is concealed by the ordinary form of expression, written or printed.
 
-(For in the printed proposition, for example, the sign of a proposition does not appear essentially different from a word. Thus it was possible for Frege to call the proposition a compounded name.)
+\(For in the printed proposition, for example, the sign of a proposition does not appear essentially different from a word. Thus it was possible for Frege to call the proposition a compounded name.)
 
 **[3.1431](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#3.1431)** The essential nature of the propositional sign becomes very clear when we imagine it made up of spatial objects (such as tables, chairs, books) instead of written signs.
 
@@ -305,7 +305,7 @@ The mutual spatial position of these things then expresses the sense of the prop
 
 **[3.144](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#3.144)** States of affairs can be described but not *named*.
 
-(Names resemble points; propositions resemble arrows, they have sense.)
+\(Names resemble points; propositions resemble arrows, they have sense.)
 
 **[3.2](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#3.2)** In propositions thoughts can be so expressed that to the objects of the thoughts correspond the elements of the propositional sign.
 
@@ -349,7 +349,7 @@ Two signs, one a primitive sign, and one defined by primitive signs, cannot sign
 
 **[3.31](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#3.31)** Every part of a proposition which characterizes its sense I call an expression (a symbol).
 
-(The proposition itself is an expression.)
+\(The proposition itself is an expression.)
 
 Expressions are everything—essential for the sense of the proposition—that propositions can have in common with one another.
 
@@ -363,7 +363,7 @@ And in this form the expression is *constant* and everything else *variable*.
 
 **[3.313](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#3.313)** An expression is thus presented by a variable, whose values are the propositions which contain the expression.
 
-(In the limiting case the variable becomes constant, the expression a proposition.)
+\(In the limiting case the variable becomes constant, the expression a proposition.)
 
 I call such a variable a “propositional variable”.
 
@@ -397,13 +397,13 @@ The way in which we describe the propositions is not essential.
 
 Thus the word "is" appears as the copula, as the sign of equality, and as the expression of existence; "to exist" as an intransitive verb like "to go"; "identical" as an adjective; we speak of *something* but also of the fact of *something* happening.
 
-(In the proposition "Green is green"—where the first word is a proper name as the last an adjective—these words have not merely different meanings but they are *different symbols*.)
+\(In the proposition "Green is green"—where the first word is a proper name as the last an adjective—these words have not merely different meanings but they are *different symbols*.)
 
 **[3.324](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#3.324)** Thus there easily arise the most fundamental confusions (of which the whole of philosophy is full).
 
 **[3.325](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#3.325)** In order to avoid these errors, we must employ a symbolism which excludes them, by not applying the same sign in different symbols and by not applying signs in the same way which signify in different ways. A symbolism, that is to say, which obeys the rules of *logical* grammar—of logical syntax.
 
-(The logical symbolism of Frege and Russell is such a language, which, however, does still not exclude all errors.)
+\(The logical symbolism of Frege and Russell is such a language, which, however, does still not exclude all errors.)
 
 **[3.326](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#3.326)** In order to recognize the symbol in the sign we must consider the significant use.
 
@@ -411,7 +411,7 @@ Thus the word "is" appears as the copula, as the sign of equality, and as the ex
 
 **[3.328](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#3.328)** If a sign is *not necessary* then it is meaningless. That is the meaning of Occam’s razor.
 
-(If everything in the symbolism works as though a sign had meaning, then it has meaning.)
+\(If everything in the symbolism works as though a sign had meaning, then it has meaning.)
 
 **[3.33](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#3.33)** In logical syntax the meaning of a sign ought never to play a rôle; it must admit of being established without mention being thereby made of the *meaning* of a sign; it ought to presuppose only the description of the expressions.
 
@@ -449,7 +449,7 @@ And in the same way in general the essential in a symbol is that which all symbo
 
 **[3.3441](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#3.3441)** We can, for example, express what is common to all notations for the truth-functions as follows: It is common to them that they all, for example, *can be replaced* by the notations of “\~*p*” (“not *p*”) and “*p* ∨ *q*” (“*p* or *q*”).
 
-(Herewith is indicated the way in which a special possible notation can give us general information.)
+\(Herewith is indicated the way in which a special possible notation can give us general information.)
 
 **[3.3442](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#3.3442)** The sign of the complex is not arbitrarily resolved in the analysis, in such a way that its resolution would be different in every propositional structure.
 
@@ -461,9 +461,9 @@ And in the same way in general the essential in a symbol is that which all symbo
 
 **[3.42](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#3.42)** Although a proposition may only determine one place in logical space, the whole logical space must already be given by it.
 
-(Otherwise denial, the logical sum, the logical product, etc., would always introduce new elements—in co-ordination.)
+\(Otherwise denial, the logical sum, the logical product, etc., would always introduce new elements—in co-ordination.)
 
-(The logical scaffolding round the picture determines the logical space. The proposition reaches through the whole logical space.)
+\(The logical scaffolding round the picture determines the logical space. The proposition reaches through the whole logical space.)
 
 **[3.5](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#3.5)** The applied, thought, propositional sign, is the thought.
 
@@ -483,7 +483,7 @@ The silent adjustments to understand colloquial language are enormously complica
 
 **[4.003](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.003)** Most propositions and questions, that have been written about philosophical matters, are not false, but senseless. We cannot, therefore, answer questions of this kind at all, but only state their senselessness. Most questions and propositions of the philosophers result from the fact that we do not understand the logic of our language.
 
-(They are of the same kind as the question whether the Good is more or less identical than the Beautiful.)
+\(They are of the same kind as the question whether the Good is more or less identical than the Beautiful.)
 
 And so it is not to be wondered at that the deepest problems are really *no* problems.
 
@@ -505,7 +505,7 @@ For these irregularities also picture what they are to express; only in another 
 
 To all of them the logical structure is common.
 
-(Like the two youths, their two horses and their lilies in the story. They are all in a certain sense one.)
+\(Like the two youths, their two horses and their lilies in the story. They are all in a certain sense one.)
 
 **[4.0141](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.0141)** In the fact that there is a general rule by which the musician is able to read the symphony out of the score, and that there is a rule by which one could reconstruct the symphony from the line on a gramophone record and from this again—by means of the first rule—construct the score, herein lies the internal similarity between these things which at first sight seem to be entirely different. And the rule is the law of projection which projects the symphony into the language of the musical score. It is the rule of translation of this language into the language of the gramophone record.
 
@@ -535,13 +535,13 @@ The proposition constructs a world with the help of a logical scaffolding, and t
 
 **[4.024](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.024)** To understand a proposition means to know what is the case, if it is true.
 
-(One can therefore understand it without knowing whether it is true or not.)
+\(One can therefore understand it without knowing whether it is true or not.)
 
 One understands it if one understands it constituent parts.
 
 **[4.025](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.025)** The translation of one language into another is not a process of translating each proposition of the one into a proposition of the other, but only the constituent parts of propositions are translated.
 
-(And the dictionary does not only translate substantives but also adverbs and conjunctions, etc., and it treats them all alike.)
+\(And the dictionary does not only translate substantives but also adverbs and conjunctions, etc., and it treats them all alike.)
 
 **[4.026](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.026)** The meanings of the simple signs (the words) must be explained to us, if we are to understand them.
 
@@ -621,7 +621,7 @@ That one can deny again the denied proposition, shows that what is denied is alr
 
 **[4.111](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.111)** Philosophy is not one of the natural sciences.
 
-(The word “philosophy” must mean something which stands above or below, but not beside the natural sciences.)
+\(The word “philosophy” must mean something which stands above or below, but not beside the natural sciences.)
 
 **[4.112](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.112)** The object of philosophy is the logical clarification of thoughts.
 
@@ -675,7 +675,7 @@ If two propositions contradict one another, this is shown by their structure; si
 
 **[4.122](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.122)** We can speak in a certain sense of formal properties of objects and atomic facts, or of properties of the structure of facts, and in the same sense of formal relations and relations of structures.
 
-(Instead of property of the structure I also say “internal property”; instead of relation of structures “internal relation”.
+\(Instead of property of the structure I also say “internal property”; instead of relation of structures “internal relation”.
 
 I introduce these expressions in order to show the reason for the confusion, very widespread among philosophers, between internal relations and proper (external) relations.)
 
@@ -685,9 +685,9 @@ The holding of such internal properties and relations cannot, however, be assert
 
 **[4.123](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.123)** A property is internal if it is unthinkable that its object does not possess it.
 
-(This blue colour and that stand in the internal relation of brighter and darker eo ipso. It is unthinkable that *these* two objects should not stand in this relation.)
+\(This blue colour and that stand in the internal relation of brighter and darker eo ipso. It is unthinkable that *these* two objects should not stand in this relation.)
 
-(Here to the shifting use of the words “property” and “relation” there corresponds the shifting use of the word “object”.)
+\(Here to the shifting use of the words “property” and “relation” there corresponds the shifting use of the word “object”.)
 
 **[4.124](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.124)** The existence of an internal property of a possible state of affairs is not expressed by a proposition, but it expresses itself in the proposition which presents that state of affairs, by an internal property of this proposition.
 
@@ -709,11 +709,11 @@ Similarly the series of propositions “*aRb*”,
 
 “(∃*x,y*):*aRx.xRy.yRb*”, etc.
 
-(If *b* stands in one of these relations to *a*, I call *b* a successor of *a*.)
+\(If *b* stands in one of these relations to *a*, I call *b* a successor of *a*.)
 
 **[4.126](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.126)** In the sense in which we speak of formal properties we can now speak also of formal concepts.
 
-(I introduce this expression in order to make clear the confusion of formal concepts with proper concepts which runs through the whole of the old logic.)
+\(I introduce this expression in order to make clear the confusion of formal concepts with proper concepts which runs through the whole of the old logic.)
 
 That anything falls under a formal concept as an object belonging to it, cannot be expressed by a proposition. But it is shown in the symbol for the object itself. (The name shows that it signifies an object, the numerical sign that it signifies a number, etc.)
 
@@ -749,7 +749,7 @@ They all signify formal concepts and are presented in logical symbolism by varia
 
 Expressions like “1 is a number”, “there is only one number nought”, and all like them are senseless.
 
-(It is as senseless to say, “there is only one 1” as it would be to say: 2+2 is at 3 o’clock equal to 4.)
+\(It is as senseless to say, “there is only one 1” as it would be to say: 2+2 is at 3 o’clock equal to 4.)
 
 **[4.12721](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.12721)** The formal concept is already given with an object, which falls under it. One cannot, therefore, introduce both, the objects which fall under a formal concept *and* the formal concept itself, as primitive ideas. One cannot, therefore, *e.g.* introduce (as Russell does) the concept of function and also special functions as primitive ideas; or the concept of number and definite numbers.
 
@@ -759,7 +759,7 @@ We can determine the general term of the formal series by giving its first term 
 
 **[4.1274](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.1274)** The question about the existence of a formal concept is senseless. For no proposition can answer such a question.
 
-(For example, one cannot ask: “Are there unanalysable subject-predicate propositions?”)
+\(For example, one cannot ask: “Are there unanalysable subject-predicate propositions?”)
 
 **[4.128](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.128)** The logical forms are *anumerical*.
 
@@ -791,7 +791,7 @@ Or I indicate it by the letters *p, q, r*.
 
 “*a=b*” means then, that the sign “*a*” is replaceable by the sign “*b*”.
 
-(If I introduce by an equation a new sign “*b*”, by determining that it shall replace a previously known sign “*a*”, I write the equation—definition—(like Russell) in the form “*a=b* Def.”. A definition is a symbolic rule.)
+\(If I introduce by an equation a new sign “*b*”, by determining that it shall replace a previously known sign “*a*”, I write the equation—definition—(like Russell) in the form “*a=b* Def.”. A definition is a symbolic rule.)
 
 **[4.242](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.242)** Expressions of the form “*a=b*” are therefore only expedients in presentation: They assert nothing about the meaning of the signs “*a*” and “*b*”.
 
@@ -852,7 +852,7 @@ Absence of this mark means disagreement.
 
 **[4.431](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.431)** The expression of the agreement and disagreement with the truth-possibilities of the elementary-propositions expresses the truth-conditions of the proposition. The proposition is the expression of its truth-conditions.
 
-(Frege has therefore quite rightly put them at the beginning, as explaining the signs of his logical symbolism. Only Frege's explanation of the truth-concept is false: if "the true" and "the false" were real objects and the arguments in \~*p* etc., then the sense of \~*p* would by no means be determined by Frege's determination.)
+\(Frege has therefore quite rightly put them at the beginning, as explaining the signs of his logical symbolism. Only Frege's explanation of the truth-concept is false: if "the true" and "the false" were real objects and the arguments in \~*p* etc., then the sense of \~*p* would by no means be determined by Frege's determination.)
 
 **[4.44](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.44)** The sign which arises from the co-ordination of that mark "T" with the truth-possibilities is a propositional sign.
 
@@ -875,13 +875,13 @@ Something analogous holds of course for all signs, which express the same as the
 
 is a propositional sign.
 
-(Frege's assertion sign "${\displaystyle \vdash }$" is logically altogether meaningless; in Frege (and Russell) it only shows that these authors hold as true the propositions marked in this way.
+\(Frege's assertion sign "${\displaystyle \vdash }$" is logically altogether meaningless; in Frege (and Russell) it only shows that these authors hold as true the propositions marked in this way.
 
 "${\displaystyle \vdash }$" belongs therefore to the propositions no more than does the number of the proposition. A proposition cannot possibly assert of itself that it is true.)
 
 If the sequence of the truth-possibilities in the schema is once for all determined by a rule of combination, then the last column is by itself an expression of the truth-conditions. If we write this column as a row the propositional sign becomes: "(TT–T) (*p,q*)" or more plainly: "(T T F T) (*p,q*)".
 
-(The number of places in the left-hand bracket is determined by the number of terms in the right-hand bracket.)
+\(The number of places in the left-hand bracket is determined by the number of terms in the right-hand bracket.)
 
 **[4.45](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.45)** For *n* elementary propositions there are *L~n~* possible groups of truth-conditions.
 
@@ -901,9 +901,9 @@ The tautology has no truth-conditions, for it is unconditionally true; and the c
 
 Tautology and contradiction are without sense.
 
-(Like the point from which two arrows go out in opposite directions.)
+\(Like the point from which two arrows go out in opposite directions.)
 
-(I know, *e.g.* nothing about the weather, when I know that it rains or does not rain.)
+\(I know, *e.g.* nothing about the weather, when I know that it rains or does not rain.)
 
 **[4.4611](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.4611)** Tautology and contradiction are, however, not nonsensical; they are part of the symbolism, in the same way that "0" is part of the symbolism of Arithmetic.
 
@@ -913,13 +913,13 @@ In the tautology the conditions of agreement with the world—the presenting rel
 
 **[4.463](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.463)** The truth-conditions determine the range, which is left to the facts by the proposition.
 
-(The proposition, the picture, the model, are in a negative sense like a solid body, which restricts the free movement of another: in a positive sense, like the space limited by solid substance, in which a body may be placed.)
+\(The proposition, the picture, the model, are in a negative sense like a solid body, which restricts the free movement of another: in a positive sense, like the space limited by solid substance, in which a body may be placed.)
 
 Tautology leaves to reality the whole infinite logical space; contradiction fills the whole logical space and leaves no point to reality. Neither of them, therefore, can in any way determine reality.
 
 **[4.464](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.464)** The truth of tautology is certain, of propositions possible, of contradiction impossible.
 
-(Certain, possible, impossible: here we have an indication of that gradation which we need in the theory of probability.)
+\(Certain, possible, impossible: here we have an indication of that gradation which we need in the theory of probability.)
 
 **[4.465](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.465)** The logical product of a tautology and a proposition says the same as the proposition. Therefore that product is identical with the proposition. For the essence of the symbol cannot be altered without altering its sense.
 
@@ -927,7 +927,7 @@ Tautology leaves to reality the whole infinite logical space; contradiction fill
 
 That is, propositions which are true for every state of affairs cannot be combinations of signs at all, for otherwise there could only correspond to them definite combinations of objects.
 
-(And to no logical combination corresponds *no* combination of the objects.)
+\(And to no logical combination corresponds *no* combination of the objects.)
 
 Tautology and contradiction are the limiting cases of the combinations of symbols, namely their dissolution.
 
@@ -947,7 +947,7 @@ That there is a general form is proved by the fact that there cannot be a propos
 
 **[5](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5)** Propositions are truth-functions of elementary propositions.
 
-(An elementary proposition is a truth-function of itself.)
+\(An elementary proposition is a truth-function of itself.)
 
 **[5.01](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.01)** The elementary propositions are the truth-arguments of propositions.
 
@@ -1008,7 +1008,7 @@ Every proposition which contradicts another, denies it.
 
 **[5.1311](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.1311)** When we conclude from *p*v*q* and \~*p* to *q* the relation between the forms of the propositions "*p*v*q*" and "\~*p*" is here concealed by the method of symbolizing. But if we write, *e.g.* instead of "*p*v*q*" "*p*\|*q* .\|. *p*\|*q*" and instead of "\~*p*" "*p*\|*p*" (*p*\|*q* = neither *p* nor *q*), then the inner connexion becomes obvious.
 
-(The fact that we can infer *fa* from (x)*fx* shows that generality is present also in the symbol "(*x*).*fx*".)
+\(The fact that we can infer *fa* from (x)*fx* shows that generality is present also in the symbol "(*x*).*fx*".)
 
 **[5.132](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.132)** If *p* follows from *q*, I can conclude from *qp* to *p*; infer *p* from *q*.
 
@@ -1032,7 +1032,7 @@ Superstition is the belief in the causal nexus.
 
 **[5.1362](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.1362)** The freedom of the will consists in the fact that future actions cannot be known now. We could only know them if causality were an *inner* necessity, like that of logical deduction.—The connexion of knowledge and what is known is that of logical necessity.
 
-("A knows that *p* is the case" is senseless if *p* is a tautology.)
+\("A knows that *p* is the case" is senseless if *p* is a tautology.)
 
 **[5.1363](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.1363)** If from the fact that a proposition is obvious to us it does not *follow* that it is true, then obviousness is no justification for our belief in its truth.
 
@@ -1060,7 +1060,7 @@ Two elementary propositions give to one another the probability ½.
 
 If *p* follows from *q*, the proposition *q* gives to the proposition *p* the probability 1. The certainty of logical conclusion is a limiting case of probability.
 
-(Application to tautology and contradiction.)
+\(Application to tautology and contradiction.)
 
 **[5.153](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.153)** A proposition is in itself neither probable nor improbable. An event occurs or does not occur, there is no middle course.
 
@@ -1078,7 +1078,7 @@ What I can verify by the experiment is that the occurrence of the two events is 
 
 If we are not completely acquainted with a fact, but know *something* about its form.
 
-(A proposition can, indeed, be an incomplete picture of a certain state of affairs, but it is always *a* complete picture.)
+\(A proposition can, indeed, be an incomplete picture of a certain state of affairs, but it is always *a* complete picture.)
 
 The probability proposition is, as it were, an extract from other propositions.
 
@@ -1102,13 +1102,13 @@ The probability proposition is, as it were, an extract from other propositions.
 
 Denial, logical addition, logical multiplication, etc. etc., are operations.
 
-(Denial reverses the sense of a proposition.)
+\(Denial reverses the sense of a proposition.)
 
 **[5.24](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.24)** An operation shows itself in a variable; it shows how we can proceed from one form of proposition to another.
 
 It gives expression to the difference between the forms.
 
-(And that which is common to the bases, and the result of an operation, is the bases themselves.)
+\(And that which is common to the bases, and the result of an operation, is the bases themselves.)
 
 **[5.241](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.241)** The operation does not characterize a form but only the difference between forms.
 
@@ -1118,7 +1118,7 @@ It gives expression to the difference between the forms.
 
 For an operation does not assert anything; only its result does, and this depends on the bases of the operation.
 
-(Operation and function must not be confused with one another.)
+\(Operation and function must not be confused with one another.)
 
 **[5.251](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.251)** A function cannot be its own argument, but the result of an operation can be its own basis.
 
@@ -1182,7 +1182,7 @@ And if there was an object called "\~", then "\~\~*p*" would have to say somethi
 
 **[5.451](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.451)** If logic has primitive ideas these must be independent of one another. If a primitive idea is introduced it must be introduced in all contexts in which it occurs at all. One cannot therefore introduce it for one context and then again for another. For example, if denial is introduced, we must understand it in propositions of the form "\~*p*" just as in propositions like "\~(*p* ∨ *q*)", "(∃ *x*) . \~*f x*" and others. We may not first introduce it for one class of cases and then for another, for it would then remain doubtful whether its meaning in the two cases was the same, and there would be no reason to use the same way of symbolizing in the two cases.
 
-(In short, what Frege ("Grundgesetze der Arithmetik") has said about the introduction of signs by definitions holds, mutatis mutandis, for the introduction of primitive signs also.)
+\(In short, what Frege ("Grundgesetze der Arithmetik") has said about the introduction of signs by definitions holds, mutatis mutandis, for the introduction of primitive signs also.)
 
 **[5.452](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.452)** The introduction of a new expedient in the symbolism of logic must always be an event full of consequences. No new symbol may be introduced in logic in brackets or in the margin—with, so to speak, an entirely innocent face. (Thus in the "Principia Mathematica" of Russell and Whitehead there occur definitions and primitive propositions in words. Why suddenly words here? This would need a justification. There was none, and can be none for the process is actually not allowed.)
 
@@ -1244,7 +1244,7 @@ Signs which serve *one* purpose are logically equivalent, signs which serve *no*
 
 **[5.4733](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.4733)** Frege says: Every legitimately constructed proposition must have a sense; and I say: Every possible proposition is legitimately constructed, and if it has no sense this can only be because we have given no *meaning* to some of its constituent parts.
 
-(Even if we believe that we have done so.)
+\(Even if we believe that we have done so.)
 
 Thus "Socrates is identical" says nothing, because we have given *no* meaning to the word "identical" as *adjective*. For when it occurs as the sign of equality it symbolizes in an entirely different way—the symbolizing relation is another—therefore the symbol is in the two cases entirely different; the two symbols have the sign in common with one another only by accident.
 
@@ -1260,7 +1260,7 @@ This operation denies all the propositions in the right-hand bracket and I call 
 
 **[5.501](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.501)** An expression in brackets whose terms are propositions I indicate—if the order of the terms in the bracket is indifferent—by a sign of the form "${\displaystyle ({\bar {\xi }})}$". "*ξ*" is a variable whose values are the terms of the expression in brackets, and the line over the variable indicates that it stands for all its values in the bracket.
 
-(Thus if *ξ* has the 3 values P, Q, R, then ${\displaystyle ({\bar {\xi }})}$ = (P, Q, R).)
+\(Thus if *ξ* has the 3 values P, Q, R, then ${\displaystyle ({\bar {\xi }})}$ = (P, Q, R).)
 
 The values of the variables must be determined.
 
@@ -1334,7 +1334,7 @@ A characteristic of a composite symbol: it has something: in common with *other*
 
 **[5.5262](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.5262)** The truth or falsehood of *every* proposition alters something in the general structure of the world. And the range which is allowed to its structure by the totality of elementary propositions is exactly that which the completely general propositions delimit.
 
-(If an elementary proposition is true, then, at any rate, there is one *more* elementary proposition true.)
+\(If an elementary proposition is true, then, at any rate, there is one *more* elementary proposition true.)
 
 **[5.53](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.53)** Identity of the object I express by identity of the sign and not by means of a sign of identity. Difference of the objects by difference of the signs.
 
@@ -1350,7 +1350,7 @@ One could of course say that in fact *only* *a* has this relation to *a* but in 
 
 **[5.532](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.532)** And analogously: not "(∃ *x*, *y*) . *f* (*x*, *y*) . *x* = *y*", but "(∃*x*) . *f* (*x*, *x*)"; and not "(∃ *x*, *y*) . *f* (*x*, *y*) . \~*x* = *y*" but "(∃ *x*, *y*) . *f* (*x*, *y*)".
 
-(Therefore instead of Russell's "(∃ *x*, *y*) . *f* (*x*, *y*)": "(∃ *x*, *y*) . *f* (*x*, *y*) . ∨ . (∃*x*) . *f* (*x*, *x*)".)
+\(Therefore instead of Russell's "(∃ *x*, *y*) . *f* (*x*, *y*)": "(∃ *x*, *y*) . *f* (*x*, *y*) . ∨ . (∃*x*) . *f* (*x*, *x*)".)
 
 **[5.5321](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.5321)** Instead of "(*x*) : *f* *x* ⊃ *x* = *a*" we therefore write *e.g.* "(∃*x*) . *f* *x* . ⊃ . *f* *a* : \~(∃ *x*, *y*) . *f* *x* . *f* *y*".
 
@@ -1368,7 +1368,7 @@ What the axiom of infinity is meant to say would be expressed in language by the
 
 **[5.5351](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.5351)** There are certain cases in which one is tempted to use expressions of the form "*a* = *a*" or "*p* ⊃ *p*". As, for instance, when one would speak of the archetype Proposition, Thing, etc. So Russell in the *Principles of Mathematics* has rendered the nonsense "*p* is a proposition" in symbols by "*p* ⊃ *p*" and has put it as hypothesis before certain propositions to show that their places for arguments could only be occupied by propositions.
 
-(It is nonsense to place the hypothesis *p* ⊃ *p* before a proposition in order to ensure that its arguments have the right form, because the hypothesis for a non-proposition as argument becomes not false but meaningless, and because the proposition itself becomes senseless for arguments of the wrong kind, and therefore it survives the wrong arguments no better and no worse than the senseless hypothesis attached for this purpose.)
+\(It is nonsense to place the hypothesis *p* ⊃ *p* before a proposition in order to ensure that its arguments have the right form, because the hypothesis for a non-proposition as argument becomes not false but meaningless, and because the proposition itself becomes senseless for arguments of the wrong kind, and therefore it survives the wrong arguments no better and no worse than the senseless hypothesis attached for this purpose.)
 
 **[5.5352](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.5352)** Similarly it was proposed to express "There are no things" by "(∃ *x*) . *x* = *x*" But even if this were a proposition—would it not be true if indeed "There were things", but these were not identical with themselves?
 
@@ -1380,7 +1380,7 @@ Especially in certain propositional forms of psychology, like "A thinks, that *p
 
 Here it appears superficially as if the proposition *p* stood to the object A in a kind of relation.
 
-(And in modern epistemology (Russell, Moore, etc.) those propositions have been conceived in this way.)
+\(And in modern epistemology (Russell, Moore, etc.) those propositions have been conceived in this way.)
 
 **[5.542](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.542)** But it is clear that "A believes that *p*", "A thinks *p*", "A says *p*", are of the form "'*p*' says *p*": and here we have no co-ordination of a fact and an object, but a co-ordination of facts by means of a co-ordination of their objects.
 
@@ -1398,7 +1398,7 @@ This perhaps explains that the figure
 
 can be seen in two ways as a cube; and all similar phenomena. For we really see two different facts.
 
-(If I fix my eyes first on the corners *a* and only glance at *b*, *a* appears in front and *b* behind, and vice versa.)
+\(If I fix my eyes first on the corners *a* and only glance at *b*, *a* appears in front and *b* behind, and vice versa.)
 
 **[5.55](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.55)** We must now answer a priori the question as to all possible forms of the elementary propositions.
 
@@ -1406,7 +1406,7 @@ The elementary proposition consists of names. Since we cannot give the number of
 
 **[5.551](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.551)** Our fundamental principle is that every question which can be decided at all by logic can be decided off-hand.
 
-(And if we get into a situation where we need to answer such a problem by looking at the world, this shows that we are on a fundamentally wrong track.)
+\(And if we get into a situation where we need to answer such a problem by looking at the world, this shows that we are on a fundamentally wrong track.)
 
 **[5.552](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.552)** The "experience" which we need to understand logic is not that such and such is the case, but that something *is*; but that is *no* experience.
 
@@ -1418,7 +1418,7 @@ It is before the How, not before the What.
 
 **[5.553](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.553)** Russell said that there were simple relations between different numbers of things (individuals). But between what numbers? And how should this be decided—by experience?
 
-(There is no pre-eminent number.)
+\(There is no pre-eminent number.)
 
 **[5.554](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.554)** The enumeration of any special forms would be entirely arbitrary.
 
@@ -1442,7 +1442,7 @@ And how would it be possible that I should have to deal with forms in logic whic
 
 **[5.5563](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.5563)** All propositions of our colloquial language are actually, just as they are, logically completely in order. That simple thing which we ought to give here is not a model of the truth but the complete truth itself.
 
-(Our problems are not abstract but perhaps the most concrete that there are.)
+\(Our problems are not abstract but perhaps the most concrete that there are.)
 
 **[5.557](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.557)** The *application* of logic decides what elementary propositions there are.
 
@@ -1541,7 +1541,7 @@ ${\displaystyle 0+1+1=2{\text{ Def.}}}$
 
 ${\displaystyle 0+1+1+1=3{\text{ Def.}}}$
 
-(and so on.)
+\(and so on.)
 
 **[6.021](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.021)** A number is the exponent of an operation.
 
@@ -1617,7 +1617,7 @@ E.g. that "*q*" follows from "*p* ⊃ *q . p*" we see from these two proposition
 
 **[6.123](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.123)** It is clear that the laws of logic cannot themselves obey further logical laws.
 
-(There is not, as Russell supposed, for every "type" a special law of contradiction; but one is sufficient, since it is not applied to itself.)
+\(There is not, as Russell supposed, for every "type" a special law of contradiction; but one is sufficient, since it is not applied to itself.)
 
 **[6.1231](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.1231)** The mark of logical propositions is not their general validity.
 
@@ -1671,7 +1671,7 @@ The propositions of mathematics are equations, and therefore pseudo-propositions
 
 **[6.211](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.211)** In life it is never a mathematical proposition which we need, but we use mathematical propositions *only* in order to infer from propositions which do not belong to mathematics to others which equally do not belong to mathematics.
 
-(In philosophy the question "Why do we really use that word, that proposition?" constantly leads to valuable results.)
+\(In philosophy the question "Why do we really use that word, that proposition?" constantly leads to valuable results.)
 
 **[6.22](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.22)** The logic of the world which the propositions of logic show in tautologies, mathematics shows in equations.
 
@@ -1731,7 +1731,7 @@ ${\displaystyle (\Omega '\Omega )^{\prime }(\Omega '\Omega )^{\prime }x=\Omega '
 
 **[6.341](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.341)** Newtonian mechanics, for example, brings the description of the universe to a unified form. Let us imagine a white surface with irregular black spots. We now say: Whatever kind of picture these make I can always get as near as I like to its description, if I cover the surface with a sufficiently fine square network and now say of every square that it is white or black. In this way I shall have brought the description of the surface to a unified form. This form is arbitrary, because I could have applied with equal success a net with a triangular or hexagonal mesh. It can happen that the description would have been simpler with the aid of a triangular mesh; that is to say we might have described the surface more accurately with a triangular, and coarser, than with the finer square mesh, or vice versa, and so on. To the different networks correspond different systems of describing the world. Mechanics determine a form of description by saying: All propositions in the description of the world must be obtained in a given way from a number of given propositions—the mechanical axioms. It thus provides the bricks for building the edifice of science, and says: Whatever building thou wouldst erect, thou shalt construct it in some manner with these bricks and these alone.
 
-(As with the system of numbers one must be able to write down any arbitrary number, so with the system of mechanics one must be able to write down any arbitrary physical proposition.)
+\(As with the system of numbers one must be able to write down any arbitrary number, so with the system of mechanics one must be able to write down any arbitrary physical proposition.)
 
 **[6.342](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.342)** And now we see the relative position of logic and mechanics. (We could construct the network out of figures of different kinds, as out of triangles and hexagons together.) That a picture like that instanced above can be described by a network of a given form asserts *nothing* about the picture. (For this holds of every picture of this kind.) But *this* does characterize the picture, the fact, namely, that it can be *completely* described by a definite net of *definite* fineness.
 
@@ -1793,7 +1793,7 @@ And they both are right and wrong. But the ancients were clearer, in so far as t
 
 Let us consider how this contradiction presents itself in physics. Somewhat as follows: That a particle cannot at the same time have two velocities, *i.e.* that at the same time it cannot be in two places, *i.e.* that particles in different places at the same time cannot be identical.
 
-(It is clear that the logical product of two elementary propositions can neither be a tautology nor a contradiction. The assertion that a point in the visual field has two different colours at the same time, is a contradiction.)
+\(It is clear that the logical product of two elementary propositions can neither be a tautology nor a contradiction. The assertion that a point in the visual field has two different colours at the same time, is a contradiction.)
 
 **[6.4](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.4)** All propositions are of equal value.
 
@@ -1811,11 +1811,11 @@ It must lie outside the world.
 
 Ethics is transcendental.
 
-(Ethics and aesthetics are one.)
+\(Ethics and aesthetics are one.)
 
 **[6.422](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.422)** The first thought in setting up an ethical law of the form "thou shalt…" is: And what if I do not do it? But it is clear that ethics has nothing to do with punishment and reward in the ordinary sense. This question as to the *consequences* of an action must therefore be irrelevant. At least these consequences will not be events. For there must be something right in that formulation of the question. There must be some sort of ethical reward and ethical punishment, but this must lie in the action itself.
 
-(And this is clear also that the reward must be something acceptable, and the punishment something unacceptable.)
+\(And this is clear also that the reward must be something acceptable, and the punishment something unacceptable.)
 
 **[6.423](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.423)** Of the will as the subject of the ethical we cannot speak.
 
@@ -1837,7 +1837,7 @@ Our life is endless in the way that our visual field is without limit.
 
 **[6.4312](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.4312)** The temporal immortality of the human soul, that is to say, its eternal survival after death, is not only in no way guaranteed, but this assumption in the first place will not do for us what we always tried to make it do. Is a riddle solved by the fact that I survive for ever? Is this eternal life not as enigmatic as our present one? The solution of the riddle of life in space and time lies *outside* space and time.
 
-(It is not problems of natural science which have to be solved.)
+\(It is not problems of natural science which have to be solved.)
 
 **[6.432](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.432)** *How* the world is, is completely indifferent for what is higher. God does not reveal himself in the world.
 
@@ -1863,7 +1863,7 @@ For doubt can only exist where there is a question; a question only where there 
 
 **[6.521](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.521)** The solution of the problem of life is seen in the vanishing of this problem.
 
-(Is not this the reason why men to whom after long doubting the sense of life became clear, could not then say wherein this sense consisted?)
+\(Is not this the reason why men to whom after long doubting the sense of life became clear, could not then say wherein this sense consisted?)
 
 **[6.522](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.522)** There is indeed the inexpressible. This *shows* itself; it is the mystical.
 

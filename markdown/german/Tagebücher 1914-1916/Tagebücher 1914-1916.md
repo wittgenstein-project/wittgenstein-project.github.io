@@ -222,7 +222,7 @@ Vollständige und unvollständige Abbildung eines Sachverhaltes. (Funktion und A
 
 Der Ausdruck "nicht mehr weiter zerlegbar" ist auch einer der mit "Funktion", "Ding" etc. auf dem Index stehenden; wie aber wird das *gezeigt*, was wir durch ihn ausdrücken wollen?
 
-(Man kann natürlich weder von einem Ding noch von einem Komplex sagen, sie seien nicht mehr weiter zerlegbar.)
+\(Man kann natürlich weder von einem Ding noch von einem Komplex sagen, sie seien nicht mehr weiter zerlegbar.)
 
 **9. 10. 14.**
 
@@ -267,7 +267,7 @@ Die Logik sorgt für sich selbst; wir müssen ihr nur zusehen, wie sie es macht.
 
 Betrachten wir den Satz: "Es gibt eine Klasse mit nur einem Glied". Oder, was auf dasselbe hinauskommt, den Satz:
 
-(∃*ϕ*):.( ∃x):*ϕ*x:*ϕ*y.*ϕ*z. ⊃~y,z~.y = z
+\(∃*ϕ*):.( ∃x):*ϕ*x:*ϕ*y.*ϕ*z. ⊃~y,z~.y = z
 
 Bei "(∃x)x = x" könnte man verstehen, daß er tautologisch sei, da er überhaupt nicht hingeschrieben werden könnte, wenn er falsch wäre, aber hier! *Dieser* Satz kann an Stelle des "Axiom of Infinity" untersucht werden!
 
@@ -277,7 +277,7 @@ Wenn es diese Funktion nicht tut, dann kann von der 1 nur die Rede sein, wenn es
 
 Wie verhält es sich mit Sätzen wie:
 
-(∃*ϕ*).(∃x).*ϕ*x
+\(∃*ϕ*).(∃x).*ϕ*x
 und: (∃*ϕ*).(∃x).\~*ϕ*x.
 
 Ist einer von diesen eine Tautologie? Sind dies Sätze einer Wissenschaft d. h., sind dies überhaupt *Sätze*?
@@ -298,7 +298,7 @@ Welcher von ihnen ist tautologisch, welcher kontradiktorisch?
 
 Immer wieder entsteht das Bedürfnis nach einer vergleichenden Zusammenstellung von Sätzen, die in internen Beziehungen stehen. Man könnte zu diesem Buch geradezu Bildertafeln anlegen.
 
-(Die Tautologie *zeigt*, was sie zu *sagen* schein, die Kontradiktion zeigt *das Gegenteil* von dem, was sie zu sagen scheint.)
+\(Die Tautologie *zeigt*, was sie zu *sagen* schein, die Kontradiktion zeigt *das Gegenteil* von dem, was sie zu sagen scheint.)
 
 Es ist klar, daß wir alle überhaupt möglichen völlig allgemeinen Sätze bilden können sobald uns nur *eine Sprache* gegeben ist. Und darum ist es doch kaum zu glauben, daß solche Zeichenverbindungen wirklich etwas über die Welt aussagen sollten. –– Andererseits aber dieser graduelle Übergang vom elementaren Satz zum völlig allgemeinen!!
 
@@ -340,11 +340,11 @@ Man kann also ein Bild der Welt entwerfen, ohne zu sagen, was was darstellt.
 
 Nehmen wir z. B. an, die Welt bestünde aus den Dingen A und B und der Eigenschaft F, und es wäre F(A) der Fall und nicht F(B). Diese Welt könnten wir auch durch die folgenden Sätze beschreiben:
 
-(∃x,y).(∃*ϕ*).x ≠ y.*ϕ*x.\~*ϕ*y:*ϕ*u.*ϕ*z. ⊃~u,z~.u = z
+\(∃x,y).(∃*ϕ*).x ≠ y.*ϕ*x.\~*ϕ*y:*ϕ*u.*ϕ*z. ⊃~u,z~.u = z
 
-(∃*ϕ*).(*ψ*).*ψ* = *ϕ*
+\(∃*ϕ*).(*ψ*).*ψ* = *ϕ*
 
-(∃x,y).(z).z = x v z = y
+\(∃x,y).(z).z = x v z = y
 
 Und hier braucht man auch Sätze von der Art der letzten zwei, um die Gegenstände identifizieren zu können.
 
@@ -400,7 +400,7 @@ ${\displaystyle 0={\hat {\alpha }}\{(\exists \phi ):(x)\sim \phi x.\alpha ={\hat
 
 ${\displaystyle 1={\hat {\alpha }}\{(\exists \phi )::(\exists x).\phi x:\phi y.\phi z.\supset _{y,z}y=z:\alpha ={\hat {u}}(\phi u)\}{\text{ Def.}}}$
 
-(Das Gleichheitszeichen in der geschweiften Klammer könnte man *vermeiden*, wenn man schriebe
+\(Das Gleichheitszeichen in der geschweiften Klammer könnte man *vermeiden*, wenn man schriebe
 
 ${\displaystyle 0={\widehat {{\hat {u}}(\phi u)}}\{(x)\sim \phi x\}}$.)
 
@@ -514,7 +514,7 @@ Die interne Relation zwischen dem Satz und seiner Bedeutung, die Bezeichnungswei
 
 Man könnte zwei Koordinaten a~P~ und b~P~ als einen Satz auffassen der aussagt, der materielle Punkt P befinde sich im Ort (ab). Und damit diese Aussage möglich sei, müssen also die Koordinaten a und b wirklich einen Ort bestimmen. Damit eine Aussage möglich ist, müssen die logischen Koordinaten wirklich einen logischen Ort bestimmen!
 
-(Der Gegenstand, von welchem die allgemeinen Sätze handeln, ist recht eigentlich die Welt; die in ihnen durch eine logische Beschreibung eintritt. – Und darum kommt die Welt eigentlich doch nicht in ihnen vor, so wie ja auch der Gegenstand der Beschreibung nicht in dieser vorkommt.)
+\(Der Gegenstand, von welchem die allgemeinen Sätze handeln, ist recht eigentlich die Welt; die in ihnen durch eine logische Beschreibung eintritt. – Und darum kommt die Welt eigentlich doch nicht in ihnen vor, so wie ja auch der Gegenstand der Beschreibung nicht in dieser vorkommt.)
 
 Daß in gewissem Sinne die logische Form von p vorhanden sein muß, auch wenn p nicht der Fall ist, das zeigt sich symbolisch dadurch, daß "p" in "\~p" vorkommt.
 
@@ -742,7 +742,7 @@ Wenn ich nun eine Funktion von der Nullklasse auszusagen scheine, so sage ich, d
 
 Ist x ≠ x. ≡~x.~ *ϕ*x identisch mit
 
-(x).\~*ϕ*x ? Gewiß!
+\(x).\~*ϕ*x ? Gewiß!
 
 Der Satz deutet auf die Möglichkeit, daß es sich so und so verhält.
 
@@ -782,7 +782,7 @@ Projektion des Bildes auf die Wirklichkeit
 
 ![Illustrazione 15.11.14.png](images/380px-Illustrazione_15.11.14.png)\
 
-(Maxwell's Methode der mechanischen Modelle.)
+\(Maxwell's Methode der mechanischen Modelle.)
 
 Nur sich nicht um das kümmern, was man einmal geschrieben hat! Nur immer von frischem anfangen zu denken, als ob noch gar nichts geschehen wäre!
 
@@ -804,7 +804,7 @@ Einführung des Zeichens "0" um die Dezimalnotation möglich zu machen: Die logi
 
 Angenommen "*ϕ*a" ist wahr: Was heißt es zu sagen \~*ϕ*a ist möglich?
 
-(*ϕ*a ist selber gleichbedeutend mit \~(\~*ϕ*a).)
+\(*ϕ*a ist selber gleichbedeutend mit \~(\~*ϕ*a).)
 
 **18. 11. 14.**
 
@@ -844,7 +844,7 @@ Und das Gleiche gilt natürlich für die Allgemeinheitsbezeichnung überhaupt.
 
 Im Satze legen wir ein Urbild an die Wirklichkeit an.
 
-(Immer wieder ist es einem bei der Untersuchung der negativen Tatsachen, als ob sie die Existenz des Satzzeichens voraussetzten.)
+\(Immer wieder ist es einem bei der Untersuchung der negativen Tatsachen, als ob sie die Existenz des Satzzeichens voraussetzten.)
 
 *Muß* das Zeichen des negativen Satzes mit dem Zeichen des positiven gebildet werden? (Ich glaube, ja!)
 
@@ -930,7 +930,7 @@ Wie man mit dem Zahlensystem jede beliebige Anzahl muß hinschreiben können, so
 
 Und hier sehen wir nun die gegenseitige Stellung von Logik und Mechanik.
 
-(Man könnte das Netz auch aus verschiedenartigen Figuren bestehen lassen.)
+\(Man könnte das Netz auch aus verschiedenartigen Figuren bestehen lassen.)
 
 Daß sich ein Bild, wie das vorher erwähnte, durch ein Netz von gegebener Form beschreiben läßt, sagt über das Bild nichts aus (denn dies gilt für jedes solche Bild). Das aber charakterisiert das Bild, daß es sich durch ein bestimmtes Netz von *bestimmter* Feinheit beschreiben läßt. So auch sagt es nichts über die Welt aus, daß sie sich durch die Newtonsche Mechanik beschreiben läßt; aber wohl, daß sie sich so durch jene beschreiben läßt, wie dies eben der Fall ist. (Dies habe ich schon seit *langer* Zeit gefühlt). – Auch das sagt etwas von der Welt, daß sie sich durch die eine Mechanik einfacher beschreiben läßt, als durch die andere.
 
@@ -1012,7 +1012,7 @@ Auch dann nicht, wenn wir wissen, daß er zum Messen dieses *bestimmten* Objekte
 
 Könnte man nicht fragen: Was muß zu jenem Meterstab dazukommen, damit es etwas über die Länge des Objektes *aussagt*?
 
-(Der Meterstab ohne diesen Zusatz wäre die "Annahme".)
+\(Der Meterstab ohne diesen Zusatz wäre die "Annahme".)
 
 **15. 1. 15.**
 
@@ -1066,7 +1066,7 @@ Das heißt, das Wesen aller Tatsachen anzugeben, deren Bild der Satz *ist.*
 
 Das Wesen alles Seins angeben.
 
-(Und hier bedeutet Sein nicht existieren – dann wäre es unsinnig.)
+\(Und hier bedeutet Sein nicht existieren – dann wäre es unsinnig.)
 
 **23. 1. 15.**
 
@@ -1114,7 +1114,7 @@ Die Melodie ist eine Art Tautologie, sie ist in sich selbst abgeschlossen; sie b
 
 Die Menschheit hat immer geahnt, daß es ein Gebiet von Fragen geben muß, worin die Antworten – a priori – symmetrisch und zu einem abgeschlossenen, regelmäßigen Gebilde vereint-liegen.
 
-(Je älter ein Wort ist, desto tiefer reicht es.)
+\(Je älter ein Wort ist, desto tiefer reicht es.)
 
 **6. 3. 15.**
 
@@ -1144,7 +1144,7 @@ Das Kausalitätsgesetz ist kein Gesetz, sondern die Form *eines* Gesetzes.
 
 Wie die Menschen ja auch eine Ahnung davon gehabt haben, daß es *ein* "Gesetz der kleinsten Wirkung" geben müsse, ehe sie genau wußten, wie es lautete.
 
-(Hier, wie so oft, stellt sich das Aprioristische als etwas rein Logisches heraus.)
+\(Hier, wie so oft, stellt sich das Aprioristische als etwas rein Logisches heraus.)
 
 **3. 4. 15.**
 
@@ -1536,7 +1536,7 @@ Der Fehler in dieser Auffassung muß darin liegen, daß sie einerseits komplexe 
 
 Und doch: *Bestandteile* und *Komplex* scheinen einander verwandt *und* entgegengesetzt zu sein!
 
-(Wie der Plan einer Stadt und die Karte eines Landes, die vor uns in gleicher Größe, und verschiedenen Maßstäben liegen.)
+\(Wie der Plan einer Stadt und die Karte eines Landes, die vor uns in gleicher Größe, und verschiedenen Maßstäben liegen.)
 
 Woher dies Gefühl: "Allem, was ich sehe, dieser Landschaft, dem Fliegen der Samen in der Luft, all diesem kann ich einen Namen zuordnen; ja, was, wenn nicht dieses, sollten wir Namen benennen"?!
 
@@ -1596,15 +1596,15 @@ Bei diesen Betrachtungen scheine ich übrigens immer unbewußt vom Elementarsatz
 
 Die Kontradiktion ist die äußere Grenze der Sätze; kein Satz bejaht sie. Die Tautologie ist ihr substanzloser Mittelpunkt. (Man kann den Mittelpunkt einer Kreisfläche als deren innere Begrenzung auffassen.)
 
-(Das erlösende Wort ist übrigens hier noch nicht gesprochen.)
+\(Das erlösende Wort ist übrigens hier noch nicht gesprochen.)
 
 Es ist hier nämlich sehr leicht, die logische Addition und das logische Produkt miteinander zu verwechseln.
 
 Wir kommen nämlich zu dem scheinbar merkwürdigen Resultat, daß zwei Sätze etwas gemeinsam haben müssen, um von einem Satz bejaht werden zu können.
 
-(Die Gehörigkeit zu *einer* Klasse ist aber auch etwas, was Sätze *gemeinsam* haben können!)
+\(Die Gehörigkeit zu *einer* Klasse ist aber auch etwas, was Sätze *gemeinsam* haben können!)
 
-(Hier liegt noch eine entschiedene und entscheidende Unklarheit in meiner Theorie. Daher ein gewisses Gefühl der Unbefriedigung!)
+\(Hier liegt noch eine entschiedene und entscheidende Unklarheit in meiner Theorie. Daher ein gewisses Gefühl der Unbefriedigung!)
 
 **4. 6. 15.**
 
@@ -1626,7 +1626,7 @@ In dem *eigentlichen* Zeichen für p liegt wirklich schon das Zeichen "p ∨ q".
 
 **6. 6. 15.**
 
-(Diese Theorie behandelt die Sätze exklusiv, sozusagen als eine eigene Welt und nicht in Verbindung mit dem, was sie darstellen.)
+\(Diese Theorie behandelt die Sätze exklusiv, sozusagen als eine eigene Welt und nicht in Verbindung mit dem, was sie darstellen.)
 
 Die Verbindung der Bild-Theorie mit der Klassen-Theorie wird erst später ganz einleuchtend werden!
 
@@ -1664,7 +1664,7 @@ Wenn man z. B. sagen könnte: alle Sätze, die p nicht bejahen, bejahen \~p, so 
 
 Kann man aber nicht sagen "\~p" ist dasjenige, was nur solche Sätze gemeinsam haben, welche "p" nicht bejahen? – Und hieraus folgt ja schon die Unmöglichkeit von "p.\~p".
 
-(All dies setzt natürlich schon die Existenz der gesammten *Satzwelt* voraus. Mit Recht?)
+\(All dies setzt natürlich schon die Existenz der gesammten *Satzwelt* voraus. Mit Recht?)
 
 Es GENÜGT NICHT, darauf hinzuweisen, daß \~p außerhalb p liegt! Nur dann wird man alle Eigenschaften von "\~p" ableiten können, wenn "\~p" *wesentlich als das Negativ von p* eingeführt wird!!
 
@@ -1760,9 +1760,9 @@ Es hat also den Anschein, daß sich die Existenz der einfachen Gegenstände zu d
 
 **15. 6. 15.**
 
-(Dies ist ja nicht zu verwechseln mit der *Tatsache*, daß der *Bestandteil* im Komplex präjudiziert ist.)
+\(Dies ist ja nicht zu verwechseln mit der *Tatsache*, daß der *Bestandteil* im Komplex präjudiziert ist.)
 
-(Eine der schwersten Aufgaben des Philosophen ist es zu finden, wo ihn der Schuh druckt.)
+\(Eine der schwersten Aufgaben des Philosophen ist es zu finden, wo ihn der Schuh druckt.)
 
 Es ist ganz klar, daß ich tatsächlich dieser Uhr, wie sie hier vor mir liegt und geht, einen Namen zuordnen kann, und daß dieser Name außerhalb jedes Satzes Bedeutung haben wird in demselben Sinne des Wortes, wie ich es überhaupt jemals gemeint habe. Und ich empfinde, daß jener Name in einem Satze allen Anforderungen an den 'Namen des einfachen Gegenstandes' entsprechen wird.
 
@@ -1772,7 +1772,7 @@ Wir wollen jetzt einmal sehen, ob diese Uhr tatsächlich allen Bedingungen entsp
 
 Die Frage ist eigentlich die: Muß ich, um die syntaktische Behandlungsweise eines Namens zu kennen, die Zusammensetzung seiner Bedeutung kennen? Wenn ja, so drückt sich die ganze Zusammensetzung auch schon in unanalysierten Sätzen aus… –
 
-(Man versucht oft, zu große Gedankenklüfte zu überspringen und fällt dann mitten hinein.)
+\(Man versucht oft, zu große Gedankenklüfte zu überspringen und fällt dann mitten hinein.)
 
 Das, was uns a priori gegeben scheint, ist der Begriff: *Dieses*. – Identisch mit dem Begriff des *Gegenstands.*
 
@@ -2014,7 +2014,7 @@ Darum darf man aus dieser Form alle einfachen Sätze zusammen­ stellen.
 
 Angenommen, mir wären *alle* einfachen Sätze gegeben: Dann läßt sich einfach fragen: welche Sätze kann ich aus ihnen bilden. Und das sind *alle* Sätze, und *so* sind sie *begrenzt.*
 
-(p): p = aRx.xRy ... zRb
+\(p): p = aRx.xRy ... zRb
 
 **17. 4. 16.**
 
@@ -2070,7 +2070,7 @@ Es gibt eben auch Operationen mit zwei Basen. Und die "\|"-Opera­tion ist von d
 
 \| (*ξ*, *η*) ... ist ein beliebiges Glied der Reihe der Operationsresultate.
 
-(∃x).*ϕ*x
+\(∃x).*ϕ*x
 
 Ist denn (∃x) etc. wirklich eine Operation?
 
@@ -2148,7 +2148,7 @@ An Gott glauben heißt sehen, daß das Leben einen Sinn hat.
 
 Die Welt ist mir *gegeben*, d. h. mein Wille tritt an die Welt ganz von außen als an etwas Fertiges heran.
 
-(Was mein Wille ist, das weiß ich noch nicht.)
+\(Was mein Wille ist, das weiß ich noch nicht.)
 
 Daher haben wir das Gefühl, daß wir von einem fremden Willen abhängig sind.
 
@@ -2218,7 +2218,7 @@ Wenn nämlich die Elementarsätze gegeben sind, so sind damit auch *alle* Elemen
 
 Immer wieder fühlt man, daß auch im Elementarsatz von allen Gegenständen die Rede ist.
 
-(∃x)*ϕ*x.x = a
+\(∃x)*ϕ*x.x = a
 
 Wenn zwei Operationen gegeben sind, die sich nicht auf *eine* reduzieren lassen, so muß sich zum mindesten eine allgemeine Form ihrer Kombination aufstellen lassen.
 
@@ -2466,7 +2466,7 @@ Die Menschheit hat immer nach einer Wissenschaft gesucht in welcher simplex sigi
 
 Es kann nicht eine ordentliche oder eine unordentliche Welt geben, so daß man sagen könnte, unsere Welt ist ordentlich. Sondern in Jeder möglichen Welt ist eine, wenn auch komplizierte Ordnung, geradeso, wie es im Raum auch nicht unordentliche und ordentliche Punktverteilungen gibt, sondern jede Punktverteilung ist ordentlich.
 
-(Diese Bemerkung ist nur Material für einen Gedanken.)
+\(Diese Bemerkung ist nur Material für einen Gedanken.)
 
 Die Kunst ist ein Ausdruck.
 
@@ -2484,7 +2484,7 @@ Ist es etwa das, daß sie den Gegenstand *mit* Raum und Zeit sieht statt *in* Ra
 
 Jedes Ding bedingt die ganze logische Welt, sozusagen den ganzen logischen Raum.
 
-(Es drängt sich der Gedanke auf): Das Ding sub specie aeternitatis gesehen ist das Ding mit dem ganzen logischen Raum gesehen.
+\(Es drängt sich der Gedanke auf): Das Ding sub specie aeternitatis gesehen ist das Ding mit dem ganzen logischen Raum gesehen.
 
 **8. 10. 16.**
 
@@ -2492,7 +2492,7 @@ Als Ding unter Dingen ist jedes Ding gleich unbedeutend, als Welt jedes gleichbe
 
 Habe ich den Ofen kontempliert, und es wird mir nun gesagt: jetzt kennst du aber nur den Ofen, so scheint mein Resultat allerdings kleinlich. Denn das stellt es so dar, als hätte ich den Ofen unter den vielen, vielen Dingen der Welt studiert. Habe ich aber den Ofen kontempliert, so war *er* meine Welt, und alles Andere dagegen blaß.
 
-(Manches Gute im Großen, im Einzelnen aber schlecht.)
+\(Manches Gute im Großen, im Einzelnen aber schlecht.)
 
 Man kann eben die bloße gegenwärtige Vorstellung sowohl auffassen, als das nichtige momentane Bild in der ganzen zeitlichen Welt, als auch als die wahre Welt unter Schatten.
 
@@ -2652,7 +2652,7 @@ Mein Wille greift irgendwo in der Welt an, und an andern greift er wieder nicht 
 
 Wünschen ist nicht tun. Aber, Wollen ist tun.
 
-(Mein Wunsch bezieht sich z. B. auf die Bewegung des Sessels, mein Willen auf ein Muskelgefühl.)
+\(Mein Wunsch bezieht sich z. B. auf die Bewegung des Sessels, mein Willen auf ein Muskelgefühl.)
 
 Daß ich einen Vorgang will, besteht darin, daß ich den Vorgang mache, nicht darin, daß ich etwas Anders tue, was den Vorgang verursacht.
 

@@ -15,7 +15,7 @@ _Diese digitale Ausgabe ist eine Reproduktion von L. Wittgenstein, *Über Gewiß
 
 **1.** Wenn du weißt, daß hier eine Hand ist, so geben wir dir alles übrige zu.
 
-(Sagt man, der und der Satz lasse sich nicht beweisen, so heißt das natürlich nicht, daß er sich nicht aus andern herleiten läßt; jeder Satz läßt sich aus andern herleiten. Aber diese mögen nicht sicherer sein als er selbst.) (Dazu eine komische Bemerkung H. Newmans.)
+\(Sagt man, der und der Satz lasse sich nicht beweisen, so heißt das natürlich nicht, daß er sich nicht aus andern herleiten läßt; jeder Satz läßt sich aus andern herleiten. Aber diese mögen nicht sicherer sein als er selbst.) (Dazu eine komische Bemerkung H. Newmans.)
 
 **2.** Daß es mir – oder Allen – so *scheint*, daraus folgt nicht, daß es so *ist*. Wohl aber läßt sich fragen, ob man dies sinnvoll bezweifeln kann.
 
@@ -309,7 +309,7 @@ Und was bedeutet die Aussage, das und das stehe fest?
 
 **126.** Ich bin der Bedeutung meiner Worte nicht gewisser als bestimmter Urteile. Kann ich zweifeln, daß diese Farbe »blau« heißt?
 
-(Meine) Zweifel bilden ein System.
+\(Meine) Zweifel bilden ein System.
 
 **127.** Denn wie weiß ich, daß Einer zweifelt? Wie weiß ich, daß er die Worte »Ich zweifle daran« so gebraucht wie ich?
 
@@ -1742,7 +1742,7 @@ Denn selbst der Gedanke, ich hätte ja, durch unbekannte Mittel, im Schlaf dorth
 
 **668.** Welche praktischen Folgen hat es, wenn ich eine Mitteilung mache und dazusetze, ich könne mich darin nicht irren?
 
-(Ich könnte statt dessen auch hinzusetzen: »Ich kann mich darin sowenig irren, wie darin, daß ich L. W. heiße.«)
+\(Ich könnte statt dessen auch hinzusetzen: »Ich kann mich darin sowenig irren, wie darin, daß ich L. W. heiße.«)
 
 Der Andre könnte dennoch an meiner Aussage zweifeln. Aber nicht nur wird er, wenn er mir traut, sich von mir belehren lassen, sondern er wird auch bestimmte Schlüsse aus meiner Überzeugung auf mein Verhalten ziehen.
 

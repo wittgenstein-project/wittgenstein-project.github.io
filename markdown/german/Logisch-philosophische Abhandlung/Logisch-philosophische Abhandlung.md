@@ -77,7 +77,7 @@ Dagegen scheint mir die *Wahrheit* der hier mitgeteilten Gedanken unantastbar un
 
 Wenn die Dinge in Sachverhalten vorkommen können, so muss dies schon in ihnen liegen.
 
-(Etwas Logisches kann nicht nur-möglich sein. Die Logik handelt von jeder Möglichkeit und alle Möglichkeiten sind ihre Tatsachen.)
+\(Etwas Logisches kann nicht nur-möglich sein. Die Logik handelt von jeder Möglichkeit und alle Möglichkeiten sind ihre Tatsachen.)
 
 Wie wir uns räumliche Gegenstände überhaupt nicht ausserhalb des Raumes, zeitliche nicht ausserhalb der Zeit denken können, so können wir uns *keinen* Gegenstand ausserhalb der Möglichkeit seiner Verbindung mit anderen denken.
 
@@ -87,7 +87,7 @@ Wenn ich mir den Gegenstand im Verbande des Sachverhalts denken kann, so kann ic
 
 **2.0123** Wenn ich den Gegenstand kenne, so kenne ich auch sämtliche Möglichkeiten seines Vorkommens in Sachverhalten.
 
-(Jede solche Möglichkeit muss in der Natur des Gegenstandes liegen.)
+\(Jede solche Möglichkeit muss in der Natur des Gegenstandes liegen.)
 
 Es kann nicht nachträglich eine neue Möglichkeit gefunden werden.
 
@@ -159,7 +159,7 @@ Denn, ist das Ding durch nichts hervorgehoben, so kann ich es nicht hervorheben,
 
 **2.06** Das Bestehen und Nichtbestehen von Sachverhalten ist die Wirklichkeit.
 
-(Das Bestehen von Sachverhalten nennen wir auch eine positive, das Nichtbestehen eine negative Tatsache.)
+\(Das Bestehen von Sachverhalten nennen wir auch eine positive, das Nichtbestehen eine negative Tatsache.)
 
 **2.061** Die Sachverhalte sind von einander unabhängig.
 
@@ -277,7 +277,7 @@ Also die Möglichkeit des Projizierten, aber nicht dieses selbst.
 
 Im Satz ist also sein Sinn noch nicht enthalten, wohl aber die Möglichkeit ihn auszudrücken.
 
-(„Der Inhalt des Satzes“ heisst der Inhalt des sinnvollen Satzes.)
+\(„Der Inhalt des Satzes“ heisst der Inhalt des sinnvollen Satzes.)
 
 Im Satz ist die Form seines Sinnes enthalten, aber nicht dessen Inhalt.
 
@@ -295,7 +295,7 @@ Der Satz ist artikuliert.
 
 Denn im gedruckten Satz z. B. sieht das Satzzeichen nicht wesentlich verschieden aus vom Wort.
 
-(So war es möglich, dass Frege den Satz einen zusammengesetzten Namen nannte.)
+\(So war es möglich, dass Frege den Satz einen zusammengesetzten Namen nannte.)
 
 **3.1431** Sehr klar wird das Wesen des Satzzeichens, wenn wir es uns, statt aus Schriftzeichen, aus räumlichen Gegenständen (etwa Tischen, Stühlen, Büchern) zusammengesetzt denken.
 
@@ -305,7 +305,7 @@ Die gegenseitige räumliche Lage dieser Dinge drückt dann den Sinn des Satzes a
 
 **3.144** Sachlagen kann man beschreiben, nicht *benennen*.
 
-(Namen gleichen Punkten, Sätze Pfeilen, sie haben Sinn.)
+\(Namen gleichen Punkten, Sätze Pfeilen, sie haben Sinn.)
 
 **3.2** Im Satze kann der Gedanke so ausgedrückt sein, dass den Gegenständen des Gedankens Elemente des Satzzeichens entsprechen.
 
@@ -349,7 +349,7 @@ Zwei Zeichen, ein Urzeichen, und ein durch Urzeichen definiertes, können nicht 
 
 **3.31** Jeden Teil des Satzes, der seinen Sinn charakterisiert, nenne ich einen Ausdruck (ein Symbol).
 
-(Der Satz selbst ist ein Ausdruck.)
+\(Der Satz selbst ist ein Ausdruck.)
 
 Ausdruck ist alles, für den Sinn des Satzes wesentliche, was Sätze miteinander gemein haben können.
 
@@ -363,13 +363,13 @@ Und zwar wird in dieser Form der Ausdruck *konstant* und alles übrige *variabel
 
 **3.313** Der Ausdruck wird also durch eine Variable dargestellt, deren Werte die Sätze sind, die den Ausdruck enthalten.
 
-(Im Grenzfall wird die Variable zur Konstanten, der Ausdruck zum Satz.)
+\(Im Grenzfall wird die Variable zur Konstanten, der Ausdruck zum Satz.)
 
 Ich nenne eine solche Variable „Satzvariable“.
 
 **3.314** Der Ausdruck hat nur im Satz Bedeutung. Jede Variable lässt sich als Satzvariable auffassen.
 
-(Auch der variable Name.)
+\(Auch der variable Name.)
 
 **3.315** Verwandeln wir einen Bestandteil eines Satzes in eine Variable, so gibt es eine Klasse von Sätzen, welche sämtlich Werte des so entstandenen variablen Satzes sind. Diese Klasse hängt im allgemeinen noch davon ab, was wir, nach willkürlicher Übereinkunft, mit Teilen jenes Satzes meinen. Verwandeln wir aber alle jene Zeichen, deren Bedeutung willkürlich bestimmt wurde, in Variable, so gibt es nun noch immer eine solche Klasse. Diese aber ist nun von keiner Übereinkunft abhängig, sondern nur noch von der Natur des Satzes. Sie entspricht einer logischen Form – einem logischen Urbild.
 
@@ -399,13 +399,13 @@ Wie die Beschreibung der Sätze geschieht, ist unwesentlich.
 
 So erscheint das Wort „ist“ als Kopula, als Gleichheitszeichen und als Ausdruck der Existenz; „existieren“ als intransitives Zeitwort wie „gehen“; „identisch“ als Eigenschaftswort; wir reden von *Etwas*, aber auch davon, dass *etwas* geschieht.
 
-(Im Satze „Grün ist grün“ – wo das erste Wort ein Personenname, das letzte ein Eigenschaftswort ist – haben diese Worte nicht einfach verschiedene Bedeutung, sondern es sind *verschiedene Symbole*.)
+\(Im Satze „Grün ist grün“ – wo das erste Wort ein Personenname, das letzte ein Eigenschaftswort ist – haben diese Worte nicht einfach verschiedene Bedeutung, sondern es sind *verschiedene Symbole*.)
 
 **3.324** So entstehen leicht die fundamentalsten Verwechslungen (deren die ganze Philosophie voll ist).
 
 **3.325** Um diesen Irrtümern zu entgehen, müssen wir eine Zeichensprache verwenden, welche sie ausschliesst, indem sie nicht das gleiche Zeichen in verschiedenen Symbolen, und Zeichen, welche auf verschiedene Art bezeichnen, nicht äusserlich auf die gleiche Art verwendet. Eine Zeichensprache also, die der *logischen* Grammatik – der logischen Syntax – gehorcht.
 
-(Die Begriffsschrift Frege’s und Russell’s ist eine solche Sprache, die allerdings noch nicht alle Fehler ausschliesst.)
+\(Die Begriffsschrift Frege’s und Russell’s ist eine solche Sprache, die allerdings noch nicht alle Fehler ausschliesst.)
 
 **3.326** Um das Symbol am Zeichen zu erkennen, muss man auf den sinnvollen Gebrauch achten.
 
@@ -413,7 +413,7 @@ So erscheint das Wort „ist“ als Kopula, als Gleichheitszeichen und als Ausdr
 
 **3.328** Wird ein Zeichen *nicht gebraucht*, so ist es bedeutungslos. Das ist der Sinn der Devise Occams.
 
-(Wenn sich alles so verhält als hätte ein Zeichen Bedeutung, dann hat es auch Bedeutung.)
+\(Wenn sich alles so verhält als hätte ein Zeichen Bedeutung, dann hat es auch Bedeutung.)
 
 **3.33** In der logischen Syntax darf nie die Bedeutung eines Zeichens eine Rolle spielen; sie muss sich aufstellen lassen, ohne dass dabei von der *Bedeutung* eines Zeichens die Rede wäre, sie darf *nur* die Beschreibung der Ausdrücke voraussetzen.
 
@@ -451,7 +451,7 @@ Und ebenso ist allgemein das Wesentliche am Symbol das, was alle Symbole, die de
 
 **3.3441** Man kann z. B. das Gemeinsame aller Notationen für die Wahrheitsfunktionen so ausdrücken: Es ist ihnen gemeinsam, dass sich alle – z. B. – durch die Notation von „∼*p*“ („nicht *p*“) und „*p* ∨ *q*“ („*p* oder *q*“) *ersetzen lassen*.
 
-(Hiermit ist die Art und Weise gekennzeichnet, wie eine spezielle mögliche Notation uns allgemeine Aufschlüsse geben kann.)
+\(Hiermit ist die Art und Weise gekennzeichnet, wie eine spezielle mögliche Notation uns allgemeine Aufschlüsse geben kann.)
 
 **3.3442** Das Zeichen des Komplexes löst sich auch bei der Analyse nicht willkürlich auf, so dass etwa seine Auflösung in jedem Satzgefüge eine andere wäre.
 
@@ -463,9 +463,9 @@ Und ebenso ist allgemein das Wesentliche am Symbol das, was alle Symbole, die de
 
 **3.42** Obwohl der Satz nur einen Ort des logischen Raumes bestimmen darf, so muss doch durch ihn schon der ganze logische Raum gegeben sein.
 
-(Sonst würden durch die Verneinung, die logische Summe, das logische Produkt, etc. immer neue Elemente – in Koordination – eingeführt.)
+\(Sonst würden durch die Verneinung, die logische Summe, das logische Produkt, etc. immer neue Elemente – in Koordination – eingeführt.)
 
-(Das logische Gerüst um das Bild herum bestimmt den logischen Raum. Der Satz durchgreift den ganzen logischen Raum.)
+\(Das logische Gerüst um das Bild herum bestimmt den logischen Raum. Der Satz durchgreift den ganzen logischen Raum.)
 
 **3.5** Das angewandte, gedachte, Satzzeichen ist der Gedanke.
 
@@ -485,7 +485,7 @@ Die stillschweigenden Abmachungen zum Verständnis der Umgangssprache sind enorm
 
 **4.003** Die meisten Sätze und Fragen, welche über philosophische Dinge geschrieben worden sind, sind nicht falsch, sondern unsinnig. Wir können daher Fragen dieser Art überhaupt nicht beantworten, sondern nur ihre Unsinnigkeit feststellen. Die meisten Fragen und Sätze der Philosophen beruhen darauf, dass wir unsere Sprachlogik nicht verstehen.
 
-(Sie sind von der Art der Frage, ob das Gute mehr oder weniger identisch sei als das Schöne.)
+\(Sie sind von der Art der Frage, ob das Gute mehr oder weniger identisch sei als das Schöne.)
 
 Und es ist nicht verwunderlich, dass die tiefsten Probleme eigentlich *keine* Probleme sind.
 
@@ -509,7 +509,7 @@ Denn auch diese Unregelmässigkeiten bilden das ab, was sie ausdrücken sollen; 
 
 Ihnen allen ist der logische Bau gemeinsam.
 
-(Wie im Märchen die zwei Jünglinge, ihre zwei Pferde und ihre Lilien. Sie sind alle in gewissem Sinne Eins.)
+\(Wie im Märchen die zwei Jünglinge, ihre zwei Pferde und ihre Lilien. Sie sind alle in gewissem Sinne Eins.)
 
 **4.0141** Dass es eine allgemeine Regel gibt, durch die der Musiker aus der Partitur die Symphonie entnehmen kann, durch welche man aus der Linie auf der Grammophonplatte die Symphonie und nach der ersten Regel wieder die Partitur ableiten kann, darin besteht eben die innere Ähnlichkeit dieser scheinbar so ganz verschiedenen Gebilde. Und jene Regel ist das Gesetz der Projektion, welches die Symphonie in die Notensprache projiziert. Sie ist die Regel der Übersetzung der Notensprache in die Sprache der Grammophonplatte.
 
@@ -537,13 +537,13 @@ Der Satz konstruiert eine Welt mit Hilfe eines logischen Gerüstes und darum kan
 
 **4.024** Einen Satz verstehen, heisst, wissen was der Fall ist, wenn er wahr ist.
 
-(Man kann ihn also verstehen, ohne zu wissen, ob er wahr ist.)
+\(Man kann ihn also verstehen, ohne zu wissen, ob er wahr ist.)
 
 Man versteht ihn, wenn man seine Bestandteile versteht.
 
 **4.025** Die Übersetzung einer Sprache in eine andere geht nicht so vor sich, dass man jeden *Satz* der einen in einen *Satz* der anderen übersetzt, sondern nur die Satzbestandteile werden übersetzt.
 
-(Und das Wörterbuch übersetzt nicht nur Substantiva, sondern auch Zeit-, Eigenschafts- und Bindewörter etc.; und es behandelt sie alle gleich.)
+\(Und das Wörterbuch übersetzt nicht nur Substantiva, sondern auch Zeit-, Eigenschafts- und Bindewörter etc.; und es behandelt sie alle gleich.)
 
 **4.026** Die Bedeutungen der einfachen Zeichen (der Wörter) müssen uns erklärt werden, dass wir sie verstehen.
 
@@ -569,7 +569,7 @@ Mein Grundgedanke ist, dass die „logischen Konstanten“ nicht vertreten. Dass
 
 **4.032** Nur insoweit ist der Satz ein Bild einer Sachlage, als er logisch gegliedert ist.
 
-(Auch der Satz „ambulo“ ist zusammengesetzt, denn sein Stamm ergibt mit einer anderen Endung und seine Endung mit einem anderen Stamm, einen anderen Sinn.)
+\(Auch der Satz „ambulo“ ist zusammengesetzt, denn sein Stamm ergibt mit einer anderen Endung und seine Endung mit einem anderen Stamm, einen anderen Sinn.)
 
 **4.04** Am Satz muss gerade soviel zu unterscheiden sein, als an der Sachlage die er darstellt.
 
@@ -623,7 +623,7 @@ Dass man den verneinten Satz wieder verneinen kann, zeigt schon, dass das, was v
 
 **4.111** Die Philosophie ist keine der Naturwissenschaften.
 
-(Das Wort „Philosophie“ muss etwas bedeuten, was über oder unter, aber nicht neben den Naturwissenschaften steht.)
+\(Das Wort „Philosophie“ muss etwas bedeuten, was über oder unter, aber nicht neben den Naturwissenschaften steht.)
 
 **4.112** Der Zweck der Philosophie ist die logische Klärung der Gedanken.
 
@@ -675,7 +675,7 @@ Wenn zwei Sätze einander widersprechen, so zeigt dies ihre Struktur; ebenso, we
 
 **4.122** Wir können in gewissem Sinne von formalen Eigenschaften der Gegenstände und Sachverhalte bezw. von Eigenschaften der Struktur der Tatsachen reden und in demselben Sinne von formalen Relationen und Relationen von Strukturen.
 
-(Statt Eigenschaft der Struktur sage ich auch „interne Eigenschaft“; statt Relation der Strukturen „interne Relation“.
+\(Statt Eigenschaft der Struktur sage ich auch „interne Eigenschaft“; statt Relation der Strukturen „interne Relation“.
 
 Ich führe diese Ausdrücke ein, um den Grund der, bei den Philosophen sehr verbreiteten Verwechslung zwischen den internen Relationen und den eigentlichen (externen) Relationen zu zeigen.)
 
@@ -685,9 +685,9 @@ Das Bestehen solcher interner Eigenschaften und Relationen kann aber nicht durch
 
 **4.123** Eine Eigenschaft ist intern, wenn es undenkbar ist, dass ihr Gegenstand sie nicht besitzt.
 
-(Diese blaue Farbe und jene stehen in der internen Relation von heller und dunkler eo ipso. Es ist undenkbar, dass *diese* beiden Gegenstände nicht in dieser Relation stünden.)
+\(Diese blaue Farbe und jene stehen in der internen Relation von heller und dunkler eo ipso. Es ist undenkbar, dass *diese* beiden Gegenstände nicht in dieser Relation stünden.)
 
-(Hier entspricht dem schwankenden Gebrauch der Worte „Eigenschaft“ und „Relation“ der schwankende Gebrauch des Wortes „Gegenstand“.)
+\(Hier entspricht dem schwankenden Gebrauch der Worte „Eigenschaft“ und „Relation“ der schwankende Gebrauch des Wortes „Gegenstand“.)
 
 **4.124** Das Bestehen einer internen Eigenschaft einer möglichen Sachlage wird nicht durch einen Satz ausgedrückt, sondern es drückt sich in dem sie darstellenden Satz, durch eine interne Eigenschaft dieses Satzes aus.
 
@@ -709,11 +709,11 @@ Ebenso die Reihe der Sätze „*aRb*“,
 
 „(∃*x, y*) : *aRx . xRy . yRb*“, u. s. f.
 
-(Steht *b* in einer dieser Beziehungen zu *a*, so nenne ich *b* einen Nachfolger von *a*.)
+\(Steht *b* in einer dieser Beziehungen zu *a*, so nenne ich *b* einen Nachfolger von *a*.)
 
 **4.126** In dem Sinne, in welchem wir von formalen Eigenschaften sprechen, können wir nun auch von formalen Begriffen reden.
 
-(Ich führe diesen Ausdruck ein, um den Grund der Verwechslung der formalen Begriffe mit den eigentlichen Begriffen, welche die ganze alte Logik durchzieht, klar zu machen.)
+\(Ich führe diesen Ausdruck ein, um den Grund der Verwechslung der formalen Begriffe mit den eigentlichen Begriffen, welche die ganze alte Logik durchzieht, klar zu machen.)
 
 Dass etwas unter einen formalen Begriff als dessen Gegenstand fällt, kann nicht durch einen Satz ausgedrückt werden. Sondern es zeigt sich an dem Zeichen dieses Gegenstandes selbst. (Der Name zeigt, dass er einen Gegenstand bezeichnet, das Zahlenzeichen, dass es eine Zahl bezeichnet etc.)
 
@@ -751,7 +751,7 @@ Sie alle bezeichnen formale Begriffe und werden in der Begriffsschrift durch Var
 
 Ausdrücke wie „1 ist eine Zahl“, „es gibt nur Eine Null“ und alle ähnlichen sind unsinnig.
 
-(Es ist ebenso unsinnig zu sagen „es gibt nur eine 1“, als es unsinnig wäre, zu sagen: 2 + 2 ist um 3 Uhr gleich 4.)
+\(Es ist ebenso unsinnig zu sagen „es gibt nur eine 1“, als es unsinnig wäre, zu sagen: 2 + 2 ist um 3 Uhr gleich 4.)
 
 **4.12721** Der formale Begriff ist mit einem Gegenstand, der unter ihn fällt, bereits gegeben. Man kann also nicht Gegenstände eines formalen Begriffes *und* den formalen Begriff selbst als Grundbegriffe einführen. Man kann also z. B. nicht den Begriff der Funktion, und auch spezielle Funktionen (wie Russell) als Grundbegriffe einführen; oder den Begriff der Zahl und bestimmte Zahlen.
 
@@ -761,7 +761,7 @@ Wir können das allgemeine Glied der Formenreihe bestimmen, indem wir ihr erstes
 
 **4.1274** Die Frage nach der Existenz eines formalen Begriffes ist unsinnig. Denn kein Satz kann eine solche Frage beantworten.
 
-(Man kann also z. B. nicht fragen: „Gibt es unanalysierbare Subjekt-Prädikatsätze?“)
+\(Man kann also z. B. nicht fragen: „Gibt es unanalysierbare Subjekt-Prädikatsätze?“)
 
 **4.128** Die logischen Formen sind zah*llos*.
 
@@ -793,7 +793,7 @@ Oder ich deute ihn durch die Buchstaben *p*, *q*, *r* an.
 
 „*a* = *b*“ heisst also: das Zeichen „*a*“ ist durch das Zeichen „*b*“ ersetzbar.
 
-(Führe ich durch eine Gleichung ein neues Zeichen „*b*“ ein, indem ich bestimme, es solle ein bereits bekanntes Zeichen „*a*“ ersetzen, so schreibe ich die Gleichung – Definition – (wie Russell) in der Form „*a* = *b* Def.“. Die Definition ist eine Zeichenregel.)
+\(Führe ich durch eine Gleichung ein neues Zeichen „*b*“ ein, indem ich bestimme, es solle ein bereits bekanntes Zeichen „*a*“ ersetzen, so schreibe ich die Gleichung – Definition – (wie Russell) in der Form „*a* = *b* Def.“. Die Definition ist eine Zeichenregel.)
 
 **4.242** Ausdrücke von der Form „*a* = *b*“ sind also nur Behelfe der Darstellung; sie sagen nichts über die Bedeutung der Zeichen „*a*“, „*b*“ aus.
 
@@ -856,7 +856,7 @@ Das Fehlen dieses Abzeichens bedeutet die Nichtübereinstimmung.
 
 Der Satz ist der Ausdruck seiner Wahrheitsbedingungen.
 
-(Frege hat sie daher ganz richtig als Erklärung der Zeichen seiner Begriffsschrift vorausgeschickt. Nur ist die Erklärung des Wahrheitsbegriffes bei Frege falsch: Wären „das Wahre“ und „das Falsche“ wirklich Gegenstände und die Argumente in ∼*p* etc. dann wäre nach Frege’s Bestimmung der Sinn von „∼*p*“ keineswegs bestimmt.)
+\(Frege hat sie daher ganz richtig als Erklärung der Zeichen seiner Begriffsschrift vorausgeschickt. Nur ist die Erklärung des Wahrheitsbegriffes bei Frege falsch: Wären „das Wahre“ und „das Falsche“ wirklich Gegenstände und die Argumente in ∼*p* etc. dann wäre nach Frege’s Bestimmung der Sinn von „∼*p*“ keineswegs bestimmt.)
 
 **4.44** Das Zeichen, welches durch die Zuordnung jener Abzeichen „W“ und der Wahrheitsmöglichkeiten entsteht, ist ein Satzzeichen.
 
@@ -885,7 +885,7 @@ Ist die Reihenfolge der Wahrheitsmöglichkeiten im Schema durch eine Kombination
 
 „(WW–W)(*p*, *q*)“ oder deutlicher „(WWFW)(*p*, *q*)“.
 
-(Die Anzahl der Stellen in der linken Klammer ist durch die Anzahl der Glieder in der rechten bestimmt.)
+\(Die Anzahl der Stellen in der linken Klammer ist durch die Anzahl der Glieder in der rechten bestimmt.)
 
 **4.45** Für *n* Elementarsätze gibt es *L~n~* mögliche Gruppen von Wahrheitsbedingungen.
 
@@ -905,9 +905,9 @@ Die Tautologie hat keine Wahrheitsbedingungen, denn sie ist bedingungslos wahr; 
 
 Tautologie und Kontradiktion sind sinnlos.
 
-(Wie der Punkt von dem zwei Pfeile in entgegengesetzter Richtung auseinandergehen.)
+\(Wie der Punkt von dem zwei Pfeile in entgegengesetzter Richtung auseinandergehen.)
 
-(Ich weiss z. B. nichts über das Wetter, wenn ich weiss, dass es regnet oder nicht regnet.)
+\(Ich weiss z. B. nichts über das Wetter, wenn ich weiss, dass es regnet oder nicht regnet.)
 
 **4.4611** Tautologie und Kontradiktion sind aber nicht unsinnig; sie gehören zum Symbolismus, und zwar ähnlich wie die „0“ zum Symbolismus der Arithmetik.
 
@@ -917,13 +917,13 @@ In der Tautologie heben die Bedingungen der Übereinstimmung mit der Welt – di
 
 **4.463** Die Wahrheitsbedingungen bestimmen den Spielraum, der den Tatsachen durch den Satz gelassen wird.
 
-(Der Satz, das Bild, das Modell, sind im negativen Sinne wie ein fester Körper, der die Bewegungsfreiheit der anderen beschränkt; im positiven Sinne, wie der von fester Substanz begrenzte Raum, worin ein Körper Platz hat.)
+\(Der Satz, das Bild, das Modell, sind im negativen Sinne wie ein fester Körper, der die Bewegungsfreiheit der anderen beschränkt; im positiven Sinne, wie der von fester Substanz begrenzte Raum, worin ein Körper Platz hat.)
 
 Die Tautologie lässt der Wirklichkeit den ganzen – unendlichen – logischen Raum; die Kontradiktion erfüllt den ganzen logischen Raum und lässt der Wirklichkeit keinen Punkt. Keine von beiden kann daher die Wirklichkeit irgendwie bestimmen.
 
 **4.464** Die Wahrheit der Tautologie ist gewiss, des Satzes möglich, der Kontradiktion unmöglich.
 
-(Gewiss, möglich, unmöglich: Hier haben wir das Anzeichen jener Gradation, die wir in der Wahrscheinlichkeitslehre brauchen.)
+\(Gewiss, möglich, unmöglich: Hier haben wir das Anzeichen jener Gradation, die wir in der Wahrscheinlichkeitslehre brauchen.)
 
 **4.465** Das logische Produkt einer Tautologie und eines Satzes sagt dasselbe, wie der Satz. Also ist jenes Produkt identisch mit dem Satz. Denn man kann das Wesentliche des Symbols nicht ändern, ohne seinen Sinn zu ändern.
 
@@ -931,7 +931,7 @@ Die Tautologie lässt der Wirklichkeit den ganzen – unendlichen – logischen 
 
 Das heisst, Sätze die für jede Sachlage wahr sind, können überhaupt keine Zeichenverbindungen sein, denn sonst könnten ihnen nur bestimmte Verbindungen von Gegenständen entsprechen.
 
-(Und keiner logischen Verbindung entspricht *keine* Verbindung der Gegenstände.)
+\(Und keiner logischen Verbindung entspricht *keine* Verbindung der Gegenstände.)
 
 Tautologie und Kontradiktion sind die Grenzfälle der Zeichenverbindung, nämlich ihre Auflösung.
 
@@ -951,7 +951,7 @@ Dass es eine allgemeine Satzform gibt, wird dadurch bewiesen, dass es keinen Sat
 
 **5** Der Satz ist eine Wahrheitsfunktion der Elementarsätze.
 
-(Der Elementarsatz ist eine Wahrheitsfunktion seiner selbst.)
+\(Der Elementarsatz ist eine Wahrheitsfunktion seiner selbst.)
 
 **5.01** Die Elementarsätze sind die Wahrheitsargumente des Satzes.
 
@@ -1010,7 +1010,7 @@ Jeder Satz der einem anderen widerspricht, verneint ihn.
 
 **5.1311** Wenn wir von *p* ∨ *q* und ∼*p* auf *q* schliessen, so ist hier durch die Bezeichnungsweise die Beziehung der Satzformen von „*p* ∨ *q*“ und „∼*p*“ verhüllt. Schreiben wir aber z. B. statt „*p* ∨ *q*“ „*p* \| *q* . \| . *p* \| *q*“ und statt „∼*p*“ „*p* \| *p*“ (*p* \| *q* = weder *p*, noch *q*), so wird der innere Zusammenhang offenbar.
 
-(Dass man aus (*x*) *. fx* auf *fa* schliessen kann, das zeigt, dass die Allgemeinheit auch im Symbol „(*x*) . *fx*“ vorhanden ist.)
+\(Dass man aus (*x*) *. fx* auf *fa* schliessen kann, das zeigt, dass die Allgemeinheit auch im Symbol „(*x*) . *fx*“ vorhanden ist.)
 
 **5.132** Folgt *p* aus *q*, so kann ich von *q* auf *p* schliessen; *p* aus *q* folgern.
 
@@ -1034,7 +1034,7 @@ Der Glaube an den Kausalnexus ist der *Aberglaube*.
 
 **5.1362** Die Willensfreiheit besteht darin, dass zukünftige Handlungen jetzt nicht gewusst werden können. Nur dann könnten wir sie wissen, wenn die Kausalität eine *innere* Notwendigkeit wäre, wie die des logischen Schlusses. – Der Zusammenhang von Wissen und Gewusstem, ist der der logischen Notwendigkeit.
 
-(„A weiss, dass *p* der Fall ist“ ist sinnlos, wenn *p* eine Tautologie ist.)
+\(„A weiss, dass *p* der Fall ist“ ist sinnlos, wenn *p* eine Tautologie ist.)
 
 **5.1363** Wenn daraus, dass ein Satz uns einleuchtet, nicht *folgt*, dass er wahr ist, so ist das Einleuchten auch keine Rechtfertigung für unseren Glauben an seine Wahrheit.
 
@@ -1062,7 +1062,7 @@ Von einander unabhängige Sätze (z. B. irgend zwei Elementarsätze) geben einan
 
 Folgt *p* aus *q*, so gibt der Satz „*q*“ dem Satz „*p*“ die Wahrscheinlichkeit 1. Die Gewissheit des logischen Schlusses ist ein Grenzfall der Wahrscheinlichkeit.
 
-(Anwendung auf Tautologie und Kontradiktion.)
+\(Anwendung auf Tautologie und Kontradiktion.)
 
 **5.153** Ein Satz ist an sich weder wahrscheinlich noch unwahrscheinlich. Ein Ereignis trifft ein, oder es trifft nicht ein, ein Mittelding gibt es nicht.
 
@@ -1080,7 +1080,7 @@ Was ich durch den Versuch bestätige ist, dass das Eintreffen der beiden Ereigni
 
 Sie involviert eine allgemeine Beschreibung einer Satzform. Nur in Ermanglung der Gewissheit gebrauchen wir die Wahrscheinlichkeit. – Wenn wir zwar eine Tatsache nicht vollkommen kennen, wohl aber *etwas* über ihre Form wissen.
 
-(Ein Satz kann zwar ein unvollständiges Bild einer gewissen Sachlage sein, aber er ist immer *ein* vollständiges Bild.)
+\(Ein Satz kann zwar ein unvollständiges Bild einer gewissen Sachlage sein, aber er ist immer *ein* vollständiges Bild.)
 
 Der Wahrscheinlichkeitssatz ist gleichsam ein Auszug aus anderen Sätzen.
 
@@ -1104,7 +1104,7 @@ Der Wahrscheinlichkeitssatz ist gleichsam ein Auszug aus anderen Sätzen.
 
 Verneinung, logische Addition, logische Multiplikation, etc., etc. sind Operationen.
 
-(Die Verneinung verkehrt den Sinn des Satzes.)
+\(Die Verneinung verkehrt den Sinn des Satzes.)
 
 **5.24** Die Operation zeigt sich in einer Variablen; sie zeigt, wie man von einer Form von Sätzen zu einer anderen gelangen kann.
 
@@ -1118,7 +1118,7 @@ Sie bringt den Unterschied der Formen zum Ausdruck. (Und das Gemeinsame zwischen
 
 Die Operation sagt ja nichts aus, nur ihr Resultat, und dies hängt von den Basen der Operation ab.
 
-(Operation und Funktion dürfen nicht miteinander verwechselt werden.)
+\(Operation und Funktion dürfen nicht miteinander verwechselt werden.)
 
 **5.251** Eine Funktion kann nicht ihr eigenes Argument sein, wohl aber kann das Resultat einer Operation ihre eigene Basis werden.
 
@@ -1180,11 +1180,11 @@ Und gäbe es einen Gegenstand, der „∼“ hiesse, so müsste „∼∼*p*“ 
 
 **5.451** Hat die Logik Grundbegriffe, so müssen sie von einander unabhängig sein. Ist ein Grundbegriff eingeführt, so muss er in allen Verbindungen eingeführt sein, worin er überhaupt vorkommt. Man kann ihn also nicht zuerst für *eine* Verbindung, dann noch einmal für eine andere einführen. Z. B.: Ist die Verneinung eingeführt, so müssen wir sie jetzt in Sätzen von der Form „∼*p*“ ebenso verstehen, wie in Sätzen wie „∼(*p* ∨ *q*)“, „(∃*x*) *.* ∼*fx*“ u. a. Wir dürfen sie nicht erst für die eine Klasse von Fällen, dann für die andere einführen, denn es bliebe dann zweifelhaft, ob ihre Bedeutung in beiden Fällen die gleiche wäre und es wäre kein Grund vorhanden, in beiden Fällen dieselbe Art der Zeichenverbindung zu benützen.
 
-(Kurz, für die Einführung der Urzeichen gilt, mutatis mutandis, dasselbe, was Frege („Grundgesetze der Arithmetik“) für die Einführung von Zeichen durch Definitionen gesagt hat.)
+\(Kurz, für die Einführung der Urzeichen gilt, mutatis mutandis, dasselbe, was Frege („Grundgesetze der Arithmetik“) für die Einführung von Zeichen durch Definitionen gesagt hat.)
 
 **5.452** Die Einführung eines neuen Behelfes in den Symbolismus der Logik muss immer ein folgenschweres Ereignis sein. Kein neuer Behelf darf in die Logik – sozusagen, mit ganz unschuldiger Miene – in Klammern oder unter dem Striche eingeführt werden.
 
-(So kommen in den „Principia Mathematica“ von Russell und Whitehead Definitionen und Grundgesetze in Worten vor. Warum hier plötzlich Worte? Dies bedürfte einer Rechtfertigung. Sie fehlt und muss fehlen, da das Vorgehen tatsächlich unerlaubt ist.)
+\(So kommen in den „Principia Mathematica“ von Russell und Whitehead Definitionen und Grundgesetze in Worten vor. Warum hier plötzlich Worte? Dies bedürfte einer Rechtfertigung. Sie fehlt und muss fehlen, da das Vorgehen tatsächlich unerlaubt ist.)
 
 Hat sich aber die Einführung eines neuen Behelfes an einer Stelle als nötig erwiesen, so muss man sich nun sofort fragen: Wo muss dieser Behelf nun *immer* angewandt werden? Seine Stellung in der Logik muss nun erklärt werden.
 
@@ -1244,7 +1244,7 @@ Zeichen, die *Einen* Zweck erfüllen, sind logisch äquivalent, Zeichen, die *ke
 
 **5.4733** Frege sagt: Jeder rechtmässig gebildete Satz muss einen Sinn haben; und ich sage: Jeder mögliche Satz ist rechtmässig gebildet, und wenn er keinen Sinn hat, so kann das nur daran liegen, dass wir einigen seiner Bestandteile keine *Bedeutung* gegeben haben.
 
-(Wenn wir auch glauben, es getan zu haben.)
+\(Wenn wir auch glauben, es getan zu haben.)
 
 So sagt „Sokrates ist identisch“ darum nichts, weil wir dem Wort „identisch“ als *Eigenschaftswort keine* Bedeutung gegeben haben. Denn, wenn es als Gleichheitszeichen auftritt, so symbolisiert es auf ganz andere Art und Weise – die bezeichnende Beziehung ist eine andere, – also ist auch das Symbol in beiden Fällen ganz verschieden; die beiden Symbole haben nur das Zeichen zufällig miteinander gemein.
 
@@ -1260,7 +1260,7 @@ Diese Operation verneint sämtliche Sätze in der rechten Klammer und ich nenne 
 
 **5.501** Einen Klammerausdruck, dessen Glieder Sätze sind, deute ich – wenn die Reihenfolge der Glieder in der Klammer gleichgültig ist – durch ein Zeichen von der Form „${\displaystyle ({\bar {\xi }}}$)“ an. „*ξ*“ ist eine Variable, deren Werte die Glieder des Klammerausdruckes sind; und der Strich über der Variablen deutet an, dass sie ihre sämtlichen Werte in der Klammer vertritt.
 
-(Hat also *ξ* etwa die 3 Werte P, Q, R, so ist ${\displaystyle ({\bar {\xi }})}$ = (P, Q, R).)
+\(Hat also *ξ* etwa die 3 Werte P, Q, R, so ist ${\displaystyle ({\bar {\xi }})}$ = (P, Q, R).)
 
 Die Werte der Variablen werden festgesetzt.
 
@@ -1334,7 +1334,7 @@ Kennzeichen des zusammengesetzten Symbols: Es hat etwas mit *anderen* Symbolen g
 
 **5.5262** Es verändert ja die Wahr- oder Falschheit *jedes* Satzes etwas am allgemeinen Bau der Welt. Und der Spielraum, welcher ihrem Bau durch die Gesamtheit der Elementarsätze gelassen wird, ist eben derjenige, welchen die ganz allgemeinen Sätze begrenzen.
 
-(Wenn ein Elementarsatz wahr ist, so ist damit doch jedenfalls Ein Elementarsatz *mehr* wahr.)
+\(Wenn ein Elementarsatz wahr ist, so ist damit doch jedenfalls Ein Elementarsatz *mehr* wahr.)
 
 **5.53** Gleichheit des Gegenstandes drücke ich durch Gleichheit des Zeichens aus, und nicht mit Hilfe eines Gleichheitszeichens. Verschiedenheit der Gegenstände durch Verschiedenheit der Zeichen.
 
@@ -1350,7 +1350,7 @@ Man könnte nun freilich sagen, dass eben *nur* *a* diese Beziehung zu *a* habe,
 
 **5.532** Und analog: Nicht „(∃*x, y*) *. f* (*x, y*) *. x* = *y*“, sondern „(∃*x*) *. f* (*x, x*)“; und nicht „(∃*x, y*) *. f* (*x, y*) *.* ∼*x* = *y*“, sondern „(∃*x, y*) *. f* (*x, y*)“.
 
-(Also statt des Russell’schen „(∃*x, y*) *. f* (*x, y*)“: „(∃*x, y*) *. f* (*x, y*) *.* ∨ *.* (∃*x*) *. f* (*x, x*)“.)
+\(Also statt des Russell’schen „(∃*x, y*) *. f* (*x, y*)“: „(∃*x, y*) *. f* (*x, y*) *.* ∨ *.* (∃*x*) *. f* (*x, x*)“.)
 
 **5.5321** Statt „(*x*) : *fx* ⊃ *x* = *a*“ schreiben wir also z. B. „(∃*x*) *. fx.* ⊃ *.fa* : ∼(∃*x, y*) *. fx . fy*“.
 
@@ -1368,7 +1368,7 @@ Das, was das Axiom of infinity sagen soll, würde sich in der Sprache dadurch au
 
 **5.5351** Es gibt gewisse Fälle, wo man in Versuchung gerät, Ausdrücke von der Form „*a* = *a*“ oder „*p* ⊃ *p*“ u. dgl. zu benützen. Und zwar geschieht dies, wenn man von dem Urbild: Satz, Ding, etc. reden möchte. So hat Russell in den „Principles of Mathematics“ den Unsinn „*p* ist ein Satz“ in Symbolen durch „*p* ⊃ *p*“ wiedergegeben und als Hypothese vor gewisse Sätze gestellt, damit deren Argumentstellen nur von Sätzen besetzt werden könnten.
 
-(Es ist schon darum Unsinn, die Hypothese *p* ⊃ *p* vor einen Satz zu stellen, um ihm Argumente der richtigen Form zu sichern, weil die Hypothese für einen Nicht-Satz als Argument nicht falsch, sondern unsinnig wird, und weil der Satz selbst durch die unrichtige Gattung von Argumenten unsinnig wird, also sich selbst ebenso gut, oder so schlecht, vor den unrechten Argumenten bewahrt, wie die zu diesem Zweck angehängte sinnlose Hypothese.)
+\(Es ist schon darum Unsinn, die Hypothese *p* ⊃ *p* vor einen Satz zu stellen, um ihm Argumente der richtigen Form zu sichern, weil die Hypothese für einen Nicht-Satz als Argument nicht falsch, sondern unsinnig wird, und weil der Satz selbst durch die unrichtige Gattung von Argumenten unsinnig wird, also sich selbst ebenso gut, oder so schlecht, vor den unrechten Argumenten bewahrt, wie die zu diesem Zweck angehängte sinnlose Hypothese.)
 
 **5.5352** Ebenso wollte man „Es gibt keine *Dinge*“ ausdrücken durch „∼(∃*x*) *. x* = *x*“. Aber selbst wenn dies ein Satz wäre, – wäre er nicht auch wahr, wenn es zwar „Dinge gäbe“, aber diese nicht mit sich selbst identisch wären?
 
@@ -1380,7 +1380,7 @@ Besonders in gewissen Satzformen der Psychologie, wie „A glaubt, dass *p* der 
 
 Hier scheint es nämlich oberflächlich, als stünde der Satz *p* zu einem Gegenstand A in einer Art von Relation.
 
-(Und in der modernen Erkenntnistheorie (Russell, Moore, etc.) sind jene Sätze auch so aufgefasst worden.)
+\(Und in der modernen Erkenntnistheorie (Russell, Moore, etc.) sind jene Sätze auch so aufgefasst worden.)
 
 **5.542** Es ist aber klar, dass „A glaubt, dass *p*“, „A denkt *p*“, „A sagt *p*“ von der Form „‚*p*‘ sagt *p*“ sind: Und hier handelt es sich nicht um eine Zuordnung von einer Tatsache und einem Gegenstand, sondern um die Zuordnung von Tatsachen durch Zuordnung ihrer Gegenstände.
 
@@ -1398,7 +1398,7 @@ Dies erklärt wohl auch, dass man die Figur
 
 auf zweierlei Art als Würfel sehen kann; und alle ähnlichen Erscheinungen. Denn wir sehen eben wirklich zwei verschiedene Tatsachen.
 
-(Sehe ich erst auf die Ecken *a* und nur flüchtig auf *b*, so erscheint *a* vorne; und umgekehrt.)
+\(Sehe ich erst auf die Ecken *a* und nur flüchtig auf *b*, so erscheint *a* vorne; und umgekehrt.)
 
 **5.55** Wir müssen nun die Frage nach allen möglichen Formen der Elementarsätze a priori beantworten.
 
@@ -1406,7 +1406,7 @@ Der Elementarsatz besteht aus Namen. Da wir aber die Anzahl der Namen von versch
 
 **5.551** Unser Grundsatz ist, dass jede Frage, die sich überhaupt durch die Logik entscheiden lässt, sich ohne weiteres entscheiden lassen muss.
 
-(Und wenn wir in die Lage kommen, ein solches Problem durch Ansehen der Welt beantworten zu müssen, so zeigt dies, dass wir auf grundfalscher Fährte sind.)
+\(Und wenn wir in die Lage kommen, ein solches Problem durch Ansehen der Welt beantworten zu müssen, so zeigt dies, dass wir auf grundfalscher Fährte sind.)
 
 **5.552** Die „Erfahrung“, die wir zum Verstehen der Logik brauchen, ist nicht die, dass sich etwas so und so verhält, sondern, dass etwas *ist*: aber das ist eben *keine* Erfahrung.
 
@@ -1416,7 +1416,7 @@ Die Logik ist *vor* jeder Erfahrung – dass etwas *so* ist. Sie ist vor dem Wie
 
 **5.553** Russell sagte, es gäbe einfache Relationen zwischen verschiedenen Anzahlen von Dingen (Individuals). Aber zwischen welchen Anzahlen? Und wie soll sich das entscheiden? – Durch die Erfahrung?
 
-(Eine ausgezeichnete Zahl gibt es nicht.)
+\(Eine ausgezeichnete Zahl gibt es nicht.)
 
 **5.554** Die Angabe jeder speziellen Form wäre vollkommen willkürlich.
 
@@ -1442,7 +1442,7 @@ Die Hierarchien sind, und müssen unabhängig von der Realität sein.
 
 **5.5563** Alle Sätze unserer Umgangssprache sind tatsächlich, so wie sie sind, logisch vollkommen geordnet. – Jenes Einfachste, was wir hier angeben sollen, ist nicht ein Gleichnis der Wahrheit, sondern die volle Wahrheit selbst.
 
-(Unsere Probleme sind nicht abstrakt, sondern vielleicht die konkretesten, die es gibt.)
+\(Unsere Probleme sind nicht abstrakt, sondern vielleicht die konkretesten, die es gibt.)
 
 **5.557** Die *Anwendung* der Logik entscheidet darüber, welche Elementarsätze es gibt.
 
@@ -1541,7 +1541,7 @@ ${\displaystyle 0+1+1=2{\text{ Def.}}}$
 
 ${\displaystyle 0+1+1+1=3{\text{ Def.}}}$
 
-(u. s. f.)
+\(u. s. f.)
 
 **6.021** Die Zahl ist der Exponent einer Operation.
 
@@ -1617,7 +1617,7 @@ Dass z. B. „*q*“ aus „*p* ⊃ *q . p*“ folgt, ersehen wir aus diesen bei
 
 **6.123** Es ist klar: Die logischen Gesetze dürfen nicht selbst wieder logischen Gesetzen unterstehen.
 
-(Es gibt nicht, wie Russell meinte, für jede „Type“ ein eigenes Gesetz des Widerspruches, sondern Eines genügt, da es auf sich selbst nicht angewendet wird.)
+\(Es gibt nicht, wie Russell meinte, für jede „Type“ ein eigenes Gesetz des Widerspruches, sondern Eines genügt, da es auf sich selbst nicht angewendet wird.)
 
 **6.1231** Das Anzeichen des logischen Satzes ist *nicht* die Allgemeingültigkeit.
 
@@ -1667,7 +1667,7 @@ Die Sätze der Mathematik sind Gleichungen also Scheinsätze.
 
 **6.211** Im Leben ist es ja nie der mathematische Satz, den wir brauchen, sondern wir benützen den mathematischen Satz *nur*, um aus Sätzen, welche nicht der Mathematik angehören, auf andere zu schliessen, welche gleichfalls nicht der Mathematik angehören.
 
-(In der Philosophie führt die Frage „wozu gebrauchen wir eigentlich jenes Wort, jenen Satz“ immer wieder zu wertvollen Einsichten.)
+\(In der Philosophie führt die Frage „wozu gebrauchen wir eigentlich jenes Wort, jenen Satz“ immer wieder zu wertvollen Einsichten.)
 
 **6.22** Die Logik der Welt, die die Sätze der Logik in den Tautologien zeigen, zeigt die Mathematik in den Gleichungen.
 
@@ -1727,7 +1727,7 @@ ${\displaystyle (\Omega '\Omega )^{\prime }(\Omega '\Omega )^{\prime }x=\Omega '
 
 **6.341** Die Newtonsche Mechanik z. B. bringt die Weltbeschreibung auf eine einheitliche Form. Denken wir uns eine weisse Fläche, auf der unregelmässige schwarze Flecken wären. Wir sagen nun: Was für ein Bild immer hierdurch entsteht, immer kann ich seiner Beschreibung beliebig nahe kommen, indem ich die Fläche mit einem entsprechend feinen quadratischen Netzwerk bedecke und nun von jedem Quadrat sage, dass es weiss oder schwarz ist. Ich werde auf diese Weise die Beschreibung der Fläche auf eine einheitliche Form gebracht haben. Diese Form ist beliebig, denn ich hätte mit dem gleichen Erfolge ein Netz aus dreieckigen oder sechseckigen Maschen verwenden können. Es kann sein, dass die Beschreibung mit Hilfe eines Dreiecks-Netzes einfacher geworden wäre; das heisst, dass wir die Fläche mit einem gröberen Dreiecks-Netz genauer beschreiben könnten, als mit einem feineren quadratischen (oder umgekehrt) u. s. w. Den verschiedenen Netzen entsprechen verschiedene Systeme der Weltbeschreibung. Die Mechanik bestimmt eine Form der Weltbeschreibung, indem sie sagt: Alle Sätze der Weltbeschreibung müssen aus einer Anzahl gegebener Sätze – den mechanischen Axiomen – auf eine gegebene Art und Weise erhalten werden. Hierdurch liefert sie die Bausteine zum Bau des wissenschaftlichen Gebäudes und sagt: Welches Gebäude immer du aufführen willst, jedes musst du irgendwie mit diesen und nur diesen Bausteinen zusammenbringen.
 
-(Wie man mit dem Zahlensystem jede beliebige Anzahl, so muss man mit dem System der Mechanik jeden beliebigen Satz der Physik hinschreiben können.)
+\(Wie man mit dem Zahlensystem jede beliebige Anzahl, so muss man mit dem System der Mechanik jeden beliebigen Satz der Physik hinschreiben können.)
 
 **6.342** Und nun sehen wir die gegenseitige Stellung von Logik und Mechanik. (Man könnte das Netz auch aus verschiedenartigen Figuren etwa aus Dreiecken und Sechsecken bestehen lassen.) Dass sich ein Bild, wie das vorhin erwähnte, durch ein Netz von gegebener Form beschreiben lässt, sagt über das Bild *nichts* aus. (Denn dies gilt für jedes Bild dieser Art.) *Das* aber charakterisiert das Bild, dass es sich durch ein bestimmtes Netz von *bestimmter* Feinheit *vollständig* beschreiben lässt.
 
@@ -1789,7 +1789,7 @@ Und sie haben ja beide Recht, und Unrecht. Die Alten sind allerdings insofern kl
 
 Denken wir daran, wie sich dieser Widerspruch in der Physik darstellt: Ungefähr so, dass ein Teilchen nicht zu gleicher Zeit zwei Geschwindigkeiten haben kann; das heisst, dass es nicht zu gleicher Zeit an zwei Orten sein kann; das heisst, dass Teilchen an verschiedenen Orten zu Einer Zeit nicht identisch sein können.
 
-(Es ist klar, dass das logische Produkt zweier Elementarsätze weder eine Tautologie noch eine Kontradiktion sein kann. Die Aussage, dass ein Punkt des Gesichtsfeldes zu gleicher Zeit zwei verschiedene Farben hat, ist eine Kontradiktion.)
+\(Es ist klar, dass das logische Produkt zweier Elementarsätze weder eine Tautologie noch eine Kontradiktion sein kann. Die Aussage, dass ein Punkt des Gesichtsfeldes zu gleicher Zeit zwei verschiedene Farben hat, ist eine Kontradiktion.)
 
 **6.4** Alle Sätze sind gleichwertig.
 
@@ -1805,11 +1805,11 @@ Es muss ausserhalb der Welt liegen.
 
 **6.421** Es ist klar, dass sich die Ethik nicht aussprechen lässt. Die Ethik ist transcendental.
 
-(Ethik und Aesthetik sind Eins.)
+\(Ethik und Aesthetik sind Eins.)
 
 **6.422** Der erste Gedanke bei der Aufstellung eines ethischen Gesetzes von der Form „du sollst *. . . .*“ ist: Und was dann, wenn ich es nicht tue? Es ist aber klar, dass die Ethik nichts mit Strafe und Lohn im gewöhnlichen Sinne zu tun hat. Also muss diese Frage nach den *Folgen* einer Handlung belanglos sein. – Zum Mindesten dürfen diese Folgen nicht Ereignisse sein. Denn etwas muss doch an jener Fragestellung richtig sein. Es muss zwar eine Art von ethischem Lohn und ethischer Strafe geben, aber diese müssen in der Handlung selbst liegen.
 
-(Und das ist auch klar, dass der Lohn etwas Angenehmes, die Strafe etwas Unangenehmes sein muss.)
+\(Und das ist auch klar, dass der Lohn etwas Angenehmes, die Strafe etwas Unangenehmes sein muss.)
 
 **6.423** Vom Willen als dem Träger des Ethischen kann nicht gesprochen werden.
 
@@ -1831,7 +1831,7 @@ Unser Leben ist ebenso endlos, wie unser Gesichtsfeld grenzenlos ist.
 
 **6.4312** Die zeitliche Unsterblichkeit der Seele des Menschen, das heisst also ihr ewiges Fortleben auch nach dem Tode, ist nicht nur auf keine Weise verbürgt, sondern vor allem leistet diese Annahme gar nicht das, was man immer mit ihr erreichen wollte. Wird denn dadurch ein Rätsel gelöst, dass ich ewig fortlebe? Ist denn dieses ewige Leben dann nicht ebenso rätselhaft wie das gegenwärtige? Die Lösung des Rätsels des Lebens in Raum und Zeit liegt *ausserhalb* von Raum und Zeit.
 
-(Nicht Probleme der Naturwissenschaft sind ja zu lösen.)
+\(Nicht Probleme der Naturwissenschaft sind ja zu lösen.)
 
 **6.432** *Wie* die Welt ist, ist für das Höhere vollkommen gleichgültig. Gott offenbart sich nicht *in* der Welt.
 
@@ -1857,7 +1857,7 @@ Denn Zweifel kann nur bestehen, wo eine Frage besteht; eine Frage nur, wo eine A
 
 **6.521** Die Lösung des Problems des Lebens merkt man am Verschwinden dieses Problems.
 
-(Ist nicht dies der Grund, warum Menschen, denen der Sinn des Lebens nach langen Zweifeln klar wurde, warum diese dann nicht sagen konnten, worin dieser Sinn bestand.)
+\(Ist nicht dies der Grund, warum Menschen, denen der Sinn des Lebens nach langen Zweifeln klar wurde, warum diese dann nicht sagen konnten, worin dieser Sinn bestand.)
 
 **6.522** Es gibt allerdings Unaussprechliches. Dies *zeigt* sich, es ist das Mystische.
 

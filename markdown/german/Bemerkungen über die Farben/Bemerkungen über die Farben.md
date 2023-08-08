@@ -91,7 +91,7 @@ Ist das Muster rosa, himmelblau, lila, so wird man sich das Glas *trübe* denken
 
 **32.** Sätze werden oft an der Grenze von Logik und Empirie gebraucht, so daß ihr Sinn über die Grenze hin und her wechselt und sie bald als Ausdruck einer Norm, bald als Ausdruck einer Erfahrung gelten.
 
-(Denn es ist ja nicht eine psychische Begleiterscheinung – so stellt man sich den 'Gedanken' vor –, sondern die Verwendung, die den logischen vom Erfahrungssatz unterscheidet.)
+\(Denn es ist ja nicht eine psychische Begleiterscheinung – so stellt man sich den 'Gedanken' vor –, sondern die Verwendung, die den logischen vom Erfahrungssatz unterscheidet.)
 
 **33.** Man redet von der 'Farbe des Goldes' und meint nicht Gelb. "Goldfarben" ist die Eigenschaft einer Oberfläche, welche glänzt, oder schimmert.
 
@@ -385,7 +385,7 @@ Und doch ist *ein* Gebrauch des Begriffes der Zwischenfarbe auch, die Farbenmisc
 
 Und es könnte auch sein, daß wir, z.B. für wissenschaftliche Zwecke, einen neuen Begriff des 'reinen Weiß' *einführen*.
 
-(Ein solcher neuer Begriff entspräche dann etwa dem chemischen Begriff eines 'Salzes'.)
+\(Ein solcher neuer Begriff entspräche dann etwa dem chemischen Begriff eines 'Salzes'.)
 
 **37.** Inwiefern ist Weiß und Schwarz mit Gelb, Rot und Blau zu vergleichen, und inwiefern nicht?
 
@@ -655,7 +655,7 @@ Aber warum sollte ich das "weißes Glas" nennen?
 
 **139.** Ich kann einen Körper betrachten und etwa eine matte weiße Fläche *sehen*, d.h. den *Eindruck* so einer Fläche erhalten, oder den *Eindruck* der Durchsichtigkeit (ob sie nun vorhanden ist oder nicht). Dieser Eindruck mag durch die Verteilung der Farben hervorgebracht werden und an ihm sind Weiß und die andern Farben nicht in *gleicher* Weise beteiligt.
 
-(Ich habe eine grünlich angestrichene Blechkuppel für durch scheinendes grünliches Glas gehalten, ohne zur Zeit zu wissen, welche Besonderheit der Farbenverteilung diesen Schein hervorbrachte.)
+\(Ich habe eine grünlich angestrichene Blechkuppel für durch scheinendes grünliches Glas gehalten, ohne zur Zeit zu wissen, welche Besonderheit der Farbenverteilung diesen Schein hervorbrachte.)
 
 **140.** Und in dem Gesichtseindruck eines durchsichtigen Körpers kann wohl Weiß vorkommen, z. B. als Spiegelung, als Glanzlicht. D.h.: Wenn der Eindruck als durchsichtig empfunden wird, wird das Weiß, was wir sehen, eben nicht als Weiß des Körpers *gedeutet*.
 

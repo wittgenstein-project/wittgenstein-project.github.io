@@ -293,7 +293,7 @@ Es gibt da überhaupt ein Aufmerken. Während man nicht das Vergessen des Gewuß
 
 **85.** Man sagt wohl überhaupt kaum, man habe etwas seit gestern »ununterbrochen« geglaubt, verstanden oder beabsichtigt. Eine Unterbrechung des Glaubens wäre eine Zeit des Unglaubens, nicht z. B. die Abwendung der Aufmerksamkeit von dem Geglaubten, z. B. der Schlaf.
 
-(Unterschied zwischen ›knowing‹ und ›being aware of‹.)
+\(Unterschied zwischen ›knowing‹ und ›being aware of‹.)
 
 **86.** Das Wichtigste ist hier dies: es besteht ein Unterschied; man merkt den Unterschied ›der ein kategorischer ist‹ – ohne sagen zu können, worin er besteht. Das ist der Fall, in dem man gewöhnlich sagt, man erkenne den Unterschied eben durch Introspektion.
 
@@ -579,39 +579,39 @@ Dies‌ Spiel‌ könnte‌ man‌ durch‌ eines‌ ergänzen,‌ in‌ welchem
 
 ‌(a)‌ Weil‌ es‌ die‌ klare‌ Darstellung‌ einer‌ Gruppe‌ räumlicher‌ Gegenstände‌ ist.‌
 
-(b)‌ Weil‌ es‌ die‌ Darstellung‌ eines‌ regelmäßigen‌ Körpers‌ ist.‌
+\(b)‌ Weil‌ es‌ die‌ Darstellung‌ eines‌ regelmäßigen‌ Körpers‌ ist.‌
 
-(c)‌ Weil‌ es‌ eine‌ symmetrische‌ Figur‌ ist.‌
+\(c)‌ Weil‌ es‌ eine‌ symmetrische‌ Figur‌ ist.‌
 
-(d) Weil es eine Figur ist, die mir einen ornamentalen Eindruck macht.
+\(d) Weil es eine Figur ist, die mir einen ornamentalen Eindruck macht.
 
-(e) Weil es die Darstellung eines Körpers ist, der mir bekannt vorkommt.
+\(e) Weil es die Darstellung eines Körpers ist, der mir bekannt vorkommt.
 
-(f) Weil es eine Liste von Auflösungen gibt und diese Figur (dieser Körper) auf der Liste steht.
+\(f) Weil es eine Liste von Auflösungen gibt und diese Figur (dieser Körper) auf der Liste steht.
 
-(g) Weil es eine Art von Gegenstand darstellt, die ich wohl kenne: denn er macht mir den augenblicklichen Eindruck der Wohlbekanntheit, ich verbinde augenblicklich alle möglichen Assoziationen mit ihm; ich weiß, wie er heißt; ich weiß, daß ich ihn oft gesehen habe; ich weiß, wozu man ihn gebraucht; etc.
+\(g) Weil es eine Art von Gegenstand darstellt, die ich wohl kenne: denn er macht mir den augenblicklichen Eindruck der Wohlbekanntheit, ich verbinde augenblicklich alle möglichen Assoziationen mit ihm; ich weiß, wie er heißt; ich weiß, daß ich ihn oft gesehen habe; ich weiß, wozu man ihn gebraucht; etc.
 
-(h) Weil ich den Gegenstand wohl zu kennen scheine: es fällt mir sogleich ein Wort als sein Name ein (obwohl das Wort keiner bestehenden Sprache angehört); ich sage mir »Natürlich, das ist ja ein .....« und gebe mir eine unsinnige Erklärung, die mir in diesem Augenblick sinnvoll erscheint. (Wie im Traum.)
+\(h) Weil ich den Gegenstand wohl zu kennen scheine: es fällt mir sogleich ein Wort als sein Name ein (obwohl das Wort keiner bestehenden Sprache angehört); ich sage mir »Natürlich, das ist ja ein .....« und gebe mir eine unsinnige Erklärung, die mir in diesem Augenblick sinnvoll erscheint. (Wie im Traum.)
 
-(i) Weil es ein Gesicht darstellt, welches mir bekannt vorkommt.
+\(i) Weil es ein Gesicht darstellt, welches mir bekannt vorkommt.
 
-(j) Weil es ein Gesicht darstellt, welches ich erkenne: es ist das Gesicht meines Freundes N; es ist ein Gesicht, welches ich oft abgebildet gesehen habe. Etc.
+\(j) Weil es ein Gesicht darstellt, welches ich erkenne: es ist das Gesicht meines Freundes N; es ist ein Gesicht, welches ich oft abgebildet gesehen habe. Etc.
 
-(k) Weil es einen Gegenstand darstellt, den ich mich erinnere, einmal gesehen zu haben.
+\(k) Weil es einen Gegenstand darstellt, den ich mich erinnere, einmal gesehen zu haben.
 
-(l) Weil es ein Ornament ist, das ich gut kenne (obwohl ich nicht weiß, wo ich es gesehen habe).
+\(l) Weil es ein Ornament ist, das ich gut kenne (obwohl ich nicht weiß, wo ich es gesehen habe).
 
-(m) Weil es ein Ornament ist, das ich gut kenne: ich kenne seinen Namen, weiß, wo ich es schon gesehen habe.
+\(m) Weil es ein Ornament ist, das ich gut kenne: ich kenne seinen Namen, weiß, wo ich es schon gesehen habe.
 
-(n) Weil es einen Einrichtungsgegenstand meines Zimmers darstellt.
+\(n) Weil es einen Einrichtungsgegenstand meines Zimmers darstellt.
 
-(o) Weil ich instinktiv diese Striche nachgezogen habe und mich nun beruhigt fühle.
+\(o) Weil ich instinktiv diese Striche nachgezogen habe und mich nun beruhigt fühle.
 
-(p) Weil ich mich erinnere, daß dieser Gegenstand beschrieben worden ist.
+\(p) Weil ich mich erinnere, daß dieser Gegenstand beschrieben worden ist.
 
 U\. s. w.
 
-(Wer nicht versteht, warum wir über diese Dinge reden, muß, was wir sagen, als leere Spielerei empfinden.)
+\(Wer nicht versteht, warum wir über diese Dinge reden, muß, was wir sagen, als leere Spielerei empfinden.)
 
 **198.** Kann ich mir den Eindruck der Bekanntschaft wegdenken, wo er ist; und hinzudenken, wo er nicht ist? Und was heißt das? Ich sehe z. B. das Gesicht eines Freundes an und frage mich: Wie schaut dieses Gesicht aus, wenn ich es als ein mir fremdes Gesicht sehe (als sähe ich es etwa jetzt zum erstenmal)? Was bleibt sozusagen von dem Anblick des Gesichts, wenn ich den Eindruck der Bekanntheit wegdenke, abziehe? Hier bin ich nun geneigt zu sagen: »Es ist *sehr schwer*, die Bekanntheit von dem Eindruck des Gesichts zu trennen.« Aber ich fühle auch, daß das eine schlechte Ausdrucksweise ist. Ich weiß nämlich gar nicht, wie ich es auch nur versuchen soll, diese beiden zu trennen. Der Ausdruck »sie trennen« hat für mich gar keinen klaren Sinn.
 
@@ -685,7 +685,7 @@ Wenn ich nun sagte: »Es ist nicht genug, daß ich das drohende Gesicht wahrnehm
 
 Schaust du in *dich*, um den Grimm in *seinem* Gesicht zu erkennen? Er ist dort so deutlich wie in deiner eigenen Brust.
 
-(Und was will man nun sagen? Daß das Gesicht des Andern mich zur Nachahmung anregt, und daß ich also kleine Bewegungen und Muskelspannungen im eigenen empfinde und die Summe dieser *meine*? Unsinn. Unsinn, – denn du machst Annahmen statt bloß zu beschreiben. Wem hier Erklärungen im Kopf spuken, der vernachlässigt es, sich auf die wichtigsten Tatsachen zu besinnen.)
+\(Und was will man nun sagen? Daß das Gesicht des Andern mich zur Nachahmung anregt, und daß ich also kleine Bewegungen und Muskelspannungen im eigenen empfinde und die Summe dieser *meine*? Unsinn. Unsinn, – denn du machst Annahmen statt bloß zu beschreiben. Wem hier Erklärungen im Kopf spuken, der vernachlässigt es, sich auf die wichtigsten Tatsachen zu besinnen.)
 
 **221.** »Das Bewußtsein ist so deutlich in seinem Gesicht und Benehmen, wie in mir selbst.«
 
@@ -725,7 +725,7 @@ Denken wir eine Zeichensprache, eine ›abstrakte‹, ich meine eine, die uns fr
 
 **233.** »Nur das intendierte Bild reicht als Maßstab an die Wirklichkeit heran. Von außen betrachtet, steht es gleich tot und isoliert da.« – Es ist, als hätten wir ein Bild erst so angeschaut, daß wir in ihm leben und die Gegenstände in ihm uns als wirkliche umgeben, und dann traten wir zurück und wären nun außerhalb, sähen den Rahmen, und das Bild wäre eine bemalte Fläche. So, wenn wir intendieren, umgeben uns die *Bilder* der Intention, und wir leben unter ihnen. Aber wenn wir aus der Intention heraustreten, so sind es bloße Flecke auf einer Leinwand, ohne Leben und ohne Interesse für uns. Wenn wir intendieren, leben wir im Raum der Intention, unter den Bildern (Schatten) der Intention zugleich mit den wirklichen Dingen. Denken wir, wir sitzen im verdunkelten Kino und leben im Film. Der Saal wird nun erhellt, aber das Lichtspiel auf der Leinwand geht weiter. Aber jetzt stehen wir plötzlich außerhalb und sehen es als Bewegungen von lichten und dunkeln Flecken auf einer Leinwand.
 
-(Im Traum geschieht es manchmal, daß wir eine Geschichte erst lesen und dann in ihr selbst agieren. Und nach dem Aufwachen aus einem Traum ist es manchmal, als wären wir aus dem Traum heraus zurückgetreten und sehen ihn jetzt als ein fremdes Bild vor uns.) Und es heißt auch etwas, »in den Seiten eines Buches leben«.
+\(Im Traum geschieht es manchmal, daß wir eine Geschichte erst lesen und dann in ihr selbst agieren. Und nach dem Aufwachen aus einem Traum ist es manchmal, als wären wir aus dem Traum heraus zurückgetreten und sehen ihn jetzt als ein fremdes Bild vor uns.) Und es heißt auch etwas, »in den Seiten eines Buches leben«.
 
 **234.** Nicht das findet statt, daß sich dieses Symbol nicht mehr deuten läßt, sondern: ich deute nicht. Ich deute nicht, weil ich mich in dem gegenwärtigen Bild heimisch fühle. Wenn ich deute, so schreite ich auf dem Gedankenweg von Stufe zu Stufe.
 
@@ -787,7 +787,7 @@ nur mit 4 Ausdehnungen?« – Nein; das *meine* ich nicht! –– Was aber meine
 
 **250.** Sind die Rosen rot im Finstern? – Man kann an die Rose im Finstern als rot denken. –
 
-(Daß man sich etwas ›denken‹ kann, sagt nicht, daß es Sinn hat, es zu sagen.)
+\(Daß man sich etwas ›denken‹ kann, sagt nicht, daß es Sinn hat, es zu sagen.)
 
 **251.** »Die Annahme, daß dieser Mensch – der sich ganz normal benimmt – dennoch blind ist, hat doch Sinn!« – D. h.: ›es ist doch eine Annahme‹, ›ich kann doch so etwas wirklich annehmen‹. Und das heißt: ich mache mir doch ein Bild von dem, was ich annehme. Wohl, aber geht es weiter? Wenn ich die Annahme, daß einer blind ist, unter andern Umständen mache, bestätige ich mir doch nie, daß diese Annahme wirklich Sinn hat. Und daß ich mir dabei wirklich etwas denke, ein Bild habe, spielt dann gar keine Rolle. Dieses Bild wird erst hier wichtig, wo es sozusagen der einzige Anhaltspunkt dafür ist, daß ich wirklich eine Annahme gemacht habe. Ja es ist alles, was von der Annahme hier noch übrig ist.
 
@@ -807,7 +807,7 @@ Ich kann auch nicht die Zeit als begrenzt empfinden, wenn ich will, oder das Ges
 
 **257.** Wäre es möglich, eine *neue* Farbe zu entdecken? (Denn der Farbenblinde ist ja in derselben Lage wie wir, seine Farben bilden ein ebenso komplettes System, wie die unsern; er sieht keine Lücke, wo die übrigen Farben noch hinein gehörten.)
 
-(Vergleich mit der Mathematik.)
+\(Vergleich mit der Mathematik.)
 
 **258.** Man kann in der Logik die Allgemeinheit nicht weiter ausdehnen, als unsere logische Voraussicht reicht. Oder richtiger: als unser logischer Blick reicht.
 
@@ -821,7 +821,7 @@ Es wird ein falscher *Schein* erzeugt? Und wie kann es auch nur So *scheinen*? W
 
 **262.** »Ich kann doch nicht in den Gedanken, durch Worte, eine Voraussicht erschleichen von etwas, was ich *nicht kenne*.
 
-(Nihil est in intellectu .....)
+\(Nihil est in intellectu .....)
 
 Als könnte ich in den Gedanken gleichsam von hinten herum kommen und einen Blick von etwas erhaschen, was von vorn zu sehen unmöglich ist.«
 
@@ -1003,7 +1003,7 @@ Kann man aber nicht doch in irgendeinem Sinne sagen, daß die Grammatik der Farb
 
 **332.** Glaub doch nicht, daß du den Begriff der Farbe in dir hältst, weil du auf ein farbiges Objekt schaust, – wie immer du schaust.
 
-(So wenig, wie du den Begriff der negativen Zahl besitzt, dadurch, daß du Schulden hast.)
+\(So wenig, wie du den Begriff der negativen Zahl besitzt, dadurch, daß du Schulden hast.)
 
 **333.** »Rot ist etwas Spezifisches«, das müßte soviel heißen, wie: »Das ist etwas Spezifisches« – wobei man auf etwas Rotes deutet. Aber damit das verständlich wäre, müßte man schon unsern *Begriff* ›rot‹, den Gebrauch jenes Musters, meinen.
 
@@ -1323,7 +1323,7 @@ Es ist jene Redeweise, die uns hindert, die Tatsachen unparteiisch zu sehen. Bet
 
 **447.** Die Unruhe in der Philosophie, könnte man sagen, kommt daher, daß wir die Philosophie falsch ansehen, falsch sehen, nämlich gleichsam in (endlose) Längsstreifen zerlegt, statt in (begrenzte) Querstreifen. Diese Umstellung der Auffassung macht die *größte* Schwierigkeit. Wir wollen also gleichsam den unbegrenzten Streifen erfassen und klagen, daß es nicht Stück für Stück möglich ist. Freilich nicht, wenn man unter einem Stück einen endlosen Längsstreifen versteht. Wohl aber, wenn man einen Querstreifen darunter versteht. – Aber dann kommen wir ja mit unserer Arbeit wieder nicht zu Ende! – Freilich nicht, denn sie hat keins.
 
-(Statt der turbulenten Mutmaßungen und Erklärungen wollen wir ruhige Erwägung sprachlicher Tatsachen setzen.)
+\(Statt der turbulenten Mutmaßungen und Erklärungen wollen wir ruhige Erwägung sprachlicher Tatsachen setzen.)
 
 **448.** Und sagt man denn vom Satz »Es regnet«, er sage: es verhält sich so und so? Welches ist denn der alltägliche Gebrauch dieses Ausdrucks in der gewöhnlichen Sprache? Denn von diesem Gebrauch hast ja du ihn gelernt. Verwendest du ihn nun gegen seinen ursprünglichen Gebrauch und denkst, du spielest noch das alte Spiel mit ihm, so ist das, als wenn du mit Schachfiguren Dame spieltest und dir einbildetest, das Spiel habe noch etwas vom Geist des Schach.
 
@@ -1651,9 +1651,9 @@ Von der einen könnte man also doch sagen, sie hinge mit einer Analogie zusammen
 
 Das kann man nicht mehr »Verstellung« nennen.
 
-(Denn man hätte nicht gesagt, die Planeten *müssen* sich in Kreisen bewegen, wenn es nicht geschienen hätte, *daß* sie sich in Kreisen bewegen.)
+\(Denn man hätte nicht gesagt, die Planeten *müssen* sich in Kreisen bewegen, wenn es nicht geschienen hätte, *daß* sie sich in Kreisen bewegen.)
 
-(Vergleiche: »So kann man nicht reden ohne zu denken«, »So kann man nicht unwillkürlich handeln.«)
+\(Vergleiche: »So kann man nicht reden ohne zu denken«, »So kann man nicht unwillkürlich handeln.«)
 
 **571.** »Könntest du dir nicht eine weitere Umgebung denken, in der auch das noch als Verstellung zu deuten wäre?« Muß nicht jedes Benehmen sich so deuten lassen?
 
@@ -1669,7 +1669,7 @@ Klagt einer z. B., so kann ich mit völliger Sicherheit vertrauensvoll reagieren
 
 **575.** Kann man sagen: Ich *schließe*, daß er handeln wird, wie *er* zu handeln *beabsichtigt*?
 
-(Fall der falschen Geste.)
+\(Fall der falschen Geste.)
 
 **576.** Warum schließe ich nie von meinen Worten auf meine wahrscheinlichen Handlungen? Aus demselben Grunde, aus welchem ich nicht von meinem Gesichtsausdruck auf mein wahrscheinliches Benehmen schließe. – Denn nicht das ist das Interessante, daß ich nicht aus meinem Ausdruck der Gemütsbewegung auf meine Gemütsbewegung schließe, sondern, daß ich aus jenem Ausdruck auch nicht auf mein späteres Verhalten schließe, wie dies doch die Andern tun, die mich beobachten.
 
@@ -1733,7 +1733,7 @@ Aber *erlebe* ich denn nichts? Erlebe ich denn nicht etwas? Etwas Spezifisches? 
 
 **602.** Vergleiche damit diesen Fall: Jemand soll sagen, was er fühlt, wenn ihm ein Gewicht auf der flachen Hand ruht. Ich kann mir nun vorstellen, daß hier ein Zwiespalt entsteht: Einerseits sagt er sich, was er fühle, sei eine Pressung gegen die Handfläche und eine Spannung in den Muskeln seines Arms; anderseits will er sagen: »aber das ist doch nicht alles; ich empfinde doch einen Zug, ein Streben des Gewichts nach unten!« – Empfindet er denn ein solches ›Streben‹? Ja: wenn er nämlich an das ›Streben‹ denkt. Mit dem Wort »Streben« geht hier ein bestimmtes Bild, eine Geste, ein Tonfall; und in diesem siehst du das Erlebnis des Strebens.
 
-(Denke auch daran: Manche Leute sagen, von dem und dem ›gehe ein Fluidum aus‹. – Daher fiel uns auch das Wort »*Einfluß*« ein.)
+\(Denke auch daran: Manche Leute sagen, von dem und dem ›gehe ein Fluidum aus‹. – Daher fiel uns auch das Wort »*Einfluß*« ein.)
 
 **603.** Die Unvorhersehbarkeit des menschlichen Benehmens. Wäre sie nicht vorhanden, – würde man dann auch sagen, man könne nie wissen, was im Andern vorgeht?
 
@@ -1931,9 +1931,9 @@ Es zeigt uns eben *nicht* die Vergangenheit. So wenig, wie unsere Sinne die Gege
 
 **676.** Welche Rolle spielen falsche Sätze in einem Sprachspiel? Ich glaube, es gibt verschiedene Fälle.
 
-(1) Einer hat die Signallaternen an einer Straßenkreuzung zu beobachten, und einem Andern zu sagen, welche Farben sie zeigen. Er verspricht sich dabei und sagt die falsche Farbe.
+\(1) Einer hat die Signallaternen an einer Straßenkreuzung zu beobachten, und einem Andern zu sagen, welche Farben sie zeigen. Er verspricht sich dabei und sagt die falsche Farbe.
 
-(2) Es werden meteorologische Beobachtungen angestellt und nach gewissen Regeln aus ihnen das Wetter für den nächsten Tag vorhergesagt. Die Vorhersage trifft ein oder nicht.
+\(2) Es werden meteorologische Beobachtungen angestellt und nach gewissen Regeln aus ihnen das Wetter für den nächsten Tag vorhergesagt. Die Vorhersage trifft ein oder nicht.
 
 Im ersten Fall kann man sagen, er spielt falsch; im zweiten nicht – wie ich seinerzeit glaubte.
 

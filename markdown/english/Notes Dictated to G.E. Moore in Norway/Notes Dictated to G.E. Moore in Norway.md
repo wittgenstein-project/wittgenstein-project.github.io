@@ -57,15 +57,15 @@ For instance: Consider the two propositions (1) "What symbolizes here is a thing
 
 *Now* we shall see how properly to analyse propositions in which "thing", "relation", etc., occur.
 
-(1) Take *ϕ*x. We want to explain the meaning of 'In "*ϕ*x" a *thing* symbolizes'. The analysis is:—
+\(1) Take *ϕ*x. We want to explain the meaning of 'In "*ϕ*x" a *thing* symbolizes'. The analysis is:—
 
-(∃y) . y symbolizes . y = "x" . "*ϕ*x"
+\(∃y) . y symbolizes . y = "x" . "*ϕ*x"
 
 ["x" is the name of y: "*ϕ*x" = '"*ϕ*" is at [the] left of "x"' and *says* *ϕ*x.]
 
 N.B. "x" can't be the name of this actual scratch y, because this isn't a thing: but it can be the name of *a thing*; and we must understand that what we are doing is to explain what would be meant by saying of an ideal symbol, which did actually consist in one *thing's* being to the left of another, that in it a *thing* symbolized.
 
-(N.B. In [the] expression (∃y) . *ϕ*y, one *is* apt to say this means "There is a *thing* such that...". But in fact we should say "There is a y, such that..."; the fact that the y symbolizes expressing what we mean.)
+\(N.B. In [the] expression (∃y) . *ϕ*y, one *is* apt to say this means "There is a *thing* such that...". But in fact we should say "There is a y, such that..."; the fact that the y symbolizes expressing what we mean.)
 
 In general: When such propositions are analysed, while the words "thing", "fact", etc. will disappear, there will appear instead of them a new symbol, of the same form as the one of which we are speaking; and hence it will be at once obvious that we *cannot* get the one kind of proposition from the other by substitution.
 
@@ -79,11 +79,11 @@ How can we talk of the general form of a proposition, without knowing any unanal
 
 If you had any unanalysable proposition in which particular names and relations occurred (and *unanalysable* proposition = one in which only fundamental symbols = ones not capable of *definition*, occur) then you can always form from it a proposition of the form (∃x, y, R) . xRy, which though it contains no particular names and relations, is unanalysable.
 
-(2) The point can here be brought out as follows. Take *ϕ*a and *ϕ*A: and ask what is meant by saying, "There is a thing in *ϕ*a, and a complex in *ϕ*A"?
+\(2) The point can here be brought out as follows. Take *ϕ*a and *ϕ*A: and ask what is meant by saying, "There is a thing in *ϕ*a, and a complex in *ϕ*A"?
 
-(1) means: (∃x) . *ϕ*x . x = a
+\(1) means: (∃x) . *ϕ*x . x = a
 
-(2) means: (∃x, *ψξ*) . *ϕ*A = *ψ*x . *ϕ*x.
+\(2) means: (∃x, *ψξ*) . *ϕ*A = *ψ*x . *ϕ*x.
 
 *Use of logical propositions*. You may have one so complicated that you cannot, by looking at it, see that it is a tautology; but you have shewn that it can be derived by certain operations from certain other propositions according to our rule for constructing tautologies; and hence you are enabled to see that one thing follows from another, when you would not have been able to see it otherwise. E.g., if our tautology is of [the] form p ⊃ q you can see that q follows from p; and so on.
 

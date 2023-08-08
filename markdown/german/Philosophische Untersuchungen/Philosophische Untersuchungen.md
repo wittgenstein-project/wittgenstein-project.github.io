@@ -120,7 +120,7 @@ So, und auf mehr oder weniger ähnliche Weise, bezeichnet ein Name ein Ding, und
 
 Es ist das Natürlichste, und richtet am wenigsten Verwirrung an, wenn wir die Muster zu den Werkzeugen der Sprache rechnen.
 
-((Bemerkung über das reflexive Fürwort »*dieser* Satz«.))
+\((Bemerkung über das reflexive Fürwort »*dieser* Satz«.))
 
 **17.** Wir werden sagen können: in der Sprache (8) haben wir verschiedene *Wortarten*. Denn die Funktion des Wortes »Platte« und des Wortes »Würfel« sind einander ähnlicher als die von »Platte« und von »d«. Wie wir aber die Worte nach Arten zusammenfassen, wird vom Zweck der Einteilung abhängen, – und von unserer Neigung.
 
@@ -488,7 +488,7 @@ Und das kann man so ausdrücken: Ich gebrauche den Namen »N« ohne *feste* Bede
 
 Soll man sagen, ich gebrauche ein Wort, dessen Bedeutung ich nicht kenne, rede also Unsinn? – Sage, was du willst, solange dich das nicht verhindert, zu sehen, wie es sich verhält. (Und wenn du das siehst, wirst du manches nicht sagen.)
 
-(Das Schwanken wissenschaftlicher Definitionen: Was heute als erfahrungsmäßige Begleiterscheinung des Phänomens A gilt, wird morgen zur Definition von »A« benützt.)
+\(Das Schwanken wissenschaftlicher Definitionen: Was heute als erfahrungsmäßige Begleiterscheinung des Phänomens A gilt, wird morgen zur Definition von »A« benützt.)
 
 **80.** Ich sage: »Dort steht ein Sessel«. Wie, wenn ich hingehe und ihn holen will, und er entschwindet plötzlich meinem Blick? –– »Also war es kein Sessel, sondern irgend eine Täuschung.« –– Aber in ein paar Sekunden sehen wir ihn wieder und können ihn angreifen, etc. –– »Also war der Sessel doch da und sein Verschwinden war irgend eine Täuschung.« –– Aber nimm an, nach einer Zeit verschwindet er wieder, – oder scheint zu verschwinden. Was sollen wir nun sagen? Hast du für solche Fälle Regeln bereit, – die sagen, ob man so etwas noch »Sessel« nennen darf? Aber gehen sie uns beim Gebrauch des Wortes »Sessel« ab; und sollen wir sagen, daß wir mit diesem Wort eigentlich keine Bedeutung verbinden, da wir nicht für alle Möglichkeiten seiner Anwendung mit Regeln ausgerüstet sind?
 
@@ -586,7 +586,7 @@ Wir sind in der Täuschung, das Besondere, Tiefe, das uns Wesentliche unserer Un
 
 ---
 
-(Faraday »The Chemical History of a Candle«): »Water is one individual thing – it never changes.«
+\(Faraday »The Chemical History of a Candle«): »Water is one individual thing – it never changes.«
 
 ---
 
@@ -742,7 +742,7 @@ Das Bild des Würfels *legte* uns allerdings eine gewisse Verwendung *nahe*, abe
 
 ---
 
-(a) »Ich glaube, das richtige Wort in diesem Fall ist ..... Zeigt das nicht, daß die Bedeutung des Worts ein Etwas ist, das uns vorschwebt, und das gleichsam das genaue Bild ist, welches wir hier brauchen wollen? Denke, ich wählte zwischen den Wörtern »stattlich«, »würdevoll«, »stolz«, »Achtung gebietend«; ist es nicht, als ob ich zwischen den Zeichnungen in einer Mappe wählte? – Nein; daß man vom *treffenden Wort* redet, *zeigt* nicht die Existenz eines Etwas, welches etc. Vielmehr ist man geneigt, von jenem bildartigen Etwas zu sprechen, weil man ein Wort als treffend empfinden kann; zwischen Worten oft, wie zwischen ähnlichen, aber doch nicht gleichen Bildern, wählt; weil man Bilder oft statt Wörtern, oder zur Illustration von Wörtern, gebraucht; etc. (b) Ich sehe ein Bild: es stellt einen alten Mann dar, der auf einen Stock gestützt einen steilen Weg aufwärts geht. – Und wie das? Konnte es nicht auch so aussehen, wenn er in dieser Stellung die Straße hinunterrutschte? Ein Marsbewohner würde das Bild vielleicht so beschreiben. Ich brauche nicht zu erklären, warum *wir* es nicht so beschreiben.
+\(a) »Ich glaube, das richtige Wort in diesem Fall ist ..... Zeigt das nicht, daß die Bedeutung des Worts ein Etwas ist, das uns vorschwebt, und das gleichsam das genaue Bild ist, welches wir hier brauchen wollen? Denke, ich wählte zwischen den Wörtern »stattlich«, »würdevoll«, »stolz«, »Achtung gebietend«; ist es nicht, als ob ich zwischen den Zeichnungen in einer Mappe wählte? – Nein; daß man vom *treffenden Wort* redet, *zeigt* nicht die Existenz eines Etwas, welches etc. Vielmehr ist man geneigt, von jenem bildartigen Etwas zu sprechen, weil man ein Wort als treffend empfinden kann; zwischen Worten oft, wie zwischen ähnlichen, aber doch nicht gleichen Bildern, wählt; weil man Bilder oft statt Wörtern, oder zur Illustration von Wörtern, gebraucht; etc. (b) Ich sehe ein Bild: es stellt einen alten Mann dar, der auf einen Stock gestützt einen steilen Weg aufwärts geht. – Und wie das? Konnte es nicht auch so aussehen, wenn er in dieser Stellung die Straße hinunterrutschte? Ein Marsbewohner würde das Bild vielleicht so beschreiben. Ich brauche nicht zu erklären, warum *wir* es nicht so beschreiben.
 
 ---
 
@@ -796,7 +796,7 @@ Du meinst also: du weißt die Anwendung des Gesetzes der Reihe, auch ganz abgese
 
 ---
 
-(*a*) »Ein Wort verstehen«, ein Zustand. Aber ein *seelischer* Zustand? – Betrübnis, Aufregung, Schmerzen, nennen wir seelische Zustände. Mache diese grammatische Betrachtung: Wir sagen
+\(*a*) »Ein Wort verstehen«, ein Zustand. Aber ein *seelischer* Zustand? – Betrübnis, Aufregung, Schmerzen, nennen wir seelische Zustände. Mache diese grammatische Betrachtung: Wir sagen
 »Er war den ganzen Tagen betrübt«.
 
 »Er war den ganzen Tag in großer Aufregung«.
@@ -804,7 +804,7 @@ Du meinst also: du weißt die Anwendung des Gesetzes der Reihe, auch ganz abgese
 »Er hatte seit gestern ununterbrochen Schmerzen«. –
 
 Wir sagen auch »Ich verstehe dieses Wort seit gestern«. Aber »ununterbrochen«? – Ja, man kann von einer Unterbrechung des Verstehens reden. Aber in welchen Fällen? Vergleiche: »Wann haben deine Schmerzen nachgelassen?« und »Wann hast du aufgehört, das Wort zu verstehen?«
-(*b*) Wie, wenn man fragte: Wann *kannst* du Schach spielen? Immer? oder während du einen Zug machst? Und während jedes Zuges das ganze Schach? – Und wie seltsam, daß Schachspielen können so kurze Zeit braucht, und eine Partie so viel länger.
+\(*b*) Wie, wenn man fragte: Wann *kannst* du Schach spielen? Immer? oder während du einen Zug machst? Und während jedes Zuges das ganze Schach? – Und wie seltsam, daß Schachspielen können so kurze Zeit braucht, und eine Partie so viel länger.
 
 ---
 
@@ -830,7 +830,7 @@ Denk doch einmal gar nicht an das Verstehen als ›seelischen Vorgang‹! – De
 
 In dem Sinne, in welchem es für das Verstehen charakteristische Vorgänge (auch seelische Vorgänge) gibt, ist das Verstehen kein seelischer Vorgang.
 
-(Das Ab- und Zunehmen einer Schmerzempfindung, das Hören einer Melodie, eines Satzes: seelische Vorgänge.)
+\(Das Ab- und Zunehmen einer Schmerzempfindung, das Hören einer Melodie, eines Satzes: seelische Vorgänge.)
 
 **155.** Ich wollte also sagen: Wenn er plötzlich weiter wußte, das System verstand, so hatte er vielleicht ein besonderes Erlebnis – welches er etwa beschreiben wird, wenn man ihn fragt »Wie war das, was ging da vor, als du das System plötzlich begriffst?«, ähnlich wie wir es oben beschrieben haben – das aber, was ihn für uns berechtigt, in so einem Fall zu sagen, er verstehe, er wisse weiter, sind die *Umstände*, unter denen er ein solches Erlebnis hatte.
 
@@ -940,7 +940,7 @@ Wenn ich mir das Erlebnis desjenigen vergegenwärtigen will, der in einem der fr
 
 **174.** Frage dich, wie du ›*mit Bedacht*‹ eine Strecke parallel zu einer gegebenen Strecke ziehst, – ein andermal mit Bedacht in einem Winkel zu ihr. Was ist das Erlebnis des Bedachts? Da fällt dir gleich eine bestimmte Miene, eine Gebärde ein, – und dann möchtest du sagen: »und es ist eben ein *bestimmtes* inneres Erlebnis«. (Womit du natürlich gar nichts mehr gesagt hast.)
 
-(Es ist da ein Zusammenhang mit der Frage nach dem Wesen der Absicht, des Willens.)
+\(Es ist da ein Zusammenhang mit der Frage nach dem Wesen der Absicht, des Willens.)
 
 **175.** Mach einen beliebigen Fahrer auf dem Papier. –– Und nun zeichne ihn daneben nach, laß dich von ihm führen. –– Ich möchte sagen: »Gewiß! ich habe mich jetzt führen lassen. Aber was dabei Charakteristisches geschehen ist? – Wenn ich sage, was geschehen ist, so kommt es mir nicht mehr charakteristisch vor.«
 
@@ -966,7 +966,7 @@ Wir können uns auch den Fall vorstellen, daß im Geist des B gar nichts anderes
 
 **182.** Die Grammatik von »passen«, »können« und »verstehen«. Aufgaben: 1) Wann sagt man, ein Zylinder Z passe in einen Hohlzylinder H? Nur solange Z in H steckt? 2) Man sagt manchmal: Z hat um die und die Zeit aufgehört, in H zu passen. Welche Kriterien verwendet man in so einem Fall dafür, daß es um diese Zeit geschah? 3) Was betrachtet man als Kriterien dafür, daß ein Körper sein Gewicht um eine bestimmte Zeit geändert hat, wenn er damals nicht auf der Waage lag? 4) Gestern wußte ich das Gedicht auswendig; heute weiß ich’s nicht mehr. In was für Fällen hat die Frage Sinn: »Wann habe ich aufgehört, es auswendig zu wissen«? 5) Jemand fragt mich: »Kannst du dieses Gewicht heben?« Ich antworte »Ja«. Nun sagt er »Tu’s!« – da kann ich es nicht. Unter was für Umständen würde man die Rechtfertigung gelten lassen: »Als ich antwortete ›Ja‹, da *konnte* ich’s, nur jetzt kann ich’s nicht«? Die Kriterien, die wir für das ›Passen‹, ›Können‹, ›Verstehen‹ gelten lassen, sind viel kompliziertere, als es auf den ersten Blick scheinen möchte. D.h., das Spiel mit diesen Worten, ihre Verwendung im sprachlichen Verkehr, dessen Mittel sie sind, ist verwickelter – die Rolle dieser Wörter in unsrer Sprache eine andere, als wir versucht sind, zu glauben.
 
-(Diese Rolle ist es, die wir verstehen müssen, um philosophische Paradoxe aufzulösen. Und darum genügt dazu gewöhnlich nicht eine Definition; und schon erst recht nicht die Feststellung, ein Wort sei ›undefinierbar‹.)
+\(Diese Rolle ist es, die wir verstehen müssen, um philosophische Paradoxe aufzulösen. Und darum genügt dazu gewöhnlich nicht eine Definition; und schon erst recht nicht die Feststellung, ein Wort sei ›undefinierbar‹.)
 
 **183.** Wie aber, – hat nun der Satz »Jetzt kann ich fortsetzen« im Fall (151) das Gleiche geheißen, wie »Jetzt ist mir die Formel eingefallen«, oder etwas anderes? Wir können sagen, daß dieser Satz, unter diesen Umständen, den gleichen Sinn habe (das Gleiche leiste) wie jener. Aber auch, daß, *allgemein*, diese beiden Sätze nicht den gleichen Sinn haben. Wir sagen auch: »Jetzt kann ich fortsetzen, ich meine, ich weiß die Formel«; wie wir sagen: »Ich kann gehen, d.h., ich habe Zeit«; aber auch: »Ich kann gehen, d.h., ich bin schon stark genug«; oder: »Ich kann gehen, was den Zustand meines Beins anbelangt«, wenn wir nämlich *diese* Bedingung des Gehens andern Bedingungen entgegensetzen. Hier müssen wir uns aber hüten, zu glauben, es gebe, entsprechend der Natur des Falles, eine *Gesamtheit* aller Bedingungen (z.B. dafür daß Einer geht), so daß er, sozusagen, nicht anders als gehen *könnte*, wenn sie alle erfüllt sind.
 
@@ -1100,7 +1100,7 @@ Ist es, wie wenn ich das nicht Begrenzte als Länge deute, die über jede Länge
 
 Nur Intuition konnte diesen Zweifel heben? – Wenn sie eine innere Stimme ist, – wie weiß ich, *wie* ich ihr folgen soll? Und wie weiß ich, daß sie mich nicht irreleitet? Denn, kann sie mich richtig leiten, dann kann sie mich auch irreleiten.
 
-((Die Intuition eine unnötige Ausrede.))
+\((Die Intuition eine unnötige Ausrede.))
 
 **214.** Ist eine Intuition zum Entwickeln der Reihe 1 2 3 4 ... nötig, dann auch zum Entwickeln der Reihe 2 2 2 2 ... .
 
@@ -1122,7 +1122,7 @@ Wir könnten auch sagen: »Jedes Ding paßt in sich selbst.« – Oder anders: �
 
 Habe ich die Begründungen erschöpft, so bin ich nun auf dem harten Felsen angelangt, und mein Spaten biegt sich zurück. Ich bin dann geneigt zu sagen: »So handle ich eben.«
 
-(Erinnere dich, daß wir manchmal Erklärungen fordern nicht ihres Inhalts wegen, sondern der Form der Erklärung wegen. Unsere Forderung ist eine architektonische; die Erklärung eine Art Scheingesims, das nichts trägt.)
+\(Erinnere dich, daß wir manchmal Erklärungen fordern nicht ihres Inhalts wegen, sondern der Form der Erklärung wegen. Unsere Forderung ist eine architektonische; die Erklärung eine Art Scheingesims, das nichts trägt.)
 
 **218.** Woher die Idee, es wäre die angefangene Reihe ein sichtbares Stück unsichtbar bis ins Unendliche gelegter Geleise? Nun, statt der Regel könnten wir uns Geleise denken. Und der nicht begrenzten Anwendung der Regel entsprechen unendlich lange Geleise.
 
@@ -1204,13 +1204,13 @@ Man kann nicht sagen, die Andern lernen meine Empfindung *nur* durch mein Benehm
 
 **247.** »Nur du kannst wissen, ob du die Absicht hattest.« Das könnte man jemandem sagen, wenn man ihm die Bedeutung des Wortes »Absicht« erklärt. Es heißt dann nämlich: *so* gebrauchen wir es.
 
-(Und »wissen« heißt hier, daß der Ausdruck der Ungewißheit sinnlos ist.)
+\(Und »wissen« heißt hier, daß der Ausdruck der Ungewißheit sinnlos ist.)
 
 **248.** Der Satz »Empfindungen sind privat« ist vergleichbar dem: »Patience spielt man allein.«
 
 **249.** Sind wir vielleicht voreilig in der Annahme, daß das Lächeln des Säuglings nicht Verstellung ist? – Und auf welcher Erfahrung beruht unsre Annahme?
 
-(Das Lügen ist ein Sprachspiel, das gelernt sein will, wie jedes andre.)
+\(Das Lügen ist ein Sprachspiel, das gelernt sein will, wie jedes andre.)
 
 **250.** Warum kann ein Hund nicht Schmerzen heucheln? Ist er zu ehrlich? Könnte man einen Hund Schmerzen heucheln lehren? Man kann ihm vielleicht beibringen, bei bestimmten Gelegenheiten wie im Schmerz aufzuheulen, ohne daß er Schmerzen hat. Aber zum eigentlichen Heucheln fehlte diesem Benehmen noch immer die richtige Umgebung.
 
@@ -1224,7 +1224,7 @@ Beispiel: »Jeder Stab hat eine Länge«. Das heißt etwa: wir nennen etwas (ode
 
 Das Bild aber zum grammatikalischen Satz konnte nur etwa zeigen, was man »Länge eines Stabes« nennt. Und was sollte davon das entgegengesetzte Bild sein?
 
-((Bemerkung über die Verneinung eines Satzes a priori.))
+\((Bemerkung über die Verneinung eines Satzes a priori.))
 
 **252.** Wir könnten auf den Satz »Dieser Körper hat eine Ausdehnung« antworten: »Unsinn!« – neigen aber dazu, zu antworten: »Freilich!« – Warum?
 
@@ -1250,7 +1250,7 @@ Ich habe gesehen, wie jemand in einer Diskussion über diesen Gegenstand sich an
 
 So hätte sich also, der das Zeichen in den Kalender eintrug, *gar nichts* notiert? – Sieh’s nicht als selbstverständlich an, daß Einer sich etwas notiert, wenn er Zeichen – in einen Kalender z.B. – einträgt. Eine Notiz hat ja eine Funktion; und das »E« hat, soweit, noch keine.
 
-(Man kann zu sich selber reden. – Spricht Jeder zu sich selbst, der redet, wenn niemand anderer zugegen ist?)
+\(Man kann zu sich selber reden. – Spricht Jeder zu sich selbst, der redet, wenn niemand anderer zugegen ist?)
 
 **261.** Welchen Grund haben wir, »E« das Zeichen für eine *Empfindung* zu nennen? »Empfindung« ist nämlich ein Wort unserer allgemeinen, nicht mir allein verständlichen, Sprache. Der Gebrauch dieses Worts bedarf also einer Rechtfertigung, die Alle verstehen. – Und es hülfe auch nichts, zu sagen: es müsse keine *Empfindung* sein; wenn er »E« schreibe, habe er *Etwas* – und mehr könnten wir nicht sagen. Aber »haben« und »etwas« gehören auch zur allgemeinen Sprache. – So gelangt man beim Philosophieren am Ende dahin, wo man nur noch einen unartikulierten Laut ausstoßen möchte. – Aber ein solcher Laut ist ein Ausdruck nur in einem bestimmten Sprachspiel, das nun zu beschreiben ist.
 
@@ -1428,7 +1428,7 @@ Wird mir z.B. eine algebraische Funktion gegeben, so bin ich SICHER, ich werde i
 
 **321.** »Was geschieht, wenn ein Mensch plötzlich versteht?« – Die Frage ist schlecht gestellt. Fragt sie nach der Bedeutung des Ausdrucks »plötzlich verstehen«, so ist die Antwort nicht das Hinweisen auf einen Vorgang, den wir so nennen. – Die Frage könnte bedeuten: Was sind Anzeichen dafür, daß Einer plötzlich versteht; welches sind die charakteristischen psychischen Begleiterscheinungen des plötzlichen Verstehens?
 
-(Es ist kein Grund, anzunehmen, daß ein Mensch die Ausdrucksbewegungen seines Gesichts, z.B., oder die für eine Gemütsbewegung charakteristischen Veränderungen in seiner Atmung, fühle. Auch wenn er sie fühlt, sobald er seine Aufmerksamkeit auf sie lenkt.) ((Positur.))
+\(Es ist kein Grund, anzunehmen, daß ein Mensch die Ausdrucksbewegungen seines Gesichts, z.B., oder die für eine Gemütsbewegung charakteristischen Veränderungen in seiner Atmung, fühle. Auch wenn er sie fühlt, sobald er seine Aufmerksamkeit auf sie lenkt.) ((Positur.))
 
 **322.** Daß die Antwort auf die Frage nach der Bedeutung des Ausdrucks mit dieser Beschreibung nicht gegeben ist, verleitet dann zu der Folgerung, das Verstehen sei eben ein spezifisches, undefinierbares, Erlebnis. Man vergißt aber, daß, was uns interessieren muß, die Frage ist: Wie *vergleichen* wir diese Erlebnisse; was *legen wir fest* als Kriterium der Identität des Geschehnisses?
 
@@ -1590,7 +1590,7 @@ Denn, bedarf ich einer Berechtigung dafür, ein Wort zu gebrauchen, dann muß es
 
 **380.** Wie erkenne ich, daß dies rot ist? – »Ich sehe, daß es *dies* ist; und nun weiß ich, daß dies so heißt.« Dies? – Was?! Welche Art der Antwort hat auf diese Frage Sinn?
 
-(Du steuerst immer wieder auf eine innere hinweisende Erklärung hin.)
+\(Du steuerst immer wieder auf eine innere hinweisende Erklärung hin.)
 
 Auf den *privaten* Übergang von dem Gesehenen zum Wort könnte ich keine Regeln anwenden. Hier hingen die Regeln wirklich in der Luft; da die Institution ihrer Anwendung fehlt.
 
@@ -1610,7 +1610,7 @@ Was bedeuten die Worte »*diese* Vorstellung«? Wie zeigt man auf eine Vorstellu
 
 **386.** »Aber warum traust du dir selbst so wenig? Du weißt doch sonst immer, was ›rechnen‹ heißt. Wenn du also sagst, du habest in der Vorstellung gerechnet, so wird es eben so sein. Hättest du *nicht* gerechnet, so würdest du’s nicht sagen. Ebenso: wenn du sagst, du sähest etwas Rotes in der Vorstellung, so wird es eben rot *sein*. Du weißt ja sonst, was ›rot‹ ist. – Und weiter: du verläßt dich ja nicht immer auf die Übereinstimmung mit den Andern; denn oft berichtest du, du habest etwas gesehen, was niemand Andrer gesehen hat.« –– Aber ich traue mir ja – ich sage ja ohne Bedenken, ich habe dies im Kopf gerechnet, diese Farbe mir vorgestellt. Nicht das ist die Schwierigkeit, daß ich zweifle, ob ich mir wirklich etwas Rotes vorgestellt habe. Sondern *dies*: daß wir so ohne weiteres zeigen oder beschreiben können, welche Farbe wir uns vorgestellt haben, daß uns das Abbilden der Vorstellung in die Wirklichkeit gar keine Schwierigkeit bereitet. Sehen sie sich denn zum Verwechseln ähnlich? – Aber ich kann ja auch ohne weiteres einen Menschen nach einer Zeichnung erkennen. – Aber kann ich denn fragen »Wie schaut eine richtige Vorstellung dieser Farbe aus?«, oder »Wie ist sie beschaffen?«; kann ich dies *lernen*?
 
-(Ich kann sein Zeugnis nicht annehmen, weil es kein *Zeugnis* ist. Es sagt mir nur, was er zu sagen *geneigt* ist.)
+\(Ich kann sein Zeugnis nicht annehmen, weil es kein *Zeugnis* ist. Es sagt mir nur, was er zu sagen *geneigt* ist.)
 
 **387.** Der *tiefe* Aspekt entschlüpft leicht.
 
@@ -1770,7 +1770,7 @@ Aber auf die Antwort »Du weißt ja, wie es der Satz macht, es ist ja nichts ver
 
 **436.** Hier ist es leicht, in jene Sackgasse des Philosophierens zu geraten, wo man glaubt, die Schwierigkeit der Aufgabe liege darin, daß schwer erhaschbare Erscheinungen, die schnell entschlüpfende gegenwärtige Erfahrung oder dergleichen, von uns beschrieben werden sollen. Wo die gewöhnliche Sprache uns zu roh erscheint, und es scheint, als hätten wir es nicht mit den Phänomenen zu tun, von denen der Alltag redet, sondern »mit den leicht entschwindenden, die mit ihrem Auftauchen und Vergehen jene ersteren annähernd erzeugen«.
 
-(Augustinus: Manifestissima et usitatissima sunt, et eadem rursus nimis latent, et nova est inventio eorum.)
+\(Augustinus: Manifestissima et usitatissima sunt, et eadem rursus nimis latent, et nova est inventio eorum.)
 
 **437.** Der Wunsch scheint schon zu wissen, was ihn erfüllen wird, oder würde; der Satz, der Gedanke, was ihn wahr macht, auch wenn es gar nicht da ist! Woher dieses *Bestimmen*, dessen, was noch nicht da ist? Dieses despotische Fordern? (»Die Härte des logischen Muß.«)
 
@@ -1806,7 +1806,7 @@ Nun könnte man aber fragen: Wie schaut das aus, wenn er kommt? – Es geht die 
 
 **447.** Das Gefühl ist, als müßte der verneinende Satz, um einen Satz zu verneinen, ihn erst in gewissem Sinne wahr machen.
 
-(Die Behauptung des verneinenden Satzes enthält den verneinten Satz, aber nicht dessen Behauptung.)
+\(Die Behauptung des verneinenden Satzes enthält den verneinten Satz, aber nicht dessen Behauptung.)
 
 **448.** »Wenn ich sage, ich habe heute nacht *nicht* geträumt, so muß ich doch wissen, wo nach dem Traum zu suchen wäre; d. h.: der Satz ›Ich habe geträumt‹ darf, auf die tatsächliche Situation angewendet, falsch, aber nicht unsinnig sein.« – Heißt das also, daß du doch etwas gespürt hast, sozusagen die Andeutung eines Traums, die dir die Stelle bewußt macht, an der ein Traum gestanden hätte?
 
@@ -1866,7 +1866,7 @@ Wenn man nun fragt: Ist also die Tatsache durch die Erwartung auf ja und nein be
 
 **467.** Denkt der Mensch also, weil Denken sich bewährt hat? – Weil er denkt, es sei vorteilhaft, zu denken?
 
-(Erzieht er seine Kinder, weil es sich bewährt hat?)
+\(Erzieht er seine Kinder, weil es sich bewährt hat?)
 
 **468.** Wie wäre herauszubringen: *warum* er denkt?
 
@@ -1976,7 +1976,7 @@ Wenn Einer sagt »Hätte unsere Sprache nicht diese Grammatik, so könnte sie di
 
 **508.** Ich sage einen Satz: »Das Wetter ist schön«; aber die Worte sind doch willkürliche Zeichen – setzen wir also an ihrer Statt diese: »a b c d«. Aber nun kann ich, wenn ich dies lese, mit ihm nicht ohne weiteres den obigen Sinn verbinden. – Ich bin nicht gewöhnt, könnte ich sagen, statt »das« »a«, statt »Wetter« »b« zu sagen, etc. Aber damit meine ich nicht, ich sei nicht gewöhnt, mit »a« sofort das Wort »das« zu assoziieren, sondern ich bin nicht gewöhnt, »a« *an der Stelle* von »das« zu gebrauchen – also in der Bedeutung von »das«. (Ich beherrsche diese Sprache nicht.)
 
-(Ich bin nicht gewöhnt, Temperaturen in Fahrenheit-Graden zu messen. Darum ›*sagt*‹ mir eine solche Temperaturangabe nichts.)
+\(Ich bin nicht gewöhnt, Temperaturen in Fahrenheit-Graden zu messen. Darum ›*sagt*‹ mir eine solche Temperaturangabe nichts.)
 
 **509.** Wie, wenn wir jemanden fragten »Inwiefern sind diese Worte eine Beschreibung dessen, was du siehst?« – und er antwortet: »Ich *meine* das mit diesen Worten.« (Er sah etwa auf eine Landschaft.) Warum ist diese Antwort »Ich *meine* das ....« gar keine Antwort?
 
@@ -1994,7 +1994,7 @@ Welches soll das Kriterium dafür sein, daß ich *dies* Erlebnis hatte?
 
 **513.** Betrachte diese Ausdrucksform: »Mein Buch hat soviel Seiten, wie eine Lösung der Gleichung x³ + 2x – 3 = 0 beträgt.« Oder: »Die Zahl meiner Freunde ist n und n² + 2n + 2 = 0.« Hat dieser Satz Sinn? Es ist ihm unmittelbar nicht anzukennen. Man sieht an diesem Beispiel, wie es zugehen kann, daß etwas aussieht wie ein Satz, den wir verstehen, was doch keinen Sinn ergibt.
 
-(Dies wirft ein Licht auf den Begriff ›Verstehen‹ und ›Meinen‹.)
+\(Dies wirft ein Licht auf den Begriff ›Verstehen‹ und ›Meinen‹.)
 
 **514.** Ein Philosoph sagt: er verstehe den Satz »Ich bin hier«, meine etwas mit ihm, denke etwas, – auch wenn er sich gar nicht darauf besinnt, wie, bei welcher Gelegenheit, dieser Satz verwendet wird. Und wenn ich sage »Die Rose ist auch im Finstern rot«, so siehst du diese Röte im Finstern förmlich vor dir.
 
@@ -2024,13 +2024,13 @@ Wenn ich ein Genrebild anschaue, so ›sagt‹ es mir etwas, auch wenn ich keine
 
 **524.** Sieh es nicht als selbstverständlich an, sondern als ein merkwürdiges Faktum, daß uns Bilder und erdichtete Erzählungen Vergnügen bereiten; unsern Geist beschäftigen.
 
-(»Sieh es nicht als selbstverständlich an« – das heißt: Wundere dich darüber so, wie über anderes, was dich beunruhigt. Dann wird das Problematische verschwinden, indem du die eine Tatsache so wie die andere hinnimmst.)
+\(»Sieh es nicht als selbstverständlich an« – das heißt: Wundere dich darüber so, wie über anderes, was dich beunruhigt. Dann wird das Problematische verschwinden, indem du die eine Tatsache so wie die andere hinnimmst.)
 
-((Übergang von einem offenkundigen zu einem nichtoffenkundigen Unsinn.))
+\((Übergang von einem offenkundigen zu einem nichtoffenkundigen Unsinn.))
 
 **525.** »Nachdem er das gesagt hatte, verließ er sie wie am vorigen Tage.« – Verstehe ich diesen Satz? Verstehe ich ihn ebenso, wie ich es täte, wenn ich ihn im Verlaufe einer Mitteilung hörte? Steht er isoliert da, so würde ich sagen, ich weiß nicht, wovon er handelt. Ich wüßte aber doch, wie man diesen Satz etwa gebrauchen könnte; ich könnte selbst einen Zusammenhang für ihn erfinden.
 
-(Eine Menge wohlbekannter Pfade führen von diesen Worten aus in alle Richtungen.)
+\(Eine Menge wohlbekannter Pfade führen von diesen Worten aus in alle Richtungen.)
 
 **526.** Was heißt es, ein Bild, eine Zeichnung zu verstehen? Auch da gibt es Verstehen und Nichtverstehen. Und auch da können diese Ausdrücke verschiedenerlei bedeuten. Das Bild ist etwa ein Stilleben; einen Teil davon aber verstehe ich nicht: ich bin nicht fähig, dort Körper zu sehen, sondern sehe nur Farbflecke auf der Leinwand. – Oder ich sehe alles körperlich, aber es sind Gegenstände, die ich nicht kenne (sie schauen aus wie Geräte, aber ich kenne ihren Gebrauch nicht). – Vielleicht aber kenne ich die Gegenstände, verstehe aber, in anderem Sinne – ihre Anordnung nicht.
 
@@ -2056,7 +2056,7 @@ Denn ich *will* »verstehen« auf alles das anwenden.
 
 *So* phrasiert, so betont, so gehört, ist der Satz der Anfang eines Übergangs zu *diesen* Sätzen, Bildern, Handlungen.
 
-((Eine Menge wohlbekannter Pfade führen von diesen Worten aus in alle Richtungen.))
+\((Eine Menge wohlbekannter Pfade führen von diesen Worten aus in alle Richtungen.))
 
 **535.** Was geschieht, wenn wir lernen, den Schluß einer Kirchentonart als Schluß zu *empfinden*?
 
@@ -2070,7 +2070,7 @@ Denn ich *will* »verstehen« auf alles das anwenden.
 
 Daran wird nichts geändert dadurch, daß ich mir auch die auf den ersten Blick liebliche Situation durch eine weitere Umgebung wieder anders deuten kann. – Ein gewisses Lächeln werde ich, wenn keine besondern Umstände meine Deutung umstellen, als freundliches auffassen, ein »freundliches« nennen, entsprechend reagieren.
 
-((Wahrscheinlichkeit, Häufigkeit.))
+\((Wahrscheinlichkeit, Häufigkeit.))
 
 **540.** »Ist es nicht eigentümlich, daß ich nicht soll denken können, es werde bald aufhören zu regnen, – auch ohne die Institution der Sprache und ihre ganze Umgebung?« – Willst du sagen, es ist seltsam, daß du dir diese Worte nicht solltest sagen können und sie *meinen* ohne jene Umgebung?
 
@@ -2158,7 +2158,7 @@ Denken wir an einen ähnlichen Fall im Spiel: im Damespiel wird eine Dame dadurc
 
 **568.** Wenn ich den Charakter des Spiels richtig verstehe – könnte ich sagen – so gehört das nicht wesentlich dazu.
 
-((Die Bedeutung eine Physiognomie.))
+\((Die Bedeutung eine Physiognomie.))
 
 **569.** Die Sprache ist ein Instrument. Ihre Begriffe sind Instrumente. Man denkt nun etwa, es könne keinen *großen* Unterschied machen, *welche* Begriffe wir verwenden. Wie man schließlich mit Fuß und Zoll Physik treiben kann, sowie mit m und cm; der Unterschied sei doch nur einer der Bequemlichkeit. Aber auch das ist nicht wahr, wenn, z.B., Rechnungen in einem Maßsystem mehr Zeit und Mühe erfordern, als wir aufwenden können.
 
@@ -2230,7 +2230,7 @@ Es hat Sinn, zu fragen: »Liebe ich sie wirklich, mache ich mir das nicht nur vo
 
 »Wenn wir nun Alle hierin übereinstimmen, wird es da nicht wahr sein?«
 
-(Ich kann des Ändern Zeugnis nicht annehmen, weil es kein *Zeugnis* ist. Es sagt mir nur, was er zu sagen *geneigt* ist.)
+\(Ich kann des Ändern Zeugnis nicht annehmen, weil es kein *Zeugnis* ist. Es sagt mir nur, was er zu sagen *geneigt* ist.)
 
 **595.** Es ist uns natürlich, den Satz in diesem Zusammenhang auszusprechen; und unnatürlich, ihn isoliert zu sagen. Sollen wir sagen: Es gibt ein bestimmtes Gefühl, das das Aussprechen jedes Satzes begleitet, dessen Aussprechen uns natürlich ist?
 
@@ -2258,7 +2258,7 @@ Es hat Sinn, zu fragen: »Liebe ich sie wirklich, mache ich mir das nicht nur vo
 
 **606.** Wir sagen: »Der Ausdruck seiner Stimme war *echt*.« War er unecht, so denken wir uns quasi hinter ihm einen anderen stehen. – Er macht nach außen *dieses* Gesicht, im Innern aber ein anderes. – Das heißt aber nicht, daß, wenn sein Ausdruck *echt* ist, er zwei gleiche Gesichter macht.
 
-((»Ein ganz bestimmter Ausdruck.«))
+\((»Ein ganz bestimmter Ausdruck.«))
 
 **607.** Wie schätzt man, wieviel Uhr es ist? Ich meine aber nicht, nach äußeren Anhaltspunkten, dem Stand der Sonne, der Helligkeit im Zimmer, u. dergl. – Man fragt sich etwa »Wieviel Uhr kann es sein?«, hält einen Augenblick inne, stellt sich vielleicht das Zifferblatt vor; und dann spricht man eine Zeit aus. – Oder man überlegt sich mehrere Möglichkeiten; man denkt sich *eine* Zeit, dann eine andre, und bleibt endlich bei einer stehen. So und ähnlich geht es vor sich. –– Aber ist nicht der Einfall von einem Gefühl der Überzeugung begleitet; und heißt das nicht, daß er nun mit einer inneren Uhr übereinstimmt? – Nein, ich lese die Zeit von keiner Uhr ab; ein Gefühl der Überzeugung ist insofern da, als ich mir *ohne* Empfindung des Zweifels, mit Ruhe und Sicherheit, eine Zeit sage. – Aber schnappt nicht etwas bei dieser Zeitangabe ein? – Nichts, das ich wüßte; wenn du nicht das Zur-Ruhe-Kommen der Überlegung, das Stehenbleiben bei einer Zahl so nennst. Ich hätte hier auch nie von einem ›Gefühl der Überzeugung‹ geredet, sondern gesagt: ich habe eine Weile überlegt und mich dann dafür entschieden, daß es viertel sechs ist. – Wonach aber hab ich mich entschieden? Ich hätte vielleicht gesagt: »bloß nach dem Gefühl«; das heißt nur: ich habe es dem Einfall überlassen. –– Aber du mußtest dich doch wenigstens zum Schätzen der Zeit in einen bestimmten Zustand versetzen; und du nimmst doch nicht jede Vorstellung einer Zeitangabe als Angabe der richtigen Zeit! – Wie gesagt: ich hatte *mich gefragt* »Wieviel Uhr mag es sein?« D.h., ich habe diese Frage nicht, z.B., in einer Erzählung gelesen; noch sie als Ausspruch eines Andern zitiert; noch mich im Aussprechen dieser Wörter geübt; usf. Nicht unter *diesen* Umständen habe ich die Worte gesprochen. – Aber unter *welchen* also? – Ich dachte an mein Frühstück und ob es heute spät damit würde. Solcherart waren die Umstände. – Aber siehst du denn wirklich nicht, daß du doch in einem, wenn auch ungreifbaren, für das Schätzen der Zeit charakteristischen Zustand, gleichsam in einer dafür charakteristischen Atmosphäre warst? – Ja, das Charakteristische war, daß ich mich fragte »Wieviel Uhr mag es sein?« – Und hat dieser Satz eine bestimmte Atmosphäre, – wie soll ich sie von ihm selbst trennen können? Es wäre mir nie eingefallen, der Satz hätte einen solchen Dunstkreis, hätte ich nicht daran gedacht, wie man ihn auch anders – als Zitat, im Scherz, als Sprechübung, etc. – sagen könnte. Und *da* wollte ich auf einmal sagen, da erschien es mir auf einmal, ich müßte die Worte doch irgendwie besonders *gemeint* haben; anders nämlich als in jenen ändern Fällen. Es hatte sich mir das Bild von der besonderen Atmosphäre aufgedrängt; ich sehe sie förmlich vor mir – solange ich nämlich nicht auf das sehe, was nach meiner Erinnerung wirklich gewesen ist.
 
@@ -2270,11 +2270,11 @@ Wenn ich sage: ich lese es auf einer Innern Uhr ab, – so ist das ein Bild, dem
 
 **609.** Die Beschreibung einer Atmosphäre ist eine spezielle Sprachanwendung, zu speziellen Zwecken.
 
-((Deuten des ›Verstehens‹ als Atmosphäre; als seelischer Akt. Man kann zu allem eine Atmosphäre hinzukonstruieren. ›Ein unbeschreiblicher Charakter‹.))
+\((Deuten des ›Verstehens‹ als Atmosphäre; als seelischer Akt. Man kann zu allem eine Atmosphäre hinzukonstruieren. ›Ein unbeschreiblicher Charakter‹.))
 
 **610.** Beschreib das Aroma des Kaffees! – Warum geht es nicht? Fehlen uns die Worte? Und *wofür* fehlen sie uns? – Woher aber der Gedanke, es müsse doch so eine Beschreibung möglich sein? Ist dir so eine Beschreibung je abgegangen? Hast du versucht, das Aroma zu beschreiben, und es ist nicht gelungen?
 
-((Ich möchte sagen: »Diese Töne sagen etwas Herrliches, aber ich weiß nicht was.« Diese Töne sind eine starke Geste, aber ich kann ihr nichts Erklärendes an die Seite stellen. Ein tief ernstes Kopfnicken. James: »Es fehlen uns die Worte«. Warum führen wir sie dann nicht ein? Was müßte der Fall sein, damit wir es könnten?))
+\((Ich möchte sagen: »Diese Töne sagen etwas Herrliches, aber ich weiß nicht was.« Diese Töne sind eine starke Geste, aber ich kann ihr nichts Erklärendes an die Seite stellen. Ein tief ernstes Kopfnicken. James: »Es fehlen uns die Worte«. Warum führen wir sie dann nicht ein? Was müßte der Fall sein, damit wir es könnten?))
 
 **611.** »Das Wollen ist auch nur eine Erfahrung«, möchte man sagen (der ›Wille‹ auch nur ›Vorstellung‹). Er kommt, wenn er kommt, und ich kann ihn nicht herbeiführen.
 
@@ -2304,7 +2304,7 @@ Aber in dem Sinn, in welchem es mir nicht mißlingen kann, zu wollen, kann ich e
 
 **621.** Aber vergessen wir eines nicht: wenn ›ich meinen Arm hebe‹, hebt sich mein Arm. Und das Problem entsteht: was ist das, was übrigbleibt, wenn ich von der Tatsache, daß ich meinen Arm hebe, die abziehe, daß mein Arm sich hebt?
 
-((Sind nun die kinaesthetischen Empfindungen mein Wollen?))
+\((Sind nun die kinaesthetischen Empfindungen mein Wollen?))
 
 **622.** Wenn ich meinen Arm hebe, *versuche* ich meistens nicht, ihn zu heben.
 
@@ -2384,7 +2384,7 @@ Daran ist etwas richtig. Aber nimm an, ich erinnere mich (mit einer bestimmten E
 
 **647.** Was ist der natürliche Ausdruck einer Absicht? – Sieh eine Katze an, wenn sie sich an einen Vogel heranschleicht; oder ein Tier, wenn es entfliehen will.
 
-((Verbindung mit Sätzen über Empfindungen.))
+\((Verbindung mit Sätzen über Empfindungen.))
 
 **648.** »Ich erinnere mich nicht mehr an meine Worte, aber ich erinnere mich genau an meine Absicht; ich wollte ihn mit meinen Worten beruhigen.« Was *zeigt* mir meine Erinnerung; was führt sie mir vor die Seele? Nun, wenn sie nichts täte, als mir diese Worte einzugeben! und vielleicht noch andere, die die Situation noch genauer ausmalen. – (»Ich erinnere mich nicht mehr meiner Worte, aber wohl an den Geist meiner Worte.«)
 
@@ -2396,7 +2396,7 @@ Daran ist etwas richtig. Aber nimm an, ich erinnere mich (mit einer bestimmten E
 
 **652.** »Er maß ihn mit feindseligem Blick und sagte ....« Der Leser der Erzählung versteht dies; er hat keinen Zweifel in seiner Seele. Nun sagst du: »Wohl, er denkt sich die Bedeutung hinzu, er errät sie.« – Im allgemeinen: Nein. Im allgemeinen denkt er sich nichts hinzu, errät nichts. – Es ist aber auch möglich, daß der feindselige Blick und die Worte sich später als Verstellung erweisen, oder daß der Leser im Zweifel darüber erhalten wird, ob sie es sind oder nicht, und daß er also wirklich auf eine mögliche Deutung rät. – Aber dann rät er vor allem auf einen Zusammenhang. Er sagt sich etwa: die Beiden, die hier so feindlich tun, sind in Wirklichkeit Freunde, etc. etc.
 
-((»Wenn du den Satz verstehen willst, mußt du dir die seelische Bedeutung, die Seelenzustände, dazu vorstellen.«))
+\((»Wenn du den Satz verstehen willst, mußt du dir die seelische Bedeutung, die Seelenzustände, dazu vorstellen.«))
 
 **653.** Denk dir diesen Fall: Ich sage Einem, ich sei einen gewissen Weg gegangen, einem Plan gemäß, den ich zuvor angefertigt habe. Ich zeige ihm darauf diesen Plan, und er besteht aus Strichen auf einem Papier; aber ich kann nicht erklären, inwiefern diese Striche der Plan meiner Wanderung sind, dem Andern keine Regel sagen, wie der Plan zu deuten ist. Wohl aber bin ich jener Zeichnung mit allen charakteristischen Anzeichen des Kartenlesens nachgegangen. Ich könnte so eine Zeichnung einen ›privaten‹ Plan nennen; oder die Erscheinung, die ich beschrieben habe: »einem privaten Plan folgen«. (Aber dieser Ausdruck wäre natürlich sehr leicht mißzuverstehen.)
 
@@ -2498,7 +2498,7 @@ Wie rede ich von ihm? Ich sage etwa »Ich muß heute N. besuchen.« –– Aber 
 
 Gewiß, eine solche Verbindung besteht. Nur nicht, wie du sie dir vorstellst: nämlich durch einen geistigen *Mechanismus*.
 
-(Man vergleicht »ihn meinen« mit »auf ihn zielen«.)
+\(Man vergleicht »ihn meinen« mit »auf ihn zielen«.)
 
 **690.** Wie, wenn ich einmal eine scheinbar unschuldige Bemerkung mache und sie mit einem verstohlenen Seitenblick auf jemand begleite; ein andermal, vor mich niedersehend, offen über einen Anwesenden rede, indem ich seinen Namen nenne, – denke ich wirklich *eigens* an ihn, wenn ich seinen Namen gebrauche?
 
