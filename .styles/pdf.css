@@ -6,7 +6,9 @@
     margin-right: 10mm;
 
     @bottom-center {
-        content: counter(page)
+        content: counter(page);
+        font-family: "Alegreya";
+        font-size: 12pt;
     }
 }
 
@@ -46,6 +48,10 @@
 .author {
     text-align: center;
     text-indent: 0;
+}
+
+body {
+    font-family: "Alegreya"
 }
 
 h1.title {
