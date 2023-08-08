@@ -189,7 +189,7 @@ Wie aber verhält er sich dann zu diesem Irrtum? Was soll ich annehmen?
 
 **74.** Kann man sagen: Ein *Irrtum* hat nicht nur eine Ursache, sondern auch einen Grund?
 
-D. h. ungefähr: er läßt sich in das richtige Wissen des Irrenden einordnen.
+D\. h. ungefähr: er läßt sich in das richtige Wissen des Irrenden einordnen.
 
 **75.** Wäre das richtig: Wenn ich bloß fälschlich glaubte, daß hier vor mir ein Tisch steht, so könnte das noch ein Irrtum sein; wenn ich aber fälschlich glaube, daß ich diesen oder einen solchen Tisch seit mehreren Monaten täglich gesehen und ständig benützt habe, so ist das kein Irrtum?
 
@@ -373,7 +373,7 @@ Ich kann die Dimensionen einer Brücke allerdings berechnen, manchmal auch berec
 
 **154.** Es gibt Fälle solcher Art, daß, wenn Einer dort Zeichen des Zweifels gibt, wo wir nicht zweifeln, wir seine Zeichen nicht mit Sicherheit als Zeichen des Zweifels verstehen können.
 
-D. h.: Damit wir seine Zeichen des Zweifels als solche verstehen, darf er sie nur in bestimmten Fällen geben und nicht in andern.
+D\. h.: Damit wir seine Zeichen des Zweifels als solche verstehen, darf er sie nur in bestimmten Fällen geben und nicht in andern.
 
 **155.** Der Mensch kann sich unter gewissen Umständen nicht *irren*. (»Kann« ist hier logisch gebraucht, und der Satz sagt nicht, daß unter diesen Umständen der Mensch nichts Falsches sagen kann.) Wenn Moore das Gegenteil von jenen Sätzen aussagte, die er für gewiß erklärt, würden wir nicht nur nicht seiner Meinung sein, sondern ihn für geistesgestört halten.
 
@@ -1556,7 +1556,7 @@ Wenn ich mir jenen Menschen vorstelle, so stelle ich mir auch eine Realität vor
 
 **598.** Aber könnte man nicht auf die Frage »Kannst du ...« antworten: »Ich will dir den Fall beschreiben, und du kannst dann selbst beurteilen, ob ich mich irren kann«?
 
-Z. B., wenn es sich um den Namen der Person handelt, könnte der Fall so stehen, daß die Person diesen Namen nie gebraucht hat, sich aber entsinnt, ihn auf einem Dokument gelesen zu haben, – und anderseits könnte die Antwort sein: »Ich habe diesen Namen mein ganzes Leben lang geführt, bin von allen Menschen so genannt worden.« Wenn *das* nicht der Antwort »Ich kann mich darin nicht irren« gleichkommt, so hat sie überhaupt keinen Sinn. Und ganz offenbar wird doch damit auf einen sehr wichtigen Unterschied gedeutet.
+Z\. B., wenn es sich um den Namen der Person handelt, könnte der Fall so stehen, daß die Person diesen Namen nie gebraucht hat, sich aber entsinnt, ihn auf einem Dokument gelesen zu haben, – und anderseits könnte die Antwort sein: »Ich habe diesen Namen mein ganzes Leben lang geführt, bin von allen Menschen so genannt worden.« Wenn *das* nicht der Antwort »Ich kann mich darin nicht irren« gleichkommt, so hat sie überhaupt keinen Sinn. Und ganz offenbar wird doch damit auf einen sehr wichtigen Unterschied gedeutet.
 
 **599.** Man könnte z. B. die Sicherheit des Satzes, daß Wasser bei ca. 100 °C kocht, beschreiben. Es ist das z. B. nicht ein Satz, den ich einmal gehört habe wie etwa den und jenen, die ich nennen könnte. Ich habe das Experiment selber in der Schule gemacht. Der Satz ist ein sehr elementarer unserer Lehrbücher, denen in solchen Dingen zu trauen ist, weil ... – Man kann nun allem dem Beispiele entgegenhalten, die zeigen, daß Menschen dies und jenes für gewiß gehalten haben, was sich später, unsrer Meinung nach, für falsch erwiesen hat. Aber dieses Argument ist wertlos. Zu sagen: wir können am Ende nur solche Gründe anführen, die *wir* für Gründe halten, sagt gar nichts.
 

@@ -609,7 +609,7 @@ Dies‌ Spiel‌ könnte‌ man‌ durch‌ eines‌ ergänzen,‌ in‌ welchem
 
 (p) Weil ich mich erinnere, daß dieser Gegenstand beschrieben worden ist.
 
-U. s. w.
+U\. s. w.
 
 (Wer nicht versteht, warum wir über diese Dinge reden, muß, was wir sagen, als leere Spielerei empfinden.)
 

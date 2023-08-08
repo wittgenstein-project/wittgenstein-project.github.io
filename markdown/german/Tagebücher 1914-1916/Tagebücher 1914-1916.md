@@ -948,7 +948,7 @@ Hinter unseren Gedanken, wahren und falschen, liegt immer wieder ein dunkler Gru
 
 **12. 12. 14.**
 
-p. Taut = p; d. h. Taut sagt nichts!
+p\. Taut = p; d. h. Taut sagt nichts!
 
 **13. 12. 14.**
 
