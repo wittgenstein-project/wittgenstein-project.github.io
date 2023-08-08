@@ -14,10 +14,11 @@ BLACKLISTED_WORKS = ["Wörterbuch", "Coffey", "Baumform", "tree-like"]
 # Functions to convert html to (pandoc) markdown:
 
 
-def parse_line(errors, parsed, image_urls, elem, html_tag, md_tag, escape_whitespace=False):
+def parse_line(state, parsed, image_urls, elem, html_tag, md_tag, escape_whitespace=False):
+    [errors, refs] = state
     line = [""]
     for child in elem.children:
-        parse_html(errors, line, image_urls, child)
+        parse_html(state, line, image_urls, child)
     if len(line) == 1:
         if escape_whitespace:
             line = line[0].replace(" ", "\\ ")
@@ -29,7 +30,8 @@ def parse_line(errors, parsed, image_urls, elem, html_tag, md_tag, escape_whites
             f"Expected single line inside <{html_tag}></{html_tag}>, found {line}")
 
 
-def parse_html(errors, parsed, image_urls, elem, escape_newlines=False):
+def parse_html(state, parsed, image_urls, elem, escape_newlines=False):
+    [errors, refs] = state
     newline = "\\" if escape_newlines else ""
     if isinstance(elem, NavigableString):
         escaped = elem.text.replace("\\", "\\\\").replace(
@@ -66,28 +68,31 @@ def parse_html(errors, parsed, image_urls, elem, escape_newlines=False):
                 or elem.name == "u" \
                 or elem.name == "span" and not elem.get("class") and elem.get("style") == "letter-spacing: 0.2em; margin-right: -0.2em;" \
                 or elem.name == "span" and not elem.get("class") and elem.get("style") == "font-variant: small-caps;":
-            parse_line(errors, parsed, image_urls, elem, "i", "*")
+            parse_line(state, parsed, image_urls, elem, "i", "*")
         elif elem.name == "b":
-            parse_line(errors, parsed, image_urls, elem, "b", "**")
+            parse_line(state, parsed, image_urls, elem, "b", "**")
         elif elem.name == "s":
-            parse_line(errors, parsed, image_urls, elem, "s", "~~")
+            parse_line(state, parsed, image_urls, elem, "s", "~~")
         elif elem.name == "sub" and not elem.get("class"):
             # this is pandoc markdown syntax
-            parse_line(errors, parsed, image_urls, elem,
+            parse_line(state, parsed, image_urls, elem,
                        "sub", "~", escape_whitespace=True)
         elif elem.name == "sup" and not elem.get("class"):
             # this is pandoc markdown syntax
-            parse_line(errors, parsed, image_urls, elem,
+            parse_line(state, parsed, image_urls, elem,
                        "sup", "^", escape_whitespace=True)
         elif elem.name == "sup" and elem.get("class") == ["reference"] and elem.get("id"):
             ref_number = elem.get("id").replace("cite_ref-", "")
             parsed[-1] += f"[^{ref_number}]"
+            refs.append(ref_number)
         elif elem.name == "div" and elem.get("class") == ["mw-references-wrap"]:
             for i, ref in enumerate(elem.find_all("span", "reference-text")):
                 ref_number = i + 1
+                if not str(ref_number) in refs:
+                    continue
                 parsed_ref = [f"[^{ref_number}]: "]
                 for child in ref.children:
-                    parse_html(errors, parsed_ref, image_urls, child)
+                    parse_html(state, parsed_ref, image_urls, child)
                 for line in parsed_ref:
                     if line.lstrip().startswith(">"):
                         line = line.lstrip()[1:].lstrip()
@@ -102,7 +107,7 @@ def parse_html(errors, parsed, image_urls, elem, escape_newlines=False):
         elif elem.name == "blockquote" and not elem.get("class"):
             parsed_children = [""]
             for child in elem.children:
-                parse_html(errors, parsed_children, image_urls, child)
+                parse_html(state, parsed_children, image_urls, child)
             parsed.extend([f"> {child}" for child in parsed_children])
             parsed.append(newline)
         elif elem.name == "hr" and not elem.get("class"):
@@ -110,11 +115,11 @@ def parse_html(errors, parsed, image_urls, elem, escape_newlines=False):
         elif elem.name == "dl" and not elem.get("class"):
             for child in elem.children:
                 parsed.extend(["", ""])
-                parse_html(errors, parsed, image_urls, child)
+                parse_html(state, parsed, image_urls, child)
             parsed.extend(["", ""])
         elif elem.name == "dd" and not elem.get("class"):
             for child in elem.children:
-                parse_html(errors, parsed, image_urls, child)
+                parse_html(state, parsed, image_urls, child)
         elif elem.name == "span" and elem.get("class") == ["tl-check"]:
             # does not seem to contain visible markup, so ignore
             pass
@@ -124,7 +129,7 @@ def parse_html(errors, parsed, image_urls, elem, escape_newlines=False):
         elif elem.name == "span" and not elem.get("class") and elem.get("style") == "border-top: 1px solid; padding: 0 0.1em;":
             # used for extending a square root sign, so just process children normally
             for child in elem.children:
-                parse_html(errors, parsed, image_urls, child)
+                parse_html(state, parsed, image_urls, child)
         elif elem.name == "span" and not elem.get("class") and not elem.get("style") \
                 or elem.name == "span" and elem.get("class") == ["plainlinks"] \
                 or elem.name == "span" and elem.get("class") == ["nowrap"] \
@@ -132,17 +137,17 @@ def parse_html(errors, parsed, image_urls, elem, escape_newlines=False):
                 or elem.name == "span" and elem.get("class") == ["mw-headline"] \
                 or elem.name == "span" and elem.get("style") == "white-space: nowrap;":
             for child in elem.children:
-                parse_html(errors, parsed, image_urls, child)
+                parse_html(state, parsed, image_urls, child)
         elif elem.name == "span" and elem.get("class") and elem.get("class")[0] == "tlp-aside-par":
             for child in elem.children:
-                parse_html(errors, parsed, image_urls, child)
+                parse_html(state, parsed, image_urls, child)
         elif elem.name == "span" and elem.get("class") and elem.get("class")[0].endswith("-aside-par"):
             # page breaks within Nachlass source documents as margin notes
             pass
         elif elem.name == "span" and elem.get("style") and elem.get("style").startswith("text-decoration: overline"):
             parsed[-1] += "$\\overline{"
             for child in elem.children:
-                parse_html(errors, parsed, image_urls, child)
+                parse_html(state, parsed, image_urls, child)
             parsed[-1] += "}$"
         elif elem.name == "ol":
             parsed.append(newline)
@@ -158,7 +163,7 @@ def parse_html(errors, parsed, image_urls, elem, escape_newlines=False):
                         parsed.append(f"  {counter}. ")
                     parsed_children = [""]
                     for child in child.children:
-                        parse_html(errors, parsed_children, image_urls, child)
+                        parse_html(state, parsed_children, image_urls, child)
                     parsed.extend([
                         f"    {child}" if i > 0 else child
                         for i, child in enumerate(parsed_children)
@@ -171,7 +176,7 @@ def parse_html(errors, parsed, image_urls, elem, escape_newlines=False):
                     parsed.append(f"  - ")
                     parsed_children = [""]
                     for child in child.children:
-                        parse_html(errors, parsed_children, image_urls, child)
+                        parse_html(state, parsed_children, image_urls, child)
                     parsed.extend([
                         f"    {child}" if i > 0 else child
                         for i, child in enumerate(parsed_children)
@@ -201,13 +206,13 @@ def parse_html(errors, parsed, image_urls, elem, escape_newlines=False):
                                 if cell.name == "th":
                                     for child in cell.children:
                                         parse_html(
-                                            errors, parsed_table, image_urls, child)
+                                            state, parsed_table, image_urls, child)
                                     parsed_table[-1] += "|"
                                     need_to_add_header_on_next_line = True
                                 elif cell.name == "td":
                                     for child in cell.children:
                                         parse_html(
-                                            errors, parsed_table, image_urls, child)
+                                            state, parsed_table, image_urls, child)
                                     parsed_table[-1] += "|"
                                     need_to_add_header_on_next_line = False
                                 else:
@@ -242,7 +247,7 @@ def parse_html(errors, parsed, image_urls, elem, escape_newlines=False):
             or elem.name == "p" and not elem.get("class") and elem.get("style") == "margin-left: 3em;":
             parsed.append(newline)
             for child in elem.children:
-                parse_html(errors, parsed, image_urls, child)
+                parse_html(state, parsed, image_urls, child)
             parsed.append(newline)
         elif elem.name == "p" and elem.get("class") == ["mw-empty-elt"]:
             # empty element, ignore
@@ -251,12 +256,12 @@ def parse_html(errors, parsed, image_urls, elem, escape_newlines=False):
             # generic container
             parsed.append(newline)
             for child in elem.children:
-                parse_html(errors, parsed, image_urls, child)
+                parse_html(state, parsed, image_urls, child)
             parsed.append(newline)
         elif elem.name == "div" and elem.get("class") == ["tlp-column"]:
             parsed.append(newline)
             for child in elem.children:
-                parse_html(errors, parsed, image_urls, child)
+                parse_html(state, parsed, image_urls, child)
             parsed.append(newline)
         elif elem.name == "div" and not elem.get("class") and elem.get("style") == "margin-left: -3em; float: left;":
             # section mark, ignore
@@ -273,17 +278,17 @@ def parse_html(errors, parsed, image_urls, elem, escape_newlines=False):
         elif elem.name == "div" and elem.get("class") and elem.get("class") == ["ebookonly"]:
             parsed.append(newline)
             for child in elem.children:
-                parse_html(errors, parsed, image_urls, child)
+                parse_html(state, parsed, image_urls, child)
             parsed.append(newline)
         elif elem.name == "span" and elem.get("class") and elem.get("class") == ["ebookonly"]:
             for child in elem.children:
-                parse_html(errors, parsed, image_urls, child)
+                parse_html(state, parsed, image_urls, child)
         elif elem.name == "div" and elem.get("class") and "colophon" in elem["class"]:
             # colophon
             parsed.append(newline)
             parsed_children = [""]
             for child in elem.children:
-                parse_html(errors, parsed_children, image_urls, child)
+                parse_html(state, parsed_children, image_urls, child)
             for child in parsed_children:
                 if child.strip():
                     parsed.append(f"_{child.strip()}_")
@@ -294,7 +299,7 @@ def parse_html(errors, parsed, image_urls, elem, escape_newlines=False):
             # box
             parsed.extend(["", "---", "", ""])
             for child in elem.children:
-                parse_html(errors, parsed, image_urls, child)
+                parse_html(state, parsed, image_urls, child)
             parsed.extend(["", "---", "", ""])
         elif elem.name == "div" and elem.get("style") == "width: 60%; margin-right: auto; margin-left: auto;" \
                 or elem.name == "p" and not elem.get("class") and elem.get("style") == "text-align: right;" \
@@ -303,7 +308,7 @@ def parse_html(errors, parsed, image_urls, elem, escape_newlines=False):
             parsed.append(newline)
             parsed_right = [""]
             for child in elem.children:
-                parse_html(errors, parsed_right, image_urls, child)
+                parse_html(state, parsed_right, image_urls, child)
             for line in parsed_right:
                 if line and not line.startswith("*"):
                     parsed.append(f"*{line}*")
@@ -319,14 +324,14 @@ def parse_html(errors, parsed, image_urls, elem, escape_newlines=False):
             # center
             parsed.append(newline)
             for child in elem.children:
-                parse_html(errors, parsed, image_urls, child)
+                parse_html(state, parsed, image_urls, child)
             parsed.append(newline)
         elif elem.name == "div" and elem.get("class") == ["floatnone"] \
                 or elem.name == "div" and not elem.get("class") and elem.get("style") == "float: left; width: 33.3%":
             # floatnone
             parsed.append(newline)
             for child in elem.children:
-                parse_html(errors, parsed, image_urls, child)
+                parse_html(state, parsed, image_urls, child)
             parsed.append(newline)
         elif elem.name == "div" and not elem.get("class") and not elem.text.strip() and elem.get("style") == "display: inline-block; width: 3em;":
             # 4 times unicode NO-BREAK-SPACE
@@ -343,6 +348,8 @@ def parse_html(errors, parsed, image_urls, elem, escape_newlines=False):
 def doc_as_md(text):
     title = text.find("p", "tl-title").text
     errors = []
+    refs = []
+    state = [errors, refs]
     parsed = f"""
 ---
 author: Ludwig Wittgenstein
@@ -355,12 +362,12 @@ _Published by the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.
 
 """
     image_urls = []
-    for line in parse_html(errors, [""], image_urls, text.find("div", "colophon")):
+    for line in parse_html(state, [""], image_urls, text.find("div", "colophon")):
         parsed += line.strip().replace("# <<TITLE>>", f"# {title}") + "\n"
     after_title = text.find_all("p", "tl-title")[-1]
     while after_title.next_sibling:
         after_title = after_title.next_sibling
-        for line in parse_html(errors, [""], image_urls, after_title):
+        for line in parse_html(state, [""], image_urls, after_title):
             parsed += line.strip() + "\n"
     return [errors, re.sub(r"\n(\s|\n)+", "\n\n", parsed).strip(), image_urls]
 
