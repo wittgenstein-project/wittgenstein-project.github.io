@@ -8,8 +8,9 @@ from bs4 import BeautifulSoup, NavigableString
 
 SECONDS_BETWEEN_DOC_REQUESTS = 0.5
 SECONDS_BETWEEN_IMG_REQUESTS = 0.1
-WHITELISTED_LANGUAGES = ["German", "English"]
-BLACKLISTED_WORKS = ["Wörterbuch", "Coffey", "Baumform", "tree-like"]
+BLACKLISTED_LANGS = ["Arabic"]
+BLACKLISTED_WORKS = ["Wörterbuch", "Baumform",
+                     "tree-like", "albero", "árbol", "arborescente"]
 
 # Functions to convert html to (pandoc) markdown:
 
@@ -85,7 +86,7 @@ def parse_html(state, parsed, image_urls, elem, escape_newlines=False):
             ref_number = elem.get("id").replace("cite_ref-", "")
             parsed[-1] += f"[^{ref_number}]"
             refs.append(ref_number)
-        elif elem.name == "div" and elem.get("class") == ["mw-references-wrap"]:
+        elif elem.name == "div" and elem.get("class") and "mw-references-wrap" in elem.get("class"):
             for i, ref in enumerate(elem.find_all("span", "reference-text")):
                 ref_number = i + 1
                 if not str(ref_number) in refs:
@@ -183,7 +184,7 @@ def parse_html(state, parsed, image_urls, elem, escape_newlines=False):
                     ])
         elif elem.name == "table":
             if elem.find("table"):
-                errors.append("Found table within table!")
+                errors.append(f"Found table within table: {elem}")
             header_cells = len(elem.find_all("th"))
             cells_in_first_row = len(elem.find("tr").find_all("td"))
             caption = ""
@@ -243,8 +244,10 @@ def parse_html(state, parsed, image_urls, elem, escape_newlines=False):
                 or elem.name == "h2" and not elem.get("class") \
                 or elem.name == "p" and elem.get("style") and "border-bottom: none; text-align: center; margin-top: 0.5em; margin-bottom: 0.5em;" in elem.get("style") and not elem.get("class"):
             parsed.extend([f"## {elem.text}", ""])
+        elif elem.name == "h3" and not elem.get("class"):
+            parsed.extend([f"### {elem.text}", ""])
         elif elem.name == "p" and not elem.get("class") and not elem.get("style") \
-            or elem.name == "p" and not elem.get("class") and elem.get("style") == "margin-left: 3em;":
+                or (elem.name == "p" or elem.name == "div") and not elem.get("class") and elem.get("style") == "margin-left: 3em;":
             parsed.append(newline)
             for child in elem.children:
                 parse_html(state, parsed, image_urls, child)
@@ -252,6 +255,10 @@ def parse_html(state, parsed, image_urls, elem, escape_newlines=False):
         elif elem.name == "p" and elem.get("class") == ["mw-empty-elt"]:
             # empty element, ignore
             pass
+        elif elem.get("class") and "ebook-ignore-style" in elem.get("class"):
+            # ignore the style, just parse the children
+            for child in elem.children:
+                parse_html(state, parsed, image_urls, child)
         elif elem.name == "div" and elem.get("class") and elem.get("class")[0].endswith("-container"):
             # generic container
             parsed.append(newline)
@@ -402,7 +409,7 @@ for elem in all_texts.find(id="all-texts-list"):
 all_errors = []
 
 for (language, texts) in all_languages.items():
-    if not language in WHITELISTED_LANGUAGES:
+    if language in BLACKLISTED_LANGS:
         continue
     for [title, link] in texts:
         if any([blacklisted_title.lower() in title.lower() for blacklisted_title in BLACKLISTED_WORKS]):
