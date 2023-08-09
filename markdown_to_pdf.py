@@ -20,12 +20,22 @@ else:
             output_file = os.path.join(output_dir, f"{work}.pdf")
             input_dir = os.path.join(MARKDOWN_DIR, lang, work)
             input_file = os.path.join(input_dir, f"{work}.md")
-            if lang == "english":
-                html_lang = "en"
-            elif lang == "german":
-                html_lang = "de"
-            else:
+            langs = {
+                "arabic": "ar",
+                "danish": "da",
+                "english": "en",
+                "french": "fr",
+                "german": "de",
+                "greek": "gr",
+                "italian": "it",
+                "portuguese": "pt",
+                "romanian": "ro",
+                "spanish": "es",
+                "turkish": "tr",
+            }
+            if not lang in langs:
                 raise Exception(f"Unknown language: '{lang}'")
+            html_lang = langs[lang]
             if os.system(f"pandoc {quote(input_file)}"
                          f" --resource-path={quote(input_dir)}"
                          #" --fail-if-warnings"
