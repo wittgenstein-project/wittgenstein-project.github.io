@@ -94,20 +94,24 @@ h2 {
     line-height: 1.8;
 }
 
-.book .links a {
-    text-decoration-color: transparent;
-    transition: text-decoration-color .2s;
-}
+@media (pointer:fine) {
+    .book .links a {
+        text-decoration-color: transparent;
+        transition: text-decoration-color .2s;
+    }
 
-.book .links a:hover {
-    text-decoration-color: var(--lwp-dark);
+    .book .links a:hover {
+        text-decoration-color: var(--lwp-dark);
+    }
 }
 
 .book img {
     transition: filter var(--transition-time);
 }
 
-.book:hover img, .book:hover::before, .book:hover::after {
+.book:hover img,
+.book:hover::before,
+.book:hover::after {
     filter: blur(5px);
 }
 
