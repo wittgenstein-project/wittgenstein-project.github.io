@@ -5,7 +5,7 @@
 
 @font-face {
     font-family: "Space Mono";
-    src: url("./styles/fonts/Space_Mono_2");
+    src: url("./.styles/fonts/Space_Mono_2");
 }
 
 * {
@@ -38,10 +38,38 @@ h2 {
     margin-bottom: 0;
 }
 
+@media (min-width: 1000px) {
+    .book {
+        flex-basis: calc(20% - (40px / 5));
+    }
+}
+
+@media (max-width: 1000px) {
+    .book {
+        flex-basis: calc(25% - (30px / 4));
+    }
+}
+
+@media (max-width: 750px) {
+    .book {
+        flex-basis: calc(33.3% - (20px / 3));
+    }
+}
+
+@media (max-width: 500px) {
+    .book {
+        flex-basis: calc(50% - (10px / 2));
+    }
+}
+
 .lang {
     display: flex;
     flex-wrap: wrap;
     gap: 10px 10px;
+}
+
+.book img {
+    width: 100%;
 }
 
 .book {

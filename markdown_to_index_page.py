@@ -53,7 +53,7 @@ else:
             epub_file = os.path.join(EPUB_DIR, lang, f"{work}.epub")
             mobi_file = os.path.join(MOBI_DIR, lang, f"{work}.mobi")
             pdf_file = os.path.join(PDF_DIR, lang, f"{work}.pdf")
-            body += f"<img width=\"160\" height=\"240\" src=\"{urllib.parse.quote(cover)}\" alt=\"{work} cover\">"
+            body += f"<img src=\"{urllib.parse.quote(cover)}\" alt=\"{work} cover\">"
             body += "<div class=\"links\">"
             body += f"<a href=\"{urllib.parse.quote(epub_file)}\">.epub</a>"
             body += f"<a href=\"{urllib.parse.quote(mobi_file)}\">.mobi</a>"
