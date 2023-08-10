@@ -7,4 +7,5 @@ git add markdown/
 git add epub/
 git add mobi/
 git add pdf/
+git add index.html
 git commit -am 'Auto-commit'; git push -u origin HEAD
