@@ -15,8 +15,8 @@ body {
     max-width: calc(((160px + 10px) * 5) + 10px);
     color: var(--lwp-yellow);
     background-color: var(--lwp-dark);
-    margin-top: 5rem;
-    margin-bottom: 5rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
     margin-left: auto;
     margin-right: auto;
 }
