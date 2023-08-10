@@ -49,7 +49,6 @@ else:
         for work in sorted(os.listdir(os.path.join(MARKDOWN_DIR, lang))):
             body += "<div class=\"book\">"
             cover = os.path.join(MARKDOWN_DIR, lang, work, "cover.png")
-            md_file = os.path.join(MARKDOWN_DIR, lang, work, f"{work}.md")
             epub_file = os.path.join(EPUB_DIR, lang, f"{work}.epub")
             mobi_file = os.path.join(MOBI_DIR, lang, f"{work}.mobi")
             pdf_file = os.path.join(PDF_DIR, lang, f"{work}.pdf")
@@ -58,7 +57,6 @@ else:
             body += f"<a href=\"{urllib.parse.quote(epub_file)}\">.epub</a>"
             body += f"<a href=\"{urllib.parse.quote(mobi_file)}\">.mobi</a>"
             body += f"<a href=\"{urllib.parse.quote(pdf_file)}\">.pdf</a>"
-            body += f"<a href=\"{urllib.parse.quote(md_file)}\">.md</a>"
             body += "</div>"
             body += "</div>\n"
         body += "</div>\n"
