@@ -1,6 +1,8 @@
 import os
 import subprocess
 import urllib.parse
+import requests
+from bs4 import BeautifulSoup, NavigableString
 
 MARKDOWN_DIR = "markdown"
 EPUB_DIR = "epub"
@@ -24,6 +26,16 @@ has_changed_files = subprocess.check_output(
 if not has_changed_files and not os.environ["GITHUB_EVENT_NAME"] == "push":
     print("No .md files have changed, nothing to do...")
 else:
+    all_texts_page = requests.get(
+        "https://www.wittgensteinproject.org/w/index.php?title=Project:All_texts&action=render").content
+    all_texts = BeautifulSoup(all_texts_page, features="html.parser")
+    wiki_hrefs = {}
+    for elem in all_texts.find(id="all-texts-list"):
+        if elem.name == "ul":
+            for link in elem.find_all("a"):
+                title = link["title"]
+                href = link["href"]
+                wiki_hrefs[title] = href
     body = "<main>\n"
     body += "<a href=\"https://www.wittgensteinproject.org/\">"
     body += "<img class=\"logo\" width=\"260\" height=\"80\" src=\"LWP_logo_hi_text.png\" alt=\"Ludwig Wittgenstein Project Logo\">"
@@ -47,6 +59,7 @@ else:
         body += f"<h2>{lang.title()}</h2>\n"
         body += "<div class=\"lang\">\n"
         for work in sorted(os.listdir(os.path.join(MARKDOWN_DIR, lang))):
+            body += "<div class=\"book-container\">"
             body += "<div class=\"book\">"
             cover = os.path.join(MARKDOWN_DIR, lang, work, "cover.png")
             epub_file = os.path.join(EPUB_DIR, lang, f"{work}.epub")
@@ -54,9 +67,12 @@ else:
             pdf_file = os.path.join(PDF_DIR, lang, f"{work}.pdf")
             body += f"<img src=\"{urllib.parse.quote(cover)}\" alt=\"{work} cover\">"
             body += "<div class=\"links\">"
+            if wiki_hrefs[work]:
+                body += f"<a href=\"{wiki_hrefs[work]}\">online</a>"
             body += f"<a href=\"{urllib.parse.quote(epub_file)}\">.epub</a>"
             body += f"<a href=\"{urllib.parse.quote(mobi_file)}\">.mobi</a>"
             body += f"<a href=\"{urllib.parse.quote(pdf_file)}\">.pdf</a>"
+            body += "</div>"
             body += "</div>"
             body += "</div>\n"
         body += "</div>\n"

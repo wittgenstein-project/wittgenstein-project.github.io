@@ -1,6 +1,8 @@
 :root {
     --font-system-ui: system-ui, sans-serif;
     --lwp-yellow: #fbf0a4;
+    --lwp-dark: #4c4c4c;
+    --transition-time: .4s;
 }
 
 * {
@@ -12,7 +14,7 @@ body {
     line-height: 1.5;
     max-width: calc(((160px + 10px) * 5) + 10px);
     color: var(--lwp-yellow);
-    background-color: #4c4c4c;
+    background-color: var(--lwp-dark);
     margin-top: 5rem;
     margin-bottom: 5rem;
     margin-left: auto;
@@ -30,29 +32,29 @@ main {
 
 h2 {
     margin-top: 3rem;
-    margin-bottom: 0;
+    margin-bottom: .5rem;
 }
 
 @media (min-width: 1000px) {
-    .book {
+    .book-container {
         flex-basis: 20%;
     }
 }
 
 @media (max-width: 1000px) {
-    .book {
+    .book-container {
         flex-basis: 25%;
     }
 }
 
 @media (max-width: 750px) {
-    .book {
+    .book-container {
         flex-basis: 33.333%;
     }
 }
 
 @media (max-width: 500px) {
-    .book {
+    .book-container {
         flex-basis: 50%;
     }
 }
@@ -61,53 +63,145 @@ h2 {
     display: flex;
     flex-wrap: wrap;
     gap: 0 0;
-    margin: -5px;
+    margin: -10px;
 }
 
 .book img {
     width: 100%;
+    z-index: 1;
 }
 
-.book {
+.book-container {
+    padding: 10px;
     position: relative;
-    margin: 0;
-    padding: 0;
-    line-height: 0;
-    padding: 5px;
 }
 
 .book .links {
     position: absolute;
-    bottom: 2rem;
-    left: 1rem;
-    transition: opacity .2s;
+    padding: 30px;
+    transition: opacity var(--transition-time);
+    z-index: 10;
+    transform: translateZ(20px);
+    height: 100%;
+    width: 100%;
 }
 
 .book .links a {
     display: block;
-    color: var(--lwp-yellow);
+    color: var(--lwp-dark);
     font-weight: bold;
-    font-size: 16pt;
+    font-size: 20pt;
     line-height: 1.8;
 }
 
 .book .links a {
-    transition: padding .2s, transform .2s;
+    text-decoration-color: transparent;
+    transition: text-decoration-color .2s;
 }
 
 .book .links a:hover {
-    padding-left: 8px;
-    transform: scale(1.2);
+    text-decoration-color: var(--lwp-dark);
 }
 
 .book img {
-    transition: opacity .2s;
+    transition: filter var(--transition-time);
 }
 
-.book:hover img {
-    opacity: .2;
+.book:hover img, .book:hover::before, .book:hover::after {
+    filter: blur(5px);
 }
 
 .book:not(:hover) .links {
     opacity: 0;
+}
+
+.book-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    perspective: 600px;
+}
+
+@keyframes initAnimation {
+    0% {
+        transform: rotateY(-36deg);
+    }
+
+    100% {
+        transform: rotateY(0deg);
+    }
+}
+
+.book {
+    width: 160px;
+    height: 240px;
+    position: relative;
+    transform-style: preserve-3d;
+    transform: rotateY(0deg);
+    transition: var(--transition-time) ease;
+    animation: 1s ease 0s 1 initAnimation;
+}
+
+.book-container:hover .book,
+.book-container:focus .book {
+    transform: rotateY(-36deg);
+}
+
+.book> :first-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: red;
+    width: 160px;
+    height: 240px;
+    transform: translateZ(17.5px);
+    background-color: #e0e0e0;
+    border-radius: 0 2px 2px 0;
+    box-shadow: 5px 5px 20px #666;
+}
+
+.book::before {
+    position: absolute;
+    content: ' ';
+    background-color: blue;
+    left: 0;
+    top: 3px;
+    width: 33px;
+    height: 234px;
+    transform: translateX(139.5px) rotateY(90deg);
+    background: linear-gradient(90deg,
+            #fff 0%,
+            #f9f9f9 5%,
+            #fff 10%,
+            #f9f9f9 15%,
+            #fff 20%,
+            #f9f9f9 25%,
+            #fff 30%,
+            #f9f9f9 35%,
+            #fff 40%,
+            #f9f9f9 45%,
+            #fff 50%,
+            #f9f9f9 55%,
+            #fff 60%,
+            #f9f9f9 65%,
+            #fff 70%,
+            #f9f9f9 75%,
+            #fff 80%,
+            #f9f9f9 85%,
+            #fff 90%,
+            #f9f9f9 95%,
+            #fff 100%);
+}
+
+.book::after {
+    position: absolute;
+    top: 0;
+    left: 0;
+    content: ' ';
+    width: 160px;
+    height: 240px;
+    transform: translateZ(-17.5px);
+    background-color: #e0e0e0;
+    border-radius: 0 2px 2px 0;
+    box-shadow: -10px 0 50px 10px #666;
 }
