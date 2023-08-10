@@ -32,5 +32,7 @@ jobs:
         run: python3 ./markdown_to_ebook.py
       - name: Markdown -> PDF
         run: python3 ./markdown_to_pdf.py
+      - name: Markdown -> index.html
+        run: python3 ./markdown_to_index_page.py
       - name: Commit
         run: sh ./commit.sh

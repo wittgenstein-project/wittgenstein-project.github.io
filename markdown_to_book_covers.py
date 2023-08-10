@@ -193,5 +193,5 @@ else:
                 svg += "\n</svg>"
                 with open(svg_file_name, 'w') as file:
                     file.write(svg)
-                if os.system(f"rsvg-convert {quote(svg_file_name)} -o {quote(png_file_name)}") != 0:
+                if os.system(f"rsvg-convert {quote(svg_file_name)} -o {quote(png_file_name)} -b='#ffffff'") != 0:
                     sys.exit(1)

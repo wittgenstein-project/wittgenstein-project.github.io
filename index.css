@@ -1,0 +1,88 @@
+:root {
+    --font-system-ui: system-ui, sans-serif;
+    --lwp-yellow: #fbf0a4;
+}
+
+@font-face {
+    font-family: "Space Mono";
+    src: url("./styles/fonts/Space_Mono_2");
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Space Mono";
+    line-height: 1.5;
+    max-width: calc(((160px + 10px) * 5) + 10px);
+    color: var(--lwp-yellow);
+    background-color: #4c4c4c;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+main {
+    margin: 0 10px;
+}
+
+.logo {
+    display: block;
+    margin-left: -15px;
+}
+
+h2 {
+    margin-top: 3rem;
+    margin-bottom: 0;
+}
+
+.lang {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px 10px;
+}
+
+.book {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    line-height: 0;
+}
+
+.book .links {
+    position: absolute;
+    bottom: 2rem;
+    left: 1rem;
+    transition: opacity .2s;
+}
+
+.book .links a {
+    display: block;
+    color: var(--lwp-yellow);
+    font-weight: bold;
+    font-size: 16pt;
+    line-height: 1.8;
+}
+
+.book .links a {
+    transition: padding .2s, transform .2s;
+}
+
+.book .links a:hover {
+    padding-left: 8px;
+    transform: scale(1.2);
+}
+
+.book img {
+    transition: opacity .2s;
+}
+
+.book:hover img {
+    opacity: .2;
+}
+
+.book:not(:hover) .links {
+    opacity: 0;
+}
