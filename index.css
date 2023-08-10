@@ -3,18 +3,12 @@
     --lwp-yellow: #fbf0a4;
 }
 
-@font-face {
-    font-family: "Space Mono";
-    src: url("./.styles/fonts/Space_Mono_2/SpaceMono-Regular.ttf"),
-        url("./.styles/fonts/Space_Mono_2/SpaceMono-Bold.ttf");
-}
-
 * {
     box-sizing: border-box;
 }
 
 body {
-    font-family: "Space Mono";
+    font-family: var(--font-system-ui);
     line-height: 1.5;
     max-width: calc(((160px + 10px) * 5) + 10px);
     color: var(--lwp-yellow);
