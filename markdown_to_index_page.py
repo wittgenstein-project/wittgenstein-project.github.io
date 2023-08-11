@@ -17,6 +17,7 @@ HTML_PAGE = """
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>Wittgenstein Ebooks</title>
     <link rel="stylesheet" href="index.css">
+    <link rel="icon" type="image/x-icon" href="https://www.wittgensteinproject.org/w/favicon.ico">
   </head>
   <body>{}</body>
 </html>"""
