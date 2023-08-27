@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup, NavigableString
 SECONDS_BETWEEN_DOC_REQUESTS = 0.5
 SECONDS_BETWEEN_IMG_REQUESTS = 0.1
 BLACKLISTED_LANGS = ["Arabic"]
-BLACKLISTED_WORKS = ["Wörterbuch", "Baumform",
+BLACKLISTED_WORKS = ["Wörterbuch", "Baumstruktur",
                      "tree-like", "albero", "árbol", "arborescente"]
 
 # Functions to convert html to (pandoc) markdown:
