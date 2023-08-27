@@ -7,7 +7,7 @@ title: Recensione di “La scienza della logica” di P. Coffey
 
 _Published by the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.org/)._
 
-_Traduzione di Michele Lavazza_
+_Traduzione di [Michele Lavazza](https://www.wittgensteinproject.org/w/index.php/Project:People#Michele_Lavazza)_
 
 _Questa traduzione è stata condotta sul testo dell'edizione originale inglese Ludwig Wittgenstein, “[Review: P. Coffey, The Science of Logic](https://www.wittgensteinproject.org/w/index.php/Review_of_P._Coffey,_The_Science_of_Logic)”, *The Cambridge Review*, vol. 34, n. 853, 6 marzo 1913, p. 351. Il testo originale è nel pubblico dominio in tutti i paesi dove i diritti di proprietà intellettuale scadono 70 anni o meno dopo la morte dell'autore._
 

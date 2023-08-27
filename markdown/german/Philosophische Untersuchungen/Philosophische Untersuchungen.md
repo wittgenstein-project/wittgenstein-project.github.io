@@ -340,19 +340,11 @@ Auf die *philosophische* Frage: »Ist das Gesichtsbild dieses Baumes zusammenges
 
 **48.** Laß uns die Methode des § 2 auf die Darstellung im *Theätetus* anwenden. Betrachten wir ein Sprachspiel, wofür diese Darstellung wirklich gilt. Die Sprache diene dazu, Kombinationen farbiger Quadrate auf einer Fläche darzustellen. Die Quadrate bilden einen schachbrettförmigen Komplex. Es gibt rote, grüne, weiße und schwarze Quadrate. Die Wörter der Sprache seien (entsprechend): »R«, »G«, »W«, »S«, und ein Satz ist eine Reihe dieser Wörter. Sie beschreiben eine Zusammenstellung von Quadraten in der Reihenfolge
 
-|   |   |   |
-|---|---|---|
-|1 |2 |3 |
-|4 |5 |6 |
-|7 |8 |9 |
+![PU 48-1.png](images/120px-PU_48-1.png)\
 
 Der Satz »RRSGGGRWW« beschreibt also z.B. eine Zusammensetzung dieser Art:
 
-|   |   |   |
-|---|---|---|
-| | | |
-| | | |
-| | | |
+![PU 48-2.png](images/120px-PU_48-2.png)\
 
 Hier ist der Satz ein Komplex von Namen, dem ein Komplex von Elementen entspricht. Die Urelemente sind die farbigen Quadrate. »Aber sind diese einfach?« – Ich wüßte nicht, was ich in diesem Sprachspiel natürlicher das »Einfache« nennen sollte. Unter anderen Umständen aber würde ich ein einfarbiges Quadrat »zusammengesetzt« nennen, etwa aus zwei Rechtecken, oder aus den Elementen Farbe und Form. Aber der Begriff der Zusammensetzung könnte auch so gedehnt werden, daß die kleinere Fläche ›zusammengesetzt‹ genannt wird aus einer größeren und einer von ihr subtrahierten. Vergleiche ›Zusammensetzung‹ der Kräfte, ›Teilung‹ einer Strecke durch einen Punkt außerhalb; diese Ausdrücke zeigen, daß wir unter Umständen auch geneigt sind, das Kleinere als Resultat der Zusammensetzung von Größerem aufzufassen und das Größere als ein Resultat der Teilung des Kleineren.
 
