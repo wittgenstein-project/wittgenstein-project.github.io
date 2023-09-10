@@ -15,13 +15,13 @@ _Esta edição digital é baseada na versão diplomática tal como aparece trans
 
 **Parte I**
 
-[Creio agora que seria correto iniciar um <meu> livro ~~sobre~~ com observações sobre a metafísica como uma espécie de magia.
+ʃ [Creio agora que seria correto iniciar um <meu> livro ~~sobre~~ com observações sobre a metafísica como uma espécie de magia.
 
-Ao fazê-lo, no entanto, eu não poderia falar a favor da magia nem fazer troça dela.
+ʃ Ao fazê-lo, no entanto, eu não poderia falar a favor da magia nem fazer troça dela.
 
-A profundidade da magia teria que ser mantida. – Sim, pois a eliminação ~~de toda~~ da magia teria aqui o caráter da própria magia. *(MS 110, p. 177)*
+ʃ A profundidade da magia teria que ser mantida. – Sim, pois a eliminação ~~de toda~~ da magia teria aqui o caráter da própria magia. *(MS 110, p. 177)*
 
-Pois, se eu comecei a falar do "mundo" (e não desta árvore ou mesa), o que teria querido senão encantar com as minhas palavras algo de mais alto?] *(MS 110, p. 178)*
+ʃ Pois, se eu comecei a falar do "mundo" (e não desta árvore ou mesa), o que teria querido senão encantar com as minhas palavras algo de mais alto?] *(MS 110, p. 178)*
 
 Deve-se começar pelo erro e convertê-lo à verdade.
 
@@ -176,9 +176,21 @@ Poder-se-ia dizer que "toda vista tem a sua sedução", mas isso seria falso. O 
 Na verdade, é importante que eu também tenha que «↓ me» apropriar do desprezo dos outros por mim, como uma parte essencial e significativa do mundo vista do meu lugar. *(MS 110, p. 254)*
 
 Se uma pessoa tivesse nascido «↓ se» «deixado nascer» livremente numa árvore de uma floresta: então haveria aqueles que selecionariam a árvore mais bela ou a mais alta, aqueles que escolheriam a mais baixa e aqueles que escolheriam uma árvore média ou menor que uma média; e entendo que eles o fariam não por filistinismo, mas pela razão, ou pelo tipo de razão, pelo qual o outro escolheu a mais alta. Que o sentimento que temos pela nossa vida seja comparável ao da pessoa que pôde escolher o seu ponto de vista no mundo, está na base, creio, do mito – ou da crença – de que escolhemos o nosso corpo antes do nascimento. *(MS 110, p. 255)*
-Acredito que o característico do homem primitivo é que ele nunca age por causa de *opiniões* (contra Frazer). Leio, entre muitos exemplos semelhantes, sobre um Rei da Chuva, na África, a quem o povo roga por chuva *quando chega o período das chuvas*. Isso não significa, porém, que eles queiram propriamente dizer que ele possa fazer chover, se não eles o fariam no período mais seco do ano, em que a terra é "a parched and arid desert" (um queimado e árido deserto). Pois ao se admitir que o povo, certa vez, por estupidez, criou este encargo para o Rei da Chuva, nesse caso fica certamente claro que eles já tinham antes a experiência de que a chuva começa em março, e então teriam posto o Rei da Chuva para funcionar na parte restante do ano. Ou então: pela manhã, quando o sol estiver por nascer, os homens celebram o rito da alvorada, mas não à noite, quando simplesmente acendem as lâmpadas.  Quando estou furioso com algo, bato às vezes minha bengala na terra ou contra uma árvore etc. Mas não acredito que a terra seja culpada ou que a bengala possa ajudar em algo. "Descarrego minha fúria". E todos os ritos são desse tipo. Essas ações podem ser denominadas como ações *(MS 110, p. 297)* instintivas. – E uma explicação histórica do que talvez eu ou os meus antepassados acreditaram antes, de que bater na terra ajudava em algo, são fantasmagorias, são hipóteses supérfluas que *nada* explicam. O importante é a semelhança do ato com o meu ato de castigar; porém, mais do que essa semelhança, nada se pode constatar.
+
+ø\\ Acredito que o característico do homem primitivo é que ele nunca age por causa de *opiniões* (contra Frazer). Leio, entre muitos exemplos semelhantes, sobre um Rei da Chuva, na África, a quem o povo roga por chuva *quando chega o período das chuvas*. Isso não significa, porém, que eles queiram propriamente dizer que ele possa fazer chover, se não eles o fariam no período mais seco do ano, em que a terra é "a parched and arid desert" (um queimado e árido deserto). Pois ao se admitir que o povo, certa vez, por estupidez, criou este encargo para o Rei da Chuva, nesse caso fica certamente claro que eles já tinham antes a experiência de que a chuva começa em março, e então teriam posto o Rei da Chuva para funcionar na parte restante do ano. Ou então: pela manhã, quando o sol estiver por nascer, os homens celebram o rito da alvorada, mas não à noite, quando simplesmente acendem as lâmpadas.
+
+ø [Quando estou furioso com algo, bato às vezes minha bengala na terra ou contra uma árvore etc. Mas não acredito que a terra seja culpada ou que a bengala possa ajudar em algo. "Descarrego minha fúria". E todos os ritos são desse tipo. Essas ações podem ser denominadas como ações *(MS 110, p. 297)* instintivas. – E uma explicação histórica do que talvez eu ou os meus antepassados acreditaram antes, de que bater na terra ajudava em algo, são fantasmagorias, são hipóteses supérfluas que *nada* explicam. O importante é a semelhança do ato com o meu ato de castigar; porém, mais do que essa semelhança, nada se pode constatar.
+
 Uma vez que esse fenômeno é colocado em ligação com um instinto que eu mesmo possuo, então é precisamente esta a explicação desejada «almejada»; isto é, aquela que resolve o puzzlement (perplexidade) particular «esta dificuldade particular». E uma reflexão «pesquisa posterior» sobre a história do meu instinto move-se em outros trilhos.
-Não pode haver o menor fundamento, isto é, absolutamente nenhum *fundamento* para que certas raças humanas venerem o carvalho, senão somente a de que eles e o carvalho estivessem unidos em uma comunidade de vida «simbiose»; portanto, não por opção mas porque «↓ uniram-se na sua origem», como a pulga e o cão. (Se as pulgas desenvolvessem um rito, ele estaria relacionado ao cão.) {surgiram juntos}  Poder-se-ia dizer que não foi a sua união (entre o carvalho e o homem) o que deu motivo a esse rito, senão talvez a sua separação {senão, em certo sentido, a sua separação}.  Pois o despertar do intelecto ocorreria com uma separação do *solo* originário, do fundamento originário da vida, de si. (O surgimento da *escolha*.) *(MS 110, p. 298)*  (A forma do espírito que desperta é a veneração.) *(MS 110, p. 299)*]
+
+ø\\ Não pode haver o menor fundamento, isto é, absolutamente nenhum *fundamento* para que certas raças humanas venerem o carvalho, senão somente a de que eles e o carvalho estivessem unidos em uma comunidade de vida «simbiose»; portanto, não por opção mas porque «↓ uniram-se na sua origem», como a pulga e o cão. (Se as pulgas desenvolvessem um rito, ele estaria relacionado ao cão.) {surgiram juntos}
+
+ø\\ Poder-se-ia dizer que não foi a sua união (entre o carvalho e o homem) o que deu motivo a esse rito, senão talvez a sua separação {senão, em certo sentido, a sua separação}.
+
+ø\\ Pois o despertar do intelecto ocorreria com uma separação do *solo* originário, do fundamento originário da vida, de si. (O surgimento da *escolha*.) *(MS 110, p. 298)*
+
+ø\\ (A forma do espírito que desperta é a veneração.) *(MS 110, p. 299)*]
+
 **Parte II**
 
 [168

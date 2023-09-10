@@ -13,15 +13,17 @@ _This digital edition is a diplomatic version of extracts of Wittgenstein’s *N
 
 ## I. Teil
 
-Ich glaube jetzt dass es richtig wäre ein //mein// Buch mit Bemerkungen über die Metaphysik als eine Art der Magie zu beginnen.
+ʃ  Ich glaube jetzt dass es richtig wäre ein //mein// Buch mit Bemerkungen über die Metaphysik als eine Art der Magie zu beginnen.
 
-Worin ich aber weder der Magie das Wort reden, noch mich über sie lustig machen darf.
+ʃ Worin ich aber weder der Magie das Wort reden, noch mich über sie lustig machen darf.
 
-Von der Magie müsste die Tiefe beibehalten werden. –
+ʃ Von der Magie müsste die Tiefe beibehalten werden. –
+
+ʃ
 
 Ja das Ausschalten ~~jeder~~ //der// Magie hat hier den Charakter der Magie selbst.
 
-Denn wenn ich damit anfing von der »*Welt*« zu reden (und nicht von diesem Baum oder Tisch) was wollte ich anderes als etwas Höheres in meine Worte bannen.
+ʃ  Denn wenn ich damit anfing von der »*Welt*« zu reden (und nicht von diesem Baum oder Tisch) was wollte ich anderes als etwas Höheres in meine Worte bannen.
 
 ---
 
@@ -181,31 +183,31 @@ Und wenn ich in Frazer lese, so möchte ich auf Schritt und Tritt sagen: Alle di
 
 ---
 
-Ich könnte mir denken, dass ich die Wahl gehabt hätte, ein Wesen der Erde als die Wohnung für meine Seele zu wählen und dass mein Geist dieses unansehnliche (nicht-anziehende) Geschöpf als seinen Sitz und Aussichtspunkt gewählt hätte. Etwa, weil ihm  die Ausnahme eines schönen Sitzes zuwider wäre. Dazu müsste freilich der Geist seiner selbst sehr sicher sein.
+ø\\  Ich könnte mir denken, dass ich die Wahl gehabt hätte, ein Wesen der Erde als die Wohnung für meine Seele zu wählen und dass mein Geist dieses unansehnliche (nicht-anziehende) Geschöpf als seinen Sitz und Aussichtspunkt gewählt hätte. Etwa, weil ihm  die Ausnahme eines schönen Sitzes zuwider wäre. Dazu müsste freilich der Geist seiner selbst sehr sicher sein.
 
-Man könnte sagen »jeder Aussicht ist ein Reiz abzugewinnen«, aber das wäre falsch. Richtig ist es, zu sagen, jede Aussicht ist bedeutsam für den der sie bedeutsam sieht (das heißt aber nicht, sie anders sieht als sie ist). Ja, in diesem Sinne, ist jede Aussicht gleich bedeutsam.
+ø\\ Man könnte sagen »jeder Aussicht ist ein Reiz abzugewinnen«, aber das wäre falsch. Richtig ist es, zu sagen, jede Aussicht ist bedeutsam für den der sie bedeutsam sieht (das heißt aber nicht, sie anders sieht als sie ist). Ja, in diesem Sinne, ist jede Aussicht gleich bedeutsam.
 
-Ja, es ist wichtig, dass ich auch //~~sogar~~// die Verachtung des Andern für mich mir zu eigen machen muss, als einen wesentlichen und bedeutsamen Teil der Welt von meinem Ort gesehen.
-
----
-
-Wenn es einem Menschen freigestellt wäre in einen Baum eines Waldes geboren zu werden //sich in einen Baum eines Waldes gebären zu lassen//: so gäbe es Solche, die sich den schönsten oder höchsten Baum aussuchen würden, solche die sich den kleinsten wählten und solche die sich einen Durchschnitts- oder minderen Durchschnittsbaum wählen würden, und zwar meine ich nicht aus Philiströsität, sondern aus eben dem Grund, oder der Art von Grund, warum sich der Andre den höchsten gewählt hat. Dass das Gefühl welches wir für unser Leben haben mit dem eines solchen Wesens, das sich seinen Standpunkt in der Welt wählen konnte, vergleichbar ist, liegt, glaube ich, dem Mythus – oder dem Glauben – zugrunde, wir hätten uns unsern Körper vor der Geburt gewählt.
+ø\\ Ja, es ist wichtig, dass ich auch //~~sogar~~// die Verachtung des Andern für mich mir zu eigen machen muss, als einen wesentlichen und bedeutsamen Teil der Welt von meinem Ort gesehen.
 
 ---
 
-Ich glaube, das Charakteristische des primitiven Menschen ist es, dass er nicht aus *Meinungen* handelt (dagegen Frazer). Ich lese unter vielen ähnlichen Beispielen von einem Regen-König in Afrika zu dem die Leute um Regen bitten, *wenn die Regenperiode kommt*. Aber das heißt doch, dass sie nicht eigentlich meinen, er könne Regen machen, sonst würden sie es in den trockenen Perioden des Jahres, in der das Land »a parched and arid desert« ist, machen. Denn wenn man annimmt, dass die Leute einmal aus Dummheit dieses Amt des Regenkönigs eingesetzt haben, so ist es doch gewiss klar, dass sie schon vorher die Erfahrung hatten, dass im März der Regen beginnt und sie hätten dann den Regenkönig für den übrigen Teil des Jahres funktionieren lassen. Oder auch so: Gegen morgen, wenn die Sonne aufgehen will, werden von den Menschen Riten des Tagwerdens zelebriert, aber nicht in der Nacht, sondern da brennen sie einfach Lampen.
+ø\\  Wenn es einem Menschen freigestellt wäre in einen Baum eines Waldes geboren zu werden //sich in einen Baum eines Waldes gebären zu lassen//: so gäbe es Solche, die sich den schönsten oder höchsten Baum aussuchen würden, solche die sich den kleinsten wählten und solche die sich einen Durchschnitts- oder minderen Durchschnittsbaum wählen würden, und zwar meine ich nicht aus Philiströsität, sondern aus eben dem Grund, oder der Art von Grund, warum sich der Andre den höchsten gewählt hat. Dass das Gefühl welches wir für unser Leben haben mit dem eines solchen Wesens, das sich seinen Standpunkt in der Welt wählen konnte, vergleichbar ist, liegt, glaube ich, dem Mythus – oder dem Glauben – zugrunde, wir hätten uns unsern Körper vor der Geburt gewählt.
 
-Wenn ich über etwas wütend bin, so schlage ich manchmal mit meinem Stock auf die Erde oder an einen Baum, etc. Aber ich *glaube* doch nicht, dass die Erde schuld ist, oder das Schlagen etwas helfen kann. »Ich lasse meinen Zorn aus«. Und dieser Art sind alle Riten. Solche Handlungen kann man Instinkt-Handlungen nennen. – Und eine historische Erklärung, etwa dass ich früher oder meine Vorfahren früher geglaubt haben, das Schlagen der Erde helfe etwas, sind Spiegelfechtereien, denn sie sind überflüssige Annahmen, die *nichts* erklären. Wichtig ist die Ähnlichkeit des Aktes mit einem Akt der Züchtigung, aber mehr als diese Ähnlichkeit ist nichts zu konstatieren.
+---
+
+ø\\  Ich glaube, das Charakteristische des primitiven Menschen ist es, dass er nicht aus *Meinungen* handelt (dagegen Frazer). Ich lese unter vielen ähnlichen Beispielen von einem Regen-König in Afrika zu dem die Leute um Regen bitten, *wenn die Regenperiode kommt*. Aber das heißt doch, dass sie nicht eigentlich meinen, er könne Regen machen, sonst würden sie es in den trockenen Perioden des Jahres, in der das Land »a parched and arid desert« ist, machen. Denn wenn man annimmt, dass die Leute einmal aus Dummheit dieses Amt des Regenkönigs eingesetzt haben, so ist es doch gewiss klar, dass sie schon vorher die Erfahrung hatten, dass im März der Regen beginnt und sie hätten dann den Regenkönig für den übrigen Teil des Jahres funktionieren lassen. Oder auch so: Gegen morgen, wenn die Sonne aufgehen will, werden von den Menschen Riten des Tagwerdens zelebriert, aber nicht in der Nacht, sondern da brennen sie einfach Lampen.
+
+ø Wenn ich über etwas wütend bin, so schlage ich manchmal mit meinem Stock auf die Erde oder an einen Baum, etc. Aber ich *glaube* doch nicht, dass die Erde schuld ist, oder das Schlagen etwas helfen kann. »Ich lasse meinen Zorn aus«. Und dieser Art sind alle Riten. Solche Handlungen kann man Instinkt-Handlungen nennen. – Und eine historische Erklärung, etwa dass ich früher oder meine Vorfahren früher geglaubt haben, das Schlagen der Erde helfe etwas, sind Spiegelfechtereien, denn sie sind überflüssige Annahmen, die *nichts* erklären. Wichtig ist die Ähnlichkeit des Aktes mit einem Akt der Züchtigung, aber mehr als diese Ähnlichkeit ist nichts zu konstatieren.
 
 Ist ein solches Phänomen einmal mit einem Instinkt, den ich selber besitze, in Verbindung gebracht, so ist eben dies die gewünschte //ersehnte// Erklärung; d.h. die welche das besondere puzzlement //diese besondere Schwierigkeit// löst. Und eine Betrachtung //weitere Forschung// über die Geschichte meines Instinkts bewegt sich nun auf andern Bahnen.
 
-Kein geringer Grund d.h. überhaupt kein *Grund* kann es gewesen sein, was gewisse Menschenrassen den Eichbaum verehren ließ, sondern nur das, dass sie und die Eiche in einer Lebensgemeinschaft //Symbiose// vereinigt waren, also nicht aus Wahl sondern wie der Floh ~~mit dem Hund~~ //und der Hund in ihrer Entstehung vereinigt// //mit einander entstanden//. (Entwickelten die Flöhe einen Ritus, er würde sich auf den Hund beziehen.)
+ø\\ Kein geringer Grund d.h. überhaupt kein *Grund* kann es gewesen sein, was gewisse Menschenrassen den Eichbaum verehren ließ, sondern nur das, dass sie und die Eiche in einer Lebensgemeinschaft //Symbiose// vereinigt waren, also nicht aus Wahl sondern wie der Floh ~~mit dem Hund~~ //und der Hund in ihrer Entstehung vereinigt// //mit einander entstanden//. (Entwickelten die Flöhe einen Ritus, er würde sich auf den Hund beziehen.)
 
-Man könnte sagen, nicht ihre Vereinigung (von Eiche und Mensch) hat zu diesen Riten die Veranlassung gegeben, sondern vielleicht ihre Trennung //sondern, in gewissem Sinne, ihre Trennung//.
+ø\\ Man könnte sagen, nicht ihre Vereinigung (von Eiche und Mensch) hat zu diesen Riten die Veranlassung gegeben, sondern vielleicht ihre Trennung //sondern, in gewissem Sinne, ihre Trennung//.
 
-Denn das Erwachen des Intellekts geht mit einer Trennung von dem ursprünglichen *Boden* der ursprünglichen Grundlage des Lebens vor sich. (Die Entstehung der *Wahl*.)
+ø\\ Denn das Erwachen des Intellekts geht mit einer Trennung von dem ursprünglichen *Boden* der ursprünglichen Grundlage des Lebens vor sich. (Die Entstehung der *Wahl*.)
 
-\(Die Form des erwachenden Geistes ist die Verehrung.)
+ø\\  (Die Form des erwachenden Geistes ist die Verehrung.)
 
 ---
 

@@ -16,15 +16,17 @@ _Sotto il titolo *[Bemerkungen über Frazers “The Golden Bough”](https://www
 
 ## Parte I
 
-Ritengo ora che sarebbe corretto cominciare un //il mio// libro ~~su~~ con alcune osservazioni sulla metafisica come una specie di magia.
+ʃ  Ritengo ora che sarebbe corretto cominciare un //il mio// libro ~~su~~ con alcune osservazioni sulla metafisica come una specie di magia.
 
-In ciò, tuttavia, non posso né parlare in favore della magia né farmene beffe.
+ʃ In ciò, tuttavia, non posso né parlare in favore della magia né farmene beffe.
 
-Della magia dovrebbe essere conservata la profondità. –
+ʃ Della magia dovrebbe essere conservata la profondità. –
+
+ʃ
 
 Qui, anzi, la neutralizzazione ~~di ogni~~ //della// magia possiede il carattere della magia stessa.
 
-Quando infatti io ho cominciato parlando del «*mondo*» (e non di questo albero o tavolo) che cos’altro volevo se non catturare nelle mie parole qualcosa di più elevato?
+ʃ  Quando infatti io ho cominciato parlando del «*mondo*» (e non di questo albero o tavolo) che cos’altro volevo se non catturare nelle mie parole qualcosa di più elevato?
 
 ---
 
@@ -182,29 +184,37 @@ E quando leggo Frazer, a ogni piè sospinto mi vien voglia di dir così: anche n
 
 ---
 
-Io potrei immaginare di aver avuto facoltà di scegliere un’entità della terra come dimora della mia anima e che il mio spirito abbia eletto questa modesta creazione (non-attraente) come sua sede e punto d’osservazione. Ad esempio perché gli  risulterebbe odiosa la straordinarietà di una sede bella. A tal fine lo spirito dovrebbe certamente esser molto sicuro di sé.
+ø\\  Io potrei immaginare di aver avuto facoltà di scegliere un’entità della terra come dimora della mia anima e che il mio spirito abbia eletto questa modesta creazione (non-attraente) come sua sede e punto d’osservazione. Ad esempio perché gli  risulterebbe odiosa la straordinarietà di una sede bella. A tal fine lo spirito dovrebbe certamente esser molto sicuro di sé.
 
-Si potrebbe dire «in ogni prospettiva si può trovare un fascino», ma questo sarebbe sbagliato. Corretto è dire che ciascuna prospettiva risulta significativa per chi la vede significativa (il che però non vuol dire vederla diversa da com’è). Già, in questo senso, ogni prospettiva è ugualmente significativa.
+ø\\ Si potrebbe dire «in ogni prospettiva si può trovare un fascino», ma questo sarebbe sbagliato. Corretto è dire che ciascuna prospettiva risulta significativa per chi la vede significativa (il che però non vuol dire vederla diversa da com’è). Già, in questo senso, ogni prospettiva è ugualmente significativa.
 
-Già, è importante che io debba far mio anche //~~perfino~~// il disprezzo degli altri nei miei confronti, quale componente essenziale e significativa del mondo visto dalla mia posizione.
-
----
-
-Se a una persona fosse data la possibilità di scegliere di nascere su un albero di un bosco //di farsi partorire su un albero di un bosco//, ci sarebbero quelli che vorrebbero aggiudicarsi l’albero più bello o più alto, altri che opterebbero per il più basso, altri che vorrebbero sceglierne uno nella media o al di sotto della media degli alberi, e questo, voglio dire, non per spirito filisteo, ma proprio per lo stesso motivo, o genere di motivo, per cui gli altri hanno scelto gli alberi più alti. Il fatto che la percezione che abbiamo della nostra vita sia paragonabile a quella di una creatura che ha potuto scegliersi il proprio posto nel mondo è, credo, il fondamento del mito – o della credenza – che ci siamo scelti il nostro corpo prima della nascita.
+ø\\ Già, è importante che io debba far mio anche //~~perfino~~// il disprezzo degli altri nei miei confronti, quale componente essenziale e significativa del mondo visto dalla mia posizione.
 
 ---
 
-Io credo che la caratteristica dell’uomo primitivo sia che egli non ha a che fare con *opinioni* (Frazer la pensa diversamente). Leggo, tra tanti esempi simili, di un re della pioggia in Africa al quale la gente chiede di far piovere *quando arriva la stagione delle piogge*. Ma questo vuol dire allora che essi non sono propriamente dell’opinione che egli sia in grado di far piovere, altrimenti lo farebbe nel periodo annuale di siccità, nel quale la terra diventa «a parched and arid desert».[^7] Se infatti si suppone che quella gente abbia un tempo stabilito questa funzione del re della pioggia per stupidità, è però perfettamente chiaro che avevano già fatto esperienza del fatto che in marzo comincia a piovere e avrebbero di conseguenza fatto sì che il re della pioggia entrasse in azione per la parte restante dell’anno. Oppure ancora: gli esseri umani celebrano ritualmente l’avvento del giorno a ridosso del mattino, quando il sole sta per sorgere, e non durante la notte, quando invece si limitano ad accendere le lampade.
+ø\\  Se a una persona fosse data la possibilità di scegliere di nascere su un albero di un bosco //di farsi partorire su un albero di un bosco//, ci sarebbero quelli che vorrebbero aggiudicarsi l’albero più bello o più alto, altri che opterebbero per il più basso, altri che vorrebbero sceglierne uno nella media o al di sotto della media degli alberi, e questo, voglio dire, non per spirito filisteo, ma proprio per lo stesso motivo, o genere di motivo, per cui gli altri hanno scelto gli alberi più alti. Il fatto che la percezione che abbiamo della nostra vita sia paragonabile a quella di una creatura che ha potuto scegliersi il proprio posto nel mondo è, credo, il fondamento del mito – o della credenza – che ci siamo scelti il nostro corpo prima della nascita.
 
-Quando sono arrabbiato per qualcosa, picchio talvolta col bastone sulla terra o contro un albero, etc. Non *credo* però che la terra sia colpevole o che il colpo possa essere di qualche aiuto. «Sfogo la mia furia». E tutti i riti sono qualcosa di questo genere. Tali azioni possono essere chiamate azioni  istintuali. – E una spiegazione storica, riguardo ad esempio il fatto che io o i miei antenati in passato credessimo che pestare sulla terra servisse a qualcosa, è uno specchietto per le allodole, perché è una supposizione inutile e che non spiega *nulla*. La cosa importante è la somiglianza fra quest’atto e l’atto di una punizione, ma oltre a questa somiglianza non c’è niente da constatare.
+---
+
+ø\\  Io credo che la caratteristica dell’uomo primitivo sia che egli non ha a che fare con *opinioni* (Frazer la pensa diversamente). Leggo, tra tanti esempi simili, di un re della pioggia in Africa al quale la gente chiede di far piovere *quando arriva la stagione delle piogge*. Ma questo vuol dire allora che essi non sono propriamente dell’opinione che egli sia in grado di far piovere, altrimenti lo farebbe nel periodo annuale di siccità, nel quale la terra diventa «a parched and arid desert».[^7] Se infatti si suppone che quella gente abbia un tempo stabilito questa funzione del re della pioggia per stupidità, è però perfettamente chiaro che avevano già fatto esperienza del fatto che in marzo comincia a piovere e avrebbero di conseguenza fatto sì che il re della pioggia entrasse in azione per la parte restante dell’anno. Oppure ancora: gli esseri umani celebrano ritualmente l’avvento del giorno a ridosso del mattino, quando il sole sta per sorgere, e non durante la notte, quando invece si limitano ad accendere le lampade.
+
+ø Quando sono arrabbiato per qualcosa, picchio talvolta col bastone sulla terra o contro un albero, etc. Non *credo* però che la terra sia colpevole o che il colpo possa essere di qualche aiuto. «Sfogo la mia furia». E tutti i riti sono qualcosa di questo genere. Tali azioni possono essere chiamate azioni  istintuali. – E una spiegazione storica, riguardo ad esempio il fatto che io o i miei antenati in passato credessimo che pestare sulla terra servisse a qualcosa, è uno specchietto per le allodole, perché è una supposizione inutile e che non spiega *nulla*. La cosa importante è la somiglianza fra quest’atto e l’atto di una punizione, ma oltre a questa somiglianza non c’è niente da constatare.
 
 Una volta che un tale fenomeno viene posto in relazione a un istinto che io stesso possiedo, ecco che questa è appunto la spiegazione che volevamo //che agognavamo//; cioè quella che risolve questo particolare puzzlement[^8] //questa particolare difficoltà//. E un esame //una ricerca ulteriore// sulla storia del mio istinto si muove lungo percorsi diversi.
 
+ø\\
+
 Non dev’essere stata una ragione di poco conto, anzi, non deve affatto esser stata una *ragione* ad aver portato alcune razze umane a venerare l’albero di quercia, bensì solamente il fatto che esse e la quercia erano unite in una comunità di vita //simbiosi//, quindi non per scelta, bensì come la pulce ~~con il cane~~ //e il cane uniti sin dall’origine// //originatisi insieme//. (Se le pulci sviluppassero un rito, esso sarebbe legato al cane).
+
+ø\\
 
 Si potrebbe dire che non è la loro unione (di quercia e uomo) ad aver dato adito a questi riti, bensì forse la loro separazione //bensì, in un certo senso, la loro separazione//.
 
+ø\\
+
 Il destarsi dell’intelletto, infatti, avviene con una separazione dal *suolo* originario, dal fondamento originario della vita. (L’origine della *scelta*.)
+
+ø\\
 
 \(La forma dello spirito che si desta è la venerazione.)
 

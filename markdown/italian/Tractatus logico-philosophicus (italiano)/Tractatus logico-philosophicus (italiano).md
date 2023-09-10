@@ -899,7 +899,7 @@ Se la sequenza di possibilità di verità nello schema è stabilita una volta pe
 
 «(VV–V)(*p*, *q*)» o, più esplicitamente, «(VVFV)(*p*, *q*)».
 
-\(Il numero dei posti nella parantesi a sinistra è determinato dal numero dei termini in quella a destra.)
+\(Il numero dei posti nella parentesi a sinistra è determinato dal numero dei termini in quella a destra.)
 
 **[4.45](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.45)** Per *n* proposizioni elementari vi sono *L~n~* possibili gruppi di condizioni di verità.
 
@@ -1462,7 +1462,7 @@ Le gerarchie sono e devono essere indipendenti dalla realtà.
 
 **[5.5563](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.5563)** Tutte le proposizioni del nostro linguaggio comune sono in effetti, così come sono, logicamente del tutto in ordine. – Ciò di semplicissimo che qui dobbiamo indicare non è un simulacro della verità, ma la piena verità stessa.
 
-\(In nostri problemi non sono astratti, bensì forse i più concreti che vi siano.)
+\(I nostri problemi non sono astratti, bensì forse i più concreti che vi siano.)
 
 **[5.557](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.557)** L'*applicazione* della logica decide di quali proposizioni elementari vi sono.
 
