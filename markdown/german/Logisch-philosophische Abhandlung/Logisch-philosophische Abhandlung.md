@@ -968,21 +968,21 @@ Die Verwechslung von Argument und Index liegt, wenn ich mich nicht irre, der The
 |   |   |   |
 |---|---|---|
 |(WWWW)(*p*, *q*) |Tautologie |(Wenn *p*, so *p*; und wenn *q*, so *q*.) (*p* ⊃ *p . q* ⊃ *q*) |
-|(FWWW)(*p*, *q*) |in Worten: |Nicht beides *p* und *q*. (\~(*p* . *q*)) |
+|(FWWW)(*p*, *q*) |in Worten: |Nicht beides *p* und *q*. (∼(*p* . *q*)) |
 |(WFWW)(*p*, *q*) |„ „ |Wenn *q*, so *p*. (q ⊃ p) |
 |(WWFW)(*p*, *q*) |„ „ |Wenn *p*, so *q*. (p ⊃ q) |
 |(WWWF)(*p*, *q*) |„ „ |*p* oder *q*. (*p* ∨ *q*) |
-|(FFWW)(*p*, *q*) |„ „ |Nicht *q*. \~*q* |
-|(FWFW)(*p*, *q*) |„ „ |Nicht *p*. \~*p* |
-|(FWWF)(*p*, *q*) |„ „ |*p* oder *q*, aber nicht beide. (*p* . \~*q* : ∨ : *q* . \~*p*) |
+|(FFWW)(*p*, *q*) |„ „ |Nicht *q*. ∼*q* |
+|(FWFW)(*p*, *q*) |„ „ |Nicht *p*. ∼*p* |
+|(FWWF)(*p*, *q*) |„ „ |*p* oder *q*, aber nicht beide. (*p* . ∼*q* : ∨ : *q* . ∼*p*) |
 |(WFFW)(*p*, *q*) |„ „ |Wenn *p*, so *q*; und wenn *q*, so *p*. (*p* ≡ *q*) |
 |(WFWF)(*p*, *q*) |„ „ |*p* |
 |(WWFF)(*p*, *q*) |„ „ |*q* |
-|(FFFW)(*p*, *q*) |„ „ |Weder *p* noch *q*. (\~*p* . \~*q*) oder (*p* \| *q*) |
-|(FFWF)(*p*, *q*) |„ „ |*p* und nicht *q*. (*p* . \~*q*) |
-|(FWFF)(*p*, *q*) |„ „ |*q* und nicht *p*. (*q* . \~*p*) |
+|(FFFW)(*p*, *q*) |„ „ |Weder *p* noch *q*. (∼*p* . ∼*q*) oder (*p* \| *q*) |
+|(FFWF)(*p*, *q*) |„ „ |*p* und nicht *q*. (*p* . ∼*q*) |
+|(FWFF)(*p*, *q*) |„ „ |*q* und nicht *p*. (*q* . ∼*p*) |
 |(WFFF)(*p*, *q*) |„ „ |*q* und *p*. (*q* . *p*) |
-|(FFFF)(*p*, *q*) |Kontradiktion |(*p* und nicht *p*; und *q* und nicht *q*.) (*p* . \~*p* . *q* . \~*q*) |
+|(FFFF)(*p*, *q*) |Kontradiktion |(*p* und nicht *p*; und *q* und nicht *q*.) (*p* . ∼*p* . *q* . ∼*q*) |
 
 Diejenigen Wahrheitsmöglichkeiten seiner Wahrheitsargumente, welche den Satz bewahrheiten, will ich seine *Wahrheitsgründe* nennen.
 
@@ -1078,7 +1078,9 @@ Was ich durch den Versuch bestätige ist, dass das Eintreffen der beiden Ereigni
 
 **5.156** So ist die Wahrscheinlichkeit eine Verallgemeinerung.
 
-Sie involviert eine allgemeine Beschreibung einer Satzform. Nur in Ermanglung der Gewissheit gebrauchen wir die Wahrscheinlichkeit. – Wenn wir zwar eine Tatsache nicht vollkommen kennen, wohl aber *etwas* über ihre Form wissen.
+Sie involviert eine allgemeine Beschreibung einer Satzform.
+
+Nur in Ermanglung der Gewissheit gebrauchen wir die Wahrscheinlichkeit. – Wenn wir zwar eine Tatsache nicht vollkommen kennen, wohl aber *etwas* über ihre Form wissen.
 
 \(Ein Satz kann zwar ein unvollständiges Bild einer gewissen Sachlage sein, aber er ist immer *ein* vollständiges Bild.)
 
@@ -1258,7 +1260,7 @@ So sagt „Sokrates ist identisch“ darum nichts, weil wir dem Wort „identisc
 
 Diese Operation verneint sämtliche Sätze in der rechten Klammer und ich nenne sie die Negation dieser Sätze.
 
-**5.501** Einen Klammerausdruck, dessen Glieder Sätze sind, deute ich – wenn die Reihenfolge der Glieder in der Klammer gleichgültig ist – durch ein Zeichen von der Form „${\displaystyle ({\bar {\xi }}}$)“ an. „*ξ*“ ist eine Variable, deren Werte die Glieder des Klammerausdruckes sind; und der Strich über der Variablen deutet an, dass sie ihre sämtlichen Werte in der Klammer vertritt.
+**5.501** Einen Klammerausdruck, dessen Glieder Sätze sind, deute ich – wenn die Reihenfolge der Glieder in der Klammer gleichgültig ist – durch ein Zeichen von der Form „${\displaystyle ({\bar {\xi }})}$“ an. „*ξ*“ ist eine Variable, deren Werte die Glieder des Klammerausdruckes sind; und der Strich über der Variablen deutet an, dass sie ihre sämtlichen Werte in der Klammer vertritt.
 
 \(Hat also *ξ* etwa die 3 Werte P, Q, R, so ist ${\displaystyle ({\bar {\xi }})}$ = (P, Q, R).)
 
