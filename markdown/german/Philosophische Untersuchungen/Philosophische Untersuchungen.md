@@ -224,7 +224,9 @@ In den Sprachen (2) und (8) gab es ein Fragen nach der Benennung nicht. Dies und
 
 ---
 
-Könnte man zur Erklärung des Wortes »rot« auf etwas weisen, was *nicht rot* ist? Das wäre ähnlich, wie wenn man Einem, der der deutschen Sprache nicht mächtig ist, das Wort »bescheiden« erklären sollte, und man zeigte zur Erklärung auf einen arroganten Menschen und sagte »Dieser ist *nicht* bescheiden«. Es ist kein Argument gegen eine solche Erklärungsweise, daß sie vieldeutig ist. Jede Erklärung kann mißverstanden werden. Wohl aber könnte man fragen: Sollen wir das noch eine »Erklärung« nennen? – Denn sie spielt im Kalkül natürlich eine andere Rolle als das, was wir gewöhnlich »hinweisende Erklärung« des Wortes »rot« nennen; auch wenn sie dieselben praktischen Folgen, dieselbe *Wirkung* auf den Lernenden hätte.
+Könnte man zur Erklärung des Wortes »rot« auf etwas weisen, was *nicht rot* ist? Das wäre ähnlich, wie wenn man Einem, der der deutschen Sprache nicht mächtig ist, das Wort »bescheiden« erklären sollte, und man zeigte zur Erklärung auf einen arroganten Menschen und sagte »Dieser ist *nicht* bescheiden«. Es ist kein Argument gegen eine solche Erklärungsweise, daß sie vieldeutig ist. Jede Erklärung kann mißverstanden werden.
+
+Wohl aber könnte man fragen: Sollen wir das noch eine »Erklärung« nennen? – Denn sie spielt im Kalkül natürlich eine andere Rolle als das, was wir gewöhnlich »hinweisende Erklärung« des Wortes »rot« nennen; auch wenn sie dieselben praktischen Folgen, dieselbe *Wirkung* auf den Lernenden hätte.
 
 ---
 
@@ -285,7 +287,9 @@ Wie gesagt, in gewissen Fällen, besonders beim Zeigen ›auf die Form‹, oder 
 ---
 
 Wie geht es vor sich: die Worte »*Das* ist blau« einmal als Aussage über den Gegenstand, auf den man zeigt – einmal als Erklärung des Wortes »blau« *meinen*? Im zweiten Fall meint man also eigentlich »Das heißt ›blau‹« – Kann man also das Wort »ist« einmal als »heißt« meinen, und das Wort »blau« als »›blau‹«? und ein andermal das »ist« wirklich als »ist«?
+
 Es kann auch geschehen, daß jemand aus dem, was als Mitteilung gemeint war, eine Worterklärung zieht. [Hier liegt ein folgenschwerer Aberglaube verborgen.]
+
 Kann ich mit dem Wort »bububu« meinen »Wenn es nicht regnet, werde ich spazieren gehen«? – Nur in einer Sprache kann ich etwas mit etwas meinen. Das zeigt klar, daß die Grammatik von »meinen« nicht ähnlich der ist des Ausdrucks »sich etwas vorstellen« und dergl.
 
 ---
@@ -595,7 +599,9 @@ Der Satz, das Wort, von dem die Logik handelt, soll etwas Reines und Scharfgesch
 ---
 
 Die Philosophie der Logik redet in keinem andern Sinn von Sätzen und Wörtern, als wir es im gewöhnlichen Leben tun, wenn wir etwa sagen »hier steht ein chinesischer Satz aufgeschrieben«, oder »nein, das sieht nur aus wie Schriftzeichen, ist aber ein Ornament«, etc.
+
 Wir reden von dem räumlichen und zeitlichen Phänomen der Sprache; nicht von einem unräumlichen und unzeitlichen Unding. [Nur kann man sich in verschiedener Weise für ein Phänomen interessieren.] Aber wir reden von ihr so, wie von den Figuren des Schachspiels, indem wir Spielregeln für sie angeben, nicht ihre physikalischen Eigenschaften beschreiben.
+
 Die Frage »Was ist eigentlich ein Wort?« ist analog der »Was ist eine Schachfigur?«
 
 ---
@@ -734,7 +740,9 @@ Das Bild des Würfels *legte* uns allerdings eine gewisse Verwendung *nahe*, abe
 
 ---
 
-\(a) »Ich glaube, das richtige Wort in diesem Fall ist ..... Zeigt das nicht, daß die Bedeutung des Worts ein Etwas ist, das uns vorschwebt, und das gleichsam das genaue Bild ist, welches wir hier brauchen wollen? Denke, ich wählte zwischen den Wörtern »stattlich«, »würdevoll«, »stolz«, »Achtung gebietend«; ist es nicht, als ob ich zwischen den Zeichnungen in einer Mappe wählte? – Nein; daß man vom *treffenden Wort* redet, *zeigt* nicht die Existenz eines Etwas, welches etc. Vielmehr ist man geneigt, von jenem bildartigen Etwas zu sprechen, weil man ein Wort als treffend empfinden kann; zwischen Worten oft, wie zwischen ähnlichen, aber doch nicht gleichen Bildern, wählt; weil man Bilder oft statt Wörtern, oder zur Illustration von Wörtern, gebraucht; etc. (b) Ich sehe ein Bild: es stellt einen alten Mann dar, der auf einen Stock gestützt einen steilen Weg aufwärts geht. – Und wie das? Konnte es nicht auch so aussehen, wenn er in dieser Stellung die Straße hinunterrutschte? Ein Marsbewohner würde das Bild vielleicht so beschreiben. Ich brauche nicht zu erklären, warum *wir* es nicht so beschreiben.
+\(a) »Ich glaube, das richtige Wort in diesem Fall ist ..... Zeigt das nicht, daß die Bedeutung des Worts ein Etwas ist, das uns vorschwebt, und das gleichsam das genaue Bild ist, welches wir hier brauchen wollen? Denke, ich wählte zwischen den Wörtern »stattlich«, »würdevoll«, »stolz«, »Achtung gebietend«; ist es nicht, als ob ich zwischen den Zeichnungen in einer Mappe wählte? – Nein; daß man vom *treffenden Wort* redet, *zeigt* nicht die Existenz eines Etwas, welches etc. Vielmehr ist man geneigt, von jenem bildartigen Etwas zu sprechen, weil man ein Wort als treffend empfinden kann; zwischen Worten oft, wie zwischen ähnlichen, aber doch nicht gleichen Bildern, wählt; weil man Bilder oft statt Wörtern, oder zur Illustration von Wörtern, gebraucht; etc.
+
+\(b) Ich sehe ein Bild: es stellt einen alten Mann dar, der auf einen Stock gestützt einen steilen Weg aufwärts geht. – Und wie das? Konnte es nicht auch so aussehen, wenn er in dieser Stellung die Straße hinunterrutschte? Ein Marsbewohner würde das Bild vielleicht so beschreiben. Ich brauche nicht zu erklären, warum *wir* es nicht so beschreiben.
 
 ---
 
@@ -789,6 +797,7 @@ Du meinst also: du weißt die Anwendung des Gesetzes der Reihe, auch ganz abgese
 ---
 
 \(*a*) »Ein Wort verstehen«, ein Zustand. Aber ein *seelischer* Zustand? – Betrübnis, Aufregung, Schmerzen, nennen wir seelische Zustände. Mache diese grammatische Betrachtung: Wir sagen
+
 »Er war den ganzen Tagen betrübt«.
 
 »Er war den ganzen Tag in großer Aufregung«.
@@ -796,6 +805,7 @@ Du meinst also: du weißt die Anwendung des Gesetzes der Reihe, auch ganz abgese
 »Er hatte seit gestern ununterbrochen Schmerzen«. –
 
 Wir sagen auch »Ich verstehe dieses Wort seit gestern«. Aber »ununterbrochen«? – Ja, man kann von einer Unterbrechung des Verstehens reden. Aber in welchen Fällen? Vergleiche: »Wann haben deine Schmerzen nachgelassen?« und »Wann hast du aufgehört, das Wort zu verstehen?«
+
 \(*b*) Wie, wenn man fragte: Wann *kannst* du Schach spielen? Immer? oder während du einen Zug machst? Und während jedes Zuges das ganze Schach? – Und wie seltsam, daß Schachspielen können so kurze Zeit braucht, und eine Partie so viel länger.
 
 ---
@@ -880,7 +890,9 @@ Und so verwenden wir auch das Wort »Lesen« für eine Familie von Fällen. Und 
 
 ---
 
-Die Grammatik des Ausdrucks: »Eine ganz bestimmte« (Atmosphäre). Man sagt »Dieses Gesicht hat einen ganz *bestimmten* Ausdruck«, und sucht etwa nach Worten, die ihn charakterisieren.
+Die Grammatik des Ausdrucks: »Eine ganz bestimmte« (Atmosphäre).
+
+Man sagt »Dieses Gesicht hat einen ganz *bestimmten* Ausdruck«, und sucht etwa nach Worten, die ihn charakterisieren.
 
 ---
 
@@ -2117,7 +2129,9 @@ c) Mit den beiden Verneinungen verbinden wir verschiedene Vorstellungen. »X« d
 ---
 
 a) »Daß drei Verneinungen wieder eine Verneinung ergeben, muß doch schon in der einen Verneinung, die ich jetzt gebrauche, liegen.« (Die Versuchung, einen Mythos des »Bedeutens« zu erfinden.)
+
 Es hat den Anschein, als würde aus der Natur der Negation folgen, daß eine doppelte Verneinung eine Bejahung ist. (Und etwas Richtiges ist daran. Was? *Unsere* Natur hängt mit beiden zusammen.)
+
 b) Es kann keine Diskussion darüber geben, ob diese Regeln, oder andere, die richtigen für das Wort »nicht« sind (ich meine, ob sie seiner Bedeutung gemäß sind). Denn das Wort hat ohne diese Regeln noch keine Bedeutung; und wenn wir die Regeln ändern, so hat es nun eine andere Bedeutung (oder keine), und wir können dann ebensogut auch das Wort ändern.
 
 ---
