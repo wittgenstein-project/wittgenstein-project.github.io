@@ -39,7 +39,6 @@ else:
             html_lang = langs[lang]
             if os.system(f"pandoc {quote(input_file)}"
                          f" --resource-path={quote(input_dir)}"
-                         #" --fail-if-warnings"
                          f" -V lang:{html_lang}"
                          " -V backgroundcolor:#fff"
                          " --template=.styles/template.html"

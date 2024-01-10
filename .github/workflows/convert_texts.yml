@@ -20,6 +20,7 @@ jobs:
           sudo wget https://github.com/jgm/pandoc/releases/download/2.19.2/pandoc-2.19.2-1-amd64.deb
           sudo dpkg -i pandoc-2.19.2-1-amd64.deb
           sudo apt-get install -y librsvg2-bin texlive texlive-xetex texlive-latex-extra calibre
+          pip3 install grapheme
           pip3 install weasyprint
           pip3 install -r ./requirements.txt
           sudo cp -r ./.styles/fonts/Space_Mono_2/*.ttf /usr/share/fonts/truetype/

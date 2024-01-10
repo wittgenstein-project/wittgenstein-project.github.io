@@ -1,4 +1,4 @@
-import os, subprocess, sys, math, re
+import os, subprocess, sys, math, re, grapheme
 from shlex import quote
 
 MARKDOWN_DIR = "markdown"
@@ -86,18 +86,21 @@ LWP_LOGO_SVG = """<g
     </g>
   </g>"""
 
-def collides_exact(words, column, row):
+def collides_exact(lang, words, column, row):
     if row >= ROW_TITLE and row < ROW_TITLE + (len(words) * 3):
         word = words[(row - ROW_TITLE) // 3]
-        if column > COLUMN_TITLE and column <= COLUMN_TITLE + 1 + (len(word) * 2):
+        word_len = grapheme.length(word) * 2
+        if lang == "hindi":
+            word_len += 2
+        if column > COLUMN_TITLE and column <= COLUMN_TITLE + 1 + (word_len):
             return True
     return False
 
-def collides_fuzzy(words, column, row):
+def collides_fuzzy(lang, words, column, row):
     collision = False
     for c in range(column - 1, column + 2):
         for r in range(row - 1, row + 2):
-            if collides_exact(words, c, r):
+            if collides_exact(lang, words, c, r):
                 collision = True
                 break
     return collision
@@ -135,7 +138,6 @@ else:
                         continue
                     cx = cell_width + column * cell_width
                     cy = cell_width + row * cell_width
-                    #r = math.log(len(remark) + 1) * 2
                     r = math.log(len(remark) + 1)**2 / 3
                     periods = len([c for c in remark if c == "."])
                     question_marks = len([c for c in remark if c == "?"])
@@ -145,24 +147,17 @@ else:
                         fill = "black"
                     else:
                         fill = "none"
-                    #svg += f"""\n<rect x="{cx - r}" y="{cy - r}" width="{r * 2}" height="{r * 2}" fill="{fill}" stroke="black" stroke-width="6" />"""
                     svg_fg += f"""\n<circle cx="{cx}" cy="{cy}" r="{r}" fill="{fill}" stroke="black" stroke-width="6" />"""
-                    #if "$" in remark:
-                    #    x1 = (column * cell_width) + (cell_width / 2)
-                    #    y1 = (row * cell_width) + (cell_width * 1.5)
-                    #    x2 = x1 + cell_width
-                    #    y2 = y1 - cell_width
-                    #    svg += f"""\n<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="black" stroke-width="6" />"""
                     while True:
                         column += 1
                         if column + 1 >= WIDTH / cell_width:
                             column = 0
                             row += 1
                         collision = False
-                        if not collides_fuzzy(words, column, row):
+                        if not collides_fuzzy(lang, words, column, row):
                             break
                 while row + 1 < HEIGHT / cell_width:
-                    if not collides_fuzzy(words, column, row):
+                    if not collides_fuzzy(lang, words, column, row):
                         cx = cell_width + column * cell_width
                         cy = cell_width + row * cell_width
                         svg_fg += f"""\n<circle cx="{cx}" cy="{cy}" r="4" stroke="black" fill="none" stroke-width="2" />"""
@@ -175,7 +170,10 @@ else:
                 font_size = cell_width * 3.3
                 for word in words:
                     y += cell_width * 3
-                    svg_fg += f"""<text x="{x}" y="{y}" fill="black" font-size="{font_size}" font-weight="bold" font-family="Space Mono">{word}</text>"""
+                    font_family = "font-family=\"Space Mono\""
+                    if lang == "hindi":
+                       font_family = "font-family=\"'Nimbus Mono PS', 'Courier New', monospace\""
+                    svg_fg += f"""<text x="{x}" y="{y}" fill="black" font-size="{font_size}" font-weight="bold" {font_family}>{word}</text>"""
                 svg_fg += f"""<g transform="translate({cell_width * 2.1}, {cell_width * 3 - 6})">{LWP_LOGO_SVG}</g>"""
                 svg_fg += f"""<text x="{cell_width * 7.2}" y="{cell_width * 4.6}" fill="{LWP_GRAY}" font-size="{cell_width * 1.65}" font-weight="bold" font-family="Space Mono">The Ludwig</text>"""
                 svg_fg += f"""<text x="{cell_width * 7.2}" y="{cell_width * 6.4}" fill="{LWP_GRAY}" font-size="{cell_width * 1.65}" font-weight="bold" font-family="Space Mono">Wittgenstein Project</text>"""
