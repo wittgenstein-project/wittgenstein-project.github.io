@@ -55,7 +55,7 @@ body {
 }
 
 body:lang(hi) {
-    font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
+    font-family: 'Noto Sans Devanagari', serif;
 }
 
 h1.title {

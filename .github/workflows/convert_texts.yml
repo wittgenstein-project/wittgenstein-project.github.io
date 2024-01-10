@@ -23,8 +23,9 @@ jobs:
           pip3 install grapheme
           pip3 install weasyprint
           pip3 install -r ./requirements.txt
-          sudo cp -r ./.styles/fonts/Space_Mono_2/*.ttf /usr/share/fonts/truetype/
           sudo cp -r ./.styles/fonts/Alegreya/*.ttf /usr/share/fonts/truetype/
+          sudo cp -r ./.styles/fonts/Noto_Sans_Devanagari/*.ttf /usr/share/fonts/truetype/
+          sudo cp -r ./.styles/fonts/Space_Mono_2/*.ttf /usr/share/fonts/truetype/
       - name: HTML -> Markdown
         run: python3 ./html_to_markdown.py && git status
       - name: Markdown -> Book Covers (SVG + PNG)

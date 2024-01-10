@@ -171,8 +171,8 @@ else:
                 for word in words:
                     y += cell_width * 3
                     font_family = "font-family=\"Space Mono\""
-                    if lang == "hindi":
-                       font_family = "font-family=\"'Nimbus Mono PS', 'Courier New', monospace\""
+                    if (not "Wittgenstein" in word) and lang == "hindi":
+                       font_family = "font-family=\"Noto Sans Devanagari\""
                     svg_fg += f"""<text x="{x}" y="{y}" fill="black" font-size="{font_size}" font-weight="bold" {font_family}>{word}</text>"""
                 svg_fg += f"""<g transform="translate({cell_width * 2.1}, {cell_width * 3 - 6})">{LWP_LOGO_SVG}</g>"""
                 svg_fg += f"""<text x="{cell_width * 7.2}" y="{cell_width * 4.6}" fill="{LWP_GRAY}" font-size="{cell_width * 1.65}" font-weight="bold" font-family="Space Mono">The Ludwig</text>"""
