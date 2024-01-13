@@ -656,7 +656,9 @@ Teoría del conocimiento es la filosofía de la psicología.
 
 **[4.113](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.113)** La filosofía limita el ámbito discutible de la ciencia de la naturaleza.
 
-**[4.114](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.114)** Ella debe delimitar lo pensable [*Denkbare*] y con ello lo impensable. Ella debe limitar lo impensable desde dentro mediante lo pensable.
+**[4.114](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.114)** Ella debe delimitar lo pensable [*Denkbare*] y con ello lo impensable.
+
+Ella debe limitar lo impensable desde dentro mediante lo pensable.
 
 **[4.115](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.115)** Ella significará lo inefable en tanto que represente claramente lo decible.
 

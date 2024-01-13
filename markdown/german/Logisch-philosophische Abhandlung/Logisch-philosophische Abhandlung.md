@@ -613,7 +613,7 @@ Der Punkt an dem das Gleichnis hinkt ist nun der: Wir können auf einen Punkt de
 
 Der verneinende Satz bestimmt einen *anderen* logischen Ort als der verneinte.
 
-Der verneinende Satz bestimmt einen logischen Ort mit Hilfe des logischen Ortes des verneinten Satzes, indem er jenen ausserhalb diesem liegend beschreibt.
+Der verneinende Satz bestimmt einen logischen Ort mit Hilfe des logischen Ortes des verneinten Satzes, indem er jenen als ausserhalb diesem liegend beschreibt.
 
 Dass man den verneinten Satz wieder verneinen kann, zeigt schon, dass das, was verneint wird, schon ein Satz und nicht erst die Vorbereitung zu einem Satze ist.
 
@@ -645,7 +645,9 @@ Entspricht nicht mein Studium der Zeichensprache dem Studium der Denkprozesse, w
 
 **4.113** Die Philosophie begrenzt das bestreitbare Gebiet der Naturwissenschaft.
 
-**4.114** Sie soll das Denkbare abgrenzen und damit das Undenkbare. Sie soll das Undenkbare von innen durch das Denkbare begrenzen.
+**4.114** Sie soll das Denkbare abgrenzen und damit das Undenkbare.
+
+Sie soll das Undenkbare von innen durch das Denkbare begrenzen.
 
 **4.115** Sie wird das Unsagbare bedeuten, indem sie das Sagbare klar darstellt.
 
@@ -1364,7 +1366,7 @@ Und der Satz „*nur* Ein *x* befriedigt *f* ()“ lautet: „(∃*x*) *. fx* : 
 
 **5.535** Damit erledigen sich auch alle Probleme, die an solche Scheinsätze geknüpft waren.
 
-Alle Probleme, die Russells „Axiom of Infinity“ mit sich bringt, sind schon hier zu lösen.
+Alle Probleme, die Russells „Axiom of infinity“ mit sich bringt, sind schon hier zu lösen.
 
 Das, was das Axiom of infinity sagen soll, würde sich in der Sprache dadurch ausdrücken, dass es unendlich viele Namen mit verschiedener Bedeutung gäbe.
 
@@ -1739,7 +1741,7 @@ So auch sagt es nichts über die Welt aus, dass sie sich durch die Newtonsche Me
 
 **6.3431** Durch den ganzen logischen Apparat hindurch sprechen die physikalischen Gesetze doch von den Gegenständen der Welt.
 
-**6.3432** Wir dürfen nicht vergessen, dass die Weltbeschreibung durch die Mechanik immer die ganz allgemeine ist. Es ist in ihr z. B. nie von *bestimmten* materiellen Punkten die Rede, sondern immer nur von *irgendwelchen*.
+**6.3432** Wir dürfen nicht vergessen, dass die Weltbeschreibung durch die Mechanik immer die ganz allgemeine ist. Es ist in ihr z. B. nie von *bestimmten* materiellen Punkten die Rede, sondern immer nur von *irgend welchen*.
 
 **6.35** Obwohl die Flecke in unserem Bild geometrische Figuren sind, so kann doch selbstverständlich die Geometrie gar nichts über ihre tatsächliche Form und Lage sagen. Das Netz aber ist *rein* geometrisch, alle seine Eigenschaften können a priori angegeben werden.
 
@@ -1777,7 +1779,7 @@ Es ist klar, dass kein Grund vorhanden ist, zu glauben, es werde nun auch wirkli
 
 **6.371** Der ganzen modernen Weltanschauung liegt die Täuschung zugrunde, dass die sogenannten Naturgesetze die Erklärungen der Naturerscheinungen seien.
 
-**6.372** So bleiben sie bei den Naturgesetzen als bei etwas Unantastbarem stehen, wie die älteren bei Gott und dem Schicksal.
+**6.372** So bleiben sie bei den Naturgesetzen als bei etwas Unantastbarem stehen, wie die Älteren bei Gott und dem Schicksal.
 
 Und sie haben ja beide Recht, und Unrecht. Die Alten sind allerdings insofern klarer, als sie einen klaren Abschluss anerkennen, während es bei dem neuen System scheinen soll, als sei *alles* erklärt.
 
