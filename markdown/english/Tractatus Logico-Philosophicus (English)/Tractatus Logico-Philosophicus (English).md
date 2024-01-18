@@ -1050,7 +1050,7 @@ Contradiction vanishes so to speak outside, tautology inside all propositions.
 
 Contradiction is the external limit of the propositions, tautology their substanceless centre.
 
-**[5.15](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.15)** If *T~r~* is the number of the truth-grounds of the proposition “*r*”, *T~r~* the number of those truth-grounds of the proposition “*s*” which are at the same time truth-grounds of “*r*”, then we call the ratio *T*~*rs*~ : *T*~*r*~ the measure of the *probability* which the proposition “*r*” gives to the proposition “*s*”.
+**[5.15](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.15)** If *T~r~* is the number of the truth-grounds of the proposition “*r*”, *T~rs~* the number of those truth-grounds of the proposition “*s*” which are at the same time truth-grounds of “*r*”, then we call the ratio *T*~*rs*~ : *T*~*r*~ the measure of the *probability* which the proposition “*r*” gives to the proposition “*s*”.
 
 **[5.151](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.151)** Suppose in a schema like that above in No. [5.101](#5.101) *T~r~* is the number of the “T”’s in the proposition *r*, *T~rs~* the number of those “T”’s in the proposition *s*, which stand in the same columns as “T”’s of the proposition *r*; then the proposition *r* gives to the proposition *s* the probability *T*~*rs*~ : *T*~*r*~.
 
