@@ -710,7 +710,9 @@ Wir sagen z.B.: »Er erklärte mir seine Lage, sagte, es verhalte sich so und so
 
 **136.** Im Grunde ist die Angabe von »Es verhält sich so und so« als allgemeine Form des Satzes das gleiche, wie die Erklärung: ein Satz sei alles, was wahr oder falsch sein könne. Denn, statt »Es verhält sich ...« hätte ich auch sagen können: »Das und das ist wahr«. (Aber auch: »Das und das ist falsch«.) Nun ist aber
 
-›p‹ ist wahr = p ›p‹ ist falsch = nicht-p.
+›p‹ ist wahr = p
+
+›p‹ ist falsch = nicht-p.
 
 Und zu sagen, ein Satz sei alles, was wahr oder falsch sein könne, kommt darauf hinaus: Einen Satz nennen wir das, worauf wir *in unserer Sprache* den Kalkül der Wahrheitsfunktionen anwenden.
 
