@@ -103,7 +103,7 @@ Nur sich nicht von Fragen überhäufen lassen; nur es sich bequem machen!
 
 Es scheint mir jetzt plötzlich in irgend einem Sinne klar, daß eine Eigenschaft eines Sachverhalts immer intern sein muß.
 
-*ϕ*a, *ψ*b, aRb. Man könnte sagen, der Sachverhalt aRb habe er eine gewisse Eigenschaft, wenn die beiden ersten Satze wahr sind.
+*ϕ*a, *ψ*b, aRb. Man könnte sagen, der Sachverhalt aRb habe immer eine gewisse Eigenschaft, wenn die beiden ersten Satze wahr sind.
 
 Wenn ich sage: Es ist gut, daß p der Fall ist, dann muß dies eben *in sich* gut sein.
 
