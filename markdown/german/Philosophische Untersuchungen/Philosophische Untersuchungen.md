@@ -1206,7 +1206,9 @@ Wäre aber auch eine Sprache denkbar, in der Einer seine inneren Erlebnisse – 
 
 **246.** Inwiefern sind nun meine Empfindungen *privat? –* Nun, nur ich kann wissen, ob ich wirklich Schmerzen habe; der Andere kann es nur vermuten. – Das ist in einer Weise falsch, in einer andern unsinnig. Wenn wir das Wort »wissen« gebrauchen, wie es normalerweise gebraucht wird (und wie sollen wir es denn gebrauchen!), dann wissen es Andre sehr häufig, wenn ich Schmerzen habe. – Ja, aber doch nicht mit der Sicherheit, mit der ich selbst es weiß! – Von mir kann man überhaupt nicht sagen (außer etwa im Spaß), ich *wisse*, daß ich Schmerzen habe. Was soll es denn heißen – außer etwa, daß ich Schmerzen *habe?*
 
-Man kann nicht sagen, die Andern lernen meine Empfindung *nur* durch mein Benehmen, – denn von mir kann man nicht sagen, ich lernte sie. Ich *habe* sie. Das ist richtig: es hat Sinn, von Ändern zu sagen, sie seien im Zweifel darüber, ob ich Schmerzen habe; aber nicht, es von mir selbst zu sagen.
+Man kann nicht sagen, die Andern lernen meine Empfindung *nur* durch mein Benehmen, – denn von mir kann man nicht sagen, ich lernte sie. Ich *habe* sie.
+
+Das ist richtig: es hat Sinn, von Andern zu sagen, sie seien im Zweifel darüber, ob ich Schmerzen habe; aber nicht, es von mir selbst zu sagen.
 
 **247.** »Nur du kannst wissen, ob du die Absicht hattest.« Das könnte man jemandem sagen, wenn man ihm die Bedeutung des Wortes »Absicht« erklärt. Es heißt dann nämlich: *so* gebrauchen wir es.
 
