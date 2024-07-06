@@ -47,6 +47,10 @@ If this work has a value it consists in two things. First that in it thoughts ar
 
 On the other hand the *truth* of the thoughts communicated here seems to me unassailable and definitive. I am, therefore, of the opinion that the problems have in essentials been finally solved. And if I am not mistaken in this, then the value of this work secondly consists in the fact that it shows how little has been done when these problems have been solved.
 
+*L.W.*
+
+Vienna, 1918.
+
 ## Tractatus Logico-Philosophicus
 
 **[1](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#1)** The world is everything that is the case.[^tlp-note-1_1-0]
