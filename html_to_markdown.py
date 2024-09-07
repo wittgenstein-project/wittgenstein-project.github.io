@@ -127,7 +127,7 @@ def parse_html(state, parsed, image_urls, elem, escape_newlines=False):
         elif elem.name == "span" and elem.get("class") and "mwe-math-mathml-inline" in elem.get("class"):
             # inline math, ignore for now, parent should also contain svg <img>
             pass
-        elif elem.name == "span" and elem.get("class") and elem.get("class") == "smj-container":
+        elif elem.name == "span" and elem.get("class") and "smj-container" in elem.get("class"):
             # class and style are added by the SimpleMathJax extension, so just process children normally
             for child in elem.children:
                 parse_html(state, parsed, image_urls, child)
