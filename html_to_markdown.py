@@ -127,6 +127,10 @@ def parse_html(state, parsed, image_urls, elem, escape_newlines=False):
         elif elem.name == "span" and elem.get("class") and "mwe-math-mathml-inline" in elem.get("class"):
             # inline math, ignore for now, parent should also contain svg <img>
             pass
+        elif elem.name == "span" and elem.get("class") and elem.get("class") == "smj-container":
+            # class and style are added by the SimpleMathJax extension, so just process children normally
+            for child in elem.children:
+                parse_html(state, parsed, image_urls, child)
         elif elem.name == "span" and not elem.get("class") and elem.get("style") == "border-top: 1px solid; padding: 0 0.1em;":
             # used for extending a square root sign, so just process children normally
             for child in elem.children:
