@@ -51,7 +51,7 @@ Dagegen scheint mir die *Wahrheit* der hier mitgeteilten Gedanken unantastbar un
 
 ## Logisch-philosophische Abhandlung
 
-**1** Die Welt ist alles, was der Fall ist.[^1]
+**1** Die Welt ist alles, was der Fall ist.[^tlp-note-1_1-0]
 
 **1.1** Die Welt ist die Gesamtheit der Tatsachen, nicht der Dinge.
 
@@ -809,7 +809,7 @@ Ausdrücke wie „*a* = *a*“, oder von diesen abgeleitete, sind weder Elementa
 
 **4.26** Die Angabe aller wahren Elementarsätze beschreibt die Welt vollständig. Die Welt ist vollständig beschrieben durch die Angaben aller Elementarsätze plus der Angabe, welche von ihnen wahr und welche falsch sind.
 
-**4.27** Bezüglich des Bestehens und Nichtbestehens von *n* Sachverhalten gibt es ${\displaystyle K_{n}=\sum _{\nu =0}^{n}{\binom {n}{\nu }}}$ Möglichkeiten.
+**4.27** Bezüglich des Bestehens und Nichtbestehens von *n* Sachverhalten gibt es [math]\\displaystyle{ K_n = \\sum_{\\nu=0}^n \\binom{n}{\\nu} }[/math] Möglichkeiten.
 
 Es können alle Kombinationen der Sachverhalte bestehen, die andern nicht bestehen.
 
@@ -848,7 +848,7 @@ Es können alle Kombinationen der Sachverhalte bestehen, die andern nicht besteh
 
 **4.411** Es ist von vornherein wahrscheinlich, dass die Einführung der Elementarsätze für das Verständnis aller anderen Satzarten grundlegend ist. Ja, das Verständnis der allgemeinen Sätze hängt *fühlbar* von dem der Elementarsätze ab.
 
-**4.42** Bezüglich der Übereinstimmung und Nichtübereinstimmung eines Satzes mit den Wahrheitsmöglichkeiten von *n* Elementarsätzen gibt es ${\displaystyle \sum _{\kappa =0}^{K_{n}}{\binom {K_{n}}{\kappa }}=L_{n}}$ Möglichkeiten.
+**4.42** Bezüglich der Übereinstimmung und Nichtübereinstimmung eines Satzes mit den Wahrheitsmöglichkeiten von *n* Elementarsätzen gibt es [math]\\displaystyle{ \\sum_{\\kappa=0}^{K_n} \\binom{K_n}{\\kappa} = L_n }[/math] Möglichkeiten.
 
 **4.43** Die Übereinstimmung mit den Wahrheitsmöglichkeiten können wir dadurch ausdrücken, indem wir ihnen im Schema etwa das Abzeichen „W“ (wahr) zuordnen.
 
@@ -881,7 +881,7 @@ Analoges gilt natürlich für alle Zeichen, die dasselbe ausdrücken wie die Sch
 
 ein Satzzeichen.
 
-Frege’s „Urteilsstrich“ „${\displaystyle \vdash }$“ ist logisch ganz bedeutungslos; er zeigt bei Frege (und Russell) nur an, dass diese Autoren die so bezeichneten Sätze für wahr halten. „${\displaystyle \vdash }$“ gehört daher ebenso wenig zum Satzgefüge, wie etwa die Nummer des Satzes. Ein Satz kann unmöglich von sich selbst aussagen, dass er wahr ist.)
+Frege’s „Urteilsstrich“ „[math]\\displaystyle{ \\vdash }[/math]“ ist logisch ganz bedeutungslos; er zeigt bei Frege (und Russell) nur an, dass diese Autoren die so bezeichneten Sätze für wahr halten. „[math]\\displaystyle{ \\vdash }[/math]“ gehört daher ebenso wenig zum Satzgefüge, wie etwa die Nummer des Satzes. Ein Satz kann unmöglich von sich selbst aussagen, dass er wahr ist.)
 
 Ist die Reihenfolge der Wahrheitsmöglichkeiten im Schema durch eine Kombinationsregel ein für allemal festgesetzt, dann ist die letzte Kolonne allein schon ein Ausdruck der Wahrheitsbedingungen. Schreiben wir diese Kolonne als Reihe hin, so wird das Satzzeichen zu:
 
@@ -1262,9 +1262,9 @@ So sagt „Sokrates ist identisch“ darum nichts, weil wir dem Wort „identisc
 
 Diese Operation verneint sämtliche Sätze in der rechten Klammer und ich nenne sie die Negation dieser Sätze.
 
-**5.501** Einen Klammerausdruck, dessen Glieder Sätze sind, deute ich – wenn die Reihenfolge der Glieder in der Klammer gleichgültig ist – durch ein Zeichen von der Form „${\displaystyle ({\bar {\xi }})}$“ an. „*ξ*“ ist eine Variable, deren Werte die Glieder des Klammerausdruckes sind; und der Strich über der Variablen deutet an, dass sie ihre sämtlichen Werte in der Klammer vertritt.
+**5.501** Einen Klammerausdruck, dessen Glieder Sätze sind, deute ich – wenn die Reihenfolge der Glieder in der Klammer gleichgültig ist – durch ein Zeichen von der Form „[math]\\displaystyle{ (\\bar{\\xi}) }[/math]“ an. „*ξ*“ ist eine Variable, deren Werte die Glieder des Klammerausdruckes sind; und der Strich über der Variablen deutet an, dass sie ihre sämtlichen Werte in der Klammer vertritt.
 
-\(Hat also *ξ* etwa die 3 Werte P, Q, R, so ist ${\displaystyle ({\bar {\xi }})}$ = (P, Q, R).)
+\(Hat also *ξ* etwa die 3 Werte P, Q, R, so ist [math]\\displaystyle{ (\\bar{\\xi}) }[/math] = (P, Q, R).)
 
 Die Werte der Variablen werden festgesetzt.
 
@@ -1274,13 +1274,13 @@ Wie die Beschreibung der Glieder des Klammerausdruckes geschieht, ist unwesentli
 
 Wir *können* drei Arten der Beschreibung unterscheiden: 1. Die direkte Aufzählung. In diesem Fall können wir statt der Variablen einfach ihre konstanten Werte setzen. 2. Die Angabe einer Funktion *fx*, deren Werte für alle Werte von *x* die zu beschreibenden Sätze sind. 3. Die Angabe eines formalen Gesetzes, nach welchem jene Sätze gebildet sind. In diesem Falle sind die Glieder des Klammerausdrucks sämtliche Glieder einer Formenreihe.
 
-**5.502** Ich schreibe also statt „(– – – – –W)(*ξ, . . . .*)“ „${\displaystyle N({\bar {\xi }})}$“.
+**5.502** Ich schreibe also statt „(– – – – –W)(*ξ, . . . .*)“ „[math]\\displaystyle{ N ( \\bar{\\xi} ) }[/math]“.
 
-${\displaystyle N({\bar {\xi }})}$ ist die Negation sämtlicher Werte der Satzvariablen *ξ*.
+[math]\\displaystyle{ N ( \\bar{\\xi} ) }[/math] ist die Negation sämtlicher Werte der Satzvariablen *ξ*.
 
 **5.503** Da sich offenbar leicht ausdrücken lässt, wie mit dieser Operation Sätze gebildet werden können und wie Sätze mit ihr nicht zu bilden sind, so muss dies auch einen exakten Ausdruck finden können.
 
-**5.51** Hat *ξ* nur einen Wert, so ist ${\displaystyle N({\bar {\xi }})}$ = ∼*p* (nicht *p*), hat es zwei Werte, so ist ${\displaystyle N({\bar {\xi }})}$ = ∼*p .* ∼*q* (weder *p* noch *q*).
+**5.51** Hat *ξ* nur einen Wert, so ist [math]\\displaystyle{ N ( \\bar{\\xi} ) }[/math] = ∼*p* (nicht *p*), hat es zwei Werte, so ist [math]\\displaystyle{ N ( \\bar{\\xi} ) }[/math] = ∼*p .* ∼*q* (weder *p* noch *q*).
 
 **5.511** Wie kann die allumfassende, weltspiegelnde Logik so spezielle Haken und Manipulationen gebrauchen? Nur, indem sich alle diese zu einem unendlich feinen Netzwerk, zu dem grossen Spiegel, verknüpfen.
 
@@ -1308,7 +1308,7 @@ Aber auch hier ist ja der negative Satz indirekt durch den positiven gebildet.
 
 Der positive *Satz* muss die Existenz des negativen *Satzes* voraussetzen und umgekehrt.
 
-**5.52** Sind die Werte von *ξ* sämtliche Werte einer Funktion *fx* für alle Werte von *x*, so wird ${\displaystyle N({\bar {\xi }})}$ = ∼(∃*x*) *. fx*.
+**5.52** Sind die Werte von *ξ* sämtliche Werte einer Funktion *fx* für alle Werte von *x*, so wird [math]\\displaystyle{ N ( \\bar{\\xi} ) }[/math] = ∼(∃*x*) *. fx*.
 
 **5.521** Ich trenne den Begriff *Alle* von der Wahrheitsfunktion.
 
@@ -1512,38 +1512,38 @@ Das Ich tritt in die Philosophie dadurch ein, dass die „Welt meine Welt ist“
 
 Das philosophische Ich ist nicht der Mensch, nicht der menschliche Körper, oder die menschliche Seele, von der die Psychologie handelt, sondern das metaphysische Subjekt, die Grenze – nicht ein Teil der Welt.
 
-**6** Die allgemeine Form der Wahrheitsfunktion ist: ${\displaystyle [{\bar {p}},{\bar {\xi }},N({\bar {\xi }})]}$.
+**6** Die allgemeine Form der Wahrheitsfunktion ist: [math]\\displaystyle{ [ \\bar{p}, \\bar{\\xi}, N (\\bar{\\xi}) ] }[/math].
 
 Dies ist die allgemeine Form des Satzes.
 
-**6.001** Dies sagt nichts anderes, als dass jeder Satz ein Resultat der successiven Anwendung der Operation ${\displaystyle N'({\bar {\xi }})}$ auf die Elementarsätze ist.
+**6.001** Dies sagt nichts anderes, als dass jeder Satz ein Resultat der successiven Anwendung der Operation [math]\\displaystyle{ N' (\\bar{\\xi}) }[/math] auf die Elementarsätze ist.
 
 **6.002** Ist die allgemeine Form gegeben, wie ein Satz gebaut ist, so ist damit auch schon die allgemeine Form davon gegeben, wie aus einem Satz durch eine Operation ein anderer erzeugt werden kann.
 
-**6.01** Die allgemeine Form der Operation ${\displaystyle \Omega '({\bar {\eta }})}$ ist also: ${\displaystyle [{\bar {\xi }},N({\bar {\xi }})]'({\bar {\eta }})(=[{\bar {\eta }},{\bar {\xi }},N({\bar {\xi }})])}$.
+**6.01** Die allgemeine Form der Operation [math]\\displaystyle{ \\Omega ' (\\bar{\\eta}) }[/math] ist also: [math]\\displaystyle{ [\\bar{\\xi}, N(\\bar{\\xi})]' (\\bar{\\eta}) (= [ \\bar{\\eta}, \\bar{\\xi}, N (\\bar{\\xi}) ]) }[/math].
 
 Das ist die allgemeinste Form des Überganges von einem Satz zum anderen.
 
 **6.02** Und so kommen wir zu den Zahlen: Ich definiere
 
-${\displaystyle x=\Omega ^{0\prime }x{\text{ Def.}}}$ und
-${\displaystyle \Omega ^{\prime }\Omega ^{\nu \prime }x=\Omega ^{\nu +1\prime }x{\text{ Def.}}}$
+[math]\\displaystyle{ x = \\Omega^{0 \\prime} x \\text{ Def.} }[/math] und
+[math]\\displaystyle{ \\Omega^{\\prime} \\Omega^{\\nu \\prime} x = \\Omega^{\\nu + 1 \\prime} x \\text{ Def.} }[/math]
 
-Nach diesen Zeichenregeln schreiben wir also die Reihe ${\displaystyle x,\Omega 'x,\Omega '\Omega 'x,\Omega '\Omega '\Omega 'x,.....}$
+Nach diesen Zeichenregeln schreiben wir also die Reihe [math]\\displaystyle{ x, \\Omega ' x, \\Omega ' \\Omega ' x, \\Omega ' \\Omega ' \\Omega ' x, ..... }[/math]
 
-so: ${\displaystyle \Omega ^{0\prime }x,\Omega ^{0+1\prime }x,\Omega ^{0+1+1\prime }x,\Omega ^{0+1+1+1\prime }x,.....}$
+so: [math]\\displaystyle{ \\Omega^{0 \\prime} x, \\Omega^{0+1 \\prime} x, \\Omega^{0 + 1 + 1 \\prime} x, \\Omega^{0 + 1 + 1 + 1 \\prime} x, ..... }[/math]
 
-Also schreibe ich statt „${\displaystyle [x,\xi ,\Omega '\xi ]}$“:
+Also schreibe ich statt „[math]\\displaystyle{ [ x, \\xi, \\Omega ' \\xi ] }[/math]“:
 
-„${\displaystyle [\Omega ^{0\prime }x,\Omega ^{\nu \prime }x,\Omega ^{\nu +1\prime }x]}$“.
+„[math]\\displaystyle{ [ \\Omega^{0 \\prime} x, \\Omega^{\\nu \\prime} x, \\Omega^{\\nu + 1 \\prime} x ] }[/math]“.
 
 Und definiere:
 
-${\displaystyle 0+1=1{\text{ Def.}}}$
+[math]\\displaystyle{ 0 + 1 = 1 \\text{ Def.} }[/math]
 
-${\displaystyle 0+1+1=2{\text{ Def.}}}$
+[math]\\displaystyle{ 0 + 1 + 1 = 2 \\text{ Def.} }[/math]
 
-${\displaystyle 0+1+1+1=3{\text{ Def.}}}$
+[math]\\displaystyle{ 0 + 1 + 1 + 1 = 3 \\text{ Def.} }[/math]
 
 \(u. s. f.)
 
@@ -1555,7 +1555,7 @@ Der Zahlbegriff ist die variable Zahl.
 
 Und der Begriff der Zahlengleichheit ist die allgemeine Form aller speziellen Zahlengleichheiten.
 
-**6.03** Die allgemeine Form der ganzen Zahl ist: ${\displaystyle [0,\xi ,\xi +1]}$.
+**6.03** Die allgemeine Form der ganzen Zahl ist: [math]\\displaystyle{ [ 0, \\xi, \\xi + 1] }[/math].
 
 **6.031** Die Theorie der Klassen ist in der Mathematik ganz überflüssig.
 
@@ -1709,11 +1709,11 @@ Denn die Gleichungen drücken die Ersetzbarkeit zweier Ausdrücke aus und wir sc
 
 **6.241** So lautet der Beweis des Satzes 2 × 2 = 4:
 
-${\displaystyle (\Omega ^{\nu })^{\mu \prime }x=\Omega ^{\nu \times \mu \prime }x{\text{ Def.}}}$
+[math]\\displaystyle{ ( \\Omega^{\\nu} )^{\\mu \\prime} x = \\Omega^{\\nu \\times \\mu \\prime} x \\text{ Def.} }[/math]
 
-${\displaystyle \Omega ^{2\times 2\prime }x=(\Omega ^{2})^{2\prime }x=(\Omega ^{2})^{1+1\prime }x=\Omega ^{2\prime }\Omega ^{2\prime }x=\Omega ^{1+1\prime }\Omega ^{1+1\prime }x}$
+[math]\\displaystyle{ \\Omega^{2 \\times 2 \\prime} x = (\\Omega^2 )^{2 \\prime} x = ( \\Omega^2 )^{1+1 \\prime} x = \\Omega^{2 \\prime} \\Omega^{2 \\prime} x = \\Omega^{1 + 1 \\prime} \\Omega^{1 + 1 \\prime} x }[/math]
 
-${\displaystyle (\Omega '\Omega )^{\prime }(\Omega '\Omega )^{\prime }x=\Omega '\Omega '\Omega '\Omega 'x=\Omega ^{1+1+1+1\prime }x=\Omega ^{4\prime }x}$
+[math]\\displaystyle{ (\\Omega ' \\Omega)^{\\prime} (\\Omega ' \\Omega)^{\\prime} x = \\Omega ' \\Omega ' \\Omega ' \\Omega ' x = \\Omega^{1 + 1 + 1 + 1 \\prime} x = \\Omega^{4 \\prime} x }[/math]
 
 **6.3** Die Erforschung der Logik bedeutet die Erforschung *aller Gesetzmässigkeit*. Und ausserhalb der Logik ist alles Zufall.
 
@@ -1872,5 +1872,3 @@ Denn Zweifel kann nur bestehen, wo eine Frage besteht; eine Frage nur, wo eine A
 Er muss diese Sätze überwinden, dann sieht er die Welt richtig.
 
 **7** Wovon man nicht sprechen kann, darüber muss man schweigen.
-
-[^1]: Die Decimalzahlen als Nummern der einzelnen Sätze deuten das logische Gewicht der Sätze an, den Nachdruck, der auf ihnen in meiner Darstellung liegt. Die Sätze *n*.1, *n*.2, *n*.3, etc., sind Bemerkungen zum Satze No. *n*; die Sätze *n*.*m*1, *n*.*m*2, etc. Bemerkungen zum Satze No. *n*.*m*; und so weiter.

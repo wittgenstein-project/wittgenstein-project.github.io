@@ -7,9 +7,9 @@ title: Tractatus Logico-Philosophicus (English)
 
 _Published by the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.org/)._
 
-_Translated by [F. P. Ramsey](https://en.wikipedia.org/wiki/Frank_Ramsey_(mathematician))_
+_Translated by [F. P. Ramsey](https://en.wikipedia.org/wiki/Frank_Ramsey_(mathematician)) and edited by [C. K. Ogden](https://en.wikipedia.org/wiki/Charles_Kay_Ogden)_
 
-_This digital edition is based on Project Gutenberg's *Tractatus Logico-Philosophicus*, by Ludwig Wittgenstein, which was produced by Jana Srna, Norbert H. Langkau, and the Online Distributed Proofreading Team at [pgdp.net](http://www.pgdp.net); the Project Gutenberg's edition is, in turn, a reproduction of Ludwig Wittgenstein. *Tractatus Logico-Philosophicus*, edited by C. K. Ogden and F. P. Ramsey, Kegan Paul, Trench, Trubner & Co., 1922. The original used a lower-case 'v' for the *logical or* operator; it has been replaced with the correct '∨' character. Every effort has been made to replicate the original text as faithfully as possible. The original-language text is in the public domain in its country of origin and other countries and areas where the copyright term is the author's life plus 70 years or fewer. This translation is in the public domain in its country of origin and other countries and areas where the copyright term is the author's life plus 70 years or fewer. Additionally, both the original-language text and the translation are in the public domain in the United States, because they were published before 1 January 1929._
+_This digital edition is based on Project Gutenberg's *Tractatus Logico-Philosophicus*, by Ludwig Wittgenstein, which was produced by Jana Srna, Norbert H. Langkau, and the Online Distributed Proofreading Team at [pgdp.net](http://www.pgdp.net); the Project Gutenberg's edition is, in turn, a reproduction of Ludwig Wittgenstein. *Tractatus Logico-Philosophicus*, translated by F. P. Ramsey and edited by C. K. Ogden, Kegan Paul, Trench, Trubner & Co., 1922. The original used a lower-case 'v' for the *logical or* operator; it has been replaced with the correct '∨' character. Every effort has been made to replicate the original text as faithfully as possible. The original-language text is in the public domain in its country of origin and other countries and areas where the copyright term is the author's life plus 70 years or fewer. This translation is in the public domain in its country of origin and other countries and areas where the copyright term is the author's life plus 70 years or fewer. Additionally, both the original-language text and the translation are in the public domain in the United States, because they were published before 1 January 1929._
 
 # Tractatus Logico-Philosophicus (English)
 
@@ -809,7 +809,7 @@ Expressions like “*a*=*a*”, or expressions deduced from these are neither el
 
 **[4.26](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.26)** The specification of all true elementary propositions describes the world completely. The world is completely described by the specification of all elementary propositions plus the specification, which of them are true and which false.
 
-**[4.27](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.27)** With regard to the existence of *n* atomic facts there are ${\displaystyle K_{n}=\sum _{\nu =0}^{n}{\binom {n}{\nu }}}$ possibilities.
+**[4.27](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.27)** With regard to the existence of *n* atomic facts there are [math]\\displaystyle{ K_n = \\sum_{\\nu=0}^n \\binom{n}{\\nu} }[/math] possibilities.
 
 It is possible for all combinations of atomic facts to exist, and the others not to exist.
 
@@ -848,7 +848,7 @@ It is possible for all combinations of atomic facts to exist, and the others not
 
 **[4.411](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.411)** It seems probable even at first sight that the introduction of the elementary propositions is fundamental for the comprehension of the other kinds of propositions. Indeed the comprehension of the general propositions depends *palpably* on that of the elementary propositions.
 
-**[4.42](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.42)** With regard to the agreement and disagreement of a proposition with the truth-possibilities of *n* elementary propositions there are ${\displaystyle \sum _{\kappa =0}^{K_{n}}{\binom {K_{n}}{\kappa }}=L_{n}}$ possibilities.
+**[4.42](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.42)** With regard to the agreement and disagreement of a proposition with the truth-possibilities of *n* elementary propositions there are [math]\\displaystyle{ \\sum_{\\kappa=0}^{K_n} \\binom{K_n}{\\kappa} = L_n }[/math] possibilities.
 
 **[4.43](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.43)** Agreement with the truth-possibilities can be expressed by co-ordinating with them in the schema the mark “T” (true).
 
@@ -881,9 +881,9 @@ Something analogous holds of course for all signs, which express the same as the
 
 is a propositional sign.
 
-\(Frege’s assertion sign “${\displaystyle \vdash }$” is logically altogether meaningless; in Frege (and Russell) it only shows that these authors hold as true the propositions marked in this way.
+\(Frege’s assertion sign “[math]\\displaystyle{ \\vdash }[/math]” is logically altogether meaningless; in Frege (and Russell) it only shows that these authors hold as true the propositions marked in this way.
 
-“${\displaystyle \vdash }$” belongs therefore to the propositions no more than does the number of the proposition. A proposition cannot possibly assert of itself that it is true.)
+“[math]\\displaystyle{ \\vdash }[/math]” belongs therefore to the propositions no more than does the number of the proposition. A proposition cannot possibly assert of itself that it is true.)
 
 If the sequence of the truth-possibilities in the schema is once for all determined by a rule of combination, then the last column is by itself an expression of the truth-conditions. If we write this column as a row the propositional sign becomes: “(TT–T) (*p*, *q*)” or more plainly: “(TTFT) (*p*, *q*)”.
 
@@ -1268,9 +1268,9 @@ Thus “Socrates is identical” says nothing, because we have given *no* meanin
 
 This operation denies all the propositions in the right-hand bracket and I call it the negation of these propositions.
 
-**[5.501](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.501)** An expression in brackets whose terms are propositions I indicate—if the order of the terms in the bracket is indifferent—by a sign of the form “${\displaystyle ({\bar {\xi }})}$”. “*ξ*” is a variable whose values are the terms of the expression in brackets, and the line over the variable indicates that it stands for all its values in the bracket.
+**[5.501](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.501)** An expression in brackets whose terms are propositions I indicate—if the order of the terms in the bracket is indifferent—by a sign of the form “[math]\\displaystyle{ ( \\bar{\\xi} ) }[/math]”. “*ξ*” is a variable whose values are the terms of the expression in brackets, and the line over the variable indicates that it stands for all its values in the bracket.
 
-\(Thus if *ξ* has the 3 values P, Q, R, then ${\displaystyle ({\bar {\xi }})}$ = (P, Q, R).)
+\(Thus if *ξ* has the 3 values P, Q, R, then [math]\\displaystyle{ ( \\bar{\\xi} ) }[/math] = (P, Q, R).)
 
 The values of the variables must be determined.
 
@@ -1280,13 +1280,13 @@ How the description of the terms of the expression in brackets takes place is un
 
 We may distinguish 3 kinds of description: Direct enumeration. In this case we can place simply its constant values instead of the variable. Giving a function *fx* whose values for all values of *x* are the propositions to be described. Giving a formal law, according to which those propositions are constructed. In this case the terms of the expression in brackets are all the terms of a formal series.
 
-**[5.502](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.502)** Therefore I write instead of “(– – – – – T)(*ξ*, ....)”, “${\displaystyle N({\bar {\xi }})}$”.
+**[5.502](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.502)** Therefore I write instead of “(– – – – – T)(*ξ*, ....)”, “[math]\\displaystyle{ N ( \\bar{\\xi} ) }[/math]”.
 
-${\displaystyle N({\bar {\xi }})}$ is the negation of all the values of the propositional variable ξ.
+[math]\\displaystyle{ N ( \\bar{\\xi} ) }[/math] is the negation of all the values of the propositional variable ξ.
 
 **[5.503](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.503)** As it is obviously easy to express how propositions can be constructed by means of this operation and how propositions are not to be constructed by means of it, this must be capable of exact expression.
 
-**[5.51](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.51)** If *ξ* has only one value, then ${\displaystyle N({\bar {\xi }})}$ = \~*p* (not *p*), if it has two values then ${\displaystyle N({\bar {\xi }})}$ = \~*p* . \~*q* (neither *p* nor *q*).
+**[5.51](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.51)** If *ξ* has only one value, then [math]\\displaystyle{ N ( \\bar{\\xi} ) }[/math] = \~*p* (not *p*), if it has two values then [math]\\displaystyle{ N ( \\bar{\\xi} ) }[/math] = \~*p* . \~*q* (neither *p* nor *q*).
 
 **[5.511](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.511)** How can the all-embracing logic which mirrors the world use such special catches and manipulations? Only because all these are connected into an infinitely fine network, to the great mirror.
 
@@ -1314,7 +1314,7 @@ But here also the negative proposition is indirectly constructed with the positi
 
 The positive *proposition* must presuppose the existence of the negative *proposition* and conversely.
 
-**[5.52](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.52)** If the values of *ξ* are the total values of a function *fx* for all values of *x*, then ${\displaystyle N({\bar {\xi }})}$ = \~(∃*x*) . *fx*.
+**[5.52](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.52)** If the values of *ξ* are the total values of a function *fx* for all values of *x*, then [math]\\displaystyle{ N ( \\bar{\\xi} ) }[/math] = \~(∃*x*) . *fx*.
 
 **[5.521](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.521)** I separate the concept *all* from the truth-function.
 
@@ -1340,7 +1340,7 @@ In order then to arrive at the customary way of expression we need simply say af
 
 **[5.5261](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.5261)** A completely generalized proposition is like every other proposition composite. (This is shown by the fact that in “(∃*x*, *φ*) . *φx*” we must mention “*φ*” and “*x*” separately. Both stand independently in signifying relations to the world as in the ungeneralized proposition.)
 
-A characteristic of a composite symbol: it has something: in common with *other* symbols.
+A characteristic of a composite symbol: it has something in common with *other* symbols.
 
 **[5.5262](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.5262)** The truth or falsehood of *every* proposition alters something in the general structure of the world. And the range which is allowed to its structure by the totality of elementary propositions is exactly that which the completely general propositions delimit.
 
@@ -1520,38 +1520,38 @@ The I occurs in philosophy through the fact that the “world is my world”.
 
 The philosophical I is not the man, not the human body or the human soul of which psychology treats, but the metaphysical subject, the limit—not a part of the world.
 
-**[6](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6)** The general form of truth function is: ${\displaystyle [{\bar {p}},{\bar {\xi }},N({\bar {\xi }})]}$.
+**[6](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6)** The general form of truth function is: [math]\\displaystyle{ [ \\bar{p}, \\bar{\\xi}, N (\\bar{\\xi}) ] }[/math].
 
 This is the general form of proposition.
 
-**[6.001](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.001)** This says nothing else than that every proposition is the result of successive applications of the operation ${\displaystyle N({\bar {\xi }})}$ to the elementary propositions.
+**[6.001](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.001)** This says nothing else than that every proposition is the result of successive applications of the operation [math]\\displaystyle{ N (\\bar{\\xi}) }[/math] to the elementary propositions.
 
 **[6.002](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.002)** If we are given the general form of the way in which a proposition is constructed, then thereby we are also given the general form of the way in which by an operation out of one proposition another can be created.
 
-**[6.01](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.01)** The general form of the operation ${\displaystyle \Omega '({\bar {\eta }})}$ is therefore: ${\displaystyle [{\bar {\xi }},N({\bar {\xi }})]'({\bar {\eta }})(=[{\bar {\eta }},{\bar {\xi }},N({\bar {\xi }})])}$.
+**[6.01](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.01)** The general form of the operation [math]\\displaystyle{ \\Omega ' (\\bar{\\eta}) }[/math] is therefore: [math]\\displaystyle{ [\\bar{\\xi}, N(\\bar{\\xi})]' (\\bar{\\eta}) (= [ \\bar{\\eta}, \\bar{\\xi}, N (\\bar{\\xi}) ]) }[/math].
 
 This is the most general form of transition from one proposition to another.
 
 **[6.02](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.02)** And thus we come to numbers: I define
 
-${\displaystyle x=\Omega ^{0\prime }x{\text{ Def.}}}$ and
-${\displaystyle \Omega ^{\prime }\Omega ^{\nu \prime }x=\Omega ^{\nu +1\prime }x{\text{ Def.}}}$
+[math]\\displaystyle{ x = \\Omega^{0 \\prime} x \\text{ Def.} }[/math] and
+[math]\\displaystyle{ \\Omega^{\\prime} \\Omega^{ \\nu \\prime} x = \\Omega^{ \\nu + 1 \\prime} x \\text{ Def.} }[/math]
 
-According, then, to these symbolic rules we write the series ${\displaystyle x,\Omega 'x,\Omega '\Omega 'x,\Omega '\Omega '\Omega 'x,.....}$
+According, then, to these symbolic rules we write the series [math]\\displaystyle{ x, \\Omega ' x, \\Omega ' \\Omega ' x, \\Omega ' \\Omega ' \\Omega ' x, ..... }[/math]
 
-as: ${\displaystyle \Omega ^{0\prime }x,\Omega ^{0+1\prime }x,\Omega ^{0+1+1\prime }x,\Omega ^{0+1+1+1\prime }x,.....}$
+as: [math]\\displaystyle{ \\Omega^{0 \\prime} x, \\Omega^{0+1 \\prime} x, \\Omega^{0 + 1 + 1 \\prime} x, \\Omega^{0 + 1 + 1 + 1 \\prime} x, ..... }[/math]
 
-Therefore I write in place of “${\displaystyle [x,\xi ,\Omega '\xi ]}$”,
+Therefore I write in place of “[math]\\displaystyle{ [ x, \\xi, \\Omega ' \\xi ] }[/math]”,
 
-“${\displaystyle [\Omega ^{0\prime }x,\Omega ^{\nu \prime }x,\Omega ^{\nu +1\prime }x]}$”.
+“[math]\\displaystyle{ [ \\Omega^{0 \\prime} x, \\Omega^{ \\nu \\prime} x, \\Omega^{ \\nu + 1 \\prime} x ] }[/math]”.
 
 And I define:
 
-${\displaystyle 0+1=1{\text{ Def.}}}$
+[math]\\displaystyle{ 0 + 1 = 1 \\text{ Def.} }[/math]
 
-${\displaystyle 0+1+1=2{\text{ Def.}}}$
+[math]\\displaystyle{ 0 + 1 + 1 = 2 \\text{ Def.} }[/math]
 
-${\displaystyle 0+1+1+1=3{\text{ Def.}}}$
+[math]\\displaystyle{ 0 + 1 + 1 + 1 = 3 \\text{ Def.} }[/math]
 
 \(and so on.)
 
@@ -1721,11 +1721,11 @@ For equations express the substitutability of two expressions, and we proceed fr
 
 **[6.241](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.241)** Thus the proof of the proposition 2 × 2 = 4 runs:
 
-${\displaystyle (\Omega ^{\nu })^{\mu \prime }x=\Omega ^{\nu \times \mu \prime }x{\text{ Def.}}}$
+[math]\\displaystyle{ ( \\Omega^{ \\nu} )^{\\mu \\prime} x = \\Omega^{ \\nu \\times \\mu \\prime} x \\text{ Def.} }[/math]
 
-${\displaystyle \Omega ^{2\times 2\prime }x=(\Omega ^{2})^{2\prime }x=(\Omega ^{2})^{1+1\prime }x=\Omega ^{2\prime }\Omega ^{2\prime }x=\Omega ^{1+1\prime }\Omega ^{1+1\prime }x}$
+[math]\\displaystyle{ \\Omega^{2 \\times 2 \\prime} x = (\\Omega^2 )^{2 \\prime} x = ( \\Omega^2 )^{1+1 \\prime} x = \\Omega^{2 \\prime} \\Omega^{2 \\prime} x = \\Omega^{1 + 1 \\prime} \\Omega^{1 + 1 \\prime} x }[/math]
 
-${\displaystyle (\Omega '\Omega )^{\prime }(\Omega '\Omega )^{\prime }x=\Omega '\Omega '\Omega '\Omega 'x=\Omega ^{1+1+1+1\prime }x=\Omega ^{4\prime }x}$
+[math]\\displaystyle{ (\\Omega ' \\Omega)^{\\prime} (\\Omega ' \\Omega)^{\\prime} x = \\Omega ' \\Omega ' \\Omega ' \\Omega ' x = \\Omega^{1 + 1 + 1 + 1 \\prime} x = \\Omega^{4 \\prime} x }[/math]
 
 **[6.3](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.3)** Logical research means the investigation of *all regularity*. And outside logic all is accident.
 

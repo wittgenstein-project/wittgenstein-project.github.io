@@ -63,7 +63,7 @@ Per esempio: considera le due proposizioni 1) “ciò che simbolizza qui è una 
 
 [“*x*” è il nome di *y*: “ϕ*x*” = “‘ϕ’ è alla sinistra di ‘*x*’” e *dice* ϕ*x*.]
 
-N.B. “*x*” non può essere il nome di questo singolo frego *y*, perché questo non è una cosa: ma può essere il nome di una *cosa*; e dobbiamo comprendere che quel che stiamo facendo è spiegare ciò che si intenderebbe dicendo di un simbolo ideale, che effettivamente consisteva nel fatto che una *cosa* era a sinistra di un’altra, che in esso a simbolizzare era una *cosa*.
+N.B. “*x*” non può essere il nome di questo singolo frego *y*, perché questo non è una cosa: ma può essere il nome di *una cosa*; e dobbiamo comprendere che quel che stiamo facendo è spiegare ciò che si intenderebbe dicendo di un simbolo ideale, che effettivamente consisteva nel fatto che una *cosa* era a sinistra di un’altra, che in esso a simbolizzare era una *cosa*.
 
 \(N. B. Nell’espressione (∃*y*) . ϕ*y*, si *è* inclini a dire che ciò significa “c’è una *cosa* tale per cui…”. Invece dovremmo dire “c’è una *y*, tale per cui…”; dove il fatto che la *y* simbolizza esprime ciò che intendiamo.)
 

@@ -87,7 +87,7 @@ If you had any unanalysable proposition in which particular names and relations 
 
 *Use of logical propositions*. You may have one so complicated that you cannot, by looking at it, see that it is a tautology; but you have shewn that it can be derived by certain operations from certain other propositions according to our rule for constructing tautologies; and hence you are enabled to see that one thing follows from another, when you would not have been able to see it otherwise. E.g., if our tautology is of [the] form p ⊃ q you can see that q follows from p; and so on.
 
-Th *Bedeutung* of a proposition is the fact that corresponds to it, e.g., if our proposition be "aRb", if it's true, the corresponding fact would be the fact aRb, if false, the fact \~aRb. *But* both "the fact aRb" and "the fact \~aRb" are incomplete symbols, which must be analysed.
+The *Bedeutung* of a proposition is the fact that corresponds to it, e.g., if our proposition be "aRb", if it's true, the corresponding fact would be the fact aRb, if false, the fact \~aRb. *But* both "the fact aRb" and "the fact \~aRb" are incomplete symbols, which must be analysed.
 
 That a proposition has a relation (in wide sense) to Reality, other than that of *Bedeutung*, is shewn by the fact that you can understand it when you don't know the *Bedeutung*, i.e. don't know whether it is true or false. Let us express this by saying "It has *sense*" (*Sinn*).
 

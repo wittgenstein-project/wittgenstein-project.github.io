@@ -66,7 +66,7 @@ Sin embargo, la *verdad* de los pensamientos aquí compartidos me parece intocab
 
 ## Tratado lógico-filosófico
 
-**[1](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#1)** El mundo [*Welt*] es todo lo que es el caso [*Fall*][^2].
+**[1](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#1)** El mundo [*Welt*] es todo lo que es el caso [*Fall*][^tlp-note-1_2-0].
 
 **[1.1](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#1.1)** El mundo es la totalidad de los hechos [*Tatsachen*], no de las cosas [*Dinge*].
 
@@ -816,7 +816,7 @@ Términos como «*a* = *a*» o derivados de estos, no son ni proposiciones eleme
 
 **[4.26](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.26)** La especificación de todas las proposiciones elementales verdaderas describe el mundo al completo. El mundo es completamente descrito mediante las especificaciones de todas las proposiciones elementales más la especificación de cuáles son verdaderas y cuáles falsas.
 
-**[4.27](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.27)** Respecto al darse y no darse de *n* estados de las cosas, hay ${\displaystyle K_{n}=\sum _{\nu =0}^{n}{\binom {n}{\nu }}}$ posibilidades.
+**[4.27](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.27)** Respecto al darse y no darse de *n* estados de las cosas, hay [math]\\displaystyle{ K_n = \\sum_{\\nu=0}^n \\binom{n}{\\nu} }[/math] posibilidades.
 
 Pueden darse todas las combinaciones de los estados de las cosas, los otros no se dan.
 
@@ -855,7 +855,7 @@ Pueden darse todas las combinaciones de los estados de las cosas, los otros no s
 
 **[4.411](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.411)** Es probable desde el comienzo que la introducción de proposiciones elementales sea fundamental para el entendimiento de todos los otros tipos de proposiciones. En efecto, el entendimiento de las proposiciones generales depende *sensiblemente* del de las proposiciones elementales.
 
-**[4.42](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.42)** Respecto a la concordancia y no concordancia de una proposición con las posibilidades de verdad de *n* proposiciones elementales hay ${\displaystyle \sum _{\kappa =0}^{K_{n}}{\binom {K_{n}}{\kappa }}=L_{n}}$ posibilidades.
+**[4.42](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.42)** Respecto a la concordancia y no concordancia de una proposición con las posibilidades de verdad de *n* proposiciones elementales hay [math]\\displaystyle{ \\sum_{\\kappa=0}^{K_n} \\binom{K_n}{\\kappa} = L_n }[/math] posibilidades.
 
 **[4.43](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.43)** La concordancia con las posibilidades de verdad podemos expresarlas, en tanto que les adjudicamos en el esquema algo así como la distinción «V» (verdadero).
 
@@ -886,7 +886,7 @@ La proposición es el término de sus condiciones de posibilidad. (Por eso Frege
 
 un signo proposicional.
 
-La «raya de juicio» de Frege «${\displaystyle \vdash }$» carece por completo lógicamente de sentido, solo muestra en Frege (y Russell) que estos autores tienen las proposiciones así señaladas por verdaderas. «${\displaystyle \vdash }$» pertenece, por lo tanto, tan poco al armazón proposicional como, por así decirlo, el número de la proposición. Es imposible que una proposición pueda decir de sí misma que es verdadera).
+La «raya de juicio» de Frege «[math]\\displaystyle{ \\vdash }[/math]» carece por completo lógicamente de sentido, solo muestra en Frege (y Russell) que estos autores tienen las proposiciones así señaladas por verdaderas. «[math]\\displaystyle{ \\vdash }[/math]» pertenece, por lo tanto, tan poco al armazón proposicional como, por así decirlo, el número de la proposición. Es imposible que una proposición pueda decir de sí misma que es verdadera).
 
 Si está establecido de una vez por todas el orden de las posibilidades de verdad en el esquema mediante una regla de combinación, entonces la última columna es por sí misma ya un término de las condiciones de verdad. Si escribimos esta columna en una fila, entonces el signo proposicional se vuelve:
 
@@ -1265,9 +1265,9 @@ Así, «Sócrates es idéntico» no dice nada, porque no le hemos dado *ningún*
 
 Esta operación niega todas las proposiciones entre los paréntesis de la derecha y yo la llamo la negación de estas proposiciones.
 
-**[5.501](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.501)** Un término entre paréntesis cuyos miembros son proposiciones, lo denoto – cuando el orden de los miembros entre paréntesis es igualmente válido – mediante un signo de la forma «${\displaystyle ({\bar {\xi }})}$». «*ξ*» es una variable cuyos valores son los miembros del término entre paréntesis, y la barra sobre la variable indica que ella representa todos sus valores en los paréntesis.
+**[5.501](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.501)** Un término entre paréntesis cuyos miembros son proposiciones, lo denoto – cuando el orden de los miembros entre paréntesis es igualmente válido – mediante un signo de la forma «[math]\\displaystyle{ ( \\bar{\\xi} ) }[/math]». «*ξ*» es una variable cuyos valores son los miembros del término entre paréntesis, y la barra sobre la variable indica que ella representa todos sus valores en los paréntesis.
 
-\(Así, si tiene ξ, digamos, los tres valores P, Q, R, entonces es ${\displaystyle ({\bar {\xi }})}$ = (*P*, *Q*, *R*)).
+\(Así, si tiene ξ, digamos, los tres valores P, Q, R, entonces es [math]\\displaystyle{ ( \\bar{\\xi} ) }[/math] = (*P*, *Q*, *R*)).
 
 Los valores de las variables son establecidos.
 
@@ -1277,13 +1277,13 @@ Cómo aparezca la descripción de los miembros del término entre paréntesis, e
 
 *Podemos* diferenciar tres tipos de descripción: 1. La enumeración directa. En este caso podemos sencillamente poner, en lugar de las variables, sus valores constantes. 2. La indicación de una función *fx* cuyos valores son las proposiciones a describir para todos los valores de *x*. 3. La indicación de una ley formal según la cual aquellas proposiciones son construidas. En este caso, los miembros del término entre paréntesis son todos los miembros de una serie de formas.
 
-**[5.502](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.502)** Así pues, escribo, en lugar de «(‒ ‒ ‒ ‒ ‒V)(*ξ*, . . . .)», «${\displaystyle N({\bar {\xi }})}$».
+**[5.502](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.502)** Así pues, escribo, en lugar de «(‒ ‒ ‒ ‒ ‒V)(*ξ*, . . . .)», «[math]\\displaystyle{ N ( \\bar{\\xi} ) }[/math]».
 
-${\displaystyle N({\bar {\xi }})}$ es la negación de todos los valores de la variable proposicional *ξ*.
+[math]\\displaystyle{ N ( \\bar{\\xi} ) }[/math] es la negación de todos los valores de la variable proposicional *ξ*.
 
 **[5.503](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.503)** Dado que obviamente se puede expresar con facilidad, cómo con esta operación pueden ser construidas proposiciones y cómo no se [deben] construir proposiciones con ella, así esto debe también poder encontrar un término exacto.
 
-**[5.51](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.51)** Si ξ tiene solo un valor, entonces es ${\displaystyle N({\bar {\xi }})}$ = \~*p* (no *p*), si tiene dos valores, entonces es ${\displaystyle N({\bar {\xi }})}$ = \~*p .* \~*q* (ni *p* ni *q*).
+**[5.51](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.51)** Si ξ tiene solo un valor, entonces es [math]\\displaystyle{ N ( \\bar{\\xi} ) }[/math] = \~*p* (no *p*), si tiene dos valores, entonces es [math]\\displaystyle{ N ( \\bar{\\xi} ) }[/math] = \~*p .* \~*q* (ni *p* ni *q*).
 
 **[5.511](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.511)** ¿Cómo puede la lógica omnímoda, que refleja el mundo, utilizar anzuelos y manipulaciones tan especiales? Solo en tanto que todos estos se unen a una red infinitamente fina, al gran espejo.
 
@@ -1311,7 +1311,7 @@ Pero también aquí es ya la proposición negativa construida indirectamente med
 
 La *proposición* positiva debe presuponer la existencia de la *proposición* negativa, y viceversa.
 
-**[5.52](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.52)** Si son todos valores de *ξ* todos los valores de una función *fx* para todos los valores de *x*, entonces será ${\displaystyle N({\bar {\xi }})}$ = \~(∃*x*) . *fx*.
+**[5.52](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.52)** Si son todos valores de *ξ* todos los valores de una función *fx* para todos los valores de *x*, entonces será [math]\\displaystyle{ N ( \\bar{\\xi} ) }[/math] = \~(∃*x*) . *fx*.
 
 **[5.521](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.521)** Separo el concepto *Todos* de la función de verdad.
 
@@ -1515,40 +1515,40 @@ El yo entra en la filosofía en el momento en el que «el mundo es mi mundo».
 
 El yo filosófico no es el ser humano, no el cuerpo humano o el alma humana de los que trata la psicología, sino el sujeto metafísico, el límite – no una parte del mundo.
 
-**[6](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6)** La forma general de la función de verdad es ${\displaystyle [{\bar {p}},{\bar {\xi }},N({\bar {\xi }})]}$.
+**[6](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6)** La forma general de la función de verdad es [math]\\displaystyle{ [ \\bar{p}, \\bar{\\xi}, N (\\bar{\\xi}) ] }[/math].
 
 Esta es la forma general de la proposición.
 
-**[6.001](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.001)** Esto no dice nada más que cada proposición es un resultado de la aplicación sucesiva de la operación ${\displaystyle N({\bar {\xi }})}$ a las proposiciones elementales.
+**[6.001](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.001)** Esto no dice nada más que cada proposición es un resultado de la aplicación sucesiva de la operación [math]\\displaystyle{ N (\\bar{\\xi}) }[/math] a las proposiciones elementales.
 
 **[6.002](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.002)** Si es dada la forma general de cómo una proposición es construida, entonces es dada ya con ello también la forma general de cómo a partir de una proposición puede ser producida otra mediante una operación.
 
-**[6.01](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.01)** La forma general de la operación ${\displaystyle \Omega '({\bar {\eta }})}$ es, por lo tanto: ${\displaystyle [{\bar {\xi }},N({\bar {\xi }})]'({\bar {\eta }})(=[{\bar {\eta }},{\bar {\xi }},N({\bar {\xi }})])}$.
+**[6.01](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.01)** La forma general de la operación [math]\\displaystyle{ \\Omega ' (\\bar{\\eta}) }[/math] es, por lo tanto: [math]\\displaystyle{ [\\bar{\\xi}, N(\\bar{\\xi})]' (\\bar{\\eta}) (= [ \\bar{\\eta}, \\bar{\\xi}, N (\\bar{\\xi}) ]) }[/math].
 
 Esta es la forma más general de la transición de una proposición a otra.
 
 **[6.02](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.02)** Y así llegamos a los números: yo defino
 
-${\displaystyle x=\Omega ^{0\prime }x{\text{ Def.}}}$ y
-${\displaystyle \Omega ^{\prime }\Omega ^{\nu \prime }x=\Omega ^{\nu +1\prime }x{\text{ Def.}}}$
+[math]\\displaystyle{ x = \\Omega^{0 \\prime} x \\text{ Def.} }[/math] y
+[math]\\displaystyle{ \\Omega^{\\prime} \\Omega^{ \\nu \\prime} x = \\Omega^{ \\nu + 1 \\prime} x \\text{ Def.} }[/math]
 
 Así, según estas reglas de signos escribimos la serie
 
-${\displaystyle x,\Omega 'x,\Omega '\Omega 'x,\Omega '\Omega '\Omega 'x,.....}$
+[math]\\displaystyle{ x, \\Omega ' x, \\Omega ' \\Omega ' x, \\Omega ' \\Omega ' \\Omega ' x, ..... }[/math]
 
-así: ${\displaystyle \Omega ^{0\prime }x,\Omega ^{0+1\prime }x,\Omega ^{0+1+1\prime }x,\Omega ^{0+1+1+1\prime }x,.....}$
+así: [math]\\displaystyle{ \\Omega^{0 \\prime} x, \\Omega^{0+1 \\prime} x, \\Omega^{0 + 1 + 1 \\prime} x, \\Omega^{0 + 1 + 1 + 1 \\prime} x, ..... }[/math]
 
-Así escribo, en lugar de «${\displaystyle [x,\xi ,\Omega '\xi ]}$»:
+Así escribo, en lugar de «[math]\\displaystyle{ [ x, \\xi, \\Omega ' \\xi ] }[/math]»:
 
-«${\displaystyle [\Omega ^{0\prime }x,\Omega ^{\nu \prime }x,\Omega ^{\nu +1\prime }x]}$».
+«[math]\\displaystyle{ [ \\Omega^{0 \\prime} x, \\Omega^{ \\nu \\prime} x, \\Omega^{ \\nu + 1 \\prime} x ] }[/math]».
 
 Y defino:
 
-${\displaystyle 0+1=1{\text{ Def.}}}$
+[math]\\displaystyle{ 0 + 1 = 1 \\text{ Def.} }[/math]
 
-${\displaystyle 0+1+1=2{\text{ Def.}}}$
+[math]\\displaystyle{ 0 + 1 + 1 = 2 \\text{ Def.} }[/math]
 
-${\displaystyle 0+1+1+1=3{\text{ Def.}}}$
+[math]\\displaystyle{ 0 + 1 + 1 + 1 = 3 \\text{ Def.} }[/math]
 
 \(etcétera).
 
@@ -1714,11 +1714,11 @@ Pues las igualdades expresan la sustitubilidad [*Ersetzbarkeit*] de dos término
 
 **[6.241](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.241)** Así reza la prueba de la proposición 2 × 2 = 4:
 
-${\displaystyle (\Omega ^{\nu })^{\mu \prime }x=\Omega ^{\nu \times \mu \prime }x{\text{ Def.}}}$
+[math]\\displaystyle{ ( \\Omega^{ \\nu} )^{\\mu \\prime} x = \\Omega^{ \\nu \\times \\mu \\prime} x \\text{ Def.} }[/math]
 
-${\displaystyle \Omega ^{2\times 2\prime }x=(\Omega ^{2})^{2\prime }x=(\Omega ^{2})^{1+1\prime }x=\Omega ^{2\prime }\Omega ^{2\prime }x=\Omega ^{1+1\prime }\Omega ^{1+1\prime }x}$
+[math]\\displaystyle{ \\Omega^{2 \\times 2 \\prime} x = (\\Omega^2 )^{2 \\prime} x = ( \\Omega^2 )^{1+1 \\prime} x = \\Omega^{2 \\prime} \\Omega^{2 \\prime} x = \\Omega^{1 + 1 \\prime} \\Omega^{1 + 1 \\prime} x }[/math]
 
-${\displaystyle (\Omega '\Omega )^{\prime }(\Omega '\Omega )^{\prime }x=\Omega '\Omega '\Omega '\Omega 'x=\Omega ^{1+1+1+1\prime }x=\Omega ^{4\prime }x}$
+[math]\\displaystyle{ (\\Omega ' \\Omega)^{\\prime} (\\Omega ' \\Omega)^{\\prime} x = \\Omega ' \\Omega ' \\Omega ' \\Omega ' x = \\Omega^{1 + 1 + 1 + 1 \\prime} x = \\Omega^{4 \\prime} x }[/math]
 
 **[6.3](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.3)** La investigación de la lógica significa la investigación de toda regularidad [*Gesetzmässigkeit*]. Y al margen de la lógica todo es casualidad.
 
@@ -1879,8 +1879,6 @@ Pues [la] duda solo puede darse donde se da una pregunta; una pregunta, solo don
 **[7](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#7)** De lo que no se puede hablar, de ello se debe guardar silencio.
 
 [^1]: La expresión „*die philosophischen Probleme*“, con el artículo determinado, parece indicar que se tratan los problemas de la filosofía en general, es decir, todos ellos o los más fundamentales.
-
-[^2]: Única nota al pie original de Wittgenstein: Los números decimales en tanto que números de las proposiciones individuales indican el peso lógico de las proposiciones, el énfasis que en ellas reside en mi representación. Las proposiciones *n*.1, *n*.2, *n*.3, etc., son comentarios a la proposición número *n*; las oraciones *n.m*1, *n.m*2, etc., comentarios a la proposición número n.m; y así con todas.
 
 [^3]: La palabra *Bestehen* significa «existencia» (pero también existe el término *Existenz*, usado por el propio Wittgenstein en esta obra, por ejemplo en 3.4). Puede traducirse por «el [hecho de] darse» o el «darse efectivo» (esta última usada por en la traducción de Gredos del 2009 por Muñoz y Reguera). Esta palabra consiste en el verbo –*stehen* (es decir, «estar») y la partícula *be*–, que puede implicar cambio o movimiento, como en *begründen* («establecer», mientras *gründen* es «basar» o, en pasivo, «estar basado») o en *behalten* («quedarse con algo», «guardar algo») frente a *halten* («mantener» o «sostener»).
 

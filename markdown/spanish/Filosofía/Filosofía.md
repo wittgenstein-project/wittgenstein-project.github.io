@@ -9,7 +9,7 @@ _Published by the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.
 
 _Traducción: [Sergio Sánchez Benítez](https://www.wittgensteinproject.org/w/index.php/Project:People#Sergio_S%C3%A1nchez_Ben%C3%ADtez)_
 
-_Esta traducción es una reproducción, republicada aquí con el generoso consentimiento del traductor y de la revista, de Ludwig Wittgenstein. «Filosofía», *Revista de Filosofía*, 3.ª época, vol. V (1992), núm 7, págs. 3-39. El texto original está en el dominio público en su país de origen y en otros países y zonas donde el plazo de los derechos de autor es la vida del autor más 70 años o menos. Esta traducción se publica bajo los términos de la licencia [Creative Commons Atribución 4.0 Internacional](https://creativecommons.org/licenses/by/4.0/deed.es)._
+_Esta traducción es una reproducción, republicada aquí con el generoso consentimiento del traductor y de la revista, de Ludwig Wittgenstein. «Filosofía», *Revista de Filosofía*, 3.ª época, vol. V (1992), núm. 7, págs. 3-39. El texto original está en el dominio público en su país de origen y en otros países y zonas donde el plazo de los derechos de autor es la vida del autor más 70 años o menos. Esta traducción se publica bajo los términos de la licencia [Creative Commons Atribución 4.0 Internacional](https://creativecommons.org/licenses/by/4.0/deed.es)._
 
 _**Nota del editor**_
 
