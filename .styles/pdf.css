@@ -12,7 +12,13 @@
     }
 }
 
-@page:first { 
+@page:first {
+    size: 160mm 240mm;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    
     @bottom-center {
       content: '';
     }
