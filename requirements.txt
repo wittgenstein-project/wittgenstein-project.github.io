@@ -1,4 +1,4 @@
 beautifulsoup4==4.11
 requests==2.28
-weasyprint==59.0
+weasyprint==63.0
 grapheme==0.6.0
