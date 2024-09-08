@@ -12,6 +12,12 @@
     }
 }
 
+@page:first { 
+    @bottom-center {
+      content: '';
+    }
+}
+
 @page full {
     @bottom-center {
         content: none;
