@@ -28,7 +28,8 @@ if not has_changed_files and not os.environ["GITHUB_EVENT_NAME"] == "push":
     print("No .md files have changed, nothing to do...")
 else:
     all_texts_page = requests.get(
-        "https://www.wittgensteinproject.org/w/index.php?title=Project:All_texts&action=render").content
+      "https://www.wittgensteinproject.org/w/index.php?title=Project:All_texts&action=render",
+      headers={'Cache-Control': 'no-cache'}).content
     all_texts = BeautifulSoup(all_texts_page, features="html.parser")
     wiki_hrefs = {}
     for elem in all_texts.find(id="all-texts-list"):
