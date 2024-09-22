@@ -70,8 +70,9 @@ else:
             pdf_file = os.path.join(PDF_DIR, lang, f"{work}.pdf")
             body += f"<img src=\"{urllib.parse.quote(cover)}\" alt=\"{work} cover\">"
             body += "<div class=\"links\">"
-            if wiki_hrefs[work]:
-                body += f"<a href=\"{wiki_hrefs[work]}\">online</a>"
+            if work != "Notas Ditadas à G.E. Moore na Noruega":
+                if wiki_hrefs[work]:
+                    body += f"<a href=\"{wiki_hrefs[work]}\">online</a>"
             body += f"<a href=\"{urllib.parse.quote(epub_file)}\">.epub</a>"
             body += f"<a href=\"{urllib.parse.quote(mobi_file)}\">.mobi</a>"
             body += f"<a href=\"{urllib.parse.quote(pdf_file)}\">.pdf</a>"
