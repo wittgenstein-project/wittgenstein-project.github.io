@@ -55,13 +55,13 @@ def parse_html(state, parsed, image_urls, elem, escape_newlines=False):
             # if elem.get("class") == ["mwe-math-fallback-image-inline"]:
             #    parsed[-1] += f"${alt}$"
             # else:
-                src = elem["src"]
-                image_urls.append(src)
-                file_name = os.path.basename(src)
-                if "/svg/" in src and not src.endswith(".svg"):
-                    file_name += ".svg"
-                # add the non-breaking space "\ " to suppress the caption
-                parsed[-1] += f"![{alt}](images/{file_name})\\ "
+            src = elem["src"]
+            image_urls.append(src)
+            file_name = os.path.basename(src)
+            if "/svg/" in src and not src.endswith(".svg"):
+                file_name += ".svg"
+            # add the non-breaking space "\ " to suppress the caption
+            parsed[-1] += f"![{alt}](images/{file_name})\\ "
         elif elem.name == "span" and not elem.get("class") and elem.get("style") == "text-decoration-line: underline; text-decoration-style: dashed;":
             # wavy underline, will be treated as normal text here
             parsed[-1] += elem.text
