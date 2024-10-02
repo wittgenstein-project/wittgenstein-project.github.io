@@ -52,7 +52,7 @@ Viena, 1918
 
 ## Tractatus Logico-Philosophicus
 
-**[1](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#1)** O mundo é tudo o que ocorre.[^85]
+**[1](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#1)** O mundo é tudo o que ocorre.[^tlp-note-1_85-0]
 
 **[1.1](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#1.1)** O mundo é a totalidade dos fatos, não das coisas.
 
