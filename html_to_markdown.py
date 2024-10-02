@@ -52,9 +52,9 @@ def parse_html(state, parsed, image_urls, elem, escape_newlines=False):
             parsed[-1] += f"[{title}]({href})"
         elif elem.name == "img":
             alt = elem["alt"]
-            if elem.get("class") == ["mwe-math-fallback-image-inline"]:
-                parsed[-1] += f"${alt}$"
-            else:
+            # if elem.get("class") == ["mwe-math-fallback-image-inline"]:
+            #    parsed[-1] += f"${alt}$"
+            # else:
                 src = elem["src"]
                 image_urls.append(src)
                 file_name = os.path.basename(src)
