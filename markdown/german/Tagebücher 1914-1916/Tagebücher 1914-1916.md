@@ -271,7 +271,7 @@ Betrachten wir den Satz: "Es gibt eine Klasse mit nur einem Glied". Oder, was au
 
 Bei "(∃x)x = x" könnte man verstehen, daß er tautologisch sei, da er überhaupt nicht hingeschrieben werden könnte, wenn er falsch wäre, aber hier! *Dieser* Satz kann an Stelle des "Axiom of Infinity" untersucht werden!
 
-Ich weiß, daß die folgenden Sätze, wie sie stehen, unsinnig sind: Kann man von den Zahlen reden, wenn es nur Dinge gibt? Wenn also z. B. die Welt nur aus einem Dinge bestünde und aus sonst nichts, könnte man sagen, es gäbe EIN Ding? Russell würde wahrscheinlich sagen: wenn es ein Ding gibt, dann gibt es auch die Funktion ${\displaystyle (\exists x){\hat {\xi }}=x}$. Aber!––
+Ich weiß, daß die folgenden Sätze, wie sie stehen, unsinnig sind: Kann man von den Zahlen reden, wenn es nur Dinge gibt? Wenn also z. B. die Welt nur aus einem Dinge bestünde und aus sonst nichts, könnte man sagen, es gäbe EIN Ding? Russell würde wahrscheinlich sagen: wenn es ein Ding gibt, dann gibt es auch die Funktion ![{\displaystyle (\exists x){\hat {\xi }}=x}](images/33dfd994085c18885b072578634c12e4a43bc859.svg)\ . Aber!––
 
 Wenn es diese Funktion nicht tut, dann kann von der 1 nur die Rede sein, wenn es eine materielle Funktion gibt, die nur von einem Argument befriedigt wird.
 
@@ -382,7 +382,7 @@ Die Theorie der logischen Abbildung durch die Sprache sagt – ganz allgemein: D
 
 Das was in "\~p" verneint, ist nicht das "\~" vor dem "p" sondern dasjenige, was allen Zeichen, die in dieser Notation mit "\~p" gleichbedeutend sind, gemeinsam ist; also das Gemeinsame von
 
-${\displaystyle \left.{\begin{matrix}\sim p\\\sim \sim \sim p\\\sim p\lor \sim p\\\sim p.\sim p\\{\text{etc. etc.}}\end{matrix}}\right\}{\text{und dasselbe gilt für die Allgemeinheitsbezeichnung etc.}}}$
+![{\displaystyle \left.{\begin{matrix}\sim p\\\sim \sim \sim p\\\sim p\lor \sim p\\\sim p.\sim p\\{\text{etc. etc.}}\end{matrix}}\right\}{\text{und dasselbe gilt für die Allgemeinheitsbezeichnung etc.}}}](images/5a8d64ce7afcc2e2d844a8c3e62baf263ec27317.svg)\
 
 Scheinsätze sind solche, die, wenn analysiert, das, was sie *sagen* sollten, doch nur wieder *zeigen.*
 
@@ -394,19 +394,19 @@ Daß sich von materiellen Sätzen auf ganz allgemeine Sätze schließen läßt �
 
 **21. 10. 14.**
 
-Ist die Russellsche Definition der Null nicht unsinnig? Kann man von einer Klasse ${\displaystyle {\hat {x}}(x\neq x)}$ überhaupt reden? – Kann man denn von einer Klasse ${\displaystyle {\hat {x}}(x=x)}$ reden? Ist denn x ≠ x oder x = x eine Funktion von x?? – Muß nicht die Null definiert werden durch die *Hypothese* (∃*ϕ*):(x)\~*ϕ*x? Und Analoges würde von allen anderen Zahlen gelten. Dies nun wirft ein Licht auf die ganze Frage nach der Existenz von Anzahlen von Dingen.
+Ist die Russellsche Definition der Null nicht unsinnig? Kann man von einer Klasse ![{\displaystyle {\hat {x}}(x\neq x)}](images/037950f0776947844cc9d76e99223e3f0ebc6060.svg)\  überhaupt reden? – Kann man denn von einer Klasse ![{\displaystyle {\hat {x}}(x=x)}](images/dcf7f092636584f1aec66ee68731f7c457abb2ec.svg)\  reden? Ist denn x ≠ x oder x = x eine Funktion von x?? – Muß nicht die Null definiert werden durch die *Hypothese* (∃*ϕ*):(x)\~*ϕ*x? Und Analoges würde von allen anderen Zahlen gelten. Dies nun wirft ein Licht auf die ganze Frage nach der Existenz von Anzahlen von Dingen.
 
-${\displaystyle 0={\hat {\alpha }}\{(\exists \phi ):(x)\sim \phi x.\alpha ={\hat {u}}(\phi u)\}{\text{ Def.}}}$
+![{\displaystyle 0={\hat {\alpha }}\{(\exists \phi ):(x)\sim \phi x.\alpha ={\hat {u}}(\phi u)\}{\text{ Def.}}}](images/49d0ca0a0cb5d83ef582139768125fb945c6a334.svg)\
 
-${\displaystyle 1={\hat {\alpha }}\{(\exists \phi )::(\exists x).\phi x:\phi y.\phi z.\supset _{y,z}y=z:\alpha ={\hat {u}}(\phi u)\}{\text{ Def.}}}$
+![{\displaystyle 1={\hat {\alpha }}\{(\exists \phi )::(\exists x).\phi x:\phi y.\phi z.\supset _{y,z}y=z:\alpha ={\hat {u}}(\phi u)\}{\text{ Def.}}}](images/55ee710108a37b8bb5447ceff18f8ddd6c907ea2.svg)\
 
 \(Das Gleichheitszeichen in der geschweiften Klammer könnte man *vermeiden*, wenn man schriebe
 
-${\displaystyle 0={\widehat {{\hat {u}}(\phi u)}}\{(x)\sim \phi x\}}$.)
+![{\displaystyle 0={\widehat {{\hat {u}}(\phi u)}}\{(x)\sim \phi x\}}](images/bb7612b876810c063bd0631332690d35e3359ee9.svg)\ .)
 
 Der Satz muß die *Möglichhit seiner Wahrheit enthalten* (und so zeigen). Aber nicht mehr als die *Möglichkeit.*
 
-Nach meiner Definition der Klassen ist ${\displaystyle (x).\sim {\hat {x}}(\phi x)}$ die Aussage, daß ${\displaystyle {\hat {x}}(\phi x)}$ null ist, und die Definition der Null ist dann ${\displaystyle 0={\hat {\alpha }}[(x).\sim \alpha ]{\text{ Def.}}}$
+Nach meiner Definition der Klassen ist ![{\displaystyle (x).\sim {\hat {x}}(\phi x)}](images/ca972d4a1ab3bef75517f1f623a1fc35222aca51.svg)\  die Aussage, daß ![{\displaystyle {\hat {x}}(\phi x)}](images/01a60164d2395ea21a2a2f6dbeb09fa51e5aa3ae.svg)\  null ist, und die Definition der Null ist dann ![{\displaystyle 0={\hat {\alpha }}[(x).\sim \alpha ]{\text{ Def.}}}](images/41e9bc59aaf1fd6142337d71e602e9a6155e567d.svg)\
 
 Ich dachte, die Möglichkeit der Wahrheit eines Satzes *ϕ*(a) ist an die Tatsache (∃x,*ϕ*).*ϕ*x gebunden: Aber es ist nicht einzusehen, warum *ϕ*a nur dann möglich sein soll, wenn es einen anderen Satz derselben Form gibt. *ϕ*a braucht doch keinen Präzedenzfall. (Denn angenommen, es gäbe nur die beiden Elementarsätze "*ϕ*a" und "*ψ*a" und "*ϕ*a" sei falsch: warum soll dieser Satz nur dann einen Sinn haben, wenn "*ψ*a" wahr ist?!)
 
@@ -1184,9 +1184,9 @@ Das subjektive Universum.
 
 Statt die logischen Operationen im Satz an dessen Teilsätzen zu vollziehen können wir diesen auch *Marken* zuordnen und mit ihnen operieren. Dann ist *einem* Satzbild ein mit ihm in kompliziertester Weise zusammenhängendes Markensternbild zugeordnet.
 
-${\displaystyle (aRb,cSd,\phi e)((p\lor q).r:\supset :q.r.\equiv .p\lor r)}$
+![{\displaystyle (aRb,cSd,\phi e)((p\lor q).r:\supset :q.r.\equiv .p\lor r)}](images/66ef1353ed4e2ec5cfe55c0436390e706b0fbb51.svg)\
 
-${\displaystyle \quad p\quad q\quad r}$
+![{\displaystyle \quad p\quad q\quad r}](images/91b0d2e6ff50be1981ed14aa7570782474cc75d1.svg)\
 
 **18. 4. 15.**
 
@@ -1422,7 +1422,7 @@ Wohl können wir einen Tatbestand räumlich darstellen, welcher den Gesetzen der
 
 **22. 5. 15.**
 
-Die mathematische Notation der unendlichen Reihen, wie "${\displaystyle 1+{\frac {x}{1!}}+{\frac {x^{2}}{2!}}+...}$" *mit den Pünktchen* ist ein Beispiel jener erweiterten Allgemeinheit. Ein Gesetz ist gegeben und die hingeschriebenen Glieder dienen als Illustration.
+Die mathematische Notation der unendlichen Reihen, wie "![{\displaystyle 1+{\frac {x}{1!}}+{\frac {x^{2}}{2!}}+...}](images/7d48debeee8fbec8515f72f596f687c470389e93.svg)\ " *mit den Pünktchen* ist ein Beispiel jener erweiterten Allgemeinheit. Ein Gesetz ist gegeben und die hingeschriebenen Glieder dienen als Illustration.
 
 So könnte man statt (x)fx schreiben "fx.fy ... ".
 
