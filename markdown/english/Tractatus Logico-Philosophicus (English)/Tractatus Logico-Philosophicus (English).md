@@ -809,7 +809,7 @@ Expressions like “*a*=*a*”, or expressions deduced from these are neither el
 
 **[4.26](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.26)** The specification of all true elementary propositions describes the world completely. The world is completely described by the specification of all elementary propositions plus the specification, which of them are true and which false.
 
-**[4.27](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.27)** With regard to the existence of *n* atomic facts there are ![{\displaystyle K_{n}=\sum _{\nu =0}^{n}{\binom {n}{\nu }}}](images/529b15fbc68631e55f3ac83fc55a321cfd35efcc.svg)\  possibilities.
+**[4.27](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.27)** With regard to the existence of *n* atomic facts there are ![{ K_n = \sum_{\nu=0}^n \binom{n}{\nu} }](images/109747f0cdbcfd62f1bce67d93eb51350f5f3835c6459539f96d2dc70d84420f.svg)\  possibilities.
 
 It is possible for all combinations of atomic facts to exist, and the others not to exist.
 
@@ -848,7 +848,7 @@ It is possible for all combinations of atomic facts to exist, and the others not
 
 **[4.411](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.411)** It seems probable even at first sight that the introduction of the elementary propositions is fundamental for the comprehension of the other kinds of propositions. Indeed the comprehension of the general propositions depends *palpably* on that of the elementary propositions.
 
-**[4.42](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.42)** With regard to the agreement and disagreement of a proposition with the truth-possibilities of *n* elementary propositions there are ![{\displaystyle \sum _{\kappa =0}^{K_{n}}{\binom {K_{n}}{\kappa }}=L_{n}}](images/a73ef2dbbe3608ac156beb727096e831c3ba9898.svg)\  possibilities.
+**[4.42](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.42)** With regard to the agreement and disagreement of a proposition with the truth-possibilities of *n* elementary propositions there are ![{ \sum_{\kappa=0}^{K_n} \binom{K_n}{\kappa} = L_n }](images/9a45f5fb107652caa2fff811b19eeb0547bb7389fade741c2bd6e8b866f47858.svg)\  possibilities.
 
 **[4.43](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.43)** Agreement with the truth-possibilities can be expressed by co-ordinating with them in the schema the mark “T” (true).
 
@@ -881,9 +881,9 @@ Something analogous holds of course for all signs, which express the same as the
 
 is a propositional sign.
 
-\(Frege’s assertion sign “![{\displaystyle \vdash }](images/a0c0d30cf8cb7dba179e317fcde9583d842e80f6.svg)\ ” is logically altogether meaningless; in Frege (and Russell) it only shows that these authors hold as true the propositions marked in this way.
+\(Frege’s assertion sign “![{ \vdash }](images/8972055d3850ecff6e47e1516fc07474dfcc4bf7f0095ed9bcf5389c004a6d07.svg)\ ” is logically altogether meaningless; in Frege (and Russell) it only shows that these authors hold as true the propositions marked in this way.
 
-“![{\displaystyle \vdash }](images/a0c0d30cf8cb7dba179e317fcde9583d842e80f6.svg)\ ” belongs therefore to the propositions no more than does the number of the proposition. A proposition cannot possibly assert of itself that it is true.)
+“![{ \vdash }](images/8972055d3850ecff6e47e1516fc07474dfcc4bf7f0095ed9bcf5389c004a6d07.svg)\ ” belongs therefore to the propositions no more than does the number of the proposition. A proposition cannot possibly assert of itself that it is true.)
 
 If the sequence of the truth-possibilities in the schema is once for all determined by a rule of combination, then the last column is by itself an expression of the truth-conditions. If we write this column as a row the propositional sign becomes: “(TT–T) (*p*, *q*)” or more plainly: “(TTFT) (*p*, *q*)”.
 
@@ -1268,9 +1268,9 @@ Thus “Socrates is identical” says nothing, because we have given *no* meanin
 
 This operation denies all the propositions in the right-hand bracket and I call it the negation of these propositions.
 
-**[5.501](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.501)** An expression in brackets whose terms are propositions I indicate—if the order of the terms in the bracket is indifferent—by a sign of the form “![{\displaystyle ({\bar {\xi }})}](images/42b19dfaf444189c43300c710b904dcefda799cf.svg)\ ”. “*ξ*” is a variable whose values are the terms of the expression in brackets, and the line over the variable indicates that it stands for all its values in the bracket.
+**[5.501](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.501)** An expression in brackets whose terms are propositions I indicate—if the order of the terms in the bracket is indifferent—by a sign of the form “![{ ( \bar{\xi} ) }](images/22c545a9a90d2f7b95fb0636e2d79882d0cd328a78afb1e7c723da5b44a774bf.svg)\ ”. “*ξ*” is a variable whose values are the terms of the expression in brackets, and the line over the variable indicates that it stands for all its values in the bracket.
 
-\(Thus if *ξ* has the 3 values P, Q, R, then ![{\displaystyle ({\bar {\xi }})}](images/42b19dfaf444189c43300c710b904dcefda799cf.svg)\  = (P, Q, R).)
+\(Thus if *ξ* has the 3 values P, Q, R, then ![{ ( \bar{\xi} ) }](images/22c545a9a90d2f7b95fb0636e2d79882d0cd328a78afb1e7c723da5b44a774bf.svg)\  = (P, Q, R).)
 
 The values of the variables must be determined.
 
@@ -1280,13 +1280,13 @@ How the description of the terms of the expression in brackets takes place is un
 
 We may distinguish 3 kinds of description: Direct enumeration. In this case we can place simply its constant values instead of the variable. Giving a function *fx* whose values for all values of *x* are the propositions to be described. Giving a formal law, according to which those propositions are constructed. In this case the terms of the expression in brackets are all the terms of a formal series.
 
-**[5.502](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.502)** Therefore I write instead of “(– – – – – T)(*ξ*, ....)”, “![{\displaystyle N({\bar {\xi }})}](images/688f31c8b53de2e85798d6e29f50789fa64eb1e7.svg)\ ”.
+**[5.502](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.502)** Therefore I write instead of “(– – – – – T)(*ξ*, ....)”, “![{ N ( \bar{\xi} ) }](images/b3394a04eba3cf3b36ede15e974e646aa098169220c2c60478507502e024c872.svg)\ ”.
 
-![{\displaystyle N({\bar {\xi }})}](images/688f31c8b53de2e85798d6e29f50789fa64eb1e7.svg)\  is the negation of all the values of the propositional variable ξ.
+![{ N ( \bar{\xi} ) }](images/b3394a04eba3cf3b36ede15e974e646aa098169220c2c60478507502e024c872.svg)\  is the negation of all the values of the propositional variable ξ.
 
 **[5.503](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.503)** As it is obviously easy to express how propositions can be constructed by means of this operation and how propositions are not to be constructed by means of it, this must be capable of exact expression.
 
-**[5.51](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.51)** If *ξ* has only one value, then ![{\displaystyle N({\bar {\xi }})}](images/688f31c8b53de2e85798d6e29f50789fa64eb1e7.svg)\  = \~*p* (not *p*), if it has two values then ![{\displaystyle N({\bar {\xi }})}](images/688f31c8b53de2e85798d6e29f50789fa64eb1e7.svg)\  = \~*p* . \~*q* (neither *p* nor *q*).
+**[5.51](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.51)** If *ξ* has only one value, then ![{ N ( \bar{\xi} ) }](images/b3394a04eba3cf3b36ede15e974e646aa098169220c2c60478507502e024c872.svg)\  = \~*p* (not *p*), if it has two values then ![{ N ( \bar{\xi} ) }](images/b3394a04eba3cf3b36ede15e974e646aa098169220c2c60478507502e024c872.svg)\  = \~*p* . \~*q* (neither *p* nor *q*).
 
 **[5.511](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.511)** How can the all-embracing logic which mirrors the world use such special catches and manipulations? Only because all these are connected into an infinitely fine network, to the great mirror.
 
@@ -1314,7 +1314,7 @@ But here also the negative proposition is indirectly constructed with the positi
 
 The positive *proposition* must presuppose the existence of the negative *proposition* and conversely.
 
-**[5.52](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.52)** If the values of *ξ* are the total values of a function *fx* for all values of *x*, then ![{\displaystyle N({\bar {\xi }})}](images/688f31c8b53de2e85798d6e29f50789fa64eb1e7.svg)\  = \~(∃*x*) . *fx*.
+**[5.52](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.52)** If the values of *ξ* are the total values of a function *fx* for all values of *x*, then ![{ N ( \bar{\xi} ) }](images/b3394a04eba3cf3b36ede15e974e646aa098169220c2c60478507502e024c872.svg)\  = \~(∃*x*) . *fx*.
 
 **[5.521](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.521)** I separate the concept *all* from the truth-function.
 
@@ -1520,38 +1520,38 @@ The I occurs in philosophy through the fact that the “world is my world”.
 
 The philosophical I is not the man, not the human body or the human soul of which psychology treats, but the metaphysical subject, the limit—not a part of the world.
 
-**[6](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6)** The general form of truth function is: ![{\displaystyle [{\bar {p}},{\bar {\xi }},N({\bar {\xi }})]}](images/2280fc5b18f2a18924aeac15d592429f9a30389c.svg)\ .
+**[6](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6)** The general form of truth function is: ![{ [ \bar{p}, \bar{\xi}, N (\bar{\xi}) ] }](images/336cae8a41089348ef601ba5dbe893d3758f7baa1841701bd587566e0f16d282.svg)\ .
 
 This is the general form of proposition.
 
-**[6.001](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.001)** This says nothing else than that every proposition is the result of successive applications of the operation ![{\displaystyle N({\bar {\xi }})}](images/688f31c8b53de2e85798d6e29f50789fa64eb1e7.svg)\  to the elementary propositions.
+**[6.001](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.001)** This says nothing else than that every proposition is the result of successive applications of the operation ![{ N (\bar{\xi}) }](images/eb37987510f581cb73f8db614bd71715f510cf605279d48188050d8b509b47ed.svg)\  to the elementary propositions.
 
 **[6.002](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.002)** If we are given the general form of the way in which a proposition is constructed, then thereby we are also given the general form of the way in which by an operation out of one proposition another can be created.
 
-**[6.01](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.01)** The general form of the operation ![{\displaystyle \Omega '({\bar {\eta }})}](images/669318bd2a57168707932f4274df0f1802173d37.svg)\  is therefore: ![{\displaystyle [{\bar {\xi }},N({\bar {\xi }})]'({\bar {\eta }})(=[{\bar {\eta }},{\bar {\xi }},N({\bar {\xi }})])}](images/19f2e78167dfb205319e02f119533bdf7e948565.svg)\ .
+**[6.01](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.01)** The general form of the operation ![{ \Omega ' (\bar{\eta}) }](images/ea9e48f6e881e8a034e4cbc779a077ac01d2da54238fa332cfbe2255015dca69.svg)\  is therefore: ![{ [\bar{\xi}, N(\bar{\xi})]' (\bar{\eta}) (= [ \bar{\eta}, \bar{\xi}, N (\bar{\xi}) ]) }](images/d1cf195aa1fb631bffe7b018f1114530b8c1bcc712299ba306fdef8ed6c55335.svg)\ .
 
 This is the most general form of transition from one proposition to another.
 
 **[6.02](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.02)** And thus we come to numbers: I define
 
-![{\displaystyle x=\Omega ^{0\prime }x{\text{ Def.}}}](images/f1e7816f45d64cbe3aad02f6f0925ae55ade7666.svg)\  and
-![{\displaystyle \Omega ^{\prime }\Omega ^{\nu \prime }x=\Omega ^{\nu +1\prime }x{\text{ Def.}}}](images/f8b80c213502cc4cafe945e505349fd90149f42f.svg)\
+![{ x = \Omega^{0 \prime} x \text{ Def.} }](images/2c3e0efa8931e01e650511958fc1f6d5b5cba8c4120db825866394563d645203.svg)\  and
+![{ \Omega^{\prime} \Omega^{ \nu \prime} x = \Omega^{ \nu + 1 \prime} x \text{ Def.} }](images/2f81698ca04ab3ce262aa94e5d57f69a5eaa2cadf033aba83d9dc9724869a8b0.svg)\
 
-According, then, to these symbolic rules we write the series ![{\displaystyle x,\Omega 'x,\Omega '\Omega 'x,\Omega '\Omega '\Omega 'x,.....}](images/927751975bdaabafaeb891850e079e0569723e09.svg)\
+According, then, to these symbolic rules we write the series ![{ x, \Omega ' x, \Omega ' \Omega ' x, \Omega ' \Omega ' \Omega ' x, ..... }](images/2bdad2e773a893d516dedb66aae27db7901736d7838298078d42775abc368450.svg)\
 
-as: ![{\displaystyle \Omega ^{0\prime }x,\Omega ^{0+1\prime }x,\Omega ^{0+1+1\prime }x,\Omega ^{0+1+1+1\prime }x,.....}](images/6c8f120df1bc77d49c884554cdfc6fd58baa1204.svg)\
+as: ![{ \Omega^{0 \prime} x, \Omega^{0+1 \prime} x, \Omega^{0 + 1 + 1 \prime} x, \Omega^{0 + 1 + 1 + 1 \prime} x, ..... }](images/2363c84eb861521de9141a1ef7e7f9b8e30ee559dbe0fdd98ebe96665b1cacc5.svg)\
 
-Therefore I write in place of “![{\displaystyle [x,\xi ,\Omega '\xi ]}](images/647cd7f45d7d8e877cdb29758e7c4dd75f1d5dd5.svg)\ ”,
+Therefore I write in place of “![{ [ x, \xi, \Omega ' \xi ] }](images/356a71ba81334c39be3a91a1d42c9d51eb9ad1ea7b726f750fd3a307d7947385.svg)\ ”,
 
-“![{\displaystyle [\Omega ^{0\prime }x,\Omega ^{\nu \prime }x,\Omega ^{\nu +1\prime }x]}](images/2331b535de38ab1c66bb7d9acc00e76de6a08577.svg)\ ”.
+“![{ [ \Omega^{0 \prime} x, \Omega^{ \nu \prime} x, \Omega^{ \nu + 1 \prime} x ] }](images/cbe2c1a200eb49c3a9b16c7105afbb9fbed122da767f2d37389ac28a9e93e102.svg)\ ”.
 
 And I define:
 
-![{\displaystyle 0+1=1{\text{ Def.}}}](images/88caa9592b85da03e493c9728d6e237bb862448c.svg)\
+![{ 0 + 1 = 1 \text{ Def.} }](images/9bfe93c20fc75f7848141a5dc2cdd0308e48f56967903cda5e95d9574182253c.svg)\
 
-![{\displaystyle 0+1+1=2{\text{ Def.}}}](images/06e38692117abb114e0ac170c6c601dc227980f4.svg)\
+![{ 0 + 1 + 1 = 2 \text{ Def.} }](images/fe681449dc8d64199e5d1bdbf8208df658a75a9e18932d30c9dfe7f01673531e.svg)\
 
-![{\displaystyle 0+1+1+1=3{\text{ Def.}}}](images/c93245b177a751a2f4dcdc816414efac5c766274.svg)\
+![{ 0 + 1 + 1 + 1 = 3 \text{ Def.} }](images/79fe9d279c0691bdeef7a6bf88e5f6a6364bd5b2dabfd79444199d7e0fb31ca7.svg)\
 
 \(and so on.)
 
@@ -1721,11 +1721,11 @@ For equations express the substitutability of two expressions, and we proceed fr
 
 **[6.241](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.241)** Thus the proof of the proposition 2 × 2 = 4 runs:
 
-![{\displaystyle (\Omega ^{\nu })^{\mu \prime }x=\Omega ^{\nu \times \mu \prime }x{\text{ Def.}}}](images/27496729a92504f4c31ffcae34a1adf369dc5749.svg)\
+![{ ( \Omega^{ \nu} )^{\mu \prime} x = \Omega^{ \nu \times \mu \prime} x \text{ Def.} }](images/ddf71a60f25ff0e495d94d2bd39bcde1e3e20286201c7de357bfe8b3b1575a1a.svg)\
 
-![{\displaystyle \Omega ^{2\times 2\prime }x=(\Omega ^{2})^{2\prime }x=(\Omega ^{2})^{1+1\prime }x=\Omega ^{2\prime }\Omega ^{2\prime }x=\Omega ^{1+1\prime }\Omega ^{1+1\prime }x}](images/b98d21bf4720f6adee2b0f8b9bc87e2d9fd57198.svg)\
+![{ \Omega^{2 \times 2 \prime} x = (\Omega^2 )^{2 \prime} x = ( \Omega^2 )^{1+1 \prime} x = \Omega^{2 \prime} \Omega^{2 \prime} x = \Omega^{1 + 1 \prime} \Omega^{1 + 1 \prime} x }](images/d61fa425857e85da7c94020ddafdf3f8038c3f33900d3f3c7e222856a8859af8.svg)\
 
-![{\displaystyle (\Omega '\Omega )^{\prime }(\Omega '\Omega )^{\prime }x=\Omega '\Omega '\Omega '\Omega 'x=\Omega ^{1+1+1+1\prime }x=\Omega ^{4\prime }x}](images/d58f5a002e8c3899afea3cd5d0ef36e070224d6d.svg)\
+![{ (\Omega ' \Omega)^{\prime} (\Omega ' \Omega)^{\prime} x = \Omega ' \Omega ' \Omega ' \Omega ' x = \Omega^{1 + 1 + 1 + 1 \prime} x = \Omega^{4 \prime} x }](images/e5973c9367aeacc00f2830f165ecedfaa5664ca53875c29edf6be4ddffb89c18.svg)\
 
 **[6.3](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.3)** Logical research means the investigation of *all regularity*. And outside logic all is accident.
 

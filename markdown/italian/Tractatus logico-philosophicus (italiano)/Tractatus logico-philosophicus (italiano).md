@@ -41,7 +41,7 @@ Solo questo voglio menzionare: che sono in debito per una gran parte degli stimo
 
 Se questo lavoro ha un valore, esso consiste in due cose. In primo luogo nel fatto che vi sono espressi pensieri, e questo valore sarà tanto maggiore quanto meglio i pensieri sono espressi. Quanto più si è colpito nel segno. – Qui sono consapevole di essere rimasto molto al di sotto del possibile. Semplicemente perché la mia forza è insufficiente per portare a termine il compito. – Possano altri venire e farlo meglio.
 
-D'altro canto la verità dei pensieri qui esposti mi sembra incontrovertibile e definitiva. Sono così dell'opinione di aver risolto nell'essenziale i problemi una volta per tutte. E, se non mi sbaglio su questo punto, allora il valore di questo lavoro consiste in secondo luogo nel mostrare quanto poco si ottiene con l'essere questi problemi risolti.
+D'altro canto la *verità* dei pensieri qui esposti mi sembra incontrovertibile e definitiva. Sono così dell'opinione di aver risolto nell'essenziale i problemi una volta per tutte. E, se in ciò non mi sbaglio, allora il valore di questo lavoro consiste in secondo luogo nel mostrare quanto poco si ottiene col fatto che questi problemi siano risolti.
 
 *L.W.*
 
@@ -821,7 +821,7 @@ Espressioni come «*a* = *a*», o derivate da queste, non sono né proposizioni 
 
 **[4.26](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.26)** L'enunciazione di tutte le proposizioni elementari vere descrive il mondo completamente. Il mondo è completamente descritto dall'enunciazione di tutte le proposizioni elementari più l'enunciazione di quali tra esse sono vere e quali false.
 
-**[4.27](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.27)** Quanto al sussistere o non-sussistere di *n* stati di cose vi sono ![{\displaystyle K_{n}=\sum _{\nu =0}^{n}{\binom {n}{\nu }}}](images/529b15fbc68631e55f3ac83fc55a321cfd35efcc.svg)\  possibilità.
+**[4.27](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.27)** Quanto al sussistere o non-sussistere di *n* stati di cose vi sono ![{ K_n = \sum_{\nu=0}^n \binom{n}{\nu} }](images/109747f0cdbcfd62f1bce67d93eb51350f5f3835c6459539f96d2dc70d84420f.svg)\  possibilità.
 
 Ciascuna combinazione di stati di cose può sussistere, le altre non sussistendo.
 
@@ -860,7 +860,7 @@ Ciascuna combinazione di stati di cose può sussistere, le altre non sussistendo
 
 **[4.411](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.411)** Appare subito verosimile che l'introduzione delle proposizioni elementari sia fondamentale per la comprensione di tutti gli altri tipi di proposizione. Già, *si percepisce* che la comprensione delle proposizioni generali dipende da quella delle proposizioni elementari.
 
-**[4.42](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.42)** Quanto all'accordo e non-accordo di una proposizione con le possibilità di verità di *n* proposizioni elementari, vi sono ![{\displaystyle \sum _{\kappa =0}^{K_{n}}{\binom {K_{n}}{\kappa }}=L_{n}}](images/a73ef2dbbe3608ac156beb727096e831c3ba9898.svg)\  possibilità.
+**[4.42](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.42)** Quanto all'accordo e non-accordo di una proposizione con le possibilità di verità di *n* proposizioni elementari, vi sono ![{ \sum_{\kappa=0}^{K_n} \binom{K_n}{\kappa} = L_n }](images/9a45f5fb107652caa2fff811b19eeb0547bb7389fade741c2bd6e8b866f47858.svg)\  possibilità.
 
 **[4.43](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.43)** Possiamo esprimere l'accordo con le possibilità di verità assegnando a esse nello schema per esempio il segno «V» (vero).
 
@@ -893,7 +893,7 @@ Qualcosa di analogo vale naturalmente per tutti i segni che esprimono lo stesso 
 
 è un segno proposizionale.
 
-\(Il «segno di affermazione» di Frege «![{\displaystyle \vdash }](images/a0c0d30cf8cb7dba179e317fcde9583d842e80f6.svg)\ » è logicamente del tutto privo di significato; in Frege (e Russell) esso indica solo che questi autori tengono per vere le proposizioni da esso contrassegnate. «![{\displaystyle \vdash }](images/a0c0d30cf8cb7dba179e317fcde9583d842e80f6.svg)\ » non appartiene quindi alla struttura della proposizione più di quanto [le appartenga] per esempio il numero della proposizione. È impossibile che una proposizione dica di se stessa che è vera.)
+\(Il «segno di affermazione» di Frege «![{ \vdash }](images/8972055d3850ecff6e47e1516fc07474dfcc4bf7f0095ed9bcf5389c004a6d07.svg)\ » è logicamente del tutto privo di significato; in Frege (e Russell) esso indica solo che questi autori tengono per vere le proposizioni da esso contrassegnate. «![{ \vdash }](images/8972055d3850ecff6e47e1516fc07474dfcc4bf7f0095ed9bcf5389c004a6d07.svg)\ » non appartiene quindi alla struttura della proposizione più di quanto [le appartenga] per esempio il numero della proposizione. È impossibile che una proposizione dica di se stessa che è vera.)
 
 Se la sequenza di possibilità di verità nello schema è stabilita una volta per tutte mediante una regola di combinazione, allora l'ultima colonna da sola è già un'espressione delle condizioni di verità. Se riscriviamo questa colonna come riga, il segno proposizionale diviene:
 
@@ -1278,9 +1278,9 @@ Quindi «Socrate è identico» non dice niente perché alla parola «identico» 
 
 Questa operazione nega tutte le proposizioni nella parentesi di destra e io la chiamo la negazione di queste proposizioni.
 
-**[5.501](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.501)** Indico un'espressione tra parentesi i cui termini sono proposizioni – se l'ordine dei termini nella parentesi è indifferente – mediante un segno della forma «![{\displaystyle ({\bar {\xi }})}](images/42b19dfaf444189c43300c710b904dcefda799cf.svg)\ ». «ξ» è una variabile i cui valori sono i termini dell'espressione tra parentesi; e la linea sopra la variabile indica che essa sta per tutti i suoi valori nella parentesi.
+**[5.501](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.501)** Indico un'espressione tra parentesi i cui termini sono proposizioni – se l'ordine dei termini nella parentesi è indifferente – mediante un segno della forma «![{ ( \bar{\xi} ) }](images/22c545a9a90d2f7b95fb0636e2d79882d0cd328a78afb1e7c723da5b44a774bf.svg)\ ». «ξ» è una variabile i cui valori sono i termini dell'espressione tra parentesi; e la linea sopra la variabile indica che essa sta per tutti i suoi valori nella parentesi.
 
-\(Se quindi, per esempio, ξ ha i 3 valori P, Q, R, allora ![{\displaystyle ({\bar {\xi }})}](images/42b19dfaf444189c43300c710b904dcefda799cf.svg)\  = (P, Q, R).)
+\(Se quindi, per esempio, ξ ha i 3 valori P, Q, R, allora ![{ ( \bar{\xi} ) }](images/22c545a9a90d2f7b95fb0636e2d79882d0cd328a78afb1e7c723da5b44a774bf.svg)\  = (P, Q, R).)
 
 I valori delle variabili si stabiliscono.
 
@@ -1290,13 +1290,13 @@ Come avvenga la descrizione dei termini dell'espressione tra parentesi è inesse
 
 Noi *possiamo* distinguere tre modalità della descrizione: 1. L'enumerazione diretta. In questo caso possiamo semplicemente inserire al posto della variabile i suoi valori costanti. 2. L'enunciazione di una funzione *f* *x* i cui valori sono, per tutti i valori di *x*, le proposizioni da descrivere. 3. L'enunciazione di una legge formale secondo la quale quelle proposizioni sono costruite. In questo caso i termini dell'espressione tra parentesi sono tutti i termini di una serie formale.
 
-**[5.502](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.502)** Scrivo dunque, anziché «(– – – – –V)(ξ, ....)», «![{\displaystyle N({\bar {\xi }})}](images/688f31c8b53de2e85798d6e29f50789fa64eb1e7.svg)\ ».
+**[5.502](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.502)** Scrivo dunque, anziché «(– – – – –V)(ξ, ....)», «![{ N ( \bar{\xi} ) }](images/b3394a04eba3cf3b36ede15e974e646aa098169220c2c60478507502e024c872.svg)\ ».
 
-![{\displaystyle N({\bar {\xi }})}](images/688f31c8b53de2e85798d6e29f50789fa64eb1e7.svg)\  è la negazione di tutti i valori della variabile proposizionale ξ.
+![{ N ( \bar{\xi} ) }](images/b3394a04eba3cf3b36ede15e974e646aa098169220c2c60478507502e024c872.svg)\  è la negazione di tutti i valori della variabile proposizionale ξ.
 
 **[5.503](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.503)** È evidentemente agevole esprimere come con questa operazione possono essere costruite proposizioni e come proposizioni non vanno costruite con essa; anche questo perciò deve poter trovare un'espressione esatta.
 
-**[5.51](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.51)** Se ξ ha solo un valore, allora ![{\displaystyle N({\bar {\xi }})}](images/688f31c8b53de2e85798d6e29f50789fa64eb1e7.svg)\  = \~*p* (non *p*); se ha due valori, allora ![{\displaystyle N({\bar {\xi }})}](images/688f31c8b53de2e85798d6e29f50789fa64eb1e7.svg)\  = \~*p* . \~*q* (né *p* né *q*).
+**[5.51](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.51)** Se ξ ha solo un valore, allora ![{ N ( \bar{\xi} ) }](images/b3394a04eba3cf3b36ede15e974e646aa098169220c2c60478507502e024c872.svg)\  = \~*p* (non *p*); se ha due valori, allora ![{ N ( \bar{\xi} ) }](images/b3394a04eba3cf3b36ede15e974e646aa098169220c2c60478507502e024c872.svg)\  = \~*p* . \~*q* (né *p* né *q*).
 
 **[5.511](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.511)** Come può la logica, onnicomprensiva, specchio del mondo, impiegare cavilli e manipolazioni così particolari? Solo in quanto questi si legano tutti a una rete infinitamente sottile, al grande specchio.
 
@@ -1324,7 +1324,7 @@ Ma anche qui la proposizione negativa è indirettamente costruita attraverso la 
 
 La *proposizione* positiva deve presupporre l'esistenza della *proposizione* negativa e viceversa.
 
-**[5.52](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.52)** Se i valori di ξ sono tutti i valori di una funzione *f* *x* per tutti i valori di *x*, allora sarà ![{\displaystyle N({\bar {\xi }})}](images/688f31c8b53de2e85798d6e29f50789fa64eb1e7.svg)\  = \~(∃*x*) . *f* *x*.
+**[5.52](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.52)** Se i valori di ξ sono tutti i valori di una funzione *f* *x* per tutti i valori di *x*, allora sarà ![{ N ( \bar{\xi} ) }](images/b3394a04eba3cf3b36ede15e974e646aa098169220c2c60478507502e024c872.svg)\  = \~(∃*x*) . *f* *x*.
 
 **[5.521](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.521)** Io separo il concetto *tutti* dalla funzione di verità.
 
@@ -1524,38 +1524,38 @@ L'Io entra nella filosofia con questo: che «il mondo è il mio mondo».
 
 L'Io filosofico non è l'uomo, non è il corpo umano o l'anima umana di cui tratta la psicologia, bensì il soggetto metafisico, non una parte del mondo, ma il suo limite.
 
-**[6](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6)** La forma generale della funzione di verità è: ![{\displaystyle [{\bar {p}},{\bar {\xi }},N({\bar {\xi }})]}](images/2280fc5b18f2a18924aeac15d592429f9a30389c.svg)\ .
+**[6](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6)** La forma generale della funzione di verità è: ![{ [ \bar{p}, \bar{\xi}, N (\bar{\xi}) ] }](images/336cae8a41089348ef601ba5dbe893d3758f7baa1841701bd587566e0f16d282.svg)\ .
 
 Questa è la forma generale della proposizione.
 
-**[6.001](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.001)** Questo non dice altro se non che ogni proposizione è un risultato dell'applicazione successiva dell'operazione ![{\displaystyle N({\bar {\xi }})}](images/688f31c8b53de2e85798d6e29f50789fa64eb1e7.svg)\  alle proposizioni elementari.
+**[6.001](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.001)** Questo non dice altro se non che ogni proposizione è un risultato dell'applicazione successiva dell'operazione ![{ N (\bar{\xi}) }](images/eb37987510f581cb73f8db614bd71715f510cf605279d48188050d8b509b47ed.svg)\  alle proposizioni elementari.
 
 **[6.002](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.002)** Se è data la forma generale secondo cui è costruita una proposizione, è anche già data con ciò la forma generale secondo cui da una proposizione, mediante un'operazione, può esserne generata un'altra.
 
-**[6.01](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.01)** La forma generale dell'operazione ![{\displaystyle \Omega '({\bar {\eta }})}](images/669318bd2a57168707932f4274df0f1802173d37.svg)\  è quindi: ![{\displaystyle [{\bar {\xi }},N({\bar {\xi }})]'({\bar {\eta }})(=[{\bar {\eta }},{\bar {\xi }},N({\bar {\xi }})])}](images/19f2e78167dfb205319e02f119533bdf7e948565.svg)\ .
+**[6.01](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.01)** La forma generale dell'operazione ![{ \Omega ' (\bar{\eta}) }](images/ea9e48f6e881e8a034e4cbc779a077ac01d2da54238fa332cfbe2255015dca69.svg)\  è quindi: ![{ [\bar{\xi}, N(\bar{\xi})]' (\bar{\eta}) (= [ \bar{\eta}, \bar{\xi}, N (\bar{\xi}) ]) }](images/d1cf195aa1fb631bffe7b018f1114530b8c1bcc712299ba306fdef8ed6c55335.svg)\ .
 
 Questa è la forma più generale del passaggio da una proposizione a un'altra.
 
 **[6.02](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.02)** E così veniamo ai numeri: definisco
 
-![{\displaystyle x=\Omega ^{0\prime }x{\text{ Def.}}}](images/f1e7816f45d64cbe3aad02f6f0925ae55ade7666.svg)\  e
-![{\displaystyle \Omega ^{\prime }\Omega ^{\nu \prime }x=\Omega ^{\nu +1\prime }x{\text{ Def.}}}](images/f8b80c213502cc4cafe945e505349fd90149f42f.svg)\
+![{ x = \Omega^{0 \prime} x \text{ Def.} }](images/2c3e0efa8931e01e650511958fc1f6d5b5cba8c4120db825866394563d645203.svg)\  e
+![{ \Omega^{\prime} \Omega^{ \nu \prime} x = \Omega^{ \nu + 1 \prime} x \text{ Def.} }](images/2f81698ca04ab3ce262aa94e5d57f69a5eaa2cadf033aba83d9dc9724869a8b0.svg)\
 
-Secondo questa regola segnica quindi scriviamo la serie ![{\displaystyle x,\Omega 'x,\Omega '\Omega 'x,\Omega '\Omega '\Omega 'x,.....}](images/927751975bdaabafaeb891850e079e0569723e09.svg)\
+Secondo questa regola segnica quindi scriviamo la serie ![{ x, \Omega ' x, \Omega ' \Omega ' x, \Omega ' \Omega ' \Omega ' x, ..... }](images/2bdad2e773a893d516dedb66aae27db7901736d7838298078d42775abc368450.svg)\
 
-così: ![{\displaystyle \Omega ^{0\prime }x,\Omega ^{0+1\prime }x,\Omega ^{0+1+1\prime }x,\Omega ^{0+1+1+1\prime }x,.....}](images/6c8f120df1bc77d49c884554cdfc6fd58baa1204.svg)\
+così: ![{ \Omega^{0 \prime} x, \Omega^{0+1 \prime} x, \Omega^{0 + 1 + 1 \prime} x, \Omega^{0 + 1 + 1 + 1 \prime} x, ..... }](images/2363c84eb861521de9141a1ef7e7f9b8e30ee559dbe0fdd98ebe96665b1cacc5.svg)\
 
-Dunque, invece che «![{\displaystyle [x,\xi ,\Omega '\xi ]}](images/647cd7f45d7d8e877cdb29758e7c4dd75f1d5dd5.svg)\ », scrivo:
+Dunque, invece che «![{ [ x, \xi, \Omega ' \xi ] }](images/356a71ba81334c39be3a91a1d42c9d51eb9ad1ea7b726f750fd3a307d7947385.svg)\ », scrivo:
 
-«![{\displaystyle [\Omega ^{0\prime }x,\Omega ^{\nu \prime }x,\Omega ^{\nu +1\prime }x]}](images/2331b535de38ab1c66bb7d9acc00e76de6a08577.svg)\ ».
+«![{ [ \Omega^{0 \prime} x, \Omega^{ \nu \prime} x, \Omega^{ \nu + 1 \prime} x ] }](images/cbe2c1a200eb49c3a9b16c7105afbb9fbed122da767f2d37389ac28a9e93e102.svg)\ ».
 
 E definisco:
 
-![{\displaystyle 0+1=1{\text{ Def.}}}](images/88caa9592b85da03e493c9728d6e237bb862448c.svg)\
+![{ 0 + 1 = 1 \text{ Def.} }](images/9bfe93c20fc75f7848141a5dc2cdd0308e48f56967903cda5e95d9574182253c.svg)\
 
-![{\displaystyle 0+1+1=2{\text{ Def.}}}](images/06e38692117abb114e0ac170c6c601dc227980f4.svg)\
+![{ 0 + 1 + 1 = 2 \text{ Def.} }](images/fe681449dc8d64199e5d1bdbf8208df658a75a9e18932d30c9dfe7f01673531e.svg)\
 
-![{\displaystyle 0+1+1+1=3{\text{ Def.}}}](images/c93245b177a751a2f4dcdc816414efac5c766274.svg)\
+![{ 0 + 1 + 1 + 1 = 3 \text{ Def.} }](images/79fe9d279c0691bdeef7a6bf88e5f6a6364bd5b2dabfd79444199d7e0fb31ca7.svg)\
 
 \(e così di seguito).
 
@@ -1725,11 +1725,11 @@ Le equazioni infatti esprimono la sostituibilità di due espressioni e noi proce
 
 **[6.241](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.241)** La dimostrazione della proposizione 2 × 2 = 4 ha questo aspetto:
 
-![{\displaystyle (\Omega ^{\nu })^{\mu \prime }x=\Omega ^{\nu \times \mu \prime }x{\text{ Def.}}}](images/27496729a92504f4c31ffcae34a1adf369dc5749.svg)\
+![{ ( \Omega^{ \nu} )^{\mu \prime} x = \Omega^{ \nu \times \mu \prime} x \text{ Def.} }](images/ddf71a60f25ff0e495d94d2bd39bcde1e3e20286201c7de357bfe8b3b1575a1a.svg)\
 
-![{\displaystyle \Omega ^{2\times 2\prime }x=(\Omega ^{2})^{2\prime }x=(\Omega ^{2})^{1+1\prime }x=\Omega ^{2\prime }\Omega ^{2\prime }x=\Omega ^{1+1\prime }\Omega ^{1+1\prime }x}](images/b98d21bf4720f6adee2b0f8b9bc87e2d9fd57198.svg)\
+![{ \Omega^{2 \times 2 \prime} x = (\Omega^2 )^{2 \prime} x = ( \Omega^2 )^{1+1 \prime} x = \Omega^{2 \prime} \Omega^{2 \prime} x = \Omega^{1 + 1 \prime} \Omega^{1 + 1 \prime} x }](images/d61fa425857e85da7c94020ddafdf3f8038c3f33900d3f3c7e222856a8859af8.svg)\
 
-![{\displaystyle (\Omega '\Omega )^{\prime }(\Omega '\Omega )^{\prime }x=\Omega '\Omega '\Omega '\Omega 'x=\Omega ^{1+1+1+1\prime }x=\Omega ^{4\prime }x}](images/d58f5a002e8c3899afea3cd5d0ef36e070224d6d.svg)\
+![{ (\Omega ' \Omega)^{\prime} (\Omega ' \Omega)^{\prime} x = \Omega ' \Omega ' \Omega ' \Omega ' x = \Omega^{1 + 1 + 1 + 1 \prime} x = \Omega^{4 \prime} x }](images/e5973c9367aeacc00f2830f165ecedfaa5664ca53875c29edf6be4ddffb89c18.svg)\
 
 **[6.3](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.3)** L'esplorazione della logica significa l'esplorazione *di tutte le conformità a leggi*. E al di fuori della logica tutto è caso.
 
