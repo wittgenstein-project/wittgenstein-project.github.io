@@ -5,6 +5,7 @@ import requests
 import sys
 import urllib.parse
 from bs4 import BeautifulSoup, NavigableString
+import hashlib
 
 SECONDS_BETWEEN_DOC_REQUESTS = 0.5
 SECONDS_BETWEEN_IMG_REQUESTS = 0.1
@@ -50,7 +51,7 @@ def parse_html(state, parsed, image_urls, elem, escape_newlines=False):
             title = elem.text
             href = elem["href"]
             parsed[-1] += f"[{title}]({href})"
-        elif elem.name == "img":
+        elif elem.name == "img":        ## TODO
             alt = elem["alt"]
             # if elem.get("class") == ["mwe-math-fallback-image-inline"]:
             #    parsed[-1] += f"${alt}$"
@@ -60,8 +61,26 @@ def parse_html(state, parsed, image_urls, elem, escape_newlines=False):
             file_name = os.path.basename(src)
             if "/svg/" in src and not src.endswith(".svg"):
                 file_name += ".svg"
+            elif "/thumb/" in src:
+                file_name = file_name
             # add the non-breaking space "\ " to suppress the caption
             parsed[-1] += f"![{alt}](images/{file_name})\\ "
+        
+        elif elem.name == 'span' and elem.get('class') == ["smj-container"]:
+            # get pure latex
+            math_content = elem.get_text(strip=True) 
+            if math_content.startswith("[math]") and math_content.endswith("[/math]"):
+                math_content = math_content[6:-7].strip()
+            
+            # rename
+            hash_object = hashlib.sha256(math_content.encode())
+            file_name = f"{hash_object.hexdigest()}.svg"
+            image_urls.append(math_content)
+
+            math_content = math_content.replace(r"\displaystyle", "")
+            parsed[-1] += f"![{math_content}](images/{file_name})\\ "   ## TODO 为什么会出现单个斜杠？是不是故意设计
+            
+
         elif elem.name == "span" and not elem.get("class") and elem.get("style") == "text-decoration-line: underline; text-decoration-style: dashed;":
             # wavy underline, will be treated as normal text here
             parsed[-1] += elem.text
@@ -343,6 +362,19 @@ def parse_html(state, parsed, image_urls, elem, escape_newlines=False):
         elif elem.name == "div" and not elem.get("class") and not elem.text.strip() and elem.get("style") == "display: inline-block; width: 3em;":
             # 4 times unicode NO-BREAK-SPACE
             parsed.append("\u00a0\u00a0\u00a0\u00a0")
+        elif elem.name == "div" and elem.get("style")=="display: flex; justify-content: center; align-items: center; gap: 1em;":   ## TODO
+            print(elem)
+            img_tag = elem.find('img')
+            alt = img_tag['alt'] 
+            
+            src = img_tag['src'] 
+            image_urls.append(src)
+            print(src)
+            file_name = os.path.basename(src)
+            
+            # add the non-breaking space "\ " to suppress the caption
+            parsed[-1] += f"![{alt}](images/{file_name})\\ "
+
         else:
             errors.append(
                 f"Unrecognized element: <{elem.name} class=\"{elem.get('class')}\", style=\"{elem.get('style')}\">")
@@ -350,6 +382,32 @@ def parse_html(state, parsed, image_urls, elem, escape_newlines=False):
             parsed.append(str(elem))
             parsed.append(newline)
     return parsed
+
+
+def convert_latex_to_svg(latex, img_path):
+    from matplotlib import pyplot as plt
+    from io import BytesIO
+
+    latex_cleaned = latex.replace(r"\displaystyle", "")
+    latex_cleaned = re.sub(r"\\lor", "|", latex_cleaned)
+    latex_cleaned = re.sub(r"\\land", "&", latex_cleaned)
+    latex_cleaned = re.sub(r"\\supset", "->", latex_cleaned)
+    latex_cleaned = re.sub(r"\\equiv", "<->", latex_cleaned)
+
+    # plt.rcParams["text.usetex"] = True
+    fig, ax = plt.subplots(figsize=(4, 1))
+    ax.axis("off")  
+    ax.text(0.5, 0.5, f"${latex_cleaned}$", fontsize=20, ha="center", va="center")
+    
+    buffer = BytesIO()
+    plt.savefig(buffer, format="svg", bbox_inches="tight")
+    buffer.seek(0)
+
+    with open(img_path, "wb") as f:
+        f.write(buffer.read())
+    
+    plt.close(fig)
+
 
 
 def doc_as_md(text):
@@ -388,7 +446,8 @@ _Published by the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.
 
 
 all_texts_page = requests.get(
-    "https://www.wittgensteinproject.org/w/index.php?title=Project:All_texts&action=render").content
+    # "https://www.wittgensteinproject.org/w/index.php?title=Project:All_texts&action=render").content
+    "https://www.wittgensteinproject.org/w/index.php/Project:All_texts?action=render").content
 all_texts = BeautifulSoup(all_texts_page, features="html.parser")
 
 all_languages = {}
@@ -436,22 +495,38 @@ for (language, texts) in all_languages.items():
             os.mkdir(path_to_doc_dir)
         with open(path_to_doc, "w") as f:
             f.write(md)
-        for image_url in image_urls:
-            if image_url.startswith("/w/"):
-                image_url = "https://www.wittgensteinproject.org" + image_url
-            if not os.path.exists(path_to_doc_images_dir):
-                os.mkdir(path_to_doc_images_dir)
-            file_name = urllib.parse.unquote(os.path.basename(image_url))
-            if "/svg/" in image_url and not image_url.endswith(".svg"):
-                file_name += ".svg"
-            path_to_image_file = os.path.join(
-                path_to_doc_images_dir, file_name)
-            if not os.path.exists(path_to_image_file):
-                print(f"- Fetching '{image_url}'...")
-                img = requests.get(image_url).content
-                with open(path_to_image_file, 'wb') as file:
-                    file.write(img)
-                time.sleep(SECONDS_BETWEEN_IMG_REQUESTS)
+        for image_url in image_urls:           ############### ## TODO
+            if "\displaystyle" in image_url:
+                if not os.path.exists(path_to_doc_images_dir):
+                    os.mkdir(path_to_doc_images_dir)
+                hash_object = hashlib.sha256(image_url.encode())
+                file_name = f"{hash_object.hexdigest()}.svg"
+                path_to_image_file = os.path.join(
+                    path_to_doc_images_dir, file_name)
+                if not os.path.exists(path_to_image_file):
+                    convert_latex_to_svg(image_url, path_to_image_file)
+                    print(f"Converted {image_url} to {path_to_image_file}")
+                    time.sleep(SECONDS_BETWEEN_IMG_REQUESTS)
+            else:
+                if image_url.startswith("/w/"):
+                    image_url = "https://www.wittgensteinproject.org" + image_url
+                if not os.path.exists(path_to_doc_images_dir):
+                    os.mkdir(path_to_doc_images_dir)
+                file_name = urllib.parse.unquote(os.path.basename(image_url))
+                if "/svg/" in image_url and not image_url.endswith(".svg"):
+                    file_name += ".svg"
+                elif "/thumb/" in image_url:
+                    file_name = file_name
+                path_to_image_file = os.path.join(
+                    path_to_doc_images_dir, file_name)
+                if not os.path.exists(path_to_image_file):
+                    print(f"- Fetching '{image_url}'...")
+                    img = requests.get(image_url).content
+                    with open(path_to_image_file, 'wb') as file:
+                        file.write(img)
+                    time.sleep(SECONDS_BETWEEN_IMG_REQUESTS)
+            
+            
         time.sleep(SECONDS_BETWEEN_DOC_REQUESTS)
 
 if all_errors:
