@@ -7,7 +7,7 @@ title: Review of P. Coffey, “The Science of Logic”
 
 _Published by the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.org/)._
 
-_This digital edition is based on Ludwig Wittgenstein. “Review: P. Coffey, *The Science of Logic*.” *The Cambridge Review*, vol. 34, no. 853, 6 Mar. 1913, p. 351. This original-language text is in the public domain in its country of origin and other countries and areas where the copyright term is the author's life plus 70 years or fewer. Additionally, it is in the public domain in the United States, because it was published before 1 January 1929._
+_This digital edition is based on Ludwig Wittgenstein. “Review: P. Coffey, *The Science of Logic*.” *The Cambridge Review*, vol. 34, no. 853, 6 Mar. 1913, p. 351. This original-language text is in the public domain in its country of origin and other countries and areas where the copyright term is the author's life plus 70 years or fewer. Additionally, it is in the public domain in the United States, because it was published before 1 January 1930._
 
 # Review of P. Coffey, “The Science of Logic”
 
