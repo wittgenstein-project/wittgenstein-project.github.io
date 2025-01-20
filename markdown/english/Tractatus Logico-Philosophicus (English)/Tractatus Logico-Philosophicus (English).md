@@ -1520,7 +1520,7 @@ The I occurs in philosophy through the fact that the “world is my world”.
 
 The philosophical I is not the man, not the human body or the human soul of which psychology treats, but the metaphysical subject, the limit—not a part of the world.
 
-**[6](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6)** The general form of truth function is: ![{ [ \bar{p}, \bar{\xi}, N (\bar{\xi}) ] }](images/336cae8a41089348ef601ba5dbe893d3758f7baa1841701bd587566e0f16d282.svg)\ .
+**[6](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6)** The general form of truth-function is: ![{ [ \bar{p}, \bar{\xi}, N (\bar{\xi}) ] }](images/336cae8a41089348ef601ba5dbe893d3758f7baa1841701bd587566e0f16d282.svg)\ .
 
 This is the general form of proposition.
 
