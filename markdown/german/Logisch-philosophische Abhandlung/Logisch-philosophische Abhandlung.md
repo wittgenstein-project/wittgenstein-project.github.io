@@ -577,7 +577,7 @@ Die beiden müssen die gleiche logische (mathematische) Mannigfaltigkeit besitze
 
 **4.041** Diese mathematische Mannigfaltigkeit kann man natürlich nicht selbst wieder abbilden. Aus ihr kann man beim Abbilden nicht heraus.
 
-**4.0411** Wollten wir z. B. das, was wir durch „(*x*)*fx*“ ausdrücken, durch Vorsetzen eines Indexes vor „*fx*“ ausdrücken – etwa so: „Alg. *fx*“, es würde nicht genügen – wir wüssten nicht, was verallgemeinert wurde. Wollten wir es durch einen Index „*a*“ anzeigen – etwa so: „*f* (*x~a~*)“ – es würde auch nicht genügen – wir wüssten nicht den Bereich der Allgemeinheitsbezeichnung.
+**4.0411** Wollten wir z. B. das, was wir durch „(*x*).*fx*“ ausdrücken, durch Vorsetzen eines Indexes vor „*fx*“ ausdrücken – etwa so: „Alg. *fx*“, es würde nicht genügen – wir wüssten nicht, was verallgemeinert wurde. Wollten wir es durch einen Index „*a*“ anzeigen – etwa so: „*f* (*x~a~*)“ – es würde auch nicht genügen – wir wüssten nicht den Bereich der Allgemeinheitsbezeichnung.
 
 Wollten wir es durch Einführung einer Marke in die Argumentstellen versuchen – etwa so: „(*A, A*) *. F* (*A, A*)“ – es würde nicht genügen – wir könnten die Identität der Variablen nicht feststellen. U. s. w.
 
