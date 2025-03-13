@@ -1597,7 +1597,7 @@ and the co-ordination of the truth or falsity of the whole proposition with the 
 
 ![TLP 6.1203b-en.png](images/300px-TLP_6.1203b-en.png)\
 
-This sign, for example, would therefore present the proposition “*p* ⊃ *q*”. Now I will proceed to inquire whether such a proposition as \~(*p* . \~*p*) (The Law of Contradiction) is a tautology. The form “\~ *ξ*” is written in our notation
+This sign, for example, would therefore present the proposition “*p* ⊃ *q*”. Now I will proceed to inquire whether such a proposition as \~(*p* . \~*p*) (The Law of Contradiction) is a tautology. The form “\~*ξ*” is written in our notation
 
 ![TLP 6.1203c-en.png](images/250px-TLP_6.1203c-en.png)\
 
