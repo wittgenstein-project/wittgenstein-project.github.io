@@ -1844,7 +1844,7 @@ Nuestra vida es tan infinita, como nuestro campo visual es ilimitado.
 
 **[6.432](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.432)** *Cómo* es el mundo, es para lo superior completamente indiferente. Dios no se revela *en* el mundo.
 
-**[6.4321](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.4321)** Los hechos pertenecen todos solo a la terea, no a la solución.
+**[6.4321](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.4321)** Los hechos pertenecen todos solo a la tarea, no a la solución.
 
 **[6.44](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.44)** No *cómo* es el mundo, es lo místico, sino *que* es.
 
