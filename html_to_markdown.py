@@ -12,8 +12,7 @@ import urllib.parse
 SECONDS_BETWEEN_DOC_REQUESTS = 0.5
 SECONDS_BETWEEN_IMG_REQUESTS = 0.1
 BLACKLISTED_LANGS = ["Arabic"]
-BLACKLISTED_WORKS = ["Wörterbuch", "Baumstruktur",
-                     "tree-like", "arborescente", "albero", "árbol", "árvore"]
+BLACKLISTED_WORKS = ["Baumstruktur", "tree-like", "arborescente", "albero", "árbol", "árvore"]
 
 # Functions to convert html to (pandoc) markdown:
 
