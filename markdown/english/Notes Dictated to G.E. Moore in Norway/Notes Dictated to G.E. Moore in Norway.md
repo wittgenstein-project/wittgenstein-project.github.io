@@ -129,7 +129,7 @@ It follows from the fact that a-b is transitive, that where we have a-b-a the fi
 
 That, when a certain rule is given, a symbol is tautological *shews* a logical truth.
 
-![Notes Dictated to G.E. Moore in Norway schema corrected.png](images/300px-Notes_Dictated_to_G.E._Moore_in_Norway_schema_corrected.png)\
+![](images/300px-Notes_Dictated_to_G.E._Moore_in_Norway_schema_corrected.png)\
 
 This symbol might be interpreted either as a tautology or a contradiction.
 

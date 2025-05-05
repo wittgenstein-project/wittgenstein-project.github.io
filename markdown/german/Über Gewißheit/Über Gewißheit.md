@@ -9,7 +9,7 @@ _Published by the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.
 
 _Herausgegeben von [G. E. M. Anscombe](https://en.wikipedia.org/wiki/G._E._M._Anscombe) und [G. H. von Wright](https://en.wikipedia.org/wiki/Georg_Henrik_von_Wright)_
 
-_Diese digitale Ausgabe ist eine Reproduktion von L. Wittgenstein, *Über Gewißheit*. Herausgegeben von G. E. M. Anscombe und G. H. von Wright. Suhrkamp Verlag, Frankfurt am Main, 1970. Dieses Werk ist gemeinfrei, weil seine urheberrechtliche Schutzfrist abgelaufen ist. Dies gilt für das Herkunftsland des Werks und alle weiteren Staaten mit einer gesetzlichen Schutzfrist von 70 oder weniger Jahren nach dem Tod des Urhebers._
+_Diese digitale Ausgabe ist eine Reproduktion von L. Wittgenstein, *Über Gewißheit*. Herausgegeben von G. E. M. Anscombe und G. H. von Wright. Suhrkamp Verlag, Frankfurt am Main, 1970. Ein Tippfehler in Absatz 430 wurde korrigiert. Dieses Werk ist gemeinfrei, weil seine urheberrechtliche Schutzfrist abgelaufen ist. Dies gilt für das Herkunftsland des Werks und alle weiteren Staaten mit einer gesetzlichen Schutzfrist von 70 oder weniger Jahren nach dem Tod des Urhebers._
 
 # Über Gewißheit
 
@@ -1064,7 +1064,7 @@ Ist es richtig zu sagen, der Grund sei der, daß frühere Erfahrung mich immer d
 
 Jene frühere Erfahrung mag wohl die *Ursache* meiner gegenwärtigen Sicherheit sein; aber ist sie ihr Grund?
 
-**430.** Ich treffe einen Marsbewohner, und er fragt mich »Wieviel Zehen haben die Menschen?« – Ich sage: »Zehn. Ich will’s dir zeigen«, und ziehe meine Schuhe aus. Wenn er sich nun wunderte, daß ich es mit solcher Sicherheit wußte, obwohl ich meine Zehen nicht gesehen hatte. – Sollte ich da sagen: »Wir Menschen wissen, daß wir soviel Zehen haben, ob wie sie sehen oder nicht«?
+**430.** Ich treffe einen Marsbewohner, und er fragt mich »Wieviel Zehen haben die Menschen?« – Ich sage: »Zehn. Ich will’s dir zeigen«, und ziehe meine Schuhe aus. Wenn er sich nun wunderte, daß ich es mit solcher Sicherheit wußte, obwohl ich meine Zehen nicht gesehen hatte. – Sollte ich da sagen: »Wir Menschen wissen, daß wir soviel Zehen haben, ob wir sie sehen oder nicht«?
 
 26.3.51
 

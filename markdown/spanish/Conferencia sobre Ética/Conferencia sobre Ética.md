@@ -32,4 +32,4 @@ Comienzo, pues. Mi tema, como ustedes saben, es la Ética y adoptaré la explica
 
 *This translation was made possible by the financial support of:*
 
-[](https://www.wikimedia.it/)
+![Logo Wikimedia Italia](images/110px-Wikimedia_Italia-logo.png)\

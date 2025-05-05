@@ -1402,9 +1402,7 @@ Uma alma composta não seria mais alma.
 **[5.5422](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.5422)** A explicação correta da forma da proposição “*A* julga *p*” deve indicar ser impossível julgar um absurdo. (A teoria de Russell não satisfaz essa condição.)
 
 **[5.5423](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.5423)** Perceber um complexo quer dizer perceber que suas partes constituintes estão em relação entre si de um certo modo.
-
-![TLP 5.5423.png](images/250px-TLP_5.5423.png)\
-
+![](images/250px-TLP_5.5423.png)\
 Isto também explica por que é possível ver a figura de duas maneiras como um cubo; e todos os fenômenos parecidos. Porquanto vemos realmente dois fatos diferentes.
 
 \(Primeiro vejo a partir dos vértices *a*, e só ligeiramente a partir de *b*; *a* aparece na frente; e vice-versa.)
@@ -1500,8 +1498,7 @@ Tu dizes que aqui se está inteiramente como diante do ôlho e do campo visual, 
 E não há coisa no *campo visual* que leve à conclusão de que ela é vista por um ôlho.
 
 **[5.6331](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.6331)** O campo visual não tem nomeadamente uma forma como esta:
-
-![TLP 5.6331pt.png](images/250px-TLP_5.6331pt.png)\
+![](images/250px-TLP_5.6331pt.png)\
 
 **[5.634](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.634)** Isto se liga a que nenhuma parte de nossa experiência é *a priori*.
 
@@ -1589,25 +1586,15 @@ As proposições devem possuir determinadas propriedades de estrutura a fim de q
 **[6.1202](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.1202)** É claro que, em vez da tautologia, é possível empregar a contradição para os mesmos fins.
 
 **[6.1203](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.1203)** Para reconhecer uma tautologia como tal, nos casos em que na tautologia não aparece qualquer designação da generalidade, é possível utilizar o seguinte método intuitivo: em vez de “*p*”, “*q*”, “*r*”, etc., escrevo “*VpF*”, “*VqF*”, “*VrF*”, etc. As combinações de verdade são expressas por chaves:
-
-![TLP 6.1203a-it.png](images/300px-TLP_6.1203a-it.png)\
-
+![](images/300px-TLP_6.1203a-it.png)\
 e a coordenação da verdade ou da falsidade da proposição total e as combinações de verdade dos argumentos de verdade, por meio de traços, do modo seguinte:
-
-![TLP 6.1203b-it.png](images/300px-TLP_6.1203b-it.png)\
-
+![](images/300px-TLP_6.1203b-it.png)\
 Êste signo representaria, por exemplo, a proposição “*p* ⊃ *q*”. Vou verificar, por exemplo, se a proposição ∼(*p* . ∼*p*) (lei da contradição) é uma tautologia. A forma “∼*ξ*” será escrita em nossa notação:
-
-![TLP 6.1203c-it.png](images/200px-TLP_6.1203c-it.png)\
-
+![](images/200px-TLP_6.1203c-it.png)\
 A forma “*ξ* . *η*”:
-
-![TLP 6.1203d-it.png](images/300px-TLP_6.1203d-it.png)\
-
+![](images/300px-TLP_6.1203d-it.png)\
 De modo que a proposição ∼(*p* . ∼*q*) será:
-
-![TLP 6.1203e-it.png](images/250px-TLP_6.1203e-it.png)\
-
+![](images/250px-TLP_6.1203e-it.png)\
 Em lugar de “*q*” coloquemos “*p*” e examinemos a conexão dos *V* e *F* mais exteriores com os mais interiores; logo verificamos que a verdade da proposição total coordena-se com *tôdas* as combinações de verdade de seus argumentos, enquanto que sua falsidade, com nenhuma das combinações de verdade.
 
 **[6.121](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.121)** As proposições da lógica demonstram as propriedades lógicas das proposições, pois se ligam em proposições que não dizem nada.
@@ -1771,9 +1758,7 @@ Por isso a descrição do curso temporal só é possível porque nos apoiamos em
 É análogo o que acontece com o espaço. Quando se diz, por exemplo, que nenhum de dois acontecimentos (mùtuamente exclusivos) tem lugar, porque não há *nenhuma causa* que leve um a realizar-se ao invés do outro, na realidade trata-se apenas da impossibilidade de descrever *um* dentre os dois acontecimentos quando não há uma assimetria qualquer. *Desde que haja* tal assimetria, podemos tomá-la como *causa* do vir-a-ser de um e do não vir-a-ser do outro.
 
 **[6.36111](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.36111)** O problema kantiano da mão direita e da mão esquerda que não se cobrem já surge no plano e até mesmo num espaço unidimensional, onde duas figuras congruentes *a* e *b* não se cobrem a não ser que se movam fora dêsse espaço. A mão esquerda e a direita são de fato perfeitamente congruentes. E nada tem a ver com isso a impossibilidade de fazer com que se cubram.
-
-![TLP 6.36111.png](images/330px-TLP_6.36111.png)\
-
+![](images/330px-TLP_6.36111.png)\
 Seria possível vestir a luva direita na mão esquerda se a girássemos num espaço quadridimensional.
 
 **[6.362](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.362)** O que pode ser descrito pode acontecer e o que a lei da causalidade há de excluir não pode ser descrito.

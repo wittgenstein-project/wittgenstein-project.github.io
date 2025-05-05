@@ -335,7 +335,7 @@ Infatti non è il “pensiero” (un fenomeno concomitante psichico), ma il suo 
 
 Nero e bianco sono già in prima linea quando si tratta di trasparenza dei colori.
 
-Se sostituisci il rosso con il bianco, l’impressione della trasparenza non ha più luogo; così come l’impressione della tridimensionalità non ha più luogo se si sostituisce il disegno ![Bemerkungen ueber die Farben III-24-a.png](images/40px-Bemerkungen_ueber_die_Farben_III-24-a.png)\  con il disegno ![Bemerkungen ueber die Farben III-24-b.png](images/40px-Bemerkungen_ueber_die_Farben_III-24-b.png)\  .
+Se sostituisci il rosso con il bianco, l’impressione della trasparenza non ha più luogo; così come l’impressione della tridimensionalità non ha più luogo se si sostituisce il disegno ![](images/40px-Bemerkungen_ueber_die_Farben_III-24-a.png)\  con il disegno ![](images/40px-Bemerkungen_ueber_die_Farben_III-24-b.png)\  .
 
 27/03
 
@@ -1179,4 +1179,4 @@ Non è lo psicologo a insegnarmi l’uso della parola “vedere”.
 
 *This translation was made possible by the financial support of:*
 
-[](https://www.wikimedia.it/)
+![Logo Wikimedia Italia](images/110px-Wikimedia_Italia-logo.png)\

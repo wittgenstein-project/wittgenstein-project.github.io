@@ -131,7 +131,7 @@ Muß ich annehmen, daß, wer aus der Vorstellung oder Erinnerung etwas zeichnet 
 
 Angenommen, ich hätte mir meinen Vorsatz auf einem Zettel notiert, so hätte ein Andrer meinem Vorsatz dort lesen können. Und kann ich mir denken, daß er ihn auf irgend einem Wege hätte *sicherer* erfahren können, als so? Gewiß nicht.
 
-**37.** (Über einem Musikstück steht, vom Komponisten darübergeschrieben, ![Zettel 37.png](images/6px-Zettel_37.png)\  = 88, aber um es heute richtig zu spielen, muß es ![Zettel 37.png](images/6px-Zettel_37.png)\  = 94 gespielt werden: welches ist *das vom Komponisten gemeinte Tempo*?)
+**37.** (Über einem Musikstück steht, vom Komponisten darübergeschrieben, ![](images/6px-Zettel_37.png)\  = 88, aber um es heute richtig zu spielen, muß es ![](images/6px-Zettel_37.png)\  = 94 gespielt werden: welches ist *das vom Komponisten gemeinte Tempo*?)
 
 **38.** Unterbrich einen Menschen im gänzlich unvorbereiteten und fließenden Reden. Dann frag ihn, was er sagen wollte, und er wird in vielen Fällen den angefangenen Satz fortführen können. – »Dazu mußte ihm schon vorgeschwebt haben, was er sagen wollte.« – Ist nicht vielleicht jenes Phänomen der Grund, warum wir sagen, die Fortsetzung hätte ihm vorgeschwebt?
 
@@ -647,7 +647,7 @@ Man sagt z. B.: »Sieh von diesen Flecken ab und auch von dieser kleinen Unregel
 
 **208.** Überlegen wir uns, was man über ein Phänomen, wie dieses, sagt:
 
-Die Figur ![Zettel 208.png](images/20px-Zettel_208.png)\  einmal als ein F, einmal als das Spiegelbild eines F sehen.
+Die Figur ![](images/20px-Zettel_208.png)\  einmal als ein F, einmal als das Spiegelbild eines F sehen.
 
 Ich will fragen: Worin besteht es, die Figur einmal so, einmal anders sehen? – Sehe ich wirklich jedesmal etwas Anderes? Oder *deute* ich nur, was ich sehe, auf verschiedene Weise? – Ich bin geneigt, das erste zu sagen. Aber warum? Nun, Deuten ist eine Handlung. Es kann z. B. darin bestehen, daß einer sagt »Das *soll* ein F sein«; oder daß er's nicht sagt, aber das Zeichen beim Kopieren durch ein F ersetzt; oder sich überlegt: »Was mag das wohl sein? Es wird ein F sein, das dem Schreiber mißglückt ist.« – Sehen ist keine Handlung, sondern ein Zustand. (Grammatische Bemerkung.) Und wenn ich die Figur nie anders als F gelesen, mir nie überlegt habe, was es wohl sein mag, so wird man sagen, ich *sehe* sie als F; wenn man nämlich weiß, daß es sich auch anders sehen läßt. »Deuten« würde ich es nennen, wenn ich sagte: »Das soll gewiß ein F sein; der Schreiber schreibt alle seine F so.«
 
@@ -771,17 +771,17 @@ Und »wenn ich etwas damit meine« – heißt das etwas *Ähnliches* wie: »wenn
 
 **249.** »Nichts leichter, als sich einen 4-dimensionalen Würfel vorstellen! Er schaut so aus:[^1]
 
-![Zettel 249a (colour).png](images/320px-Zettel_249a_%28colour%29.png)\
+![](images/320px-Zettel_249a_%28colour%29.png)\
 
 «.
 
 Aber das meine ich nicht, ich meine etwas wie
 
-![Zettel 249b (colour).png](images/220px-Zettel_249b_%28colour%29.png)\
+![](images/220px-Zettel_249b_%28colour%29.png)\
 
 nur mit 4 Ausdehnungen! – »Aber ist nicht, was ich dir gezeigt habe, eben etwas wie
 
-![Zettel 249b (colour).png](images/220px-Zettel_249b_%28colour%29.png)\
+![](images/220px-Zettel_249b_%28colour%29.png)\
 
 nur mit 4 Ausdehnungen?« – Nein; das *meine* ich nicht! –– Was aber meine ich? Was ist mein Bild? Nun, der 4-dimensionale Würfel, wie du ihn gezeichnet hast, ist es *nicht*! Ich habe jetzt als Bild nur die *Worte* und die Ablehnung alles dessen, was du mir zeigen kannst.
 
@@ -869,7 +869,7 @@ Im ersten Fall heißt es: ich habe keine weitere Instanz dafür, was ich zu tun 
 
 **281.** Zu sagen, die Punkte, die dieses Experiment liefert, liegen durchschnittlich auf dieser Linie, z. B. einer Geraden, sagt etwas Ähnliches, wie: »Aus dieser Entfernung gesehen, scheinen sie in einer Geraden zu liegen.«
 
-Ich kann von einer Strecke sagen, der allgemeine Eindruck ist der einer Geraden; aber nicht von der Linie ![Zettel 281.png](images/90px-Zettel_281.png)\ ; obwohl es möglich wäre, sie als Stück einer längeren Linie zu sehen, in der sich die Abweichung von der Geraden verlieren würden. Ich kann nicht sagen: »Dies Linienstück schaut gerade aus, denn es kann das Stück einer Linie sein, die mir als Ganzes den Eindruck der Geraden macht.« (Berge auf der Erde und auf dem Mond. Erde eine Kugel.)
+Ich kann von einer Strecke sagen, der allgemeine Eindruck ist der einer Geraden; aber nicht von der Linie ![](images/90px-Zettel_281.png)\ ; obwohl es möglich wäre, sie als Stück einer längeren Linie zu sehen, in der sich die Abweichung von der Geraden verlieren würden. Ich kann nicht sagen: »Dies Linienstück schaut gerade aus, denn es kann das Stück einer Linie sein, die mir als Ganzes den Eindruck der Geraden macht.« (Berge auf der Erde und auf dem Mond. Erde eine Kugel.)
 
 **282.** »Sie gibt mir verantwortungslos dies oder das ein« heißt: ich kann es dich nicht lehren, *wie* ich der Linie folge. Ich setze nicht voraus, daß du ihr folgen wirst wie ich, auch wenn du ihr folgst.
 
@@ -2002,7 +2002,7 @@ Eine Frage – kann man sagen – ist ein Auftrag. Und einen Auftrag verstehen, 
 
 **699.** Denk die Menschen, die mit ›äußerst komplizierten‹ Zahlzeichen rechnen. Diese stellen sich aber dar als Figuren, welche entstehen, wenn man unsere Zahlzeichen aufeinander schreibt.
 
-Sie schreiben z. B. *π* bis zur fünften Stelle so: ![Zettel 699.png](images/70px-Zettel_699.png)\  Wer ihnen zusähe, fände es schwer zu erraten, *was* sie tun. Und sie könnten es vielleicht selbst nicht erklären. Es kann ja dieses Zahlzeichen, in etwas anderer Schrift geschrieben, seine Erscheinung (für uns) zur Unkenntlichkeit ändern. Und was die Leute täten, erschiene uns rein intuitiv.
+Sie schreiben z. B. *π* bis zur fünften Stelle so: ![](images/70px-Zettel_699.png)\  Wer ihnen zusähe, fände es schwer zu erraten, *was* sie tun. Und sie könnten es vielleicht selbst nicht erklären. Es kann ja dieses Zahlzeichen, in etwas anderer Schrift geschrieben, seine Erscheinung (für uns) zur Unkenntlichkeit ändern. Und was die Leute täten, erschiene uns rein intuitiv.
 
 **700.** Warum zählen wir? Hat es sich als praktisch erwiesen? Haben wir unsere Begriffe, z. B. die psychologischen, weil es sich als vorteilhaft erwiesen hat? – Und doch haben wir *gewisse* Begriffe eben deswegen, haben sie deswegen eingeführt.
 

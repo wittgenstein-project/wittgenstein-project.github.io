@@ -37,4 +37,4 @@ Maintenant je vais commencer. Mon sujet, comme vous le savez, est l’Ethique et
 
 *This translation was made possible by the financial support of:*
 
-[](https://www.wikimedia.it/)
+![Logo Wikimedia Italia](images/110px-Wikimedia_Italia-logo.png)\

@@ -133,7 +133,7 @@ Segue-se o fato de que a-b é transitivo que, onde temos a-b-a, o primeiro a tem
 
 Que, quando certa regra é dada, um símbolo *mostra* uma verdade lógica.
 
-![Notes Dictated to G.E. Moore in Norway schema corrected.png](images/300px-Notes_Dictated_to_G.E._Moore_in_Norway_schema_corrected.png)\
+![](images/300px-Notes_Dictated_to_G.E._Moore_in_Norway_schema_corrected.png)\
 
 Esse símbolo pode ser interpretado como uma tautologia ou uma contradição.
 

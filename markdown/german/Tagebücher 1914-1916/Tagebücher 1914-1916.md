@@ -150,7 +150,7 @@ Daraus muß sich (wenn ich nicht blind wäre) sofort das Wesen der Wahrheit erge
 
 Denken wir an hieroglyphische Schriften, bei denen jedes Wort seine Bedeutung darstellt! Denken wir daran, daß auch *wirkliche* Bilder von Sachverhalten *stimmen* und *nicht stimmen* können.
 
-"![Illustrazione 29.9.14.png](images/100px-Illustrazione_29.9.14.png)\ ": Wenn in diesem Bild der rechte Mann den Menschen A vorstellt, und bezeichnet der linke den Menschen B, so könnte etwa das ganze aussagen "A ficht mit B". Der Satz in Bilderschrift kann wahr und falsch sein. Er hat einen Sinn unabhängig von seiner Wahr- oder Falschheit. An ihm muß sich alles Wesentliche demonstrieren lassen.
+"![](images/100px-Illustrazione_29.9.14.png)\ ": Wenn in diesem Bild der rechte Mann den Menschen A vorstellt, und bezeichnet der linke den Menschen B, so könnte etwa das ganze aussagen "A ficht mit B". Der Satz in Bilderschrift kann wahr und falsch sein. Er hat einen Sinn unabhängig von seiner Wahr- oder Falschheit. An ihm muß sich alles Wesentliche demonstrieren lassen.
 
 Man kann sagen, wir haben zwar nicht die Gewißheit, daß wir alle Sachverhalte in Bildern aufs Papier bringen können, wohl aber die Gewißheit, daß wir alle *logischen* Eigenschaften der Sachverhalte in einer zweidimensionalen Schrift abbilden können.
 
@@ -382,7 +382,7 @@ Die Theorie der logischen Abbildung durch die Sprache sagt – ganz allgemein: D
 
 Das was in "\~p" verneint, ist nicht das "\~" vor dem "p" sondern dasjenige, was allen Zeichen, die in dieser Notation mit "\~p" gleichbedeutend sind, gemeinsam ist; also das Gemeinsame von
 
-![Illustrazione 20.10.14 de.png](images/478px-Illustrazione_20.10.14_de.png)\
+![](images/478px-Illustrazione_20.10.14_de.png)\
 
 Scheinsätze sind solche, die, wenn analysiert, das, was sie *sagen* sollten, doch nur wieder *zeigen.*
 
@@ -772,7 +772,7 @@ Bei dieser Arbeit lohnt es sich mehr als bei jeder anderen, Fragen, die man für
 
 Denke an die Darstellung *negativer* Tatsachen, durch Modelle etwa: So und so dürfen zwei Eisenbahnzüge nicht auf den Gleisen stehen. Der Satz, das Bild, das Modell sind – im negativen Sinn – wie ein fester Körper, der die Bewegungsfreiheit der anderen beschränkt, im positiven Sinne, wie der von fester Substanz begrenzte Raum, worin ein Körper Platz hat.
 
-![Illustrazione 14.11.14.png](images/380px-Illustrazione_14.11.14.png)\
+![](images/380px-Illustrazione_14.11.14.png)\
 
 Diese Vorstellung ist *sehr* deutlich und müßte zur Lösung führen.
 
@@ -780,7 +780,7 @@ Diese Vorstellung ist *sehr* deutlich und müßte zur Lösung führen.
 
 Projektion des Bildes auf die Wirklichkeit
 
-![Illustrazione 15.11.14.png](images/380px-Illustrazione_15.11.14.png)\
+![](images/380px-Illustrazione_15.11.14.png)\
 
 \(Maxwell's Methode der mechanischen Modelle.)
 
@@ -1642,7 +1642,7 @@ p ∨ q ∨ \~p ist auch eine Tautologie. –
 
 Es gibt wohl Sätze, die sowohl p als auch \~p *zulassen*, aber *keinen*, den sowohl p als auch \~p *bejaht.*
 
-![Illustrazione 6.6.15.png](images/380px-Illustrazione_6.6.15.png)\
+![](images/380px-Illustrazione_6.6.15.png)\
 
 Die Möglichkeit von. "p ∨ q", wenn "p" gegeben ist, ist eine Möglichkeit nach einer anderen Dimension als die Unmöglichkeit von "\~p".
 
@@ -1718,7 +1718,7 @@ Wir sind also wieder bei der Quantität des Sagens.
 
 Aus allen Sätzen folgt das Gegenteil von "p.\~p", heißt das soviel, daß "p.\~p" nichts sagt? – Nach meiner früheren Regel müßte die Kontradiktion ja mehr sagen als alle anderen Sätze.
 
-![Illustrazione 11.6.15de.png](images/380px-Illustrazione_11.6.15de.png)\
+![](images/380px-Illustrazione_11.6.15de.png)\
 
 Wenn ein vielsagender Satz auch falsch ist, so sollte eben das interessant sein, daß er falsch ist. Es ist befremdend, daß das Negativ eines vielsagenden Satzes gänzlich nichtssagend sein soll.
 
@@ -2380,7 +2380,7 @@ Das Ich tritt in die Philosophie dadurch ein, daß die Welt *meine* Welt ist.
 
 Das Gesichtsfeld hat nämlich nicht etwa eine solche Form:
 
-![Illustrazione 12.8.16.png](images/Illustrazione_12.8.16.png)\
+![](images/Illustrazione_12.8.16.png)\
 
 Das hängt damit zusammen, daß kein Teil unserer Erfahrung a priori ist.
 
@@ -2620,7 +2620,7 @@ Dann wäre es aber denkbar, daß ich etwa darauf käme, daß z. B. dieser Sessel
 
 Ist das möglich?
 
-Bei dem Zeichnen des Vierecks ![Illustrazione 4.11.16.png](images/40px-Illustrazione_4.11.16.png)\  im Spiegel bemerkt man, daß man es nur ausführen kann, wenn man vom Gesichtsbild ganz absieht und nur das Muskelgefühl zu Hilfe nimmt. Also handelt es sich hier doch um zwei ganz verschiedene Willensakte. Der eine bezieht sich auf den Gesichtsteil der Welt, der andere auf den Teil des Muskelgefühls.
+Bei dem Zeichnen des Vierecks ![](images/40px-Illustrazione_4.11.16.png)\  im Spiegel bemerkt man, daß man es nur ausführen kann, wenn man vom Gesichtsbild ganz absieht und nur das Muskelgefühl zu Hilfe nimmt. Also handelt es sich hier doch um zwei ganz verschiedene Willensakte. Der eine bezieht sich auf den Gesichtsteil der Welt, der andere auf den Teil des Muskelgefühls.
 
 Haben wir mehr als erfahrungsmäßige Evidenz, daß es sich in beiden Fällen um die Bewegung desselben Körperteils handelt?
 

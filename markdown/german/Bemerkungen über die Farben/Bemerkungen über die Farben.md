@@ -339,7 +339,7 @@ Denn es ist ja nicht der 'Gedanke' (eine psychische Begleiterscheinung), sondern
 
 Schwarz und Weiß haben bei der Durchsichtigkeit einer Farbe schon ihre Hand im Spiele.
 
-Ersetzt du das Rot durch Weiß, so kommt der Eindruck der Durchsichtigkeit nicht mehr zustande; wie der Eindruck der Körperlichkeit nicht, wenn Du aus der Zeichnung ![Bemerkungen ueber die Farben III-24-a.png](images/40px-Bemerkungen_ueber_die_Farben_III-24-a.png)\  die Zeichnung ![Bemerkungen ueber die Farben III-24-b.png](images/40px-Bemerkungen_ueber_die_Farben_III-24-b.png)\  machtest.
+Ersetzt du das Rot durch Weiß, so kommt der Eindruck der Durchsichtigkeit nicht mehr zustande; wie der Eindruck der Körperlichkeit nicht, wenn Du aus der Zeichnung ![](images/40px-Bemerkungen_ueber_die_Farben_III-24-a.png)\  die Zeichnung ![](images/40px-Bemerkungen_ueber_die_Farben_III-24-b.png)\  machtest.
 
 27.3
 

@@ -129,7 +129,7 @@ Dal fatto che *a*-*b* è transitivo segue che dove abbiamo *a*-*b*-*a* la prima 
 
 Il fatto che, quando viene fornita una certa regola, un simbolo è tautologico *mostra* una verità logica.
 
-![Notes Dictated to G.E. Moore in Norway schema corrected.png](images/300px-Notes_Dictated_to_G.E._Moore_in_Norway_schema_corrected.png)\
+![](images/300px-Notes_Dictated_to_G.E._Moore_in_Norway_schema_corrected.png)\
 
 Questo simbolo potrebbe essere interpretato sia come una tautologia sia come una contraddizione.[^1]
 
@@ -191,11 +191,7 @@ Diversi tipi logici possono non avere assolutamente nulla in comune. Ma il mero 
 
 La relazione tra “io credo *p*” e “*p*” può essere confrontata con la relazione tra “‘*p*’ dice (*besagt*) *p*” e *p*: il fatto che *io* sia un semplice è tanto impossibile quanto il fatto che lo sia “*p*”.
 
-[^1]: *Nota del curatore dell’edizione [Ludwig Wittgenstein Project](https://www.wittgensteinproject.org/w/index.php/Main_Page):* Il diagramma disegnato origariamente da Moore aveva questo aspetto:
-\
-![Notes Dictated to G.E. Moore in Norway schema.png](images/300px-Notes_Dictated_to_G.E._Moore_in_Norway_schema.png)\
-\
-\
+[^1]: *Nota del curatore dell’edizione [Ludwig Wittgenstein Project](https://www.wittgensteinproject.org/w/index.php/Main_Page):* Il diagramma disegnato origariamente da Moore aveva questo aspetto: ![](images/300px-Notes_Dictated_to_G.E._Moore_in_Norway_schema.png)\
 L’equivalente di questo simbolo nella notazione odierna delle tavole di verità (nella quale le combinazioni tra i valori di verità possibili delle singole proposizioni sono mostrate tramite una tabella e per indicare i due poli vengono utilizzati “V” e “F” anziché rispettivamente “a” e “b”) è il seguente:
 \
 \
@@ -224,4 +220,4 @@ Per maggiori dettagli si veda Michael A.R. Biggs, “Editing Wittgenstein’s *N
 
 *This translation was made possible by the financial support of:*
 
-[](https://www.unimi.it/it)
+![Logo Università degli Studi di Milano](images/180px-Logo_Unimi_dark.png)\

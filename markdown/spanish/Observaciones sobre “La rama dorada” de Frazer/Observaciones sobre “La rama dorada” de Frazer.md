@@ -7,7 +7,7 @@ title: Observaciones sobre “La rama dorada” de Frazer
 
 _Published by the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.org/)._
 
-_Traducido por [Alberto Buscató](https://www.wittgensteinproject.org/w/index.php/Project:People#Alberto_Buscat%C3%B3_V%C3%A1zquez)_
+_Traducido por [Alberto Buscató](https://www.wittgensteinproject.org/w/index.php/Project:People#Alberto_Buscató_Vázquez)_
 _Revisado por Santiago María Olabarri Oriol_
 
 _Traducción realizada en base a las siguientes versiones de las *Observaciones sobre “La rama dorada” de Frazer* y de *La rama dorada* de Frazer. Se han incorporado en las citas los fragmentos de este libro recogidos por Miles/Rhees (y no por el propio Wittgenstein), a los que se hace referencia en ciertas ocasiones._

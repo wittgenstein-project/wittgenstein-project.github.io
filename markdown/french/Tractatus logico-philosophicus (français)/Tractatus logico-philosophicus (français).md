@@ -1408,9 +1408,7 @@ Car une âme composée ne serait en effet plus une âme.
 **[5.5423](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.5423)** Percevoir un complexe signifie percevoir que ses éléments sont dans tel ou tel rapport.
 
 Ceci explique bien aussi que l'on puisse voir de deux manières la figure ci-dessous comme un cube ; et de même pour tous les phénomènes analogues. Car nous voyons alors réellement deux faits distincts.
-
-![TLP 5.5423.png](images/250px-TLP_5.5423.png)\
-
+![](images/250px-TLP_5.5423.png)\
 \(Si je regarde tout d'abord les sommets marqués a, et seulement marginalement les sommets marqués b, a paraît être en avant ; et inversement.)
 
 **[5.55](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.55)** Il nous faut maintenant répondre a priori à la question concernant toutes les formes possibles de propositions élémentaires.
@@ -1502,8 +1500,7 @@ Tu réponds qu'il en est ici tout à fait comme de l'œil et du champ visuel. Ma
 Et rien *dans le champ visuel* ne permet de conclure qu'il est vu par un œil.
 
 **[5.6331](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.6331)** Le champ visuel n'a pas en fait une telle forme :
-
-![TLP 5.6331fr.png](images/250px-TLP_5.6331fr.png)\
+![](images/250px-TLP_5.6331fr.png)\
 
 **[5.634](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.634)** Ce qui dépend de ceci, à savoir qu'aucune partie de notre expérience n'est en même temps a priori.
 
@@ -1591,27 +1588,17 @@ Pour que des propositions liées d'une certaine manière engendrent une tautolog
 **[6.1202](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.1202)** Il est clair que l'on pourrait, au lieu des tautologies, employer les contradictions.
 
 **[6.1203](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.1203)** Pour reconnaître une tautologie comme telle, on peut dans les cas où aucun signe de généralisation n'y apparaît, se servir de la méthode intuitive suivante : j'écris, au lieu de « p », « q », « r », etc., « VpF », « VqF », « VrF », etc. J'exprime les combinaisons de vérité au moyen d'accolades, par exemple :
-
-![TLP 6.1203a-it.png](images/300px-TLP_6.1203a-it.png)\
-
+![](images/300px-TLP_6.1203a-it.png)\
 et la correspondance de la vérité ou de la fausseté de la proposition entière, et des combinaisons de vérité de ses arguments de vérité, au moyen de traits de la manière suivante :
-
-![TLP 6.1203b-it.png](images/300px-TLP_6.1203b-it.png)\
-
+![](images/300px-TLP_6.1203b-it.png)\
 Ce signe, par exemple, figurerait donc la proposition p ⊃ q. Supposons maintenant que je veuille vérifier si, par exemple, la proposition \~(p. \~p) (loi de contradiction) est une tautologie.
 
 La forme « \~ξ » sera dans notre notation écrite :
-
-![TLP 6.1203c-it.png](images/200px-TLP_6.1203c-it.png)\
-
+![](images/200px-TLP_6.1203c-it.png)\
 La forme « ξ . η » :
-
-![TLP 6.1203d-it.png](images/300px-TLP_6.1203d-it.png)\
-
+![](images/300px-TLP_6.1203d-it.png)\
 La proposition \~(p.\~q) s'écrira par conséquent :
-
-![TLP 6.1203e-it.png](images/250px-TLP_6.1203e-it.png)\
-
+![](images/250px-TLP_6.1203e-it.png)\
 Remplaçons maintenant « q » par « p » et examinons la connexion des V et F les plus externes avec les internes ; il en résulte que la vérité de la proposition entière correspond à toutes les combinaisons de vérité de son argument, et sa fausseté à aucune[^24].
 
 **[6.121](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.121)** Les propositions de la logique démontrent les propriétés logiques des propositions, en formant par leur connexion des propositions qui ne disent rien.
@@ -1775,9 +1762,7 @@ C'est pourquoi la description du déroulement temporel n'est possible qu'en se f
 Il en va analogiquement tout à fait de même pour l'espace. Quand on dit, par exemple, qu'aucun de deux événements (qui mutuellement s'excluent) ne peut se produire, parce qu'*aucune cause* n'est donnée par laquelle l'un devrait se produire plutôt que l'autre, il est alors question en réalité de ce que l'on ne peut décrire l'un de ces deux événements si quelque asymétrie n'est donnée. Et si une telle asymétrie est donnée, nous pouvons alors la concevoir comme la cause de la production de l'un et de la non-production de l'autre.
 
 **[6.36111](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.36111)** Le problème kantien de la main droite et de la main gauche, que l'on ne peut faire se recouvrir, subsiste déjà dans le plan, et même dans un espace à une dimension
-
-![TLP 6.36111.png](images/330px-TLP_6.36111.png)\
-
+![](images/330px-TLP_6.36111.png)\
 où l'on ne peut pas non plus faire se recouvrir les deux figures congruentes a et b sans les faire sortir de cet espace. Main droite et main gauche sont en fait parfaitement congruentes. Et que l'on ne puisse les faire se recouvrir n'a rien à y voir.
 
 On pourrait enfiler un gant droit de la main gauche, si l'on pouvait le retourner dans un espace à quatre dimensions.
@@ -1933,10 +1918,7 @@ Il additionne en effet les nombres de combinaisons de n propositions (ou états 
 
 [^22]: *Identität*.
 
-[^23]: Cette consigne est trop vague. Une fois q remplacé par p, il faut évidemment veiller à ce que les valeurs de vérité de l'unique proposition p soient les mêmes à gauche et à droite du schéma, qui se réduit alors en effet à :
-\
-![TLP 6.1203footnote-fr.png](images/180px-TLP_6.1203footnote-fr.png)\
-\
+[^23]: Cette consigne est trop vague. Une fois q remplacé par p, il faut évidemment veiller à ce que les valeurs de vérité de l'unique proposition p soient les mêmes à gauche et à droite du schéma, qui se réduit alors en effet à : ![](images/180px-TLP_6.1203footnote-fr.png)\
 
 [^24]: *Sinn*.
 

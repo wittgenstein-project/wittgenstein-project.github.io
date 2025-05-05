@@ -1059,7 +1059,7 @@
 <circle cx="200" cy="1600" r="9.027228533046667" fill="black" stroke="black" stroke-width="6" />
 <circle cx="240" cy="1600" r="7.61334045413685" fill="black" stroke="black" stroke-width="6" />
 <circle cx="280" cy="1600" r="4.71554210343109" fill="none" stroke="black" stroke-width="6" />
-<circle cx="320" cy="1600" r="4.995399088951426" fill="none" stroke="black" stroke-width="6" />
+<circle cx="320" cy="1600" r="4.145072849857057" fill="none" stroke="black" stroke-width="6" />
 <circle cx="360" cy="1600" r="7.9718381986330895" fill="none" stroke="black" stroke-width="6" />
 <circle cx="400" cy="1600" r="7.0691974806378655" fill="none" stroke="black" stroke-width="6" />
 <circle cx="440" cy="1600" r="7.160237598112034" fill="black" stroke="black" stroke-width="6" />
@@ -1107,7 +1107,7 @@
 <circle cx="560" cy="1640" r="7.364838556400003" fill="none" stroke="black" stroke-width="6" />
 <circle cx="600" cy="1640" r="6.782617829177813" fill="none" stroke="black" stroke-width="6" />
 <circle cx="640" cy="1640" r="5.975885964090941" fill="black" stroke="black" stroke-width="6" />
-<circle cx="680" cy="1640" r="4.995399088951426" fill="none" stroke="black" stroke-width="6" />
+<circle cx="680" cy="1640" r="4.145072849857057" fill="none" stroke="black" stroke-width="6" />
 <circle cx="720" cy="1640" r="6.682181650093952" fill="black" stroke="black" stroke-width="6" />
 <circle cx="760" cy="1640" r="4.941212184984572" fill="none" stroke="black" stroke-width="6" />
 <circle cx="800" cy="1640" r="6.016570607238681" fill="none" stroke="black" stroke-width="6" />
@@ -1152,15 +1152,15 @@
 <circle cx="800" cy="1680" r="12.199758293117602" fill="black" stroke="black" stroke-width="6" />
 <circle cx="840" cy="1680" r="7.559433528422382" fill="black" stroke="black" stroke-width="6" />
 <circle cx="880" cy="1680" r="11.291121772059645" fill="black" stroke="black" stroke-width="6" />
-<circle cx="920" cy="1680" r="5.101307998333021" fill="none" stroke="black" stroke-width="6" />
+<circle cx="920" cy="1680" r="4.213499946112177" fill="none" stroke="black" stroke-width="6" />
 <circle cx="960" cy="1680" r="8.368822016814356" fill="none" stroke="black" stroke-width="6" />
-<circle cx="1000" cy="1680" r="5.101307998333021" fill="none" stroke="black" stroke-width="6" />
+<circle cx="1000" cy="1680" r="4.213499946112177" fill="none" stroke="black" stroke-width="6" />
 <circle cx="1040" cy="1680" r="9.697072702923666" fill="none" stroke="black" stroke-width="6" />
-<circle cx="1080" cy="1680" r="5.101307998333021" fill="none" stroke="black" stroke-width="6" />
+<circle cx="1080" cy="1680" r="4.213499946112177" fill="none" stroke="black" stroke-width="6" />
 <circle cx="1120" cy="1680" r="4.280535994091202" fill="none" stroke="black" stroke-width="6" />
-<circle cx="1160" cy="1680" r="5.101307998333021" fill="none" stroke="black" stroke-width="6" />
+<circle cx="1160" cy="1680" r="4.213499946112177" fill="none" stroke="black" stroke-width="6" />
 <circle cx="1200" cy="1680" r="4.535943875661311" fill="none" stroke="black" stroke-width="6" />
-<circle cx="1240" cy="1680" r="5.101307998333021" fill="none" stroke="black" stroke-width="6" />
+<circle cx="1240" cy="1680" r="4.213499946112177" fill="none" stroke="black" stroke-width="6" />
 <circle cx="1280" cy="1680" r="10.583617957328089" fill="none" stroke="black" stroke-width="6" />
 <circle cx="1320" cy="1680" r="7.9718381986330895" fill="black" stroke="black" stroke-width="6" />
 <circle cx="1360" cy="1680" r="9.745835522025052" fill="none" stroke="black" stroke-width="6" />
@@ -1241,7 +1241,7 @@
 <circle cx="1240" cy="1760" r="7.5047936342579336" fill="none" stroke="black" stroke-width="6" />
 <circle cx="1280" cy="1760" r="13.1868406543117" fill="none" stroke="black" stroke-width="6" />
 <circle cx="1320" cy="1760" r="12.32186255227509" fill="black" stroke="black" stroke-width="6" />
-<circle cx="1360" cy="1760" r="5.101307998333021" fill="none" stroke="black" stroke-width="6" />
+<circle cx="1360" cy="1760" r="4.213499946112177" fill="none" stroke="black" stroke-width="6" />
 <circle cx="1400" cy="1760" r="7.5047936342579336" fill="none" stroke="black" stroke-width="6" />
 <circle cx="1440" cy="1760" r="8.413125162579552" fill="black" stroke="black" stroke-width="6" />
 <circle cx="1480" cy="1760" r="8.368822016814356" fill="black" stroke="black" stroke-width="6" />

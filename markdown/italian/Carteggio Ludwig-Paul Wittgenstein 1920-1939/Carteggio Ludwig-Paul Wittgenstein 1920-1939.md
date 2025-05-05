@@ -694,7 +694,7 @@ Wittgenstein, Karl, *Essays in Politico-Economic Writings*, a cura di J.C. Nyiri
 
 *Questa traduzione è stata resa possibile dal supporto finanziario di:*
 
-[](https://www.wikimedia.it/)
+![Logo Wikimedia Italia](images/110px-Wikimedia_Italia-logo.png)\
 
 *Si ringraziano le seguenti persone per aver partecipato alla raccolta fondi che ha reso possibile questa traduzione:*
 
@@ -704,4 +704,4 @@ _Paola Cassis, Tommaso Furlan, Angelo Gallani, Luca Ghirimoldi, Marco Mantovani,
 
 *In collaborazione con:*
 
-[](https://wittgenstein-initiative.com/)
+![Logo Wittgenstein Initiative](images/130px-Wittgenstein_Initiative_Logo.png)\

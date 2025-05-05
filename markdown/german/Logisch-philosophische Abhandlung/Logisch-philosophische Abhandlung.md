@@ -1397,9 +1397,7 @@ Eine zusammengesetzte Seele wäre nämlich keine Seele mehr.
 **5.5423** Einen Komplex wahrnehmen, heisst, wahrnehmen, dass sich seine Bestandteile so und so zu einander verhalten.
 
 Dies erklärt wohl auch, dass man die Figur
-
-![TLP 5.5423.png](images/250px-TLP_5.5423.png)\
-
+![](images/250px-TLP_5.5423.png)\
 auf zweierlei Art als Würfel sehen kann; und alle ähnlichen Erscheinungen. Denn wir sehen eben wirklich zwei verschiedene Tatsachen.
 
 \(Sehe ich erst auf die Ecken *a* und nur flüchtig auf *b*, so erscheint *a* vorne; und umgekehrt.)
@@ -1493,8 +1491,7 @@ Du sagst, es verhält sich hier ganz, wie mit Auge und Gesichtsfeld. Aber das Au
 Und nichts *am Gesichtsfeld* lässt darauf schliessen, dass es von einem Auge gesehen wird.
 
 **5.6331** Das Gesichtsfeld hat nämlich nicht etwa eine solche Form:
-
-![TLP 5.6331.png](images/250px-TLP_5.6331.png)\
+![](images/250px-TLP_5.6331.png)\
 
 **5.634** Das hängt damit zusammen, dass kein Teil unserer Erfahrung auch a priori ist.
 
@@ -1582,25 +1579,15 @@ Damit Sätze, auf bestimmte Art und Weise verknüpft, eine Tautologie ergeben, d
 **6.1202** Es ist klar, dass man zu demselben Zweck statt der Tautologien auch die Kontradiktionen verwenden könnte.
 
 **6.1203** Um eine Tautologie als solche zu erkennen, kann man sich, in den Fällen, in welchen in der Tautologie keine Allgemeinheitsbezeichnung vorkommt, folgender anschaulichen Methode bedienen: Ich schreibe statt „*p*“, „*q*“, „*r*“ etc. „W*p*F“, „W*q*F“, „W*r*F“ etc. Die Wahrheitskombinationen drücke ich durch Klammern aus. z. B.:
-
-![TLP 6.1203a.png](images/250px-TLP_6.1203a.png)\
-
+![](images/250px-TLP_6.1203a.png)\
 und die Zuordnung der Wahr- oder Falschheit des ganzen Satzes und der Wahrheitskombinationen der Wahrheitsargumente durch Striche auf folgende Weise:
-
-![TLP 6.1203b.png](images/250px-TLP_6.1203b.png)\
-
+![](images/250px-TLP_6.1203b.png)\
 Dies Zeichen würde also z. B. den Satz *p* ⊃ *q* darstellen. Nun will ich z. B. den Satz ∼(*p .* ∼*p*) (Gesetz des Widerspruchs) daraufhin untersuchen, ob er eine Tautologie ist. Die Form „∼*ξ*“ wird in unserer Notation
-
-![TLP 6.1203c.png](images/120px-TLP_6.1203c.png)\
-
+![](images/120px-TLP_6.1203c.png)\
 geschrieben; die Form „*ξ . η*“ so:
-
-![TLP 6.1203d.png](images/250px-TLP_6.1203d.png)\
-
+![](images/250px-TLP_6.1203d.png)\
 Daher lautet der Satz ∼(*p .* ∼*q*) so:
-
-![TLP 6.1203e.png](images/200px-TLP_6.1203e.png)\
-
+![](images/200px-TLP_6.1203e.png)\
 Setzen wir hier statt „*q*“ „*p*“ ein und untersuchen die Verbindung der äussersten W und F mit den innersten, so ergibt sich, dass die Wahrheit des ganzen Satzes *allen* Wahrheitskombinationen seines Argumentes, seine Falschheit keiner der Wahrheitskombinationen zugeordnet ist.
 
 **6.121** Die Sätze der Logik demonstrieren die logischen Eigenschaften der Sätze, indem sie sie zu nichtssagenden Sätzen verbinden.
@@ -1760,9 +1747,7 @@ Daher ist die Beschreibung des zeitlichen Verlaufs nur so möglich, dass wir uns
 Ganz Analoges gilt für den Raum. Wo man z. B. sagt, es könne keines von zwei Ereignissen (die sich gegenseitig ausschliessen) eintreten, weil *keine Ursache* vorhanden sei, warum das eine eher als das andere eintreten solle, da handelt es sich in Wirklichkeit darum, dass man gar nicht *eines* der beiden Ereignisse beschreiben kann, wenn nicht irgend eine Asymmetrie vorhanden ist. Und *wenn* eine solche Asymmetrie vorhanden *ist*, so können wir diese als *Ursache* des Eintreffens des einen und Nicht-Eintreffens des anderen auffassen.
 
 **6.36111** Das Kant’sche Problem von der rechten und linken Hand, die man nicht zur Deckung bringen kann, besteht schon in der Ebene, ja im eindimensionalen Raum, wo die beiden kongruenten Figuren *a* und *b* auch nicht zur Deckung gebracht werden können, ohne aus diesem Raum herausbewegt zu werden. Rechte und linke Hand sind tatsächlich vollkommen kongruent. Und dass man sie nicht zur Deckung bringen kann, hat damit nichts zu tun.
-
-![TLP 6.36111.png](images/330px-TLP_6.36111.png)\
-
+![](images/330px-TLP_6.36111.png)\
 Den rechten Handschuh könnte man an die linke Hand ziehen, wenn man ihn im vierdimensionalen Raum umdrehen könnte.
 
 **6.362** Was sich beschreiben lässt, das kann auch geschehen, und was das Kausalitätsgesetz ausschliessen soll, das lässt sich auch nicht beschreiben.

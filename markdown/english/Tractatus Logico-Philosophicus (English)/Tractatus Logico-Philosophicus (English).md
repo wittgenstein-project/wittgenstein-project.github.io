@@ -1403,9 +1403,7 @@ A composite soul would not be a soul any longer.
 **[5.5423](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.5423)** To perceive a complex means to perceive that its constituents are combined in such and such a way.
 
 This perhaps explains that the figure
-
-![TLP 5.5423.png](images/250px-TLP_5.5423.png)\
-
+![](images/250px-TLP_5.5423.png)\
 can be seen in two ways as a cube; and all similar phenomena. For we really see two different facts.
 
 \(If I fix my eyes first on the corners *a* and only glance at *b*, *a* appears in front and *b* behind, and vice versa.)
@@ -1501,8 +1499,7 @@ You say that this case is altogether like that of the eye and the field of sight
 And from nothing *in the field of sight* can it be concluded that it is seen from an eye.
 
 **[5.6331](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.6331)** For the field of sight has not a form like this:
-
-![TLP 5.6331en.png](images/250px-TLP_5.6331en.png)\
+![](images/250px-TLP_5.6331en.png)\
 
 **[5.634](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.634)** This is connected with the fact that no part of our experience is also a priori.
 
@@ -1590,25 +1587,15 @@ In order that propositions connected together in a definite way may give a tauto
 **[6.1202](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.1202)** It is clear that we could have used for this purpose contradictions instead of tautologies.
 
 **[6.1203](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.1203)** In order to recognize a tautology as such, we can, in cases in which no sign of generality occurs in the tautology, make use of the following intuitive method: I write instead of “*p*”, “*q*”, “*r*”, etc., “*T p F*”, “*T q F*”, “*T r F*”, etc. The truth-combinations I express by brackets, *e.g.*:
-
-![TLP 6.1203a-en.png](images/300px-TLP_6.1203a-en.png)\
-
+![](images/300px-TLP_6.1203a-en.png)\
 and the co-ordination of the truth or falsity of the whole proposition with the truth-combinations of the truth-arguments by lines in the following way:
-
-![TLP 6.1203b-en.png](images/300px-TLP_6.1203b-en.png)\
-
+![](images/300px-TLP_6.1203b-en.png)\
 This sign, for example, would therefore present the proposition “*p* ⊃ *q*”. Now I will proceed to inquire whether such a proposition as \~(*p* . \~*p*) (The Law of Contradiction) is a tautology. The form “\~*ξ*” is written in our notation
-
-![TLP 6.1203c-en.png](images/250px-TLP_6.1203c-en.png)\
-
+![](images/250px-TLP_6.1203c-en.png)\
 the form “*ξ* . *η*” thus:—
-
-![TLP 6.1203d-en.png](images/300px-TLP_6.1203d-en.png)\
-
+![](images/300px-TLP_6.1203d-en.png)\
 Hence the proposition \~(*p* . \~*q*) runs thus:—
-
-![TLP 6.1203e-en.png](images/250px-TLP_6.1203e-en.png)\
-
+![](images/250px-TLP_6.1203e-en.png)\
 If here we put “*p*” instead of “*q*” and examine the combination of the outermost T and F with the innermost, it is seen that the truth of the whole proposition is co-ordinated with *all* the truth-combinations of its argument, its falsity with none of the truth-combinations.
 
 **[6.121](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.121)** The propositions of logic demonstrate the logical properties of propositions, by combining them into propositions which say nothing.
@@ -1772,9 +1759,7 @@ Hence the description of the temporal sequence of events is only possible if we 
 It is exactly analogous for space. When, for example, we say that neither of two events (which mutually exclude one another) can occur, because there is *no cause* why the one should occur rather than the other, it is really a matter of our being unable to describe *one* of the two events unless there is some sort of asymmetry. And if there *is* such an asymmetry, we can regard this as the *cause* of the occurrence of the one and of the non-occurrence of the other.
 
 **[6.36111](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.36111)** The Kantian problem of the right and left hand which cannot be made to cover one another already exists in the plane, and even in one-dimensional space; where the two congruent figures *a* and *b* cannot be made to cover one another without moving them out of this space. The right and left hand are in fact completely congruent. And the fact that they cannot be made to cover one another has nothing to do with it.
-
-![TLP 6.36111.png](images/330px-TLP_6.36111.png)\
-
+![](images/330px-TLP_6.36111.png)\
 A right-hand glove could be put on a left hand if it could be turned round in four-dimensional space.
 
 **[6.362](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.362)** What can be described can happen too, and what is excluded by the law of causality cannot be described.

@@ -23,4 +23,4 @@ Bineînțeles, citirea acestei descrieri ar putea să ne provoace durere, mânie
 
 *This translation was made possible by the financial support of:*
 
-[](https://www.wikimedia.it/)
+![Logo Wikimedia Italia](images/110px-Wikimedia_Italia-logo.png)\

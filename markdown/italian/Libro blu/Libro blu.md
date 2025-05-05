@@ -294,9 +294,7 @@ Supponi che dicessimo: «Il fatto che un’immagine sia il ritratto di un partic
 Ora potremmo dire che, quando diamo a qualcuno un ordine mostrandogli una freccia, e non lo facciamo «automaticamente», *intendiamo* sempre la freccia in un modo o nell’altro. E questo processo di intendere, di qualunque tipo sia, può essere rappresentato da un’altra freccia (che indica nella stessa direzione della prima o in quella opposta). In questa raffigurazione che ci siamo fatti di «intendere e dire» è essenziale che immaginiamo i processi di dire e di intendere come se avessero luogo in due sfere diverse.
 
 È allora corretto dire che nessuna freccia potrebbe essere il significato, poiché ogni freccia potrebbe essere intesa in senso opposto? – Supponi che scriviamo lo schema di dire e di intendere con una colonna di frecce una sotto l’altra.
-
-![Ts-309,54.png](images/250px-Ts-309%2C54.png)\
-
+![](images/250px-Ts-309%2C54.png)\
 Se allora questo schema deve servire in qualche modo al nostro scopo, bisogna che ci mostri quale dei tre livelli è il livello del significato. Posso, per esempio, fare uno schema a tre livelli, dove quello più basso è sempre il livello del significato. Adotta pure qualunque modello o schema ti aggradi, esso avrà comunque un livello più basso, riguardo al quale non potrà esserci nulla di simile a un’interpretazione. Dire in questo caso che ogni freccia può ancora essere interpretata significherebbe soltanto che *potrei* sempre costruire un modello diverso di dire e di intendere che contenesse un livello in più rispetto a quello di cui mi sto servendo.
 
 Mettiamola in questo modo: – ciò che si vuole dire è: «Ogni segno è passibile d’interpretazione; ma il *significato* non può essere passibile d’interpretazione. È l’ultima interpretazione». Ora presumo che tu consideri il significato un processo che accompagna il dire e che sia traducibile in, e in tal misura equivalente a, un segno ulteriore. Devi perciò ancora spiegarmi quale ritieni sia il marchio di distinzione tra *un segno* e *il significato*. Se lo fai, per esempio, dicendo che il significato è la freccia che *immagini* – in quanto contrapposta a qualunque altra freccia che tu possa disegnare o produrre in qualsiasi altra maniera – così facendo affermi che non considererai alcuna freccia ulteriore un’interpretazione di quella che hai immaginato.
@@ -478,9 +476,7 @@ Quando dico «solo questo viene visto», dimentico che una frase può suonarci a
 La parola «io» non significa lo stesso di «L.W.» neanche se io sono L.W., né ha lo stesso significato dell’espressione «la persona che ora sta parlando». Ciò però non significa: «L.W.» e «io» significano cose diverse. Significa soltanto che queste parole sono strumenti diversi nel nostro linguaggio. Pensa alle parole come a strumenti caratterizzati dal loro uso e poi pensa all’uso di un martello, all’uso di un cesello, all’uso di una squadra, di un barattolo per la colla e della colla. (Inoltre, tutto ciò che diciamo qui può essere compreso solo se comprendi che una gran varietà di giochi è giocata con le frasi del  nostro linguaggio: dare ed eseguire ordini; porre domande e rispondervi; descrivere un evento; raccontare una storia inventata; fare una battuta; descrivere un’esperienza immediata; fare congetture su eventi nel mondo fisico; costruire ipotesi scientifiche e teorie; salutare qualcuno, ecc. ecc.) La bocca che dice «io» o la mano che si solleva a indicare che sono io che desidero parlare, o io che ho mal di denti, non indica nulla di per sé. Se, invece, desidero indicare il *luogo* del mio dolore, indico. Qui, di nuovo, rammenta la differenza tra l’atto d’indicare il punto dolente senza venir guidato dall’occhio e l’atto d’indicare invece la cicatrice sul mio corpo dopo averla cercata. («È qui che mi hanno vaccinato».) – L’uomo che grida di dolore, o che dice di avere dolore, *non sceglie la bocca che lo dice*.
 
 Tutto ciò si riduce al dire che la persona di cui diciamo «ha dolore» è, secondo le regole del gioco, la persona che urla, contorce il viso, ecc. Il luogo del dolore – come abbiamo detto – può essere nel corpo di un’altra persona. Se, nel dire «io», indico il mio corpo, modello l’uso della parola «io» su quello del dimostrativo «questa persona» o «lui». (Questo modo di rendere simili le due espressioni è in qualche modo analogo a quello che si adotta a volte nella matematica, per esempio nella prova che la somma dei tre angoli di un triangolo è di 180°.
-
-![Ts-309,114.png](images/300px-Ts-309%2C114.png)\
-
+![](images/300px-Ts-309%2C114.png)\
 Diciamo che «α = α'», «β = β'» e «γ = γ». Le prime due uguaglianze sono di un tipo completamente  diverso rispetto alla terza.) In «io ho dolore», «io» non è un pronome dimostrativo.
 
 Confronta i due casi: 1. «Come sai che *lui* ha dei dolori?» – «Perché lo sento gemere». 2. «Come sai che tu hai dei dolori?» – «Perché li *sento*». Ma «li sento» significa lo stesso di «li ho». Quindi questa non era affatto una spiegazione. Il fatto che, comunque, nella mia risposta io sia portato a sottolineare la parola «sentire» e non la parola «io» indica che non desidero scegliere una persona (tra altre persone).
@@ -521,4 +517,4 @@ Il nucleo della nostra proposizione, secondo cui ciò che ha dolore o vede o pen
 
 *This translation was made possible by the financial support of:*
 
-[](https://www.unimi.it/it)
+![Logo Università degli Studi di Milano](images/180px-Logo_Unimi_dark.png)\

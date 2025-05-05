@@ -1413,9 +1413,7 @@ Un'anima composita non sarebbe infatti più un'anima.
 **[5.5423](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.5423)** Percepire un complesso vuol dire percepire che le sue parti costitutive stanno in relazione le une con le altre in questo e questo modo.
 
 Questo spiega bene anche come la figura
-
-![TLP 5.5423.png](images/250px-TLP_5.5423.png)\
-
+![](images/250px-TLP_5.5423.png)\
 possa essere vista come cubo in due modi; e [spiega bene anche] tutti i fenomeni simili. Poiché vediamo davvero due fatti diversi.
 
 \(Se bado prima ai vertici *a* e solo di sfuggita ai *b*, gli *a* appaiono davanti; e viceversa.)
@@ -1505,8 +1503,7 @@ Che il mondo è il *mio* mondo si mostra nel significare i limiti *del* linguagg
 E niente *nel campo visivo* permette di concludere che esso viene visto da un occhio.
 
 **[5.6331](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.6331)** Il campo visivo, cioè, non ha una forma come questa:
-
-![TLP 5.6331it.png](images/250px-TLP_5.6331it.png)\
+![](images/250px-TLP_5.6331it.png)\
 
 **[5.634](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.634)** Ciò è connesso con il fatto che nessuna parte della nostra esperienza è al contempo a priori.
 
@@ -1594,25 +1591,15 @@ Affinché proposizioni legate in modo determinato diano una tautologia, esse dev
 **[6.1202](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.1202)** È chiaro che per lo stesso scopo si potrebbero impiegare, anziché le tautologie, anche le contraddizioni.
 
 **[6.1203](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.1203)** Per riconoscere una tautologia come tale, nei casi in cui nella tautologia non compare alcuna designazione di generalità ci si può servire del seguente metodo grafico: scrivo anziché «*p*», «*q*», «*r*» ecc. «V *p* F», «V *q* F», «V *r* F» ecc. Esprimo le combinazioni di verità mediante parentesi, ad es.:
-
-![TLP 6.1203a-it.png](images/300px-TLP_6.1203a-it.png)\
-
+![](images/300px-TLP_6.1203a-it.png)\
 ed esprimo la correlazione tra la verità o falsità dell'intera proposizione e le combinazioni di verità degli argomenti di verità mediante linee nel modo seguente:
-
-![TLP 6.1203b-it.png](images/300px-TLP_6.1203b-it.png)\
-
+![](images/300px-TLP_6.1203b-it.png)\
 Questo segno presenterebbe dunque ad es. la proposizione *p* ⊃ *q*. Ora voglio ad es. controllare se la proposizione \~(*p* . \~*p*) (principio di non contraddizione) è una tautologia. La forma «\~ ξ» viene scritta, nella nostra notazione,
-
-![TLP 6.1203c-it.png](images/200px-TLP_6.1203c-it.png)\
-
+![](images/200px-TLP_6.1203c-it.png)\
 la forma «ξ . η» così:
-
-![TLP 6.1203d-it.png](images/300px-TLP_6.1203d-it.png)\
-
+![](images/300px-TLP_6.1203d-it.png)\
 Perciò la proposizione \~(*p* . \~*q*) ha questo aspetto:
-
-![TLP 6.1203e-it.png](images/250px-TLP_6.1203e-it.png)\
-
+![](images/250px-TLP_6.1203e-it.png)\
 Se inseriamo qui «*p*» al posto di «*q*» e controlliamo il collegamento delle V e F più esterne con le più interne, risulta che la verità dell'intera proposizione è associata a *tutte* le combinazioni di verità del suo argomento, la sua falsità a nessuna delle combinazioni di verità.
 
 **[6.121](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.121)** Le proposizioni della logica dimostrano le proprietà logiche delle proposizioni collegandole a formare proposizioni che non dicono nulla.
@@ -1776,9 +1763,7 @@ Perciò la descrizione del passare del tempo è possibile solo se ci appoggiamo 
 Per lo spazio vale qualcosa di perfettamente analogo. Dove ad es. si dice che non può accadere nessuno di due eventi (che si escludono a vicenda) perché *non* esiste una *causa* per cui dovrebbe accadere l'uno piuttosto che l'altro, là si tratta in realtà di questo: che non si può affatto descrivere *uno* dei due eventi se non esiste una qualche asimmetria. E *se* una tale asimmetria *esiste*, allora possiamo concepirla come *causa* dell'accadere dell'uno e del non-accadere dell'altro.
 
 **[6.36111](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.36111)** Il problema kantiano della mano destra e sinistra che non si possono sovrapporre sussiste già nel piano, anzi già nello spazio unidimensionale, dove anche le due figure congruenti *a* e *b* non possono essere sovrapposte senza essere tirate fuori da questo spazio.
-
-![TLP 6.36111.png](images/330px-TLP_6.36111.png)\
-
+![](images/330px-TLP_6.36111.png)\
 La mano destra e sinistra sono di fatto perfettamente congruenti. E che non si possa sovrapporle non ha con ciò niente a che fare.
 
 Si potrebbe indossare il guanto destro sulla mano sinistra se si potesse rivoltarlo nello spazio quadridimensionale.

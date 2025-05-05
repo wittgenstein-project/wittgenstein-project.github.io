@@ -7,7 +7,7 @@ title: Tratado lógico-filosófico
 
 _Published by the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.org/)._
 
-_Traducción: [Alberto Buscató](https://www.wittgensteinproject.org/w/index.php/Project:People#Alberto_Buscat%C3%B3_V%C3%A1zquez)_
+_Traducción: [Alberto Buscató](https://www.wittgensteinproject.org/w/index.php/Project:People#Alberto_Buscató_Vázquez)_
 
 _*Nota a la traducción*_
 
@@ -1400,9 +1400,7 @@ Un alma compuesta dejaría de ser, ciertamente, un alma.
 **[5.5423](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.5423)** Percibir un complejo significa percibir que sus partes constitutivas se comportan entre sí así y así.
 
 Esto aclara también, que la figura
-
-![TLP 5.5423.png](images/250px-TLP_5.5423.png)\
-
+![](images/250px-TLP_5.5423.png)\
 puede verse de dos formas como cubos; todos los fenómenos similares. Pues vemos realmente dos hechos distintos.
 
 \(Yo veo primero las esquinas *a* y solo fugazmente *b*, entonces aparece *a* delante, y viceversa).
@@ -1496,8 +1494,7 @@ Tú dices, esto se comporta aquí totalmente igual como con [el] ojo y [el] camp
 Y no se puede concluir nada *en el campo visual* que sea visto por un ojo.
 
 **[5.6331](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.6331)** Es decir, el campo visual no tiene, por así decirlo, tal forma:
-
-![TLP 5.6331es.png](images/250px-TLP_5.6331es.png)\
+![](images/250px-TLP_5.6331es.png)\
 
 **[5.634](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.634)** Eso está relacionado con que tampoco ninguna parte de nuestra experiencia es *a priori*.
 
@@ -1587,25 +1584,15 @@ Para que proposiciones enlazadas de una manera determinada den como resultado un
 **[6.1202](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.1202)** Está claro que se podría utilizar para el mismo fin, en lugar de las tautologías, también las contradicciones.
 
 **[6.1203](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.1203)** Para reconocer una tautología como tal, puede uno servirse del siguiente método demostrativo, en los casos en los cuales no ocurre ninguna designación de la generalidad en la tautología: escribo, en lugar de «*p*», «*q*», «*r*», etc. «V*p*F», «V*q*F», «V*r*F», etc. Las combinaciones de verdad las expreso mediante paréntesis, por ejemplo:
-
-![TLP 6.1203a-it.png](images/250px-TLP_6.1203a-it.png)\
-
+![](images/250px-TLP_6.1203a-it.png)\
 y la asignación de la verdad o la falsedad de toda la proposición y de las combinaciones de verdad de los argumentos de verdad mediante barras de la siguiente manera:
-
-![TLP 6.1203b-it.png](images/250px-TLP_6.1203b-it.png)\
-
+![](images/250px-TLP_6.1203b-it.png)\
 Por lo tanto, este signo representaría, por ejemplo, la proposición *p* ⊃ *q*. Ahora quiero investigar, por ejemplo, la proposición \~(*p* . \~*p*) (ley de la contradicción), si es una tautología. La forma «\~*ξ*» es escrita en nuestra notación:
-
-![TLP 6.1203c-it.png](images/120px-TLP_6.1203c-it.png)\
-
+![](images/120px-TLP_6.1203c-it.png)\
 la forma «*ξ* . *η*» así:
-
-![TLP 6.1203d-it.png](images/250px-TLP_6.1203d-it.png)\
-
+![](images/250px-TLP_6.1203d-it.png)\
 Por lo tanto, la proposición \~(*p* . \~*q*) reza así:
-
-![TLP 6.1203e-it.png](images/200px-TLP_6.1203e-it.png)\
-
+![](images/200px-TLP_6.1203e-it.png)\
 Si colocamos aquí, en lugar de «*q*» «*p*», e investigamos la conexión de los V y F más externos con los más internos, entonces resulta que la verdad de la proposición al completo está relacionada con *todas* las combinaciones de su argumento; su falsedad, con ninguna de sus combinaciones de verdad.
 
 **[6.121](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.121)** Las proposiciones de la lógica demuestran las cualidades lógicas de las proposiciones, en tanto que las conectan a proposiciones que no dicen nada [*nichtssagende*].
@@ -1765,9 +1752,7 @@ Por lo tanto, la descripción del curso temporal es solo posible al apoyarnos en
 Lo completamente análogo es válido para el espacio. Donde uno, por ejemplo, dice, no podría darse ninguno de los dos eventos (que se excluyen mutuamente), porque no hay *ninguna causa* disponible por la que el uno deba ocurrir antes que el otro, dado que se trata en realidad de que no se puede en absoluto describir *uno* de ambos eventos cuando no está disponible algún tipo de asimetría. Y *cuando está* disponible tal asimetría, entonces podemos interpretarla como *causa* de la ocurrencia del uno y la no ocurrencia del otro.
 
 **[6.36111](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.36111)** El problema kantiano de la mano derecha e izquierda, que no se pueden superponer, reside ya en plano, ya en el espacio unidimensional donde ambas figuras congruentes *a* y *b* tampoco pueden ser superpuestas, sin salirse de este espacio. Mano derecha e izquierda son de hecho completamente congruentes. Y que no se puedan superponer, no tiene nada que ver con eso.
-
-![TLP 6.36111.png](images/330px-TLP_6.36111.png)\
-
+![](images/330px-TLP_6.36111.png)\
 El guante derecho se podría poner en la mano izquierda si se le pudiera girar en el espacio tetradimensional.
 
 **[6.362](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.362)** Lo que se puede describir, eso puede también ocurrir, y lo que la ley de la causalidad debe excluir, eso tampoco se puede describir.

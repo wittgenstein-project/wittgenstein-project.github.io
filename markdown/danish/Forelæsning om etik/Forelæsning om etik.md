@@ -33,4 +33,4 @@ Jeg vil nu gerne få jer til at forstå, at et bestemt karakteristisk misbrug af
 
 *This translation was made possible by the financial support of:*
 
-[](https://www.wikimedia.it/)
+![Logo Wikimedia Italia](images/110px-Wikimedia_Italia-logo.png)\
