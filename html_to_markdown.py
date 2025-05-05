@@ -53,6 +53,7 @@ def parse_html(state, parsed, image_urls, elem, escape_newlines=False):
             title = elem.text
             href = elem["href"]
             parsed[-1] += f"[{title}]({href})"
+
         # elif elem.name == "img":          ## version == 1.39
         #     alt = elem["alt"]
         #     # if elem.get("class") == ["mwe-math-fallback-image-inline"]:
@@ -71,7 +72,7 @@ def parse_html(state, parsed, image_urls, elem, escape_newlines=False):
         elif elem.name == "figure":         ## version == 1.43, update 05/05/2025
             img = elem.find("img")
             if not img:
-                return  
+                return
             src = img.get("src")
             alt = img.get("alt", "")
             if src:
@@ -82,7 +83,23 @@ def parse_html(state, parsed, image_urls, elem, escape_newlines=False):
                 elif "/thumb/" in src:
                     file_name = file_name
                 parsed[-1] += f"![{alt}](images/{file_name})\\ "
-
+            
+        elif elem.name == "span" and elem.get("typeof") == "mw:File":         ## version == 1.43, zettle support, update 05/05/2025
+            img = elem.find("img")
+            if not img:
+                return
+            src = img.get("src")
+            alt = img.get("alt", "")
+            if src:
+                image_urls.append(src)
+                file_name = os.path.basename(src.split("?")[0])
+                if "/svg/" in src and not file_name.endswith(".svg"):
+                    file_name += ".svg"
+                elif "/thumb/" in src:
+                    file_name = file_name
+                if not parsed:
+                    parsed.append("")
+                parsed[-1] += f"![{alt}](images/{file_name})\\ "
         
         elif elem.name == 'span' and elem.get('class') == ["smj-container"]:
             # deal with the latex when mathoid -> mathjax
@@ -98,7 +115,6 @@ def parse_html(state, parsed, image_urls, elem, escape_newlines=False):
             math_content = math_content.replace(r"\displaystyle", "")
             parsed[-1] += f"![{math_content}](images/{file_name})\\ "  
             
-
         elif elem.name == "span" and not elem.get("class") and elem.get("style") == "text-decoration-line: underline; text-decoration-style: dashed;":
             # wavy underline, will be treated as normal text here
             parsed[-1] += elem.text
