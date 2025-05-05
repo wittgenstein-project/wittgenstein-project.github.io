@@ -52,20 +52,36 @@ def parse_html(state, parsed, image_urls, elem, escape_newlines=False):
             title = elem.text
             href = elem["href"]
             parsed[-1] += f"[{title}]({href})"
-        elif elem.name == "img":        ## TODO
-            alt = elem["alt"]
-            # if elem.get("class") == ["mwe-math-fallback-image-inline"]:
-            #    parsed[-1] += f"${alt}$"
-            # else:
-            src = elem["src"]
-            image_urls.append(src)
-            file_name = os.path.basename(src)
-            if "/svg/" in src and not src.endswith(".svg"):
-                file_name += ".svg"
-            elif "/thumb/" in src:
-                file_name = file_name
-            # add the non-breaking space "\ " to suppress the caption
-            parsed[-1] += f"![{alt}](images/{file_name})\\ "
+        # elif elem.name == "img":          ## version == 1.39
+        #     alt = elem["alt"]
+        #     # if elem.get("class") == ["mwe-math-fallback-image-inline"]:
+        #     #    parsed[-1] += f"${alt}$"
+        #     # else:
+        #     src = elem["src"]
+        #     image_urls.append(src)
+        #     file_name = os.path.basename(src)
+        #     if "/svg/" in src and not src.endswith(".svg"):
+        #         file_name += ".svg"
+        #     elif "/thumb/" in src:
+        #         file_name = file_name
+        #     # add the non-breaking space "\ " to suppress the caption
+        #     parsed[-1] += f"![{alt}](images/{file_name})\\ "
+
+        elif elem.name == "figure":         ## version == 1.43, update 05/05/2025
+            img = elem.find("img")
+            if not img:
+                return  
+            src = img.get("src")
+            alt = img.get("alt", "")
+            if src:
+                image_urls.append(src)
+                file_name = os.path.basename(src.split("?")[0])
+                if "/svg/" in src and not file_name.endswith(".svg"):
+                    file_name += ".svg"
+                elif "/thumb/" in src:
+                    file_name = file_name
+                parsed[-1] += f"![{alt}](images/{file_name})\\ "
+
         
         elif elem.name == 'span' and elem.get('class') == ["smj-container"]:
             # deal with the latex when mathoid -> mathjax
@@ -442,7 +458,6 @@ _Published by the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.
 
 
 all_texts_page = requests.get(
-    # "https://www.wittgensteinproject.org/w/index.php?title=Project:All_texts&action=render").content
     "https://www.wittgensteinproject.org/w/index.php/Project:All_texts?action=render").content
 all_texts = BeautifulSoup(all_texts_page, features="html.parser")
 
@@ -514,6 +529,7 @@ for (language, texts) in all_languages.items():
                     file_name += ".svg"
                 elif "/thumb/" in image_url:
                     file_name = file_name
+                    print(file_name)
                 path_to_image_file = os.path.join(
                     path_to_doc_images_dir, file_name)
                 if not os.path.exists(path_to_image_file):
@@ -522,7 +538,6 @@ for (language, texts) in all_languages.items():
                     with open(path_to_image_file, 'wb') as file:
                         file.write(img)
                     time.sleep(SECONDS_BETWEEN_IMG_REQUESTS)
-            
             
         time.sleep(SECONDS_BETWEEN_DOC_REQUESTS)
 
