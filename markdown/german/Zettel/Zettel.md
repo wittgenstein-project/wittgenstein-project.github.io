@@ -903,7 +903,7 @@ Es war doch z. B. möglich, daß ich nicht voraussah, daß eine quadratische Gle
 
 Die Regel führt mich also zu etwas, wovon ich sage: »Dieses Bild hatte ich nicht erwartet; ich stellte mir eine Lösung immer *so* vor: ......«
 
-**294.** Im einen Fall machen wir den Zug eines bestehenden Spiels, im andern setzen wir eine Spielregel fest. Man könnte auch das Zichen mit einer Spielfigur auf diese beiden Arten auffassen: als Paradigma für künftige Züge, und als Zug einer Partie.
+**294.** Im einen Fall machen wir den Zug eines bestehenden Spiels, im andern setzen wir eine Spielregel fest. Man könnte auch das Ziehen mit einer Spielfigur auf diese beiden Arten auffassen: als Paradigma für künftige Züge, und als Zug einer Partie.
 
 **295.** Du mußt bedenken, daß es ein Sprachspiel geben kann, ›eine Reihe von Ziffern fortsetzen‹, in dem keine Regel, kein Regelausdruck je gegeben wird, sondern das Lernen nur durch Beispiele geschieht. So daß die Idee, jeder Schritt sei durch ein Etwas – eine Art Vorbild – in unserm Geiste zu rechtfertigen, diesen Leuten gänzlich fremd wäre.
 
