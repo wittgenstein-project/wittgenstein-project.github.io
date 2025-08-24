@@ -496,7 +496,7 @@ All das kann aber erst dann im rechten Licht erscheinen, wenn man über die Begr
 
 **83.** Steckt uns da nicht die Analogie der Sprache mit dem Spiel ein Licht auf? Wir können uns doch sehr wohl denken, daß sich Menschen auf einer Wiese damit unterhielten, mit einem Ball zu spielen, so zwar, daß sie verschiedene bestehende Spiele anfingen, manche nicht zu Ende spielten, dazwischen den Ball planlos in die Höhe würfen, einander im Scherz mit dem Ball nachjagen und bewerfen, etc. Und nun sagt Einer: Die ganze Zeit hindurch spielen die Leute ein Ballspiel, und richten sich daher bei jedem Wurf nach bestimmten Regeln.
 
-Und gibt es nicht auch den Fall, wo wir spielen und – ›make up the rules as we go along‹? Ja auch den, in welchem wir sie abandern – as we go along.
+Und gibt es nicht auch den Fall, wo wir spielen und – ›make up the rules as we go along‹? Ja auch den, in welchem wir sie abändern – as we go along.
 
 **84.** Ich sagte von der Anwendung eines Wortes: sie sei nicht überall von Regeln begrenzt. Aber wie schaut denn ein Spiel aus, das überall von Regeln begrenzt ist? dessen Regeln keinen Zweifel eindringen lassen; ihm alle Löcher verstopfen. – Können wir uns nicht eine Regel denken, die die Anwendung der Regel regelt? Und einen Zweifel, den *jene* Regel behebt – und so fort?
 

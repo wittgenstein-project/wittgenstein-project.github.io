@@ -743,7 +743,7 @@ Nun sagt man: »Freilich intendiert das Bild nicht, sondern wir müssen mit ihm 
 
 **240.** Das Bild war der Schlüssel. Oder es *erschien* doch als Schlüssel.
 
-**241.** Denken wir uns eine Bildergeschichte in schematischen Bildern, also ähnlicher der Erzählung in einer Sprache, als eine Folge realistischer Bilder. Man könnte in so einer Bildersprache etwa insbesondere den Gang von Schlachten festgehalten haben. (Sprachspiel.) Und ein Satz unserer Wortsprache kommt so cinem Bild dieser Bildersprache viel näher als man meint.
+**241.** Denken wir uns eine Bildergeschichte in schematischen Bildern, also ähnlicher der Erzählung in einer Sprache, als eine Folge realistischer Bilder. Man könnte in so einer Bildersprache etwa insbesondere den Gang von Schlachten festgehalten haben. (Sprachspiel.) Und ein Satz unserer Wortsprache kommt so einem Bild dieser Bildersprache viel näher als man meint.
 
 **242.** Denken wir auch daran, daß wir uns solche Bilder nicht erst in realistische übertragen, um sie zu ›verstehen‹, so wenig wir uns je Photographien oder die Bilder eines Films in farbige Bilder übertragen, obwohl uns schwarz-weiße Menschen oder Pflanzen in der Wirklichkeit unsagbar fremd und schrecklich vorkämen.
 
