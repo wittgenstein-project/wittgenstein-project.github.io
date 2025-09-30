@@ -9,7 +9,7 @@ _Published by the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.
 
 _Traducción de [Gerardo Piña](https://www.wittgensteinproject.org/w/index.php/Project:People#Gerardo_Piña)_
 
-_Esta edición es una reproducción de L. Wittgenstein, *Sobre la certeza*. Editado por G. E. M. Anscombe y G. H. von Wright. Suhrkamp Verlag, Fráncfort del Meno, 1970. Esta obra es de dominio público porque su plazo de copyright ha expirado. Esto se aplica al país de origen de la obra y a todos los demás países con un plazo legal de protección igual o inferior a 70 años tras la muerte del autor. Esta traducción se publica bajo los términos de la licencia [Creative Commons Atribución-Compartir Igual](https://creativecommons.org/licenses/by-sa/4.0/deed.es)._
+_Esta edición es una reproducción de L. Wittgenstein, *Sobre la certeza*. Editado por G. E. M. Anscombe y G. H. von Wright. Suhrkamp Verlag, Fráncfort del Meno, 1970. Esta obra es de dominio público porque su plazo de copyright ha expirado. Esto se aplica al país de origen de la obra y a todos los demás países con un plazo legal de protección igual o inferior a 70 años tras la muerte del autor. Esta traducción se publica bajo los términos de la licencia [Creative Commons Atribución-Compartir Igual](https://creativecommons.org/licenses/by-sa/4.0/deed.es). Esta traducción apareció en una edición impresa por primera vez en julio de 2025 y se publicó en el sitio web del Proyecto Ludwig Wittgenstein por primera vez en septiembre de 2025._
 
 # Sobre la certeza
 
