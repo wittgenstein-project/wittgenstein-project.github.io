@@ -27,9 +27,9 @@ _Diese digitale Ausgabe ist eine Reproduktion von L. Wittgenstein, *Bemerkungen 
 
 **6.** Was läßt sich dafür sagen, daß Grün eine primäre Farbe ist, keine Mischfarbe von Blau und Gelb? Wäre es richtig zu sagen: "Man kann das nur unmittelbar erkennen, indem man die Farben betrachtet?" Aber wie weiß ich, daß ich dasselbe mit den Worten "primäre Farbe" meine wie ein Andrer, der auch geneigt ist, Grün eine primäre Farbe zu nennen? Nein, – hier entscheiden Sprachspiele.
 
-**7.** Es gibt die Aufgabe, zu einem gegebenen Gelbgrün (oder Blaugrün) ein weniger gelbliches (oder bläuliches) zu mischen, – oder aus einer Anzahl von Farbmustern auszuwählen. Ein weniger gelbliches ist aber kein bläuliches Grün (und umgekehrt), und es gibt auch die Aufgabe, ein Grün zu wählen, oder zu mischen, das weder gelblich noch bläulich ist. Ich sage "oder zu mischen", weil ein Grün dadurch nicht zugleich bläulich[1] und gelblich wird, daß es durch eine Art der Mischung von Gelb und Blau zustandekommt.
+**7.** Es gibt die Aufgabe, zu einem gegebenen Gelbgrün (oder Blaugrün) ein weniger gelbliches (oder bläuliches) zu mischen, – oder aus einer Anzahl von Farbmustern auszuwählen. Ein weniger gelbliches ist aber kein bläuliches Grün (und umgekehrt), und es gibt auch die Aufgabe, ein Grün zu wählen, oder zu mischen, das weder gelblich noch bläulich ist. Ich sage "oder zu mischen", weil ein Grün dadurch nicht zugleich bläulich und gelblich wird, daß es durch eine Art der Mischung von Gelb und Blau zustandekommt.
 
-**8.** Menschen könnten den Begriff der Zwischenfarbe oder Mischfarbe haben auch wenn sie nie Farben durch Mischung (in welchem Sinne immer) erzeugten. Es könnte sich in ihren Sprachspielen immer nur darum handeln, schon vorhandene Zwischen – oder Mischfarben zu suchen, zu wählen.
+**8.** Menschen könnten den Begriff der Zwischenfarbe oder Mischfarbe haben auch wenn sie nie Farben durch Mischung (in welchem Sinne immer) erzeugten. Es könnte sich in ihren Sprachspielen immer nur darum handeln, schon vorhandene Zwischen- oder Mischfarben zu suchen, zu wählen.
 
 **9.** Wenn nun auch nicht Grün eine Zwischenfarbe von Gelb und Blau ist, könnte es nicht Leute geben, für die es ein bläuliches Gelb, ein rötliches Grün gibt? Leute also, deren Farbbegriffe von den unsern abwichen – da ja auch die Farbbegriffe der Farbenblinden von denen der Normalen abweichen und nicht jede Abweichung vom Normalen muß eine Blindheit, ein Defekt sein.
 
@@ -127,7 +127,7 @@ Ist das Muster rosa, himmelblau, lila, so wird man sich das Glas *trübe* denken
 
 **49.** Von zwei Stellen meiner Umgebung, die ich, in einem Sinne, als gleichfarbig *sehe*, kann mir, in anderem Sinne, die eine als weiß, die andre als grau erscheinen.
 
-In einem Zusammenhang ist diese Farbe für mich weiß in schlechter Beleuchtung, in einem andern grau in guter Beleuchtung,
+In einem Zusammenhang ist diese Farbe für mich weiß in schlechter Beleuchtung, in einem andern grau in guter Beleuchtung.
 
 Dies sind Sätze über die Begriffe 'weiß' und 'grau'.
 
@@ -167,7 +167,7 @@ Wie aber, wenn man von mir verlangte, den genauen Farbton anzugeben, den ich dor
 
 **62.** Daß ich sagen kann, diese Stelle in meinem Gesichtsfeld sei graugrün, bedeutet nicht, daß ich weiß, was eine genaue Kopie des Farbtons zu nennen wäre.
 
-**63.** Ich sehe auf einer (nicht färbigen) Photographie einen Mann mit dunklem Haar und einen Buben mit glatt zurückgekämmtem blondem Haar vor einer Art Drehbank stehen, die zum Teil aus schwarz gestrichenen Gußteilen, teils aus glatten Wellen, Zahnrädern, u.a. besteht, daneben ein Gitter aus hellem verzinkten Draht. Die bearbeiteten Eisenflächen sehe ich eisenfärbig, das Haar des Jungen blond, das Gitter zinkfarbig, obgleich alles durch hellere und dunklere Töne des photographischen Papiers dargestellt ist.
+**63.** Ich sehe auf einer (nicht färbigen) Photographie einen Mann mit dunklem Haar und einen Buben mit glatt zurückgekämmtem blondem Haar vor einer Art Drehbank stehen, die zum Teil aus schwarz gestrichenen Gußteilen, teils aus glatten Wellen, Zahnrädern, u.a. besteht, daneben ein Gitter aus hellem verzinktem Draht. Die bearbeiteten Eisenflächen sehe ich eisenfärbig, das Haar des Jungen blond, das Gitter zinkfarbig, obgleich alles durch hellere und dunklere Töne des photographischen Papiers dargestellt ist.
 
 **64.** Aber sehe ich wirklich die Haare auf der Photographie blond? Und was spricht dafür? Welche Reaktion des Betrachters soll zeigen, daß er sie blond *sieht*, und nicht nur aus den Tönen der Photographie schließt, sie seien blond? – Würde von mir verlangt, daß ich jene Photographie beschreibe, so würde ich es am direktesten mit jenen Worten tun. Ließe man diese Art der Beschreibung nicht gelten, so müßte ich nun erst nach einer andern suchen.
 
@@ -175,7 +175,7 @@ Wie aber, wenn man von mir verlangte, den genauen Farbton anzugeben, den ich dor
 
 **66.** "Kann man sich nicht denken, daß gewisse Menschen eine andere Farbengeometrie als die unsere hätten?" Das heißt doch: Kann man sich nicht Menschen mit andern Farbbegriffen als den unsern denken? Und das heißt wieder: Kann man sich nicht vorstellen, daß Menschen unsre Farbbegriffe *nicht* haben, und daß sie Begriffe haben, die mit unsern Farbbegriffen auf solche Art verwandt sind, daß wir sie auch "Farbbegriffe" nennen würden?
 
-**67.** Sich dein Zimmer am späten Abend an, wenn Farben kaum mehr zu unterscheiden sind – und nun mach Licht und male, was du früher im Halbdunkel gesehen hast. – Wie vergleicht man die Farben auf so einem Bild mit denen des halbdunkeln Raums?
+**67.** Sieh dein Zimmer am späten Abend an, wenn Farben kaum mehr zu unterscheiden sind – und nun mach Licht und male, was du früher im Halbdunkel gesehen hast. – Wie vergleicht man die Farben auf so einem Bild mit denen des halbdunkeln Raums?
 
 **68.** Auf die Frage "Was bedeuten die Wörter 'rot', 'blau', 'schwarz', 'weiß'," können wir freilich gleich auf Dinge zeigen, die so gefärbt sind, – aber weiter geht unsre Fähigkeit die Bedeutungen dieser Worte zu erklären nicht! Im übrigen machen wir uns von ihrer Verwendung keine, oder eine ganz rohe, zum Teil falsche, Vorstellung.
 
@@ -255,7 +255,7 @@ Hier ist die Versuchung sehr groß, an eine Phänomenologie, ein Mittelding zwis
 
 Wir stehen da, wie der Ochs vor der neu gestrichenen Stalltür.
 
-**13.** Denk daran, wie ein Maler die Durchsicht durch ein rötlich gefärbtes Glas darstellen würde. Es ist ja ein *kompliziertes* Flächenbild, was sich da ergiebt. D.h., das Bild wird nebeneinander eine Menge von Abschattungen von Rot und andern Farben enthalten. Und analog, wenn man durch ein blaues Glas sähe.
+**13.** Denk daran, wie ein Maler die Durchsicht durch ein rötlich gefärbtes Glas darstellen würde. Es ist ja ein *kompliziertes* Flächenbild, was sich da ergibt. D.h., das Bild wird nebeneinander eine Menge von Abschattungen von Rot und andern Farben enthalten. Und analog, wenn man durch ein blaues Glas sähe.
 
 Wie aber, wenn man ein Bild malte, in dem dort, wo früher etwas bläulich oder rötlich wurde, es weißlich wird?
 
@@ -311,7 +311,7 @@ Aber diese Erklärung dient nur einer vorläufigen Verständigung.
 
 **13.** Der Begriff der 'satten' Farbe sei von solcher Art, daß das satte X nicht einmal heller, einmal dunkler sein kann als das satte Y; d.h., daß es keinen Sinn hat, zu sagen, es sei einmal heller, ein andermal dunkler. Dies ist eine Begriffsbestimmung und gehört wieder zur Logik.
 
-Ob ein so bestimmter Begriff *nütz*lich sei, oder nicht, ist hier nicht entschieden.
+Ob ein so bestimmter Begriff *nützlich* sei, oder nicht, ist hier nicht entschieden.
 
 **14.** Es könnte dieser Begriff nur eine *sehr* beschränkte Verwendung haben. Und zwar darum, weil, was wir für gewöhnlich ein sattes X nennen, ein Farbeindruck innerhalb einer bestimmten Umgebung ist. Vergleichbar dem 'durchsichtigen' X.
 
@@ -329,7 +329,7 @@ Denn es ist ja nicht der 'Gedanke' (eine psychische Begleiterscheinung), sondern
 
 **20.** Das falsche Bild verwirrt, das richtige Bild hilft.
 
-**21.** Die Frage wird z.B. sein: Läßt sich, was "sattes Grün" heißt, dadurch beibringen, daß man lehrt,[1] was sattes Rot, oder Gelb, oder Blau ist?
+**21.** Die Frage wird z.B. sein: Läßt sich, was "sattes Grün" heißt, dadurch beibringen, daß man lehrt, was sattes Rot, oder Gelb, oder Blau ist?
 
 **22.** Der '*Glanz*', das 'Glanzlicht', kann nicht schwarz sein. Ersetzte ich das Helle der Glanzlichter in einem Bild durch Schwarze, so wären's nun nicht schwarze Glanzlichter: und zwar nicht einfach darum, weil in der Natur das Glanzlicht nur so und nicht anders entsteht, sondern auch weil wir auf ein *Licht* an dieser Stelle in bestimmter Weise reagieren. Eine Flagge mag gelb und schwarz, eine andere gelb und weiß sein.
 
@@ -471,7 +471,7 @@ Ich will damit eigentlich zeigen, daß es gar nicht a priori klar ist, welches d
 
 30.3
 
-**70.** Es ist nicht wahr, daß eine dunklere Farbe zugleich eine schwärzlichere ist. Das ist ja klar. Ein sattes Gelb ist dunkler, aber nicht schwärzlicher als ein Weißlichgelb. Aber Amber ist auch nicht ein 'schwärzliches Gelb'. (?) Und doch redet man, auch von einem 'schwarzen' Glas oder Spiegel. – Liegt die Schwierigkeit darin, daß ich mit "Schwarz" wesentlich eine Oberflächenfarbe meine?
+**70.** Es ist nicht wahr, daß eine dunklere Farbe zugleich eine schwärzlichere ist. Das ist ja klar. Ein sattes Gelb ist dunkler, aber nicht schwärzlicher als ein Weißlichgelb. Aber Amber ist auch nicht ein 'schwärzliches Gelb'. (?) Und doch redet man auch von einem 'schwarzen' Glas oder Spiegel. – Liegt die Schwierigkeit darin, daß ich mit "Schwarz" wesentlich eine Oberflächenfarbe meine?
 
 Ich würde von einem Rubin nicht sagen, er habe ein schwärzliches Rot, denn das würde auf *Trübe* deuten. (Anderseits erinnere dich, daß sich Trübe und Durchsichtigkeit *malen* lassen.)
 
@@ -545,7 +545,7 @@ Also: Daraus, daß uns Allen dieser Tisch braun erscheint, folgt nicht, daß er 
 
 **99.** So scheinen und so sein mag freilich in Ausnahmsfällen von einander unabhängig sein, aber das macht sie nicht logisch unabhängig; das Sprachspiel liegt nicht in der Ausnahme.
 
-**100.** *Goldig* ist eine Oberflächen-farbe.
+**100.** *Goldig* ist eine Oberflächenfarbe.
 
 **101.** Wir haben *Vorurteile* die Verwendung der Wörter betreffend.
 
@@ -573,7 +573,7 @@ Ich kann also lernen, in Übereinstimmung mit andern, gelbliche und gelblichere 
 
 Dabei mache ich selbstständige Schritte wie in der Arithmetik. Die Aufgabe, ein gelbliches Blau zu finden, mag der Eine durch ein Grünblau lösen, der Andre nicht verstehen. Wovon hängt das ab?
 
-**111.** *Ich* sage Grünblau enthält *kein* Gelb; wenn mir ein Andrer sagt, doch, es enthält Gelb, wer hat Recht? Wie ist es zu prüfen? Unterscheiden sich die beiden nur durch ihre Worte? – Wird nicht der Eine ein reines Grün anerkennen, das weder zum Blauen noch zum Gelben neigt? Und was ist der Nutzen hievon? In welchen Sprachspielen läßt sich das verwenden? – Er wird jedenfalls die Aufgabe lösen können, grüne Dinge auszusondern, die *nichts* Gelbliches haben, und solche, die *kein* Blau enthalten. Darin wird der Trennungspunkt 'Grün' bestehen, den der Andre nicht kennt.
+**111.** *Ich* sage Grünblau enthält *kein* Gelb; wenn mir ein Andrer sagt, doch, es enthält Gelb, wer hat Recht? Wie ist es zu prüfen? Unterscheiden sich die beiden nur durch ihre Worte? – Wird nicht der Eine ein reines Grün anerkennen, das weder zum Blauen noch zum Gelben neigt? Und was ist der Nutzen hiervon? In welchen Sprachspielen läßt sich das verwenden? – Er wird jedenfalls die Aufgabe lösen können, grüne Dinge auszusondern, die *nichts* Gelbliches haben, und solche, die *kein* Blau enthalten. Darin wird der Trennungspunkt 'Grün' bestehen, den der Andre nicht kennt.
 
 **112.** Der Eine wird ein Sprachspiel erlernen können, das der Andre nicht erlernen kann. Und *darin muß* ja auch alle Art der Farbenblindheit bestehen. Denn könnte der 'Farbenblinde' die Sprachspiele des Normalen lernen, warum sollte man ihn von gewissen Berufen ausschließen?
 
@@ -655,7 +655,7 @@ Aber warum sollte ich das "weißes Glas" nennen?
 
 **139.** Ich kann einen Körper betrachten und etwa eine matte weiße Fläche *sehen*, d.h. den *Eindruck* so einer Fläche erhalten, oder den *Eindruck* der Durchsichtigkeit (ob sie nun vorhanden ist oder nicht). Dieser Eindruck mag durch die Verteilung der Farben hervorgebracht werden und an ihm sind Weiß und die andern Farben nicht in *gleicher* Weise beteiligt.
 
-\(Ich habe eine grünlich angestrichene Blechkuppel für durch scheinendes grünliches Glas gehalten, ohne zur Zeit zu wissen, welche Besonderheit der Farbenverteilung diesen Schein hervorbrachte.)
+\(Ich habe eine grünlich angestrichene Blechkuppel für durchscheinendes grünliches Glas gehalten, ohne zur Zeit zu wissen, welche Besonderheit der Farbenverteilung diesen Schein hervorbrachte.)
 
 **140.** Und in dem Gesichtseindruck eines durchsichtigen Körpers kann wohl Weiß vorkommen, z. B. als Spiegelung, als Glanzlicht. D.h.: Wenn der Eindruck als durchsichtig empfunden wird, wird das Weiß, was wir sehen, eben nicht als Weiß des Körpers *gedeutet*.
 
@@ -691,7 +691,7 @@ Aber warum sollte ich das "weißes Glas" nennen?
 
 Wenn Menschen nur Formfarbbegriffe hätten, so hätten sie also ein eigenes Wort für rotes Quadrat und ein eigenes für roten Kreis und eins für grünen Kreis, etc. Sehen sie aber nun eine neue *grüne* Figur, soll ihnen da keine Ähnlichkeit mit dem grünen Kreis, etc., auffallen? Und soll ihnen keine Ähnlichkeit zwischen grünem und rotem Kreis auffallen? Aber wie will ich, daß es sich zeige, daß ihnen die Ähnlichkeit auffällt?
 
-Sie könnten *z.B.* einen Begriff des Zusammenpassens' haben; und dennoch nicht darauf verfallen, Farbwörter zu gebrauchen.
+Sie könnten *z.B.* einen Begriff des 'Zusammenpassens' haben; und dennoch nicht darauf verfallen, Farbwörter zu gebrauchen.
 
 Es gibt ja auch Stämme, die nur bis 5 zählen, und diese haben wahrscheinlich die Notwendigkeit nicht empfunden, zu beschreiben, was so nicht zu beschreiben ist.
 
@@ -705,7 +705,7 @@ Nun scheint aber Schwarz eine Farbe zu trüben, Dunkelheit jedoch nicht. Ein Rub
 
 Der Unterschied zwischen Schwarz und, etwa einem dunkeln Violett ist ähnlich dem zwischen dem Klang der großen Trommel und dem Klang einer Pauke. Vom ersten sagt man, es sei ein Geräusch, kein Ton. Es ist matt und ganz schwarz.
 
-**157.** Sieh dein Zimmer am späten Abend an, wenn Farben kaum mehr zu unterschieden sind; und nun mach Licht und male was du im Dämmerlicht gesehen hast. Es gibt Bilder von Gegenden oder Räumen im Halbdunkel: Aber wie vergleicht man die Farben auf so einem Bild mit den im Halbdunkel gesehenen? Wie verschieden ist diese Vergleichung von der zweier Farbmuster, die ich zugleich vor mir habe und zum Vergleich aneinander lege!
+**157.** Sieh dein Zimmer am späten Abend an, wenn Farben kaum mehr zu unterscheiden sind; und nun mach Licht und male was du im Dämmerlicht gesehen hast. Es gibt Bilder von Gegenden oder Räumen im Halbdunkel: Aber wie vergleicht man die Farben auf so einem Bild mit den im Halbdunkel gesehenen? Wie verschieden ist diese Vergleichung von der zweier Farbmuster, die ich zugleich vor mir habe und zum Vergleich aneinander lege!
 
 **158.** Was läßt sich dafür sagen, daß Grün eine primäre Farbe ist und keine Mischfarbe von Blau und Gelb? Wäre diese Antwort richtig hier: "Man kann das nur direkt erkennen, indem man die Farben betrachtet"? Aber wie weiß ich, daß ich dasselbe mit den Worten "primäre Farbe" meine wie ein Andrer, der auch geneigt ist, Grün eine primäre Farbe zu nennen? Nein, hier gibt es Sprachspiele, die diese Frage entscheiden.
 
@@ -725,7 +725,7 @@ Es gibt ein mehr oder weniger bläuliches (oder gelbliches) Grün und es gibt di
 
 **165.** Wer die 'Phänomene der Farbenblindheit' beschreibt, beschreibt ja nur die *Abweichungen* des Farbenblinden vom Normalen, nicht auch sein ganzes übriges Sehen.
 
-Aber könnte sie nicht auch die Abweichungen des normalen Sehens von totaler Blindheit beschreiben? Man könnte fragen: zu wessen Belehrung? Kann man mich davon unterrichten, daß ich einen Baum sehe?
+Aber könnten sie nicht auch die Abweichungen des normalen Sehens von totaler Blindheit beschreiben? Man könnte fragen: zu wessen Belehrung? Kann man mich davon unterrichten, daß ich einen Baum sehe?
 
 Und was ist ein 'Baum' und was 'sehen'?
 
@@ -915,7 +915,7 @@ Wenn schon 'Weiß' ein Begriff ist, der sich nur auf eine visuelle Oberfläche b
 
 **244.** Grau und schwach erleuchtetes oder leuchtendes Weiß kann in *einem* Sinne die gleiche Farbe sein, denn wenn ich dieses *male*, muß ich vielleicht auf der Palette jenes mischen.
 
-**245.** Ob ich etwas als grau oder als weiß sehe, kann davon abhängen, wie ich die Dinge um mich beleuchtet sehe. In einem Zusammenhang ist die Farbe für mich weiß in schlechter Beleuchtung, im andern grau in guter Beleuchtung
+**245.** Ob ich etwas als grau oder als weiß sehe, kann davon abhängen, wie ich die Dinge um mich beleuchtet sehe. In einem Zusammenhang ist die Farbe für mich weiß in schlechter Beleuchtung, im andern grau in guter Beleuchtung.
 
 **246.** Der Eimer, den ich vor mir sehe, ist glänzend weiß glasiert, ich könnte ihn unmöglich "grau" nennen oder sagen: "Ich sehe eigentlich grau". Aber er hat ein Glanzlicht, das weit heller ist als seine übrige Fläche, und, da er rund ist, geht er vom Licht allmählich in den Schatten über, ohne doch anders gefärbt zu erscheinen.
 
@@ -947,7 +947,7 @@ Kann ich nicht sagen: “Dort sehe ich weiß" (und es etwa malen), auch wenn ich
 
 **258.** Denke an die Farben von poliertem Silber, Nickel, Chrom etc., oder an die Farbe eines Ritzers in diesen Metallen.
 
-**259.** Ich gebe einer Farbe einen Namen "F" und sage, es sei die Farbe, die ich dort sehe. Oder vielleicht male ich mein Gesichtsbild und sage dann einfach "Ich sehe *dies*”. Nun, welche Farbe ist an *dieser* Stelle meines Bildes? Wie bestimm ich es? Ich führe etwa das Wort "Kobaldblau" ein: Wie fixiere ich, was 'K' ist? Ich könnte ein Papier als Paradigma dieser Farbe nehmen oder den Farbstoff in einem Topf. Wie bestimmt ich nun, daß eine Oberfläche (z.B.) diese Farbe habe? Alles kommt auf die Vergleichsmethode an.
+**259.** Ich gebe einer Farbe einen Namen "F" und sage, es sei die Farbe, die ich dort sehe. Oder vielleicht male ich mein Gesichtsbild und sage dann einfach "Ich sehe *dies*”. Nun, welche Farbe ist an *dieser* Stelle meines Bildes? Wie bestimm ich es? Ich führe etwa das Wort "Kobaldblau" ein: Wie fixiere ich, was 'K' ist? Ich könnte ein Papier als Paradigma dieser Farbe nehmen oder den Farbstoff in einem Topf. Wie bestimmte ich nun, daß eine Oberfläche (z.B.) diese Farbe habe? Alles kommt auf die Vergleichsmethode an.
 
 **260.** Was man den "farbigen" Gesamteindruck einer Oberfläche nennen kann, ist nicht etwa eine Art arithmetisches Mittel aller Farben der Oberfläche.
 
@@ -989,13 +989,13 @@ Wie aber, wenn man von mir verlangte, den *genauen* Farbton anzugeben, der mir h
 
 In *einem* Sinne *sehe* ich sie blond, in einem andern heller und dunkler grau.
 
-**272.** 'Dunkelrot' und 'Schwarzrot sind nicht gleichartige Begriffe. Ein Rubin kann in der Durchsicht dunkelrot erscheinen, aber, wenn er klar ist, nicht schwarzrot. Der Maler mag ihn durch einen schwarzroten Fleck darstellen, aber im Bild wird dieser Fleck nicht schwarzrot wirken. Er wird mit Tiefe gesehen, sowie das Flache drei dimensional erscheint.
+**272.** 'Dunkelrot' und 'Schwarzrot' sind nicht gleichartige Begriffe. Ein Rubin kann in der Durchsicht dunkelrot erscheinen, aber, wenn er klar ist, nicht schwarzrot. Der Maler mag ihn durch einen schwarzroten Fleck darstellen, aber im Bild wird dieser Fleck nicht schwarzrot wirken. Er wird mit Tiefe gesehen, sowie das Flache drei dimensional erscheint.
 
 **273.** Im Film, wie auf der Photographie, sehen Gesicht und Haare nicht *grau* aus, sie machen einen ganz natürlichen Eindruck; Speisen auf einer Schüssel dagegen sehen im Film oft grau und darum unappetitlich aus.
 
 **274.** Was heißt es aber, Haar sehe auf der Photographie blond aus? Wie zeigt sich's daß es so *aussieht* und auf die Farbe nicht nur *geschlossen* wird? Welche unsrer Reaktionen läßt uns das sagen? – Sieht denn ein Kopf in Stein oder Gips nicht weiß aus?
 
-**275.** Wenn selbst das Wort "blond" blond *klingen* kann, wie viel eher können die photographierten Haare blond ausschauen!
+**275.** Wenn selbst das Wort "blond" blond *klingen* kann, wieviel eher können die photographierten Haare blond ausschauen!
 
 **276.** Nun, ich würde die Photographie ganz natürlich mit den Worten beschreiben: "An einer Maschine steht ein Mann mit dunklem und ein Junge mit zurückgekämmtem blondem Haar." So würde ich die *Photographie* beschreiben, und wenn Einer sagte, das beschreibe nicht sie, sondern die Objekte, die wahrscheinlich photographiert wurden, so könnte ich nur sagen, das Bild sieht so aus als wären die Haare von dieser Farbe gewesen.
 
@@ -1101,7 +1101,7 @@ Eigentlich möchte ich sagen, daß es auch hier nicht auf die *Worte* ankommt, d
 
 **319.** "Die Psychologie beschreibt die Phänomene der Farbenblindheit und auch des normalen Sehens." Was sind die 'Phänomene der Farbenblindheit'? Doch die Reaktionen des Farbenblinden, durch die er sich vom Normalen unterscheidet. Doch nicht *alle* Reaktionen des Farbenblinden, z.B. auch die, durch welche er sich vom Blinden unterscheidet. – Kann ich den Blinden lehren, was Sehen ist, oder kann ich den Sehenden dies lehren? Das heißt nichts. Was heißt es denn: das *Sehen* zu beschreiben? Aber ich kann Menschen die Bedeutung der Worte "blind" und "sehend" lehren und zwar lernt sie der Sehende, wie der Blinde. Weiß denn der Blinde, wie das ist, wenn man sieht? Aber weiß es der Sehende?! Weiß er auch, wie es ist, Bewußtsein zu haben?
 
-Aber kann nicht der Psychologe den Unterschied zwischen dem Benehmen des Sehenden und des Blinden beobachten? (Der Meteorologe den Unterschied zwischen Regen und Trockenheit?) Man könnte doch z.B. den Unterschied des Benehmens beobachten von Ratten, denen man die Barthaare genommen hat, und von unverstümmelten. Und das könnte man nennen vielleicht, die Rolle dieses Tastapparates zu beschreiben – Das Leben der Blinden ist anders als das Leben der Sehenden.
+Aber kann nicht der Psychologe den Unterschied zwischen dem Benehmen des Sehenden und des Blinden beobachten? (Der Meteorologe den Unterschied zwischen Regen und Trockenheit?) Man könnte doch z.B. den Unterschied des Benehmens beobachten von Ratten, denen man die Barthaare genommen hat, und von unverstümmelten. Und das könnte man nennen vielleicht, die Rolle dieses Tastapparates zu beschreiben. – Das Leben der Blinden ist anders als das Leben der Sehenden.
 
 **320.** Der Normale kann z.B. erlernen, nach Diktat zu schreiben. Was ist das? Nun, der Eine spricht, der Andre schreibt was jener spricht. Sagt er also z.B. den Laut *a*, so schreibt der Andre das Zeichen "a" etc. – Muß nun nicht, wer diese Erklärung *versteht*, das Spiel entweder schon gekannt haben, nur vielleicht nicht unter diesem Namen, – oder es durch die Beschreibung gelernt haben? Aber Karl der Große hat gewiß das Prinzip des Schreibens verstanden und doch nicht schreiben lernen können. So kann also auch der die Beschreibung der Technik verstehen, der diese nicht erlernen kann. Aber es gibt eben zwei Fälle des Nicht-Erlernen-Könnens. In einem erlangen wir bloß eine Fertigkeit nicht, im andern fehlt uns das Verständnis. Man kann Einem ein Spiel *erklären*: Er mag diese Erklärung verstehen, aber das Spiel nicht erlernen können, oder unfähig sein, eine Erklärung des Spiels zu verstehen. Es ist aber auch das Umgekehrte denkbar.
 
