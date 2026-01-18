@@ -9,17 +9,19 @@ _Published by the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.
 
 _Traduzione di [Rachele Salerno](https://www.wittgensteinproject.org/w/index.php/Project:People#Rachele_Salerno)_
 
+_Seconda edizione a cura di [Michele Lavazza](https://www.wittgensteinproject.org/w/index.php/Project:People#Michele_Lavazza)_
+
 _Questa traduzione è stata condotta sul testo tedesco (*[Bemerkungen über die Farben](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben)*) della seguente edizione bilingue: Ludwig Wittgenstein, *Remarks on Colour*, a cura di G.E.M. Anscombe, University of California Press, 1978. Il testo originale è nel pubblico dominio in tutti i paesi dove i diritti di proprietà intellettuale scadono 70 anni o meno dopo la morte dell'autore. Questa traduzione, realizzata grazie al sostegno finanziario di Wikimedia Italia, è pubblicata secondo i termini della licenza [Creative Commons Attribuzione](https://creativecommons.org/licenses/by/4.0/). Il Ludwig Wittgenstein Project ringrazia [Tommaso Furlan](https://www.wittgensteinproject.org/w/index.php/Project:People#Tommaso_Furlan) per la sua rilettura e correzione del testo._
 
 # Osservazioni sui colori
 
-**Parte I**
+## Parte I
 
 **[1.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-1)** Un gioco linguistico: dire se un determinato corpo sia più chiaro o più scuro di un altro. – Ma eccone uno affine: esprimersi sul rapporto fra le chiarezze di due determinate tonalità cromatiche. (Si può confrontare con: determinare il rapporto fra le lunghezze di due bastoni – o determinare il rapporto fra due numeri.) La forma delle proposizioni è la medesima in entrambi i giochi linguistici: “X è più chiaro di Y”. Ma nel primo il rapporto è esterno e la proposizione temporale, nel secondo il rapporto è interno e la proposizione atemporale.
 
 **[2.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-2)** In un quadro in cui un pezzo di carta bianca riceve la propria chiarezza dal cielo blu, il cielo è più chiaro della carta bianca. Eppure, in un altro senso, il blu è il colore più scuro e il bianco il più chiaro (Goethe). Su una tavolozza il bianco è il colore più chiaro.
 
-**[3.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-3)** Secondo Lichtenberg sarebbero poche le persone ad aver visto davvero il bianco puro. Quindi la maggior parte delle persone usa la parola in modo scorretto? – Ha costruito un uso ideale a partire dall’uso comune. E questo non vuol dire un uso migliore, ma un uso perfezionato in una certa direzione, in cui qualcosa è stato spinto all’estremo.
+**[3.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-3)** Secondo Lichtenberg poche persone avrebbero visto davvero il bianco puro. Quindi la maggior parte delle persone usa la parola in modo scorretto? – Egli ha costruito un uso ideale a partire dall’uso comune. E questo non vuol dire un uso migliore, ma un uso perfezionato in una certa direzione, in cui qualcosa è stato portato all’estremo.
 
 **[4.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-4)** E naturalmente un uso così costruito può insegnarci qualcosa sull’uso effettivo.
 
@@ -29,9 +31,9 @@ _Questa traduzione è stata condotta sul testo tedesco (*[Bemerkungen über die 
 
 **[7.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-7)** Esiste il compito di mescolare un dato giallo-verde (o blu-verde) con uno meno tendente giallo (o al blu) – oppure di sceglierlo fra un certo numero di campioni di colore. Un verde meno tendente al giallo, però, non è un verde tendente al blu (e viceversa), ed esiste anche il compito di scegliere, o di ottenere per mescolanza, un verde che non sia né tendente al giallo né tendente al blu. Dico “o di ottenere per mescolanza” perché un verde non diventa tendente al blu o tendente al giallo per il solo fatto di essere stato ottenuto da una particolare mescolanza di giallo e blu.
 
-**[8.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-8)** Certe persone potrebbero avere il concetto di colore intermedio o colore composto anche se non avessero mai ottenuto i colori attraverso una mescolanza (in qualunque senso si intenda il termine). Nei loro giochi linguistici potrebbe sempre trattarsi soltanto di cercare o scegliere colori intermedi o composti già disponibili.
+**[8.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-8)** Delle persone potrebbero avere il concetto di colore intermedio o colore composto pur non avendo mai ottenuto i colori attraverso una mescolanza (in qualunque senso si intenda il termine). Nei loro giochi linguistici potrebbe sempre trattarsi soltanto di cercare o scegliere colori intermedi o composti già disponibili.
 
-**[9.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-9)** Anche se il verde non è un colore intermedio fra il giallo e il blu, non potrebbero esserci persone per cui esiste un giallo tendente al blu, o un verde tendente al rosso? Persone, cioè, i cui concetti di colore deviano dai nostri – perché in fondo anche i concetti di colore dei daltonici deviano da quelli delle persone normali e non tutte le deviazioni dalla normalità devono necessariamente essere una cecità o un difetto.
+**[9.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-9)** Anche se il verde non è un colore intermedio fra il giallo e il blu, non potrebbero esserci persone per cui esiste un giallo tendente al blu, o un verde tendente al rosso? Persone, cioè, i cui concetti cromatici deviano dai nostri – perché in fondo anche i concetti cromatici dei daltonici deviano da quelli delle persone normali e non tutte le deviazioni dalla normalità devono necessariamente essere una cecità o un difetto.
 
 **[10.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-10)** Chiedi a una persona che ha imparato a trovare, o a produrre, da una data tonalità cromatica, una più tendente al giallo, più al bianco, più al rosso e così via, ovvero a una persona che conosca il concetto di colore intermedio, di mostrarci un verde tendente al rosso. Potrebbe non capire affatto la richiesta e reagire come se le avessi chiesto di mostrarti, dopo un quadrato, un pentagono e un esagono regolari, un unagono regolare. E se invece, senza esitare, ci indicasse un campione di colore (magari quello che noi chiameremmo un marrone tendente al nero)?
 
@@ -39,11 +41,11 @@ _Questa traduzione è stata condotta sul testo tedesco (*[Bemerkungen über die 
 
 **[12.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-12)** Immagina che l’intera umanità, con poche eccezioni, sia cieca al rosso e al verde. Oppure un altro caso: ogni persona è o cieca al rosso e al verde o cieca al blu e al giallo.
 
-**[13.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-13)** Immaginiamo un *popolo* di daltonici, e potrebbe darsi facilmente. Non avrebbero i nostri stessi concetti di colore. Perché, anche dando per scontato che parlino, per esempio, italiano e conoscano quindi tutte le parole italiane per i colori, le userebbero in modi diversi dai nostri, e *imparerebbero* a usarle in modo diverso.
+**[13.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-13)** Immaginiamo un *popolo* di daltonici – e potrebbe darsi facilmente. Non avrebbero i nostri stessi concetti cromatici. Perché, anche dando per scontato che parlino, per esempio, italiano e conoscano quindi tutte le parole italiane per i colori, le userebbero in modi diversi dai nostri, e *imparerebbero* a usarle in modo diverso.
 
 Oppure, se parlassero una lingua straniera, ci verrebbe difficile tradurre le loro parole per i colori nella nostra.
 
-**[14.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-14)** Ma se anche esistessero persone per le quali fosse naturale impiegare espressioni come “verde tendente al rosso” o “blu tendente al giallo” in modo coerente, e che nel farlo dimostrassero anche capacità che a noi mancano, non saremmo per questo costretti a riconoscere che vedono *colori* che noi non vediamo. Non esiste infatti alcun criterio universalmente riconosciuto per stabilire cosa sia un colore, se non il fatto che è uno dei nostri colori.
+**[14.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-14)** Ma se anche esistessero persone per le quali fosse naturale impiegare espressioni come “verde tendente al rosso” o “blu tendente al giallo” in modo coerente, e che nel farlo dimostrassero anche capacità che a noi mancano, non saremmo per questo costretti a riconoscere che vedono *colori* che noi non vediamo. Non esiste infatti un criterio generalmente riconosciuto per stabilire che cosa sia un colore, a parte il fatto che sia uno dei nostri colori.
 
 **[15.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-15)** In ogni serio problema filosofico l’insicurezza affonda fino alle radici.
 
@@ -53,7 +55,7 @@ Bisogna sempre essere pronti a imparare qualcosa di *completamente* nuovo.
 
 **[17.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-17)** Runge (nella lettera pubblicata da Goethe nella sua *Teoria dei colori*) distingue fra colori trasparenti e colori opachi. Il bianco sarebbe un colore opaco.
 
-Questo dimostra l’imprecisione del concetto di colore, o anche del concetto di uguaglianza dei colori.
+Questo dimostra l’imprecisione del concetto del colore, o anche del concetto dell’uguaglianza dei colori.
 
 **[18.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-18)** Un vetro verde trasparente può essere dello stesso colore di un foglio di carta opaco o no? Se il vetro in questione venisse rappresentato in un quadro, i colori sulla tavolozza non sarebbero trasparenti. Se si volesse dire che il colore del vetro è trasparente anche nel quadro, bisognerebbe affermare che il complesso di macchie colorate che rappresenta il vetro è il *colore* del vetro.
 
@@ -75,13 +77,13 @@ L’impressione del mezzo trasparente è che ci sia qualcosa *dietro* il mezzo. 
 
 Se il campione è rosa, azzurro, lilla, allora immagineremo che il vetro sia *torbido*, ma forse anche limpido e solo leggermente tendente al rosso, al blu o al viola.
 
-**[25.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-25)** Al cinema, talvolta, si possono vedere le vicende del film come se avvenissero dietro la superficie dello schermo, ma questa fosse trasparente, come una tavola di vetro. Il vetro sottrarrebbe alle cose i loro colori e lascerebbe trasparire soltanto il bianco, il grigio e il nero. (Qui non facciamo fisica, ma trattiamo il bianco e il nero come colori, proprio come il verde e il rosso.) – Si potrebbe quindi pensare che qui immaginiamo una tavola di vetro che potrebbe essere definita bianca e trasparente. Eppure non siamo tentati di definirla così: allora l’analogia, per esempio, con una tavola verde trasparente viene meno in qualche punto?
+**[25.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-25)** Al cinema, talvolta, si possono vedere le vicende del film come se avvenissero dietro la superficie dello schermo, ma questa fosse trasparente, come una lastra di vetro. Il vetro sottrarrebbe alle cose i loro colori e lascerebbe trasparire soltanto il bianco, il grigio e il nero. (Qui non facciamo fisica, ma trattiamo il bianco e il nero come colori, proprio come il verde e il rosso.) – Si potrebbe quindi pensare che qui immaginiamo una lastra di vetro che potrebbe essere definita bianca e trasparente. Eppure non siamo tentati di definirla così: allora da qualche parte l’analogia, per esempio, con una lastra verde trasparente viene meno?
 
-**[26.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-26)** Di una tavola verde diremmo forse che dà agli oggetto dietro di lei una colorazione verde; soprattutto al bianco dietro di lei.
+**[26.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-26)** Di una lastra verde diremmo forse che dà agli oggetti dietro di sé una colorazione verde; soprattutto al bianco dietro di sé.
 
 **[27.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-27)** “Non lo si può immaginare”, quando si tratta di logica, significa: non si sa cosa ci si deve immaginare in questo caso.
 
-**[28.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-28)** Della mia tavola di vetro fittizia al cinema si potrebbe dire che dà agli oggetti dietro di lei una colorazione bianca?
+**[28.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-28)** Della mia lastra di vetro fittizia del cinema si potrebbe dire che dà agli oggetti dietro di sé una colorazione bianca?
 
 **[29.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-29)** A partire dalla regola circa l’aspetto visivo del colorato trasparente che puoi ricavare dal verde trasparente, rosso trasparente eccetera, costruisci l’aspetto del bianco trasparente! Perché non funziona?
 
@@ -89,17 +91,17 @@ Se il campione è rosa, azzurro, lilla, allora immagineremo che il vetro sia *to
 
 **[31.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-31)** *Perché* non si può immaginare un vetro bianco trasparente, anche se in realtà non esiste? Dove va storta l’analogia con il vetro colorato trasparente?
 
-**[32.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-32)** Spesso le proposizioni vengono utilizzate al confine fra la logica e l’empiria, cosicché il loro senso oscilla da un lato all’altro del confine ed esse valgono ora come espressione di una norma, ora come espressione di una esperienza.
+**[32.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-32)** Spesso le proposizioni sono impiegate al confine fra la logica e l’empiria, cosicché il loro senso oscilla da un lato all’altro del confine ed esse valgono ora come espressione di una norma, ora come espressione di una esperienza.
 
-\(Perché non è un fenomeno fisico concomitante – così si possono immaginare i “pensieri” – ma l’impiego a distinguere la proposizione logica da quella empirica.)
+\(Infatti non è un fenomeno fisico concomitante – così si immaginano i “pensieri” – ma l’impiego a distinguere la proposizione logica da quella empirica.)
 
 **[33.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-33)** Quando si parla del “colore dell’oro” non si intende il giallo. “Dorato” è la caratteristica di una superficie che riluce o scintilla.
 
 **[34.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-34)** Esistono il calor rosso e il calor bianco: che aspetto avrebbero il calor marrone e il calor grigio? Perché non li si può pensare come un grado più debole del calor bianco?
 
-**[35.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-35)** “La luce è incolore.” Se è così, allora lo è nello stesso senso in cui i numeri sono incolori.
+**[35.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-35)** “La luce è incolore.” Se lo è, lo è nello stesso senso in cui i numeri sono incolori.
 
-**[36.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-36)** Ciò che *appare* luminoso, non appare grigio. Tutto ciò che è grigio *appare* illuminato.
+**[36.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-36)** Ciò che *appare* luminoso non appare grigio. Tutto ciò che è grigio *appare* illuminato.
 
 **[37.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-37)** Ciò che è visto come luminoso non è visto come grigio. Ma può benissimo essere visto come bianco.
 
@@ -121,13 +123,13 @@ Se il campione è rosa, azzurro, lilla, allora immagineremo che il vetro sia *to
 
 **[46.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-46)** E non è sufficiente nemmeno dire che la parola “bianco” viene impiegata soltanto per l’aspetto esteriore delle superfici. Sarebbe possibile anche avere due parole per “verde”: una per le superfici verdi, l’altra per gli oggetti verdi trasparenti. Resterebbe allora da chiedersi perché non esista un nome di colore corrispondente alla parola “bianco” per una cosa trasparente.
 
-**[47.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-47)** Un mezzo attraverso il quale un motivo bianco e nero (scacchiera) appaia invariato non verrebbe chiamato bianco, nemmeno se visti attraverso di esso gli altri colori perdessero colorazione.
+**[47.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-47)** Un mezzo attraverso il quale un motivo bianco e nero (scacchiera) apparisse invariato non verrebbe chiamato bianco, nemmeno se visti attraverso di esso gli altri colori perdessero colorazione.
 
 **[48.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-48)** Si potrebbe non voler chiamare “bianco” un bagliore bianco, e chiamare quindi “bianco” soltanto ciò che si vede come colore di una superficie.
 
 **[49.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-49)** Due punti del mio ambiente che, in un certo senso, *vedo* dello stesso colore, potrebbero, in un altro senso, apparirmi uno bianco e l’altro grigio.
 
-In un contesto per me questo colore è bianco sotto una scarsa illuminazione, in un altro grigio sotto una buona illuminazione.
+In un contesto per me questo colore è bianco sotto una cattiva illuminazione, in un altro grigio sotto una buona illuminazione.
 
 Queste sono proposizioni sui concetti di “bianco” e “grigio”.
 
@@ -183,13 +185,13 @@ Ma come risponderei se da me si pretendesse che indicassi l’esatta tonalità d
 
 **[70.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-70)** La dottrina goethiana dell’origine dei colori dello spettro ottico non è una teoria che si è dimostrata insoddisfacente: non è proprio una teoria. Con essa non si può predire nulla. È piuttosto un vago schema di pensiero, simile a quello che si trova nella psicologia di James. Non esiste nemmeno un *experimentum crucis* che possa farci decidere per o contro questa teoria.
 
-**[71.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-71)** Chi è d’accordo con Goethe pensa che Goethe abbia compreso correttamente la *natura* dei colori. E qui natura non è ciò che deriva dagli esperimenti, ma risiede nel concetto di colore.
+**[71.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-71)** Chi è d’accordo con Goethe pensa che Goethe abbia compreso correttamente la *natura* dei colori. E qui natura non è ciò che deriva dagli esperimenti, ma risiede nel concetto del colore.
 
-**[72.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-72)** Una cosa per Goethe era inequivocabilmente chiara: da ciò che è scuro non si può ottenere qualcosa di chiaro, così come dall’accumularsi delle ombre non può originarsi la luce. Detto altrimenti: se si definisce il lilla un blu tendente al rosso e al bianco, o il marrone un giallo tendente al nero e al rosso, allora *non* si può definire il bianco un blu che tende al giallo, al rosso e al verde, o qualcosa del genere. Il bianco non è un *colore intermedio* fra altri colori. E *questo* non può essere né confermato né smentito da esperimenti con lo spettro ottico. Ma sarebbe anche sbagliato dire: “Guarda i colori in natura e vedrai che è così”. Perché non si apprende nulla sui concetti di colore soltanto guardando.
+**[72.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-72)** Una cosa per Goethe era inequivocabilmente chiara: da ciò che è scuro non si può ottenere qualcosa di chiaro, così come dall’accumularsi delle ombre non può originarsi la luce. Detto altrimenti: se si definisce il lilla un blu tendente al rosso e al bianco, o il marrone un giallo tendente al nero e al rosso, allora *non* si può definire il bianco un blu che tende al giallo, al rosso e al verde, o qualcosa del genere. Il bianco non è un *colore intermedio* fra altri colori. E *questo* non può essere né confermato né smentito da esperimenti con lo spettro ottico. Ma sarebbe anche sbagliato dire: “Guarda i colori in natura e vedrai che è così”. Perché non si apprende nulla sui concetti dei colori soltanto guardando.
 
 **[73.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-73)** Non riesco a immaginare che le osservazioni di Goethe sui caratteri dei colori e sulle combinazioni di colori possano essere utili per un pittore, e difficilmente lo saranno per un decoratore. Il colore di un occhio iniettato di sangue potrebbe essere magnifico per un arazzo da parete. Chi parla del carattere di un colore pensa sempre soltanto a *un* modo determinato del suo impiego.
 
-**[74.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-74)** Se ci fosse una teoria dell’armonia dei colori, comincerebbe con una divisione dei colori in gruppi e vieterebbe o ammetterebbe determinate mescolanze e accostamenti. E, come la teoria dell’armonia, non giustificherebbe le proprie regole.
+**[74.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-74)** Se esistesse una teoria dell’armonia dei colori, comincerebbe forse con una suddivisione dei colori in gruppi e vieterebbe determinate mescolanze e accostamenti e ne permetterebbe altri. E, come la teoria dell’armonia, non giustificherebbe le proprie regole.
 
 **[75.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-75)** Potrebbero esistere degli imbecilli a cui non è possibile insegnare il concetto di “domani”, o il concetto di “io”, o a leggere l’ora. Costoro non imparerebbero l’uso della parola “domani”, eccetera.
 
@@ -199,13 +201,13 @@ Ma a chi posso descrivere *cosa* costoro non sono in grado di imparare? Solo a c
 
 **[77.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-77)** Una persona che vede normalmente e una che soffre di daltonismo hanno lo stesso concetto di daltonismo? Un daltonico non può imparare a usare non solo le nostre parole per i colori, ma neanche la parola “daltonico”, come uno che ha una vista normale. Per esempio, non può constatare il daltonismo allo stesso modo di quest’ultimo.
 
-**[78.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-78)** Potrebbero esserci persone che non capiscono cosa intendiamo quando diciamo che l’arancione è un giallo tendente al rosso, e che sarebbero inclini a usare un’espressione del genere soltanto quando vedessero davanti agli occhi una transizione cromatica che va dal giallo al rosso attraverso l’arancione. Per costoro l’espressione “verde tendente al rosso” non presenterebbe necessariamente difficoltà.
+**[78.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-78)** Potrebbero esserci persone che non capiscono cosa intendiamo quando diciamo che l’arancione è un giallo tendente al rosso, e che sarebbero inclini a usare un’espressione del genere soltanto quando si vedessero davanti agli occhi una transizione cromatica che va dal giallo al rosso attraverso l’arancione. Per costoro l’espressione “verde tendente al rosso” non presenterebbe necessariamente difficoltà.
 
 **[79.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-79)** La psicologia descrive i fenomeni del vedere. – Per chi li descrive? *Quale* ignoranza può essere rimossa da questa descrizione?
 
 **[80.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-80)** La psicologia descrive ciò che è stato osservato.
 
-**[81.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-81)** Si può descrivere a un cieco com’è *vedere*? – Certo. Un cieco impara alcune cose sulla differenza fra l’essere ciechi e il vedere. Ma la domanda era posta male, come se il vedere fosse un’attività e se ne potesse dare una descrizione.
+**[81.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-81)** Si può descrivere a un cieco com’è *vedere*? – Certo. Un cieco impara diverse cose sulla differenza fra l’essere ciechi e il vedere. Ma la domanda era posta male, come se il vedere fosse un’attività e se ne potesse dare una descrizione.
 
 **[82.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-82)** Se posso osservare il daltonismo, perché allora non il vedere? – Posso osservare quali giudizi cromatici esprime una persona daltonica – o anche una che vede normalmente – *in determinate circostanze*.
 
@@ -217,13 +219,13 @@ Ma a chi posso descrivere *cosa* costoro non sono in grado di imparare? Solo a c
 
 **[86.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-86)** In un manuale di psicologia potrebbe trovarsi la proposizione: “Esistono persone che vedono”? Sarebbe falsa? Ma a chi si comunica qualcosa, qui?
 
-**[87.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-87)** Come può essere insensato dire: “Esistono sono persone che vedono”, se non è insensato dire: “Esistono persone che sono cieche”?
+**[87.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-87)** Come può essere insensato dire: “Esistono persone che vedono”, se non è insensato dire: “Esistono persone che sono cieche”?
 
 Ma ammesso che io non abbia mai sentito parlare dell’esistenza di persone cieche e un giorno qualcuno mi comunichi che “esistono persone che non vedono”, dovrei comprendere questa proposizione senza problemi? Devo essere consapevole, se non sono cieco, che possiedo la facoltà di vedere, e che quindi possono esserci persone che non la possiedono?
 
 **[88.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#1-88)** Se lo psicologo ci insegna che “Esistono persone che vedono”, noi possiamo chiedergli: “E cos’è che tu chiami ‘persone che vedono’?”. La risposta dovrebbe essere: persone che in queste e queste altre circostanze si comportano in questo e quest’altro modo.
 
-**Parte II**
+## Parte II
 
 **[1.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#2-1)** Si potrebbe parlare dell’impressione cromatica di una superficie, e con ciò si intenderebbe non il colore, ma l’insieme delle tonalità cromatiche che produce l’impressione di una superficie (per esempio) marrone.
 
@@ -235,7 +237,7 @@ Per come la intendo io, non può essere una proposizione fisica.
 
 Qui è forte la tentazione di credere a una fenomenologia, a una via di mezzo fra la scienza e la logica.
 
-**[4.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#2-4)** Qual è dunque l’essenza del *torbido*? Perché una cosa trasparente rossa o gialla non è torbida; una cosa trasparente bianca è torbida.
+**[4.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#2-4)** Qual è dunque l’essenza del *torbido*? Una cosa trasparente rossa o gialla infatti non è torbida; una cosa trasparente bianca è torbida.
 
 **[5.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#2-5)** Torbido è ciò che vela le forme? E vela le forme perché cancella luce e ombre?
 
@@ -265,17 +267,17 @@ Sì, non si parla proprio mai di un “filtro tendente al bianco”!
 
 **[15.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#2-15)** Se una certa illuminazione facesse sembrare tutto tendente al bianco, non ne concluderemmo che la fonte luminosa debba apparire bianca.
 
-**[16.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#2-16)** L’analisi fenomenologica (come, ad esempio, la voleva Goethe) e un’analisi concettuale e non può né concordare con la fisica né contraddirla.
+**[16.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#2-16)** L’analisi fenomenologica (come, ad esempio, la voleva Goethe) è un’analisi concettuale e non può né concordare con la fisica né contraddirla.
 
 **[17.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#2-17)** E se invece da qualche parte andasse così: la luce di un corpo al calor bianco fa sembrare le cose chiare ma tendenti al bianco, dunque colorate debolmente; la luce di un corpo al calor rosso le fa sembrare tendenti al rosso, eccetera? (Soltanto una fonte luminosa invisibile e non percepibile all’occhio le farebbe brillare dei loro colori.)
 
-**[18.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#2-18)** Sì, e se le cose brillassero dei loro colori solo se, nel nostro senso, non venissero colpite da *nessuna* luce, se, per esempio, il cielo fosse *nero*? Non si potrebbe dire, allora: soltanto sotto una luce nera i colori ci appaiono nella loro pienezza?
+**[18.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#2-18)** Sì, e se le cose brillassero dei loro colori solo se, nel nostro senso, non venissero colpite da *nessuna* luce? Se, per esempio, il cielo fosse *nero*? Non si potrebbe dire, allora: soltanto sotto una luce nera i colori ci appaiono nella loro pienezza?
 
 **[19.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#2-19)** Ma qui non ci sarebbe una contraddizione?
 
 **[20.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#2-20)** Non *vedo* che i colori dei corpi riflettono luce nel mio occhio.
 
-**Parte III**
+## Parte III
 
 24/03/50
 
@@ -287,7 +289,7 @@ Sì, non si parla proprio mai di un “filtro tendente al bianco”!
 
 26/03
 
-**[4.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-4)** Ma anche il giallo puro è più chiaro del rosso puro saturo o del blu puro saturo. E questa è una proposizione dell’esperienza? – Per esempio, non so se il rosso (cioè il rosso puro) sia più chiaro o più scuro del blu; dovrei vederli entrambi per poterlo stabilire. E tuttavia, se l’avessi visto, lo saprei una volta per tutte, come il risultato di un calcolo.
+**[4.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-4)** Ma anche il giallo puro è più chiaro del rosso puro saturo o del blu puro saturo. E questa è una proposizione dell’esperienza? – Per esempio, non so se il rosso (cioè il rosso puro) sia più chiaro o più scuro del blu; dovrei vederli entrambi per poterlo stabilire. E tuttavia, quando l’avessi visto, lo saprei una volta per tutte, come il risultato di un calcolo.
 
 Dove si separano, qui, logica ed esperienza (empiria)?
 
@@ -297,7 +299,7 @@ Ma questa spiegazione serve soltanto a una comprensione provvisoria.
 
 **[6.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-6)** Quale *importanza* ha il concetto del colore saturo?
 
-**[7.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-7)** Qui c’è evidentemente un fatto importante, ovvero che le persone accordano una posizione privilegiata a un punto nel cerchio cromatico. E non devono sforzarsi per tenere a mente questo punto, ma tutte lo ritrovano sempre facilmente.
+**[7.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-7)** Qui c’è evidentemente un fatto importante, ovvero che le persone accordano una posizione privilegiata a un punto nel cerchio cromatico. E non devono sforzarsi per tenere a mente questo punto, bensì tutti lo ritrovano sempre facilmente.
 
 **[8.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-8)** Esiste una “storia naturale dei colori”? Fino a che punto è analoga a una storia naturale delle piante? Non è forse questa temporale, quella atemporale?
 
@@ -323,9 +325,9 @@ Qui non si stabilisce se un concetto così determinato sia *utile* o meno.
 
 **[18.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-18)** In un caso simile, però, potrebbe darsi un rosso saturo più chiaro o più scuro, eccetera.
 
-**[19.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-19)** E non devo ammettere che spesso le proposizioni sono impiegate al confine fra la logica e l’empiria, con la conseguenza che il loro significato oscilla da un lato all’altro del confine ed esse sono talvolta espressione di una norma, mentre talaltra vengono trattate come espressione dell’esperienza?
+**[19.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-19)** E non devo ammettere che spesso le proposizioni sono impiegate al confine fra la logica e l’empiria, cosicché il loro senso oscilla da un lato all’altro del confine ed esse sono ora espressione di una norma, ora vengono trattate come espressione dell’esperienza?
 
-Infatti ciò che distingue la proposizione logica dalla dell’esperienza non è il “pensiero” (un fenomeno concomitante psichico), ma il suo impiego (qualcosa che la circonda).
+Infatti non è il “pensiero” (un fenomeno concomitante psichico), ma il suo impiego (qualcosa che la circonda) a distinguere la proposizione logica da quella empirica.
 
 **[20.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-20)** L’immagine sbagliata confonde; l’immagine giusta aiuta.
 
@@ -343,7 +345,7 @@ Se sostituisci il rosso con il bianco, l’impressione della trasparenza viene m
 
 27/03
 
-**[25.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-25)** Perché un colore saturo non è semplicemente *questo*, o *questo*, o *questo*, o *questo*? – Perché lo si riconosce, o si determina, in un altro modo.
+**[25.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-25)** Perché un colore saturo non è semplicemente *questo*, o *questo*, o *questo*, o *questo*? – Perché lo si riconosce, o determina, in un altro modo.
 
 **[26.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-26)** Il fatto che alcuni abbiano creduto di riconoscere tre colori primari, altri quattro, ci può insospettire. Qualcuno ha sostenuto che il verde è un colore intermedio fra blu e giallo, e a me, per esempio, questo sembra sbagliato e lontano da ogni *esperienza*.
 
@@ -371,7 +373,7 @@ Si potrebbe essere inclini a dire che il primo ha un concetto di colore diverso 
 
 **[31.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-31)** Parliamo di daltonismo e lo chiamiamo un *difetto.* Ma potrebbero tranquillamente esserci molte diverse disposizioni, nessuna delle quali è palesemente inferiore alle altre. – E tieni presente anche questo: una persona può vivere la vita senza che il suo daltonismo venga notato finché una circostanza particolare non lo rende manifesto.
 
-**[32.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-32)** Dunque persone diverse potrebbero avere diversi concetti di colore? – *Leggermente* diversi. Diversi per un qualche aspetto. E questo pregiudica la loro comprensione in misura maggiore o minore, ma spesso non la pregiudica quasi per nulla.
+**[32.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-32)** Dunque persone diverse potrebbero avere diversi concetti cromatici? – *Leggermente* diversi. Diversi per un qualche aspetto. E questo pregiudica la loro comprensione in misura maggiore o minore, ma spesso non la pregiudica quasi per nulla.
 
 **[33.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-33)** Qui vorrei fare un’osservazione generale sulla natura dei problemi filosofici. La mancanza di chiarezza filosofica è angosciante. Viene percepita come umiliante. Si ha la sensazione di non raccapezzarsi proprio là dove *bisognerebbe* raccapezzarsi. E tuttavia *non* è così. Possiamo vivere benissimo senza queste distinzioni, anche senza raccapezzarci.
 
@@ -387,7 +389,7 @@ E potrebbe anche darsi che noi, ad esempio a scopi scientifici, *introduciamo* u
 
 \(Un simile nuovo concetto corrisponderebbe all’incirca al concetto chimico di un “sale”.)
 
-**[37.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-37)** Fino a che punto il bianco e il nero si possono paragonare al giallo, al rosso e al blu, e fino a che punto non lo si può fare?
+**[37.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-37)** In che misura il bianco e il nero si possono paragonare al giallo, al rosso e al blu, e in che misura no?
 
 Se avessimo una carta da parati a scacchi fatta di quadrati rossi, blu, verdi, gialli, neri e bianchi, non diremmo che è composta di *due* elementi, per esempio di parti “colorate” e “non colorate”.
 
@@ -397,11 +399,11 @@ Se avessimo una carta da parati a scacchi fatta di quadrati rossi, blu, verdi, g
 
 **[40.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-40)** In un giallo tendente al verde non noto ancora *niente* di blu. – Per me il verde è una particolare stazione sulla strada cromatica che porta dal blu al giallo, come anche il rosso.
 
-**[41.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-41)** Cosa avrebbe più di me una persona che conoscesse una strada cromatica diretta che porta dal blu al giallo? E come si mostra che io non conosco una strada simile? – Dipende tutto dai giochi linguistici che sono in grado di fare con la forma del “tendente a…”?
+**[41.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-41)** Cosa avrebbe più di me una persona che conoscesse una strada cromatica diretta che porta dal blu al giallo? E come si mostra che io non conosco una strada simile? – Dipende tutto dai giochi linguistici che sono in grado di fare con la forma “tendente a…”?
 
-**[42.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-42)** Ci si dovrà anche chiedere: come sarebbe se alcune persone conoscessero colori che non sono noti nemmeno a noi dotati di una vista normale? In generale a questa domanda non si può rispondere in modo univoco. Perché non è immediatamente chiaro che, di queste persone anomale, *dobbiamo necessariamente* dire che conoscono altri *colori.* Non esiste infatti un criterio generalmente riconosciuto per stabilire che cosa sia un colore, a parte il fatto che è uno dei nostri colori.
+**[42.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-42)** Ci si dovrà anche chiedere: come sarebbe se alcune persone conoscessero colori che non sono noti nemmeno a noi dotati di una vista normale? In generale a questa domanda non si può rispondere in modo univoco. Perché non è immediatamente chiaro che, di queste persone anomale, *dobbiamo necessariamente* dire che conoscono altri *colori.* Non esiste infatti un criterio generalmente riconosciuto per stabilire che cosa sia un colore, a parte il fatto che sia uno dei nostri colori.
 
-E tuttavia sono pensabili circostanze in cui diremmo: “Queste persone vedono, oltre ai nostri, altri colori ancora”.
+E tuttavia sono pensabili circostanze in cui diremmo: “Queste persone vedono, oltre ai nostri, anche altri colori”.
 
 28/03
 
@@ -433,13 +435,13 @@ E tuttavia sono pensabili circostanze in cui diremmo: “Queste persone vedono, 
 
 **[56.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-56)** Questo foglio di carta è chiaro diversamente in punti diversi; ma posso dire che è bianco soltanto in certi punti e grigio negli altri?? – Sì, se dovessi dipingerlo, aggiungerei sicuramente del grigio per i punti più scuri.
 
-Un colore di una superficie è una qualità di una superficie. Si potrebbe quindi essere tentati di non considerarlo un concetto puro di colore. Ma quale sarebbe, allora, un concetto *puro*?!
+Un colore di superficie è una qualità di una superficie. Si potrebbe quindi essere tentati di non considerarlo un concetto cromatico puro. Ma quale sarebbe, allora, un concetto *puro*?!
 
 **[57.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-57)** Non è corretto dire che in un *quadro* il bianco debba essere sempre il colore più chiaro. Invece lo è in una combinazione superficiale di macchie di colore. Un quadro potrebbe raffigurare un libro di carta bianca nell’ombra e, più chiaro di questo, un cielo luminoso giallo, o blu, o rossastro. Ma se descrivo una superficie piatta, per esempio una carta da parati, composta da quadrati giallo puro, rosso puro, blu puro, bianco puro e nero puro, allora i gialli non possono essere più chiari dei bianchi, e i rossi non possono essere più chiari dei gialli.
 
 Per questo i colori per Goethe erano ombre.
 
-**[58.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-58)** Sembra che esista un concetto di colore più fondamentale di quello di colore di una superficie. Sarebbe da descrivere – si potrebbe pensare – o attraverso piccoli elementi colorati del campo visivo oppure attraverso punti luminosi simili alle stelle. Di questi punti di colore, o piccole macchie colorate, sarebbero composte anche le estensioni di colore più ampie. In modo tale che si potrebbe descrivere l’impressione cromatica di una superficie indicando le molte piccole macchie colorate nelle loro diverse posizioni.
+**[58.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-58)** Sembra che esista un concetto di colore più fondamentale di quello di colore di superficie. Sarebbe da descrivere – si potrebbe pensare – o attraverso piccoli elementi colorati del campo visivo oppure attraverso punti luminosi simili alle stelle. Di questi punti di colore, o piccole macchie colorate, sarebbero composte anche le estensioni di colore più ampie. In modo tale che si potrebbe descrivere l’impressione cromatica di una superficie indicando le molte piccole macchie colorate nelle loro diverse posizioni.
 
 Ma come si farebbe, ad esempio, a confrontare un così piccolo campione di colore con un pezzo della superficie più estesa? In che ambiente dovrebbe trovarsi il campione di colore?
 
@@ -457,7 +459,7 @@ Ma come si farebbe, ad esempio, a confrontare un così piccolo campione di color
 
 **[64.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-64)** Non dovremmo neanche dimenticare che le nostre parole per i colori caratterizzano l’impressione di una superficie su cui vaga il nostro sguardo. È per questo che esistono.
 
-**[65.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-65)** “Luce marrone”. Supponiamo che venga proposto che un segnale luminoso stradale dovrebbe essere *marrone.*
+**[65.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-65)** “Luce marrone.” Supponiamo che venga proposto che un segnale luminoso stradale dovrebbe essere *marrone.*
 
 **[66.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-66)** C’è *da aspettarsi* che troveremo aggettivi che (come, ad esempio, “cangiante”) sono caratteristiche cromatiche di una superficie estesa, o anche di una piccola estensione in un *ambiente preciso* (“luccicante”, “scintillante”, “splendente”, “luminoso”).
 
@@ -489,7 +491,7 @@ Non direi di un rubino che è di un rosso tendente al nero, perché questo indic
 
 **[77.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-77)** È una misura caratteristica della pittura rappresentare una luce con un colore.
 
-**[78.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-78)** La vaghezza del concetto di colore dipende in primo luogo dalla vaghezza del concetto di uguaglianza dei colori, dunque dalla vaghezza del metodo con cui si confrontano i colori.
+**[78.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-78)** La vaghezza del concetto del colore dipende in primo luogo dalla vaghezza del concetto dell’uguaglianza dei colori, dunque dalla vaghezza del metodo con cui si confrontano i colori.
 
 **[79.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-79)** Esiste il color oro, ma Rembrandt non ha dipinto un elmo dorato con il color oro.
 
@@ -519,11 +521,11 @@ La difficoltà, evidentemente, è questa: non è la geometria dei colori stessa 
 
 **[88.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-88)** La difficoltà è dunque sapere cosa qui si possa considerare l’analogo di qualcosa che ci è noto.
 
-**[89.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-89)** Un colore che sarebbe “sporco” se fosse il colore di un muro, non lo è per questo in un quadro.
+**[89.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-89)** Un colore che sarebbe “sporco” se fosse il colore di un muro non lo è per questo in un quadro.
 
 **[90.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-90)** Dubito che le osservazioni di Goethe sui caratteri dei colori possano essere utili per un pittore. E difficilmente lo saranno per un decoratore.
 
-**[91.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-91)** Se esistesse una teoria dell’armonia dei colori, comincerebbe forse con una ripartizione dei colori in diversi gruppi, vieterebbe determinate mescolanze e accostamenti di colori e ne permetterebbe altre; e, come la teoria dell’armonia, non giustificherebbe le sue regole.
+**[91.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-91)** Se esistesse una teoria dell’armonia dei colori, comincerebbe forse con una suddivisione dei colori in diversi gruppi e vieterebbe determinate mescolanze e accostamenti e ne permetterebbe altri; e, come la teoria dell’armonia, non giustificherebbe le proprie regole.
 
 **[92.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-92)** Ma questo non può gettare luce sulla *natura* di quelle distinzioni fra colori?
 
@@ -533,7 +535,7 @@ La difficoltà, evidentemente, è questa: non è la geometria dei colori stessa 
 
 E sempre lì: “Il bianco e il nero sono entrambi opachi o corporei… Non si può immaginare un’acqua bianca che sia limpida, così come non si può pensare il latte trasparente. Se il nero scurisse soltanto potrebbe anche essere trasparente, ma, dal momento che sporca, non può esserlo”.
 
-**[95.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-95)** Nella mia stanza, intorno a me, ci sono diversi oggetti colorati. È facile indicare i loro colori. Se però mi venisse chiesto quale colore vedo da qui, su *questo* punto della mia scrivania, per esempio, non saprei rispondere; il punto in questione è tendente al bianco (perché qui la scrivania marrone è rischiarata dalla parete chiara), in ogni caso molto più chiaro del resto della scrivania, ma, fra diversi campioni di colore, non sarei in grado di sceglierne uno che abbia la stessa tonalità di questo punto della scrivania.
+**[95.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-95)** Nella mia stanza, intorno a me, ci sono diversi oggetti colorati. È facile indicare i loro colori. Se però mi venisse chiesto quale colore vedo da qui, in *questo* punto della mia scrivania, per esempio, non saprei rispondere; il punto in questione è tendente al bianco (perché qui la scrivania marrone è rischiarata dalla parete chiara), in ogni caso molto più chiaro del resto della scrivania, ma, fra diversi campioni di colore, non sarei in grado di sceglierne uno che abbia la stessa tonalità di questo punto della scrivania.
 
 **[96.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-96)** Dal fatto che a me – o a tutti – sembri così non consegue che sia così.
 
@@ -571,9 +573,9 @@ La logica dei concetti cromatici è molto più complicata di quanto potrebbe sem
 
 Posso anche imparare a riconoscere, in accordo con altri, un rosso, un verde, un marrone e un bianco più o meno tendenti al giallo.
 
-In questo modo faccio passi indipendenti, come in aritmetica. Qualcuno potrebbe risolvere il compito di trovare un blu tendente al giallo indicando un blu-verde, mentre qualcun altro potrebbe non capirlo. Da cosa dipende?
+In questo modo faccio passi indipendenti, come in aritmetica. Qualcuno potrebbe assolvere il compito di trovare un blu tendente al giallo indicando un blu-verde, mentre qualcun altro potrebbe non capirlo. Da cosa dipende?
 
-**[111.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-111)** *Io* dico che il blu-verde *non* contiene giallo; se un altro mi dice che invece sì, contiene il giallo, chi ha ragione? Che prova vi può essere? Le due posizioni differiscono soltanto per le parole usate? – L’uno non riconoscerà forse un verde puro che non tende né al blu né al giallo? E quale ne è l’uso? In quali giochi linguistici si può impiegare? – Egli potrà ad ogni modo portare a termine il compito di selezionare gli oggetti verdi che non hanno *nulla* di tendente al giallo e quelli che non contengono *affatto* il blu. E in questo consisterà il discrimine “verde” che l’altro non conosce.
+**[111.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-111)** *Io* dico che il blu-verde *non* contiene giallo; se un altro mi dice che invece sì, contiene il giallo, chi ha ragione? Che prova vi può essere? Le due posizioni differiscono soltanto per le parole usate? – L’uno non riconoscerà forse un verde puro che non tende né al blu né al giallo? E quale ne è l’uso? In quali giochi linguistici si può impiegare? – Egli potrà ad ogni modo assolvere il compito di selezionare gli oggetti verdi che non hanno *nulla* di tendente al giallo e quelli che non contengono *affatto* il blu. E in questo consisterà il discrimine “verde” che l’altro non conosce.
 
 **[112.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-112)** Uno potrà imparare un gioco linguistico che l’altro non può imparare. E *in questo devono* consistere anche tutte le forme di daltonismo. Se infatti i “daltonici” potessero apprendere i giochi linguistici di chi vede normalmente, perché li si dovrebbe escludere da certe professioni?
 
@@ -613,7 +615,7 @@ Ma posso descrivere la prassi di persone che hanno un concetto, per esempio “v
 
 **[125.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-125)** La teoria goethiana dell’origine dello spettro non è una teoria dell’origine che si sia dimostrata insoddisfacente: non è proprio una teoria. Non permette di prevedere *nulla*. È piuttosto un vago schema di pensiero del tipo di quelli che troviamo nella psicologia di James. Non esiste un *experimentum crucis* per la teoria goethiana dei colori.
 
-Chi è d’accordo con Goethe pensa che Goethe abbia riconosciuto correttamente la *natura* dei colori. E la “natura” qui non è una somma di esperienze che riguardano i colori, ma sta nel concetto di colore.
+Chi è d’accordo con Goethe pensa che Goethe abbia riconosciuto correttamente la *natura* dei colori. E la “natura” qui non è una somma di esperienze che riguardano i colori, ma sta nel concetto del colore.
 
 **[126.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-126)** Una cosa era chiara a Goethe: dall’oscurità non può originarsi nulla di chiaro, così come da più ombre non si origina la luce. Ma si potrebbe anche metterla così: se per esempio si definisce il lilla un “blu tendente al rosso tendente al bianco”, oppure il marrone un “giallo tendente al rosso tendente al nero”, allora il bianco *non* lo si può definire un “blu che tende al giallo che tende al rosso che tende al verde” (o qualcosa del genere). E *questo* non è stato dimostrato neanche da Newton. Il bianco non è un colore composto in *questo* senso.
 
@@ -629,7 +631,7 @@ E lo stesso vale per il mio concetto di “provare dolore nel corpo dell’altro
 
 Essi dunque non potrebbero “analizzare i colori composti”, non potrebbero imparare il nostro uso di “X tendente a Y”. (Come le persone che non hanno l’orecchio assoluto.)
 
-**[130.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-130)** E come andrebbe per le persone che avessero soltanto concetti di colore-forma? Di loro dovrei dire che, se indicassi loro una foglia verde e un tavolo verde, non *vedrebbero* che sono dello stesso colore, o che hanno qualcosa in comune? E se non gli fosse mai “venuto in mente” di confrontare oggetti di forma diversa ma dello stesso colore? Tale confronto, in conseguenza del loro particolare ambiente, non avrebbe alcuna importanza per queste persone, o sarebbe importante soltanto in via eccezionale, al punto che non si arriverebbe a costruire uno strumento linguistico.
+**[130.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-130)** E come starebbero le cose per delle persone che avessero soltanto concetti di colore-forma? Di loro dovrei dire che, se indicassi loro una foglia verde e un tavolo verde, non *vedrebbero* che sono dello stesso colore, o che hanno qualcosa in comune? E se non gli fosse mai “venuto in mente” di confrontare oggetti di forma diversa ma dello stesso colore? Tale confronto, in conseguenza del loro particolare ambiente, non avrebbe alcuna importanza per queste persone, o sarebbe importante soltanto in via eccezionale, al punto che non si arriverebbe a costruire uno strumento linguistico.
 
 **[131.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-131)** Un gioco linguistico: parlare della maggiore chiarezza o maggiore oscurità dei corpi. – Ma eccone uno *affine*: dire qualcosa sul rapporto fra le chiarezze di determinati *colori.* (Da confrontare con: il rapporto fra le lunghezze di due stecche – il rapporto fra due numeri.)
 
@@ -645,7 +647,7 @@ In un quadro in cui un pezzo di carta bianca è chiaro perché illuminato dal ci
 
 **[135.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-135)** Una *storia naturale* dei colori dovrebbe occuparsi della loro presenza in natura, non della loro *essenza.* Le sue proposizioni dovrebbero essere temporali.
 
-**[136.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-136)** Per analogia con gli altri colori un disegno nero su sfondo bianco, visto attraverso un vetro *bianco* trasparente, dovrebbe apparire invariato, come un disegno nero su sfondo bianco. Perché il nero deve restare nero, e il bianco, essendo il colore del corpo trasparente, rimane invariato.
+**[136.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-136)** Per analogia con gli altri colori un disegno nero su sfondo bianco, visto attraverso un vetro *bianco* trasparente, dovrebbe apparire invariato, cioè come un disegno nero su sfondo bianco. Perché il nero deve restare nero, e il bianco, essendo il colore del corpo trasparente, rimane invariato.
 
 **[137.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-137)** Si potrebbe immaginare un vetro attraverso il quale il nero si veda nero, il bianco si veda bianco e tutti gli altri colori si vedano come sfumature di grigio; di modo che, attraverso di esso, tutto appaia come in una fotografia.
 
@@ -657,7 +659,7 @@ Ma perché dovrei chiamarlo “vetro bianco”?
 
 \(Ho scambiato una cupola di lamiera dipinta di verde per un vetro lucido tendente al verde, senza sapere, all’epoca, quale particolarità della distribuzione dei colori avesse prodotto quell’effetto.)
 
-**[140.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-140)** E nell’impressione visiva di un corpo trasparente può benissimo comparire il bianco, per esempio come riflesso, o come bagliore. Vale a dire: se l’impressione è percepita come trasparente, il bianco che vediamo non viene *interpretato* come il bianco del corpo.
+**[140.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-140)** E nell’impressione visiva di un corpo trasparente può benissimo comparire il bianco, per esempio come riflesso, come bagliore. Vale a dire: se l’impressione è percepita come trasparente, il bianco che vediamo non viene *interpretato* come il bianco del corpo.
 
 **[141.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-141)** Guardo attraverso un vetro trasparente: ne segue che non dovrei vedere il bianco? No, però non vedo il vetro come bianco. Ma come accade una cosa del genere? Può accadere in diversi modi. Potrei vedere il bianco con *entrambi* gli occhi come se fosse sullo sfondo. Ma potrei anche vedere il bianco semplicemente per via della sua *posizione* come bagliore (anche se forse non è affatto un bagliore). Eppure qui si tratta di vedere, non di dare un parere. E non è nemmeno necessaria la visione binoculare per vedere una cosa come posta *dietro* il vetro.
 
@@ -667,7 +669,7 @@ Ma perché dovrei chiamarlo “vetro bianco”?
 
 **[144.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-144)** Quel legame è certamente il legame tra spazialità e luce e ombra.
 
-**[145.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-145)** Non si può nemmeno dire che il bianco sia essenzialmente la proprietà di una superficie (visiva). Sarebbe infatti pensabile che il bianco si presentasse soltanto come effetto luminoso, o come il colore di una fiamma.
+**[145.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-145)** Non si può nemmeno dire che il bianco sia essenzialmente la proprietà di una superficie (visiva). Sarebbe infatti pensabile che il bianco si presentasse soltanto come bagliore, o come colore di una fiamma.
 
 **[146.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-146)** E anche un corpo che in realtà è trasparente può apparirci bianco; ma non può apparirci bianco e trasparente.
 
@@ -687,9 +689,9 @@ Ma perché dovrei chiamarlo “vetro bianco”?
 
 **[154.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-154)** “Non si possono immaginare persone che abbiano una geometria dei colori diversa dalla nostra?” – Ma questo significa: non si possono immaginare persone con concetti cromatici diversi dai nostri? E questo, a sua volta, significa: non si può immaginare che certe persone *non* abbiamo i nostri concetti cromatici, e che però *abbiano* concetti che sono affini ai nostri concetti cromatici in un modo tale per cui li chiameremmo anch’essi “concetti cromatici”?
 
-**[155.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-155)** Se le persone fossero abituate a vedere sempre soltanto quadrati verdi e cerchi rossi, potrebbero guardare con sospetto a un cerchio verde, come se fosse un essere deforme, e persino dire, per esempio, che sarebbe *propriamente* un cerchio rosso, ma ha qualcosa di un…
+**[155.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-155)** Se delle persone fossero abituate a vedere sempre soltanto quadrati verdi e cerchi rossi, potrebbero guardare con sospetto a un cerchio verde, come se fosse un essere deforme, e persino dire, per esempio, che sarebbe *propriamente* un cerchio rosso, ma ha qualcosa di un…
 
-Se le persone avessero soltanto concetti di forma-colore, avrebbero anche una parola specifica per indicare il quadrato rosso e una per il cerchio rosso e una per il cerchio verde, eccetera. Ma, se ad esempio ora vedessero una nuova figura *verde*, non noterebbero alcuna somiglianza con il cerchio verde? E non noterebbero alcuna somiglianza fra il cerchio verde e il cerchio rosso? Ma come vorrei che si mostrasse il fatto che notano la somiglianza?
+Se delle persone avessero soltanto concetti di forma-colore, avrebbero anche una parola specifica per indicare il quadrato rosso e una per il cerchio rosso e una per il cerchio verde, eccetera. Ma se ad esempio ora vedessero una nuova figura *verde*, non noterebbero alcuna somiglianza con il cerchio verde? E non noterebbero alcuna somiglianza fra il cerchio verde e il cerchio rosso? Ma come vorrei che si mostrasse il fatto che notano la somiglianza?
 
 *Costoro* potrebbero *per esempio* avere un concetto dell’“accostamento riuscito”; e tuttavia non arrivare a utilizzare i nomi dei colori.
 
@@ -701,13 +703,13 @@ Ci sono anche tribù che contano soltanto fino a 5, e probabilmente non hanno se
 
 Il grigio, invece, non è luminoso.
 
-Ora però sembra che il nero intorbidisca un colore, ma che l’oscurità non lo faccia. Un rubino, dunque, potrebbe diventare sempre più scuro senza diventare più torbido; mentre se diventasse rosso-nero, allora diventerebbe più torbido. Ora, il nero è un colore di superficie. Lo scuro non è considerato un colore. Nei quadri lo scuro *può* anche essere rappresentato con il nero.
+Ora, però, sembra che il nero intorbidisca un colore, ma che l’oscurità non lo faccia. Un rubino dunque potrebbe diventare sempre più scuro senza diventare più torbido; mentre se diventasse rosso-nero, allora diventerebbe più torbido. Ora, il nero è un colore di superficie. Lo scuro non è considerato un colore. Nei quadri lo scuro *può* anche essere rappresentato con il nero.
 
 La differenza fra il nero e, per esempio, un viola scuro è simile a quella fra il suono di un grosso tamburo e il suono di un timpano. Del primo si dice che è un rumore e non una nota. È smorzato e completamente nero.
 
 **[157.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-157)** Guarda la tua stanza a tarda sera, quando i colori non si distinguono quasi più; poi accendi la luce e dipingi ciò che hai visto nel crepuscolo. Ci sono quadri di paesaggi o stanze nella semioscurità: ma come si confrontano i colori di un quadro simile con quelli visti nella semioscurità? Quanto è diverso questo confronto rispetto al confronto fra due campioni di colore che ho di fronte a me e posso mettere uno accanto all’altro!
 
-**[158.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-158)** Cosa si può dire a sostegno della tesi che il verde è un colore primario e non una mescolanza di blu e giallo? Sarebbe corretta questa risposta: “Lo si può solo riconoscere direttamente osservando i colori”? Ma come faccio a sapere che con l’espressione “colori primari” intendo la stessa cosa di un altro che, come me, è portato a definire il verde un colore primario? No, qui sono i giochi linguistici che decidono queste domande.
+**[158.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-158)** Cosa si può dire a sostegno della tesi che il verde è un colore primario e non una mescolanza di blu e giallo? Sarebbe corretta questa risposta: “Lo si può solo riconoscere direttamente osservando i colori”? Ma come faccio a sapere che con l’espressione “colori primari” intendo la stessa cosa di un altro che, come me, è portato a definire il verde un colore primario? No, qui vi sono giochi linguistici che decidono queste domande.
 
 Esiste un verde più o meno tendente al blu (o al giallo) ed esiste il compito di aggiungere a un dato verde tendente al giallo (o verde tendente al blu) un verde meno tendente al giallo (o al blu), oppure di sceglierlo fra un certo numero di campioni di colore. Un verde meno tendente al giallo non è però un verde tendente al blu (e viceversa), e potrebbe esistere anche il compito di selezionare – oppure di ottenerlo da una mescolanza – un verde che non tenda né al giallo né al blu. E dico “oppure di ottenerlo da una mescolanza” perché un verde non tende contemporaneamente al giallo e al blu soltanto perché nasce da una mescolanza di giallo e blu.
 
@@ -719,7 +721,7 @@ Esiste un verde più o meno tendente al blu (o al giallo) ed esiste il compito d
 
 **[162.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-162)** A chi abbia acquisito il concetto dei colori intermedi e ne padroneggi la tecnica, e dunque a chi sia in grado di trovare, o di ottenere da una mescolanza, tonalità di un dato colore tendenti al bianco, al giallo, al blu, e così via, si chieda ora di trovare o di produrre un verde tendente al rosso.
 
-**[163.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-163)** Chi avesse familiarità con un verde tendente al rosso dovrebbe essere in grado di produrre una serie di colori che cominci con il rosso, termini con il verde e costituisca, anche per noi, una transizione continuativa dall’uno all’altro. Potrebbe allora mostrarsi che là dove noi, per esempio, vedevamo ogni volta la stessa tonalità di marrone, costui vede ora un marrone, ora un verde tendente al rosso. Che, per esempio, egli può distinguere dai loro colori due composti chimici che per noi hanno lo stesso colore, e chiamare l’uno un “marrone” e l’altro un “verde tendente al rosso”.
+**[163.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-163)** Chi avesse familiarità con un verde tendente al rosso dovrebbe essere in grado di produrre una serie di colori che cominci con il rosso, termini con il verde e costituisca, anche per noi, una sorta di transizione continuativa dall’uno all’altro. Potrebbe allora mostrarsi che là dove noi, per esempio, vedevamo ogni volta la stessa tonalità di marrone, costui vede ora un marrone, ora un verde tendente al rosso. Che, per esempio, egli può distinguere dai loro colori due composti chimici che per noi hanno lo stesso colore, e chiamare l’uno un “marrone” e l’altro un “verde tendente al rosso”.
 
 **[164.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-164)** Per descrivere i fenomeni della cecità al verde e al rosso, dovrei dire soltanto cosa i ciechi al verde e al rosso *non* sono in grado di imparare; per descrivere il fenomeno della vista normale, invece, dovrei elencare tutto ciò che noi *siamo in grado* di fare.
 
@@ -755,11 +757,11 @@ Questa non è una proposizione della fisica, ma una regola dell’interpretazion
 
 **[174.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-174)** Là dove è leggermente meno illuminato, un foglio di carta bianca non sembra affatto grigio, ma sempre bianco.
 
-**[175.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-175)** La domanda è questa: come deve essere fatta la nostra immagine visiva per mostrarci un mezzo trasparente? Per esempio, come deve risaltare il colore del mezzo? Se parliamo in termini fisici – benché qui non si tratti direttamente di leggi della fisica – allora attraverso un vetro verde puro tutto dovrebbe apparire di un verde più o meno scuro. La tonalità più chiara sarebbe quella del mezzo. Ciò che si vede attraverso di esso somiglia a una fotografia. Se si traspone quanto detto su un vetro bianco, tutto dovrebbe di nuovo apparire come in una fotografia, ma in tonalità che vanno dal bianco al nero. E perché un simile vetro – se esistesse – non dovremmo chiamarlo *bianco*? Qualcosa ci impedisce di farlo? L’analogia con altri vetri colorati viene meno da qualche parte?
+**[175.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-175)** La domanda è questa: come deve essere fatta la nostra immagine visiva per mostrarci un mezzo trasparente? Per esempio, come deve risaltare il colore del mezzo? Se parliamo in termini fisici – benché qui non si tratti direttamente di leggi della fisica – allora attraverso un vetro verde puro tutto dovrebbe apparire di un verde più o meno scuro. La tonalità più chiara sarebbe quella del mezzo. Ciò che si vede attraverso di esso somiglia a una fotografia. Se si traspone quanto detto su un vetro bianco, tutto dovrebbe di nuovo apparire come in una fotografia, ma in tonalità che vanno dal bianco al nero. E perché un simile vetro – se esistesse – non dovremmo chiamarlo *bianco*? Qualcosa ci impedisce di farlo? Da qualche parte l’analogia con altri vetri colorati viene meno?
 
 **[176.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-176)** Un cubo di vetro verde, quando è davanti a noi, ci appare verde: l’impressione generale è verde; quindi anche quella del cubo bianco dovrebbe essere bianca.
 
-**[177.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-177)** Dove deve apparire bianco il cubo perché possiamo chiamarlo bianco e trasparente?
+**[177.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-177)** Dove deve apparire bianco il cubo affinché possiamo chiamarlo bianco e trasparente?
 
 **[178.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-178)** Se per il bianco non esiste un *analogon* con un vetro verde trasparente, è *perché* le affinità e le opposizioni fra il bianco e gli altri colori sono diverse da quelle fra il verde e gli altri colori?
 
@@ -775,11 +777,11 @@ Questa non è una proposizione della fisica, ma una regola dell’interpretazion
 
 Ma questa appare pienamente *bianca* attraverso un vetro *incolore.*
 
-**[184.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-184)** Al cinema è spesso possibile vedere le scene come se avvenissero al di là dello schermo e questo fosse trasparente come una tavola di vetro. Al tempo stesso, però, lo schermo priverebbe le scene del colore e lascerebbe passare soltanto il bianco, il grigio e il nero. Ma con ciò non si è tentati di definire lo schermo una tavola di vetro *bianca* e trasparente.
+**[184.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-184)** Al cinema è spesso possibile vedere le scene come se avvenissero al di là dello schermo e questo fosse trasparente come una lastra di vetro. Al tempo stesso, però, lo schermo priverebbe le scene del colore e lascerebbe passare soltanto il bianco, il grigio e il nero. Ma con ciò non si è tentati di definire lo schermo una lastra di vetro *bianca* e trasparente.
 
-Come si vedrebbero allora le cose attraverso una tavola di vetro verde? *Una* differenza, naturalmente, sarebbe che questa ridurrebbe la differenza fra chiaro e scuro, mentre l’altra non sfiorerebbe nemmeno questa differenza. Una tavola “grigia e trasparente” la ridurrebbe leggermente.
+Come si vedrebbero allora le cose attraverso una lastra di vetro verde? *Una* differenza, naturalmente, sarebbe che questa ridurrebbe la differenza fra chiaro e scuro, mentre l’altra non sfiorera nemmeno questa differenza. Una lastra “grigia e trasparente” la ridurrebbe leggermente.
 
-**[185.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-185)** Di una lastra di vetro verde si direbbe forse che dà alle cose il suo colore. Ma la mia lastra “bianca” lo fa? – Se il mezzo verde dà il suo colore alle cose, allora lo dà soprattutto alle cose *bianche.*
+**[185.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-185)** Di una lastra di vetro verde si direbbe forse che dà alle cose il suo colore. Lo fa anche la mia lastra “bianca”? – Se il mezzo verde dà il suo colore alle cose, lo dà soprattutto alle cose *bianche.*
 
 **[186.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-186)** Uno strato sottile di un mezzo colorato colora le cose soltanto debolmente: come dovrebbe colorarle un vetro “bianco” sottile? Non dovrebbe arrivare a sottrarre alle cose tutto il colore?
 
@@ -791,7 +793,7 @@ Come si vedrebbero allora le cose attraverso una tavola di vetro verde? *Una* di
 
 **[190.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-190)** A chi dunque volesse dire, a proposito dei colori, che non ci rendiamo nemmeno conto che i loro concetti sono così diversi, bisognerebbe rispondere che egli ha rivolto la propria attenzione all’analogia (l’uguaglianza) in questi concetti, ma che le differenze stanno nelle relazioni con altri concetti. [Su questo un’osservazione migliore.]
 
-**[191.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-191)** Se la lastra di vetro verde conferisce alle cose dietro di lei il suo colore verde, allora trasforma il bianco in verde, il rosso in nero, il giallo in giallo-verde, il blu in blu tendente al verde. La lastra bianca dunque dovrebbe rendere tutto tendente al bianco, quindi tutto *pallido*; e perché allora non dovrebbe trasformare il nero in grigio? – Anche un vetro giallo scurisce, dovrebbe scurire anche un vetro bianco?
+**[191.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-191)** Se la lastra di vetro verde conferisce alle cose dietro di sé il suo colore verde, allora trasforma il bianco in verde, il rosso in nero, il giallo in giallo-verde, il blu in blu tendente al verde. La lastra bianca dunque dovrebbe rendere tutto tendente al bianco, quindi tutto *pallido*; e perché allora non dovrebbe trasformare il nero in grigio? – Anche un vetro giallo scurisce, dovrebbe scurire anche un vetro bianco?
 
 **[192.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-192)** Ogni mezzo colorato scurisce ciò che viene visto attraverso di esso, inghiotte luce: allora anche il mio vetro bianco dovrebbe scurire? E farlo tanto più quanto più è spesso? Ma dovrebbe lasciare bianco il bianco: allora il “vetro bianco” sarebbe in realtà un vetro scuro.
 
@@ -805,7 +807,7 @@ Come si vedrebbero allora le cose attraverso una tavola di vetro verde? *Una* di
 
 Si dice, certo: “Di notte tutti i gatti sono grigi”, ma questo propriamente significa: non riusciamo a distinguere il loro colore e *potrebbero* anche essere grigi.
 
-**[197.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-197)** Dov’è qui la differenza decisiva fra il bianco e gli altri colori? Nell’asimmetria delle affinità? E questo significa, propriamente, nella particolare posizione occupata nell’ottaedro dei colori? O è piuttosto nella posizione dissimile dei colori rispetto allo scuro e al chiaro?
+**[197.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-197)** Dov’è qui la differenza decisiva fra il bianco e gli altri colori? Nell’asimmetria delle affinità? E questo significa, propriamente, nella particolare posizione di ciascuno nell’ottaedro dei colori? O è piuttosto la posizione dissimile dei colori rispetto allo scuro e al chiaro?
 
 **[198.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-198)** Cosa dovrebbe dipingere il pittore che vuole riprodurre l’effetto di un vetro bianco trasparente?
 
@@ -823,7 +825,7 @@ Rosso, verde (eccetera) dovrebbero diventare tendenti al bianco?
 
 **[204.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-204)** Sarebbe come se si fosse mischiato del bianco o del grigio al suo colore?
 
-**[205.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-205)** Un vetro non potrebbe lasciare il bianco, il nero e il grigio invariati, e rendere gli altri colori tendenti al bianco? E questo non si avvicinerebbe tantissimo a un vetro bianco e trasparente? L’effetto sarebbe come una fotografia che conservi una traccia dei colori naturali. Il grado di oscurità di ciascun colore dovrebbe però essere conservato e di certo non *diminuito.*
+**[205.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-205)** Un vetro non potrebbe lasciare il bianco, il nero e il grigio invariati, e rendere gli altri colori tendenti al bianco? E questo non si avvicinerebbe moltissimo a un vetro bianco e trasparente? L’effetto sarebbe come una fotografia che conservi una traccia dei colori naturali. Il grado di oscurità di ciascun colore dovrebbe però essere conservato e di certo non *diminuito.*
 
 **[206.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-206)** Questo posso capirlo: che una teoria fisica (come quella di Newton) non è in grado di risolvere i problemi che mossero Goethe, anche se poi nemmeno lui li ha risolti.
 
@@ -841,11 +843,11 @@ Perché, per esempio, si dice che un verde o un rosso tendenti al bianco non son
 
 **[212.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-212)** Questo dipende dal fatto che il bianco annulla, un poco alla volta, *tutti* i contrasti, mentre il rosso non lo fa?
 
-**[213.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-213)** Uno stesso tema ha un carattere in tono maggiore e un altro carattere in tono minore, ma parlare in generale di un carattere del tono minore è sbagliato. (In Schubert spesso il maggiore suona più triste del minore.) E per questo, credo, parlare dei caratteri dei singoli colori al fine di comprendere la pittura è ozioso e inutile. Quando se ne parla si pensa soltanto agli impieghi particolari. Il fatto che il verde come colore di una tovaglia abbia un effetto e il rosso ne abbia un altro non ci permette di trarre alcuna conclusione sul loro effetto in un quadro.
+**[213.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-213)** Uno stesso tema ha un carattere in tono maggiore e un altro carattere in tono minore, ma parlare in generale di un carattere del tono minore è sbagliato. (In Schubert spesso il maggiore suona più triste del minore.) E per questo, credo, parlare dei caratteri dei singoli colori al fine di comprendere la pittura è ozioso e inutile. Nel farlo si pensa soltanto agli impieghi particolari. Il fatto che il verde come colore di una tovaglia abbia un effetto e il rosso ne abbia un altro non ci permette di trarre alcuna conclusione sul loro effetto in un quadro.
 
 **[214.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-214)** Il bianco scioglie tutti i colori – lo fa anche il rosso?
 
-**[215.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-215)** Perché non esiste una luce marrone, né una luce grigia? Non c’è nemmeno una luce bianca? Un corpo luminoso può apparire bianco; ma non può apparire né marrone né grigio.
+**[215.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-215)** Perché non esiste una luce marrone, né una luce grigia? Non esiste nemmeno una luce bianca? Un corpo luminoso può apparire bianco; ma non può apparire né marrone né grigio.
 
 **[216.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-216)** Perché non ci si può immaginare un calor grigio?
 
@@ -871,7 +873,7 @@ Che però qualcosa possa “apparire luminoso” dipende dalla distribuzione di 
 
 **[225.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-225)** Quindi potrei vedere una cosa *ora* come debolmente luminosa, *ora* come grigia.
 
-**[226.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-226)** Ciò che si vede come luminoso non si vede come grigio. Ma lo si può ben vedere come bianco.
+**[226.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-226)** Ciò che è visto come luminoso non è visto come grigio. Ma può ben essere visto come bianco.
 
 **[227.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-227)** Si parla di una luce “rosso scuro”, ma non di una luce “rosso-nera”.
 
@@ -915,7 +917,7 @@ Se “bianco” è già un concetto che si riferisce solo a una superficie visiv
 
 **[244.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-244)** Il grigio e il bianco debolmente illuminato o luminoso possono essere, in *un* senso, lo stesso colore, perché per *dipingere* il secondo, forse, devo mescolarlo sulla tavolozza con il primo.
 
-**[245.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-245)** Il fatto che io veda una cosa come grigia o come bianca può dipendere da come vedo le cose illuminate intorno a me. In un contesto per me questo colore è bianco sotto una scarsa illuminazione, in un altro grigio sotto una buona illuminazione.
+**[245.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-245)** Il fatto che io veda una cosa come grigia o come bianca può dipendere da come vedo le cose illuminate intorno a me. In un contesto per me il colore è bianco sotto una cattiva illuminazione, in un altro grigio sotto una buona illuminazione.
 
 **[246.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-246)** Il secchio che vedo di fronte a me è verniciato di un bianco lucido; non potrei mai chiamarlo “grigio” o dire: “Propriamente vedo grigio”. Ma presenta un riflesso molto più chiaro del resto della sua superficie, e, poiché è circolare, passa gradualmente dalla luce all’ombra, pur senza sembrare di colore diverso.
 
@@ -929,7 +931,7 @@ D’altro canto non si percepiscono sempre un rosa o un blu tendente al bianco c
 
 **[250.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-250)** Si può dire: “Il grigio luminoso è bianco”?
 
-**[251.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-251)** Le difficoltà che incontriamo nel riflettere sull’essenza dei colori (e con cui Goethe voleva confrontarsi nella sua *Teoria dei colori*) sono già racchiuse nel fatto che non abbiamo un solo concetto di uguaglianza fra i colori, ma ne abbiamo diversi, fra loro affini.
+**[251.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-251)** Le difficoltà che incontriamo nel riflettere sull’essenza dei colori (e con cui Goethe voleva confrontarsi nella sua *Teoria dei colori*) sono già racchiuse nel fatto che non abbiamo un solo concetto dell’uguaglianza dei colori, ma ne abbiamo diversi, fra loro affini.
 
 **[252.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-252)** La domanda è: di che genere deve essere l’immagine visiva se dobbiamo chiamarla l’immagine visiva di un mezzo colorato trasparente? O anche: che aspetto deve avere una cosa perché a noi appaia colorata e trasparente? Non è una questione della fisica, ma è legata a questioni fisiche.
 
@@ -937,7 +939,7 @@ D’altro canto non si percepiscono sempre un rosa o un blu tendente al bianco c
 
 **[254.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-254)** Ci sono, apparentemente, colori che possiamo chiamare “di sostanza” e colori che possiamo chiamare “di superficie”.
 
-**[255.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-255)** I nostri concetti cromatici si riferiscono a volte alle sostanze (la neve è bianca), altre volte alle superfici (questo tavolo è marrone), altre volte all’illuminazione (nella luce rossastra della sera), altre volte ancora a corpi trasparenti. E non esiste anche un’applicazione a un punto del campo visivo, logicamente indipendente da un contesto spaziale?
+**[255.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-255)** I nostri concetti cromatici si riferiscono a volte alle sostanze (la neve è bianca), altre volte alle superfici (questa scrivania è marrone), altre volte all’illuminazione (nella luce rossastra della sera), altre volte ancora a corpi trasparenti. E non esiste anche un’applicazione a un punto del campo visivo, logicamente indipendente da un contesto spaziale?
 
 Non posso dire: “Lì vedo bianco” (e forse dipingerlo) anche se non posso assolutamente interpretare l’immagine visiva in modo spaziale? (Macchie di colore.) (Penso alla tecnica puntinista.)
 
@@ -971,15 +973,15 @@ Questo non significa che in questo punto io veda l’ocra, perché il pigmento p
 
 Posso dire, ad esempio: “Vedo questo punto così come l’ho dipinto qui (con l’ocra), ovvero come un giallo fortemente tendente al rosso”.
 
-Ma come risponderei se da me si pretendesse che indicassi l’*esatta* tonalità di colore che mi appare qui? Come dovrei fare per indicarla, come dovrei determinarla? Per esempio, si potrebbe pretendere che produca un campione di colore, un pezzo di carta rettangolare di questo colore. Non dico che un tale confronto sia privo di ogni interesse, ma esso mostra che non è chiaro in partenza come si debbano confrontare le tonalità di colore e, quindi, cosa significhi qui “uguaglianza di colore”.
+Ma come risponderei se da me si pretendesse che indicassi l’*esatta* tonalità di colore che mi appare qui? Come dovrei fare per indicarla, come dovrei determinarla? Per esempio, si potrebbe pretendere che produca un campione di colore, un pezzo di carta rettangolare di questo colore. Non dico che un tale confronto sia privo di ogni interesse, ma esso mostra che non è chiaro in partenza come si debbano confrontare le tonalità di colore e, quindi, cosa significhi qui “uguaglianza del colore”.
 
-**[266.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-266)** Immaginiamo che un quadro venga suddiviso in piccoli pezzi di colore all’incirca uniforme, e che questi siano poi utilizzati come tessere di un puzzle. Anche nei casi in cui una di queste tessere non è monocroma, essa non dovrebbe far intravedere alcuna forma spaziale, ma apparire come una macchia colorata piana. Solo in connessione con le altre diventa un pezzo di cielo, un’ombra, un bagliore, una superficie concava o convessa eccetera.
+**[266.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-266)** Immaginiamo che un quadro venga suddiviso in piccoli pezzi di colore all’incirca uniforme, e che questi siano poi utilizzati come tessere di un puzzle. Anche nei casi in cui una di queste tessere non è monocroma, essa non dovrebbe far intravedere alcuna forma spaziale, ma apparire come una macchia di colore piatta. Solo in connessione con le altre diventa un pezzo di cielo, un’ombra, un bagliore, una superficie concava o convessa eccetera.
 
 **[267.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-267)** Si potrebbe quindi dire che questo puzzle mostra i reali colori dei punti del quadro.
 
 **[268.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-268)** Si potrebbe essere tentati di credere che una analisi dei nostri concetti cromatici conduca, alla fine, ai colori dei punti del nostro campo visivo, colori che sarebbero indipendenti da ogni interpretazione spaziale o fisica, perché qui non ci sarebbe né ombra, né luce, né bagliore, né trasparenza, né opacità, eccetera.
 
-**[269.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-269)** Ciò che ci appare come una linea chiara e monocroma senza spessore su un fondo scuro può sembrare bianca, ma non grigia. (?) Un pianeta non potrebbe apparire grigio chiaro.
+**[269.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-269)** Ciò che ci appare come una linea chiara e monocroma senza spessore su un fondo scuro può sembrare bianco, ma non grigio. (?) Un pianeta non potrebbe apparire grigio chiaro.
 
 **[270.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-270)** Ma non si potrebbe, in determinate circostanze, *interpretare* il punto o la linea come grigi? (Pensa a una fotografia.)
 
@@ -991,9 +993,9 @@ In *un certo* senso li *vedo* biondi, in un altro di un grigio più chiaro e pi�
 
 **[272.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-272)** “Rosso scuro” e “rosso-nero” non sono concetti della stessa specie. Un rubino può apparire rosso scuro se si guarda attraverso di esso, ma se è limpido non può apparire rosso-nero. Il pittore può dipingerlo mediante una macchia rosso-nera, ma questa macchia nel quadro non avrà un effetto rosso-nero. La si vedrà come qualcosa che ha profondità, così come la superficie appare tridimensionale.
 
-**[273.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-273)** In un film, come in una fotografia, un volto e i capelli non appaiono *grigi*, ma fanno un’impressione molto naturale; invece il cibo su un piatto, in un film, lo vediamo spesso grigio, e di conseguenza poco invitante.
+**[273.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-273)** In un film, come in una fotografia, un volto e i capelli non appaiono *grigi*, ma fanno un’impressione molto naturale; invece il cibo su un piatto, in un film, appare spesso grigio, e di conseguenza poco invitante.
 
-**[274.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-274)** Ma cosa significa che i capelli appaiono biondi in fotografia? Come si mostra che *appaiono* così e non abbiamo soltanto *inferito* il colore? Quale delle nostre reazioni ce lo fa dire? – Una testa di pietra o di gesso non appare bianca?
+**[274.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-274)** Ma cosa significa che i capelli appaiono biondi in fotografia? Come si mostra che *appaiono* così e che non abbiamo soltanto *inferito* il colore? Quale delle nostre reazioni ce lo fa dire? – Una testa di pietra o di gesso non appare bianca?
 
 **[275.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-275)** Se la stessa parola “biondo” può *suonare* bionda, quanto più facilmente possono apparire biondi i capelli in fotografia!
 
@@ -1003,15 +1005,15 @@ In *un certo* senso li *vedo* biondi, in un altro di un grigio più chiaro e pi�
 
 **[278.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-278)** Il daltonico comprende l’affermazione che è daltonico. Il cieco comprende l’affermazione che è cieco. Ma costoro non possono impiegare queste proposizioni in tutti i modi in cui può farlo chi vede normalmente. Infatti, come chi vede normalmente padroneggia i giochi linguistici con i nomi dei colori, che gli altri non possono imparare, così padroneggia anche i giochi linguistici con “daltonico” e “cieco”.
 
-**[279.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-279)** Si può descrivere a un cieco com’è *vedere*? – Certamente; un cieco impara pur sempre qualcosa sulla differenza fra lui e un vedente. Eppure a questa domanda si potrebbe anche rispondere di no. – Ma non è posta in modo fuorviante? Si può descrivere sia a una persona che gioca a calcio sia a una che non gioca “com’è giocare a calcio”; alla prima, forse, perché verifichi la correttezza della descrizione. Allora si può descrivere al vedente com’è vedere? Ma gli si *può* certamente spiegare cos’è la cecità! Vale a dire, gli si può spiegare il comportamento caratteristico del cieco e gli si possono bendare gli occhi. Viceversa, non si può fare in modo che temporaneamente il cieco veda; ma gli si può descrivere il comportamento del vedente.
+**[279.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-279)** Si può descrivere a un cieco com’è *vedere*? – Certamente; un cieco impara diverse cose sulla differenza fra sé e il vedente. Eppure a questa domanda si potrebbe anche rispondere di no. – Ma non è posta in modo fuorviante? Si può descrivere sia a una persona che gioca a calcio sia a una che non gioca “com’è giocare a calcio”; alla prima, forse, perché verifichi la correttezza della descrizione. Allora si può descrivere al vedente com’è vedere? Ma gli si *può* certamente spiegare cos’è la cecità! Vale a dire, gli si può spiegare il comportamento caratteristico del cieco e gli si possono bendare gli occhi. Viceversa, non si può fare in modo che temporaneamente il cieco veda; ma gli si può descrivere il comportamento del vedente.
 
-**[280.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-280)** Si può dire che il “daltonismo” (o la “cecità”) sia un fenomeno, mentre il “vedere” no?
+**[280.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-280)** Si può dire che il “daltonismo” (o la “cecità”) sia un fenomeno, il “vedere” no?
 
 Questo significherebbe forse: “Io vedo” è un’affermazione, “io sono cieco” no. Ma questo non è vero. Spesso per la strada mi prendono per cieco. Quando succede, potrei dire “Io vedo”, ovvero: non sono cieco.
 
 **[281.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-281)** Si potrebbe dire: è un fenomeno che ci siano persone che non possono imparare questo o quest’altro. Questo fenomeno è il daltonismo. – Esso sarebbe dunque un’incapacità; il vedere sarebbe la capacità.
 
-**[282.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-282)** Dico a B, che non sa giocare a scacchi: “A non riesce a imparare a giocare a scacchi”. B capisce. – Ma ora dico a una persona che non è assolutamente in grado di imparare alcun gioco, che un tale non riesce a imparare un gioco. Cosa sa questa persona dell’essenza di un gioco? Non potrebbe, per esempio, avere un concetto del tutto erroneo di un gioco? Ebbene, potrebbe almeno capire che non possiamo invitare né lui né l’altro a giocare, perché non sanno giocare a nessun gioco.
+**[282.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-282)** Dico a B, che non sa giocare a scacchi: “A non riesce a imparare a giocare a scacchi”. B capisce. – Ma ora dico a una persona che non è assolutamente in grado di imparare alcun gioco che un tale non riesce a imparare un gioco. Cosa sa questa persona dell’essenza di un gioco? Non potrebbe, per esempio, avere un concetto del tutto erroneo di un gioco? Ebbene, potrebbe almeno capire che non possiamo invitare né lui né l’altro a giocare, perché non sanno giocare a nessun gioco.
 
 **[283.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-283)** Tutto ciò che voglio dire qui porta a concludere che l’affermazione “Io vedo un cerchio rosso” è logicamente diversa dall’affermazione “Io vedo, non sono cieco”? Come si mette alla prova una persona per scoprire se la prima affermazione è vera? E per scoprire se è vera la seconda? La psicologia insegna a riconoscere il daltonismo, e quindi anche la visione normale. Ma *chi* può impararlo?
 
@@ -1027,9 +1029,9 @@ Ma come potrebbero le persone “dalla vista normale” apprendere l’impiego �
 
 **[288.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-288)** Posso immaginare come si comporterebbe una persona per la quale non è importante ciò che per me è importante. Ma posso immaginarmi il suo *stato*? – Cosa significa? – Posso immaginare lo stato di una persona per la quale è importante ciò che per me è importante?
 
-**[289.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-289)** Potrei anche imitare alla perfezione qualcuno che facesse una moltiplicazione, senza poter a mia volta imparare a moltiplicare.
+**[289.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-289)** Potrei anche imitare alla perfezione qualcuno che facesse una moltiplicazione, senza essere in grado a mia volta di imparare a moltiplicare.
 
-E allora non potrei insegnare a un altro a moltiplicare, anche se sarebbe pensabile che gli dessi la spinta a impararlo.
+E allora non potrei insegnare a un altro a moltiplicare, anche se sarebbe pensabile che gli dessi la spinta a imparare.
 
 **[290.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-290)** Una persona daltonica può sicuramente descrivere la prova che ha fatto venire alla luce il suo daltonismo. E ciò che egli in seguito può descrivere avrebbe anche potuto inventarlo.
 
@@ -1045,7 +1047,7 @@ E allora non potrei insegnare a un altro a moltiplicare, anche se sarebbe pensab
 
 **[296.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-296)** Diciamo: “Immaginiamo delle persone che non conoscono *questo* gioco linguistico”. Ma con questo non abbiamo ancora una rappresentazione chiara della vita di queste persone, e di ciò in cui essa devia dalla nostra. Non sappiamo ancora cosa dobbiamo immaginare; infatti per il resto la vita di queste persone dovrebbe corrispondere alla nostra e si dovrebbe prima stabilire cosa noi, nelle nuove circostanze, chiameremmo una vita che corrisponde alla nostra.
 
-Non è come se si dicesse: ci sono persone che giocano a scacchi senza il re? Subito sorgono delle domande: chi vince, chi perde, eccetera. Devi prendere *ulteriori* decisioni, non previste in quella prima determinazione. Perché nemmeno tu hai una visione d’insieme della tecnica originaria, ti è soltanto familiare caso per caso.
+Non è come se si dicesse: ci sono persone che giocano a scacchi senza il re? Subito sorgono delle domande: chi vince, chi perde, eccetera. Devi prendere *ulteriori* decisioni, non previste in quella prima determinazione. Perché nemmeno tu hai una visione d’insieme della tecnica originaria; ti è soltanto familiare caso per caso.
 
 **[297.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-297)** Della finzione fa parte anche che la si consideri possibile anche per gli altri.
 
@@ -1053,7 +1055,7 @@ Non è come se si dicesse: ci sono persone che giocano a scacchi senza il re? Su
 
 **[299.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-299)** “Non possiamo che meravigliarci sempre di queste persone.”
 
-**[300.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-300)** Potremmo rappresentare in scena certe persone e far loro dire tra sé e sé cose che naturalmente non direbbero nella vita reale, ma che corrisponderebbero ai loro pensieri. Ma non potremmo mai rappresentare in questo modo delle persone completamente diverse da noi. Anche se fossimo in grado di prevedere le loro azioni, non potremmo far dire loro tra sé e sé cose adatte.
+**[300.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-300)** Potremmo rappresentare in scena certe persone e far loro dire tra sé e sé cose che naturalmente non direbbero nella vita reale, ma che corrisponderebbero ai loro pensieri. Ma non potremmo mai rappresentare in questo modo delle persone completamente diverse da noi. Anche se fossimo in grado di prevedere le loro azioni, non potremmo far dire loro tra sé e sé cose le cose giuste.
 
 Eppure anche in questo modo di considerare la questione c’è qualcosa di sbagliato. Uno di loro, infatti, potrebbe davvero dire qualcosa fra sé e sé mentre agisce, e questa cosa potrebbe, per esempio, essere del tutto convenzionale.
 
@@ -1069,15 +1071,15 @@ Stanno proprio nel mezzo di essa.
 
 **[305.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-305)** “Non so *quanto* fosse arrabbiato.” “Non so se fosse davvero arrabbiato.” – Il diretto interessato lo sa? Glielo si chiede, e lui risponde: “Sì, ero arrabbiato”.
 
-**[306.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-306)** Che cos’è allora l’*insicurezza* circa il fatto se l’altro sia arrabbiato? È uno stato dell’anima di chi è insicuro? Perché questo dovrebbe interessarci? Tale insicurezza sta tutta nell’impiego della proposizione: “È arrabbiato”.
+**[306.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-306)** Che cos’è allora l’*incertezza* circa il fatto se l’altro sia arrabbiato? È uno stato dell’anima di chi è incerto? Perché questo dovrebbe interessarci? Tale incertezza sta tutta nell’impiego della proposizione: “È arrabbiato”.
 
-**[307.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-307)** Ma se uno è insicuro, un altro può essere sicuro: costui conosce “l’espressione del viso” di questa persona quando è arrabbiata. Come impara a riconoscere questo indizio della rabbia come tale? È difficile da dire.
+**[307.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-307)** Ma se uno è incerto, un altro può essere sicuro: costui conosce “l’espressione del viso” di questa persona quando è arrabbiata. Come impara a riconoscere questo indizio della rabbia come tale? È difficile da dire.
 
 **[308.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-308)** Non solo però: “Cosa significa essere incerti dello stato di un altro?” – ma anche: “Cosa significa ‘*sapere*, essere sicuri, che l’altro è arrabbiato’?”.
 
 **[309.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-309)** Qui si potrebbe chiedere cosa voglio davvero, fino a che punto voglio occuparmi della grammatica.
 
-**[310.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-310)** Qualcosa accomuna la sicurezza che una persona verrà a trovarmi e la sicurezza che sia arrabbiata. Anche il tennis e gli scacchi hanno qualcosa in comune, ma qui nessuno direbbe: “È molto semplice: si gioca in entrambi i casi, soltanto a giochi diversi”. In *questo* caso si vede la dissomiglianza con “uno mangia una mela, l’altro una pera”, mentre nell’altro caso non la si vede così facilmente.
+**[310.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-310)** Qualcosa accomuna la certezza che una persona verrà a trovarmi e la certezza che sia arrabbiata. Anche il tennis e gli scacchi hanno qualcosa in comune, ma qui nessuno direbbe: “È molto semplice: si gioca in entrambi i casi, soltanto a giochi diversi”. In *questo* caso si vede la dissomiglianza con “uno mangia una mela, l’altro una pera”, mentre nell’altro caso non la si vede così facilmente.
 
 **[311.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-311)** “So che ieri è venuto.” – “So che 2 × 2 = 4.” – “So che aveva dei dolori.” – “So che lì c’è un tavolo.”
 
@@ -1095,17 +1097,17 @@ Stanno proprio nel mezzo di essa.
 
 Così uno potrebbe dire che è una cosa molto seria che una persona sia morta prima di poter terminare una certa opera; e in un altro senso è irrilevante. Qui si usa l’espressione: “In un senso profondo”.
 
-Propriamente vorrei dire che qui non importano tanto le *parole* che si pronunciano e nemmeno cosa si pensa mentre le si pronuncia, ma la differenza che esse fanno in luoghi diversi della vita. Come faccio a sapere che due persone intendono la stessa cosa quando dicono che credono in Dio? E lo stesso si può dire in relazione alla trinità. La teologia, che spinge a utilizzare *certe* parole e frasi e ne proibisce altre, non chiarisce niente. (Karl Barth.) Gesticola, per così dire, con le parole perché vuole dire una cosa e non sa come la si possa esprimere. È *la prassi* a dare il loro senso alle parole.
+Propriamente vorrei dire che qui non importano tanto le *parole* che si pronunciano e nemmeno cosa si pensa mentre le si pronuncia, ma la differenza che esse fanno in punti diversi della vita. Come faccio a sapere che due persone intendono la stessa cosa quando dicono che credono in Dio? E lo stesso si può dire in relazione alla trinità. La teologia, che spinge a utilizzare *certe* parole e frasi e ne proibisce altre, non chiarisce niente. (Karl Barth.) Gesticola, per così dire, con le parole perché vuole dire una cosa e non sa come la si possa esprimere. È *la prassi* a dare il loro senso alle parole.
 
 **[318.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-318)** Osservo questa macchia. “Ora è *così*” – e indico qualcosa in un’immagine. Potrei *osservare* costantemente la stessa cosa e ciò che *vedo* potrebbe restare invariato o cambiare. Ciò che osservo e ciò che vedo non hanno lo stesso genere di identità. Le parole “questa macchia”, per esempio, non lasciano intendere il genere di identità che ho in mente.
 
-**[319.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-319)** “La psicologia descrive i fenomeni del daltonismo e anche del vedere normale.” Cosa sono i “fenomeni del daltonismo”? Ebbene, le reazioni di una persona daltonica, attraverso le quali essa si differenzia da chi vede normalmente. Ma non *tutte* le reazioni del daltonico; per esempio, non quelle che lo distinguono dal cieco. – Posso insegnare a un cieco cos’è il vedere? Oppure, posso insegnarlo a un vedente? Questo non significa niente. Cosa significa, infatti, descrivere il *vedere*? Ma posso insegnare alle persone il significato delle parole “cieco” e “vedente” e queste le imparano sia il vedente che il cieco. Allora il cieco sa com’è vedere? E il vedente lo sa?! Sa anche com’è essere coscienti?
+**[319.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-319)** “La psicologia descrive i fenomeni del daltonismo e anche del vedere normale.” Cosa sono i “fenomeni del daltonismo”? Ebbene, le reazioni di una persona daltonica attraverso le quali essa si differenzia da chi vede normalmente. Ma non *tutte* le reazioni del daltonico; per esempio, non quelle che lo distinguono dal cieco. – Posso insegnare a un cieco cos’è il vedere? Oppure, posso insegnarlo a un vedente? Questo non significa niente. Cosa significa, infatti, descrivere il *vedere*? Ma posso insegnare alle persone il significato delle parole “cieco” e “vedente” e queste le imparano sia il vedente sia il cieco. Allora il cieco sa com’è vedere? E il vedente lo sa?! Sa anche com’è essere coscienti?
 
-Ma lo psicologo non può osservare la differenza fra il comportamento del vedente e quello del cieco? (Il meteorologo non può osservare la differenza fra la pioggia e la siccità?) Si potrebbe, per esempio, osservare la differenza fra dei topi a cui siano state asportate le vibrisse e altri non mutilati. E questa forse si potrebbe chiamare una descrizione della funzione di questo apparato tattile – La vita dei ciechi è diversa dalla vita dei vedenti.
+Ma lo psicologo non può osservare la differenza fra il comportamento del vedente e quello del cieco? (Il meteorologo non può osservare la differenza fra la pioggia e la siccità?) Si potrebbe, per esempio, osservare la differenza fra dei topi a cui siano state asportate le vibrisse e altri non mutilati. E questa forse si potrebbe chiamare una descrizione della funzione di questo apparato tattile. – La vita dei ciechi è diversa dalla vita dei vedenti.
 
 **[320.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-320)** La persona normale può, per esempio, imparare a scrivere sotto dettatura. Come funziona? Ebbene, uno parla, mentre l’altro scrive ciò che il primo dice. Se, per esempio, uno pronuncia il suono *a,* l’altro scrive il segno “a”, e così via. – Ora, chi *comprende* questa spiegazione non deve conoscere già il gioco, anche se forse non con questo nome, o averlo già imparato attraverso la descrizione? Ma Carlo Magno aveva sicuramente compreso il principio della scrittura, eppure non riusciva a imparare a scrivere. E dunque può capire la descrizione della tecnica anche chi non riesce a impararla. Ma ci sono due casi del non-riuscire-a-imparare. In uno semplicemente non acquisiamo un’abilità, nell’altro ci manca la comprensione. Si può *spiegare* un gioco a una persona: essa può comprendere questa spiegazione ma non riuscire a imparare il gioco, oppure essere incapace di comprendere una spiegazione del gioco. Ma è pensabile anche il contrario.
 
-**[321.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-321)** “Tu vedi l’albero, il cieco non lo vede.” Questo dovrei dire a un vedente. E dunque a un cieco dovrei dire: “Tu non vedi l’albero, noi lo vediamo”? Come andrebbe se il cieco credesse di vedere o se io credessi di non poter vedere?
+**[321.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-321)** “Tu vedi l’albero, il cieco non lo vede.” Questo dovrei dire a un vedente. E dunque a un cieco dovrei dire: “Tu non vedi l’albero, noi lo vediamo”? Come starebbero le cose se il cieco credesse di vedere o io credessi di non poter vedere?
 
 **[322.](https://www.wittgensteinproject.org/w/index.php/Bemerkungen_%C3%BCber_die_Farben#3-322)** Il fatto che io veda l’albero è un fenomeno? Di certo lo è il fatto che lo riconosca correttamente come un albero, che non sia cieco.
 
