@@ -165,7 +165,7 @@ For if a thing is not distinguished by anything, I cannot distinguish it—for o
 
 **[2.061](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#2.061)** Atomic facts are independent of one another.
 
-**[2.062](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#2.062)** From the existence of non-existence of an atomic fact we cannot infer the existence or non-existence of another.
+**[2.062](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#2.062)** From the existence or non-existence of an atomic fact we cannot infer the existence or non-existence of another.
 
 **[2.063](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#2.063)** The total reality is the world.
 
