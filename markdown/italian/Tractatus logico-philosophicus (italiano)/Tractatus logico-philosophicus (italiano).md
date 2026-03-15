@@ -1488,7 +1488,7 @@ Non possiamo pensare ciò che non possiamo pensare; quindi non possiamo nemmeno 
 
 Ciò, infatti, che il solipsismo *intende* è del tutto corretto; solo non può essere *detto*, ma si mostra.
 
-Che il mondo è il *mio* mondo si mostra nel significare i limiti *del* linguaggio (del solo linguaggio che io comprendo) i limiti del *mio* mondo.
+Che il mondo è il *mio* mondo si mostra nel significare i limiti *del* linguaggio (del linguaggio che, solo, comprendo) i limiti del *mio* mondo.
 
 **[5.621](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.621)** Il mondo e la vita sono uno.
 
