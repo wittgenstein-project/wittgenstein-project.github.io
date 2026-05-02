@@ -1275,9 +1275,7 @@ Cette opération nie l'ensemble des propositions comprises dans les parenthèses
 
 **[5.501](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.501)** Une expression entre parenthèses, dont les membres sont des propositions dont l'ordre est arbitraire, je la note par un signe de la forme « ![{ ( \bar{\xi} ) }](images/22c545a9a90d2f7b95fb0636e2d79882d0cd328a78afb1e7c723da5b44a774bf.svg)\  ». « ξ » est une variable dont les valeurs sont les membres de l'expression entre parenthèses ; et la barre au-dessus de la variable note que celle-ci représente l'ensemble de ses valeurs dans les parenthèses.
 
-\(Si par exemple ξ a les trois valeurs P,Q,R :
-
-![{ ( \bar{\xi} ) }](images/22c545a9a90d2f7b95fb0636e2d79882d0cd328a78afb1e7c723da5b44a774bf.svg)\  = (P,Q,R).)
+\(Si par exemple ξ a les trois valeurs P, Q, R : ![{ ( \bar{\xi} ) }](images/22c545a9a90d2f7b95fb0636e2d79882d0cd328a78afb1e7c723da5b44a774bf.svg)\  = (P, Q, R).)
 
 Les valeurs des variables sont fixées. On les fixe en décrivant les propositions dont la variable tient lieu.
 

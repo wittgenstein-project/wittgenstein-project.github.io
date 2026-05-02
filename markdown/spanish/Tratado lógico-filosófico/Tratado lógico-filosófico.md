@@ -1267,7 +1267,7 @@ Esta operación niega todas las proposiciones entre los paréntesis de la derech
 
 **[5.501](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.501)** Un término entre paréntesis cuyos miembros son proposiciones, lo denoto – cuando el orden de los miembros entre paréntesis es igualmente válido – mediante un signo de la forma «![{ ( \bar{\xi} ) }](images/22c545a9a90d2f7b95fb0636e2d79882d0cd328a78afb1e7c723da5b44a774bf.svg)\ ». «*ξ*» es una variable cuyos valores son los miembros del término entre paréntesis, y la barra sobre la variable indica que ella representa todos sus valores en los paréntesis.
 
-\(Así, si tiene ξ, digamos, los tres valores P, Q, R, entonces es ![{ ( \bar{\xi} ) }](images/22c545a9a90d2f7b95fb0636e2d79882d0cd328a78afb1e7c723da5b44a774bf.svg)\  = (*P*, *Q*, *R*)).
+\(Así, si tiene *ξ*, digamos, los tres valores *P*, *Q*, *R*, entonces es ![{ ( \bar{\xi} ) }](images/22c545a9a90d2f7b95fb0636e2d79882d0cd328a78afb1e7c723da5b44a774bf.svg)\  = (*P*, *Q*, *R*)).
 
 Los valores de las variables son establecidos.
 
@@ -1283,7 +1283,7 @@ Cómo aparezca la descripción de los miembros del término entre paréntesis, e
 
 **[5.503](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.503)** Dado que obviamente se puede expresar con facilidad, cómo con esta operación pueden ser construidas proposiciones y cómo no se [deben] construir proposiciones con ella, así esto debe también poder encontrar un término exacto.
 
-**[5.51](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.51)** Si ξ tiene solo un valor, entonces es ![{ N ( \bar{\xi} ) }](images/b3394a04eba3cf3b36ede15e974e646aa098169220c2c60478507502e024c872.svg)\  = \~*p* (no *p*), si tiene dos valores, entonces es ![{ N ( \bar{\xi} ) }](images/b3394a04eba3cf3b36ede15e974e646aa098169220c2c60478507502e024c872.svg)\  = \~*p .* \~*q* (ni *p* ni *q*).
+**[5.51](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.51)** Si *ξ* tiene solo un valor, entonces es ![{ N ( \bar{\xi} ) }](images/b3394a04eba3cf3b36ede15e974e646aa098169220c2c60478507502e024c872.svg)\  = \~*p* (no *p*), si tiene dos valores, entonces es ![{ N ( \bar{\xi} ) }](images/b3394a04eba3cf3b36ede15e974e646aa098169220c2c60478507502e024c872.svg)\  = \~*p .* \~*q* (ni *p* ni *q*).
 
 **[5.511](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.511)** ¿Cómo puede la lógica omnímoda, que refleja el mundo, utilizar anzuelos y manipulaciones tan especiales? Solo en tanto que todos estos se unen a una red infinitamente fina, al gran espejo.
 
@@ -1557,7 +1557,7 @@ El concepto numérico es el número variable.
 
 Y el concepto de igualdad numérica es la forma general de todas las igualdades numéricas especiales.
 
-**[6.03](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.03)** La forma general del número total es: [0, ξ, ξ + 1].
+**[6.03](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.03)** La forma general del número total es: [0, *ξ*, *ξ* + 1].
 
 **[6.031](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.031)** La teoría de las clases es, en las matemáticas, completamente superflua.
 
