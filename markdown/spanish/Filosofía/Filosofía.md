@@ -39,7 +39,7 @@ _*Sergio Sánchez Benítez, octubre de 1991.*_
 
 Como a menudo he dicho, la filosofía no me conduce a ninguna renuncia, puesto que no me impide decir esto o lo otro, sino que abandono una determinada combinación de palabras como sinsentido. En otro sentido, sin embargo, la filosofía exige una resignación, pero del sentimiento y no del entendimiento. Y esto es quizá lo que hace la filosofía tan difícil a muchos. Puede ser tan difícil no utilizar una expresión como lo es contener las lágrimas o un arrebato de ira //rabia.//
 
-/(Tolstoi: el significado [significación] de un objeto reside en su comprensibilidad general. —Esto es verdadero y falso. Lo que hace que un objeto sea difícilmente comprensible —cuando él es significativo, importante— no es que cualesquiera instrucciones sobre cosas abstrusas sean precisas para comprenderlo, sino más bien la contraposición entre la comprensión del objeto y aquello que la mayoría de los hombres quiere ver. Por esto, precisamente, lo más próximo puede tornarse lo más difícilmente comprensible. No hay que superar una dificultad del entendimiento, sino una de la voluntad.)/[^1] (*Vermischte Bemerkungen*, 1931.)[^2]
+/(Tolstoi: el significado [significación] de un objeto reside en su comprensibilidad general. —Esto es verdadero y falso. Lo que hace que un objeto sea difícilmente comprensible —cuando él es significativo, importante— no es que cualesquiera instrucciones sobre cosas abstrusas sean precisas para comprenderlo, sino más bien la contraposición entre la comprensión del objeto y aquello que la mayoría de los hombres quiere ver. Por esto, precisamente, lo más próximo puede tornarse lo más difícilmente comprensible. No hay que superar una dificultad del entendimiento, sino una de la voluntad.)/[^cite_ref-1] (*Vermischte Bemerkungen*, 1931.)[^cite_ref-2]
 
 El trabajo en filosofía —como a menudo el trabajo en la arquitectura— es realmente más el //una suerte de// trabajo en uno mismo. En la propia manera de pensar. En la manera en que uno ve las cosas. (Y en lo que se requiere de ellas.)
 
@@ -83,17 +83,17 @@ Aquello que el otro reconoce es la analogía que yo le ofrezco como fuente de su
 
 *¿De dónde procede el sentimiento de que nuestras investigaciones son fundamentales?*
 
-\(Nos preocupan preguntas de distinto tipo, como —por ejemplo— «¿cuál es el peso específico de este cuerpo?», «¿tendremos hoy buen tiempo?», «¿quién será el próximo en entrar por la puerta?», etc. Pero entre nuestras preguntas se encuentran algunas de un tipo especial. Tenemos aquí otra vivencia. Estas preguntas parecen ser más fundamentales que las demás. Y ahora digo: cuando tenemos esta vivencia llegamos entonces a los límites del lenguaje.)[^3]
+\(Nos preocupan preguntas de distinto tipo, como —por ejemplo— «¿cuál es el peso específico de este cuerpo?», «¿tendremos hoy buen tiempo?», «¿quién será el próximo en entrar por la puerta?», etc. Pero entre nuestras preguntas se encuentran algunas de un tipo especial. Tenemos aquí otra vivencia. Estas preguntas parecen ser más fundamentales que las demás. Y ahora digo: cuando tenemos esta vivencia llegamos entonces a los límites del lenguaje.)[^cite_ref-3]
 
-¿De dónde adquiere su importancia el detenerse a considerar las cosas, si sólo parece destruir todo lo interesante, es decir, todo lo grande e importante? (Por decirlo así, en todo edificio sólo deja restante cascote y escombros.) (*Philosophische Untersuchungen*, I, 118.)[^4]
+¿De dónde adquiere su importancia el detenerse a considerar las cosas, si sólo parece destruir todo lo interesante, es decir, todo lo grande e importante? (Por decirlo así, en todo edificio sólo deja restante cascote y escombros.) (*Philosophische Untersuchungen*, I, 118.)[^cite_ref-4]
 
 ¿De dónde adquiere su importancia este detenerse a considerar que nos hace advertir que se puede usar una tabla de instrucciones en más de una manera, que es posible imaginarse una tabla como las instrucciones para la utilización de una segunda, que es posible concebir una flecha como indicando la dirección de la punta hacia la cola, que puedo utilizar una muestra como muestra en diferentes maneras?
 
 Reconducimos nuevamente a las palabras de uso metafísico a su uso correcto (normal) en el lenguaje. (*Philosophische Untersuchungen*, I, 116*b*.)
 
-\(El hombre que dijo que no es posible meterse dos veces en el mismo río, decía algo falso; es posible meterse dos veces en el mismo río.) (*Zettel*, 459.)[^5]
+\(El hombre que dijo que no es posible meterse dos veces en el mismo río, decía algo falso; es posible meterse dos veces en el mismo río.) (*Zettel*, 459.)[^cite_ref-5]
 
-Y éste es el aspecto de la solución a todas las dificultades filosóficas. Sus respuestas tienen que ser, si son correctas, caseras y usuales. Pero hay que contemplarlas con el espíritu apropiado, ya que de este modo son inocuas.[^6]
+Y éste es el aspecto de la solución a todas las dificultades filosóficas. Sus respuestas tienen que ser, si son correctas, caseras y usuales. Pero hay que contemplarlas con el espíritu apropiado, ya que de este modo son inocuas.[^cite_ref-6]
 
 ¿De dónde adquieren //adquirían// su importancia los viejos problemas filosóficos?
 
@@ -117,7 +117,7 @@ Más bien podríamos decir que nosotros llamamos gramática a algo diferente que
 
 La importancia de la gramática es la importancia del lenguaje.
 
-Se podría también considerar importante una palabra, por ejemplo «rojo», en tanto en cuanto es utilizada con frecuencia y para algo importante, en contraposición a la palabra «cachimba».[^7] Y entonces la gramática de la palabra «rojo» es importante porque describe el significado de la palabra «rojo».
+Se podría también considerar importante una palabra, por ejemplo «rojo», en tanto en cuanto es utilizada con frecuencia y para algo importante, en contraposición a la palabra «cachimba».[^cite_ref-7] Y entonces la gramática de la palabra «rojo» es importante porque describe el significado de la palabra «rojo».
 
 \(Todo lo que la filosofía puede hacer es destruir ídolos. Y esto significa —como por ejemplo «en ausencia de un ídolo»— no erigir ninguno nuevo.)
 
@@ -207,7 +207,7 @@ El problema filosófico es una consciencia del desorden en nuestros conceptos y,
 
 Un problema filosófico tiene siempre esta forma: «No estoy suficientemente familiarizado con ello». (*Philosophische Untersuchungen*, I, 123.)
 
-En mi modo de hacer filosofía, su tarea toda estriba en expresarse de modo que determinadas inquietudes //problemas// desaparezcan (Hertz).[^8]
+En mi modo de hacer filosofía, su tarea toda estriba en expresarse de modo que determinadas inquietudes //problemas// desaparezcan (Hertz).[^cite_ref-8]
 
 Si yo tengo razón, los problemas filosóficos —al contrario que todos los demás— tienen que dejarse resolver en su totalidad.
 
@@ -223,9 +223,9 @@ Los problemas se disuelven —en sentido propio— como un terrón de azúcar en
 
 ¿Cómo es que la filosofía es un edificio //construcción// tan complejo? Debería ser, sin embargo, completamente sencilla, si es, como pretende, aquello último independiente de toda experiencia. —La filosofía desata los nudos de nuestro pensamiento; por ello sus resultados tienen que ser sencillos. Pero la actividad de la filosofía es tan complicada como los nudos que desata. (*Zettel*, 452; cfr. *Philosophische Bemerkungen*, I, 2.)
 
-Lichtenberg: «Nuestra filosofía toda es una corrección de nuestro uso del lenguaje. Así pues, corrección de una filosofía y, sin duda, de la filosofía en el sentido más lato.»[^9]
+Lichtenberg: «Nuestra filosofía toda es una corrección de nuestro uso del lenguaje. Así pues, corrección de una filosofía y, sin duda, de la filosofía en el sentido más lato.»[^cite_ref-9]
 
-\(La capacidad[^10] para la filosofía consiste en la capacidad de recibir una fuerte y persistente impresión de un hecho gramatical.)[^11]
+\(La capacidad[^cite_ref-10] para la filosofía consiste en la capacidad de recibir una fuerte y persistente impresión de un hecho gramatical.)[^cite_ref-11]
 
 ¿Por qué son tan duros y aparentemente inerradicables los problemas gramaticales? Porque están acuñados —fusionados— con los hábitos más viejos del pensamiento, es decir, con las más viejas imágenes de nuestro lenguaje (Lichtenberg).
 
@@ -321,11 +321,11 @@ Debemos arar la totalidad del lenguaje.
 
 ## 93
 
-*La mitología en las formas de nuestro lenguaje (Paul Ernst).*[^12]
+*La mitología en las formas de nuestro lenguaje (Paul Ernst).*[^cite_ref-12]
 
 Nos encontramos en los antiguos ritos con el uso de un lenguaje gestual muy desarrollado.
 
-Y cuando leo a Frazer, deseo decir a cada paso: todos estos procesos, estas transformaciones del significado, las tenemos todavía ante nosotros en nuestro lenguaje oral. Si a lo que se oculta en la última gavilla se le llama *Kornwolf*,[^13] pero también a la gavilla misma y al hombre que las agavilla, entonces reconocemos aquí un fenómeno del lenguaje que nos es muy familiar.
+Y cuando leo a Frazer, deseo decir a cada paso: todos estos procesos, estas transformaciones del significado, las tenemos todavía ante nosotros en nuestro lenguaje oral. Si a lo que se oculta en la última gavilla se le llama *Kornwolf*,[^cite_ref-13] pero también a la gavilla misma y al hombre que las agavilla, entonces reconocemos aquí un fenómeno del lenguaje que nos es muy familiar.
 
 El chivo expiatorio, al que se arrojan los pecados y que corre por el desierto llevándoselos consigo —una falsa imagen, parecida a aquella que causa los errores filosóficos.
 
@@ -344,30 +344,3 @@ Las formas primitivas de nuestro lenguaje: substantivo, adjetivo y verbo, muestr
 Mientras imaginemos el alma como una cosa o un cuerpo que está en nuestra cabeza, esta hipótesis no es peligrosa. El peligro no estriba en lo inacabado o lo rudo de nuestro modelo, sino en su falta de claridad (de transparencia).
 
 El peligro comienza cuando notamos que el viejo modelo no es suficiente, pero no lo transformamos sino que lo sublimamos. Así, mientras diga que el pensamiento está en mi cabeza, todo está en orden. El peligro comienza cuando decimos que el pensamiento no está en mi cabeza, sino en mi espíritu. (*Philosophische Bemerkungen*, XIII, 230; *Zettel*, 605.)
-
-[^1]: Wittgenstein hace aquí referencia al extenso tratado sobre estética de León Tolstoi *¿Qué es el arte?* (1897)*. Aunque no ha podido ser establecido con exactitud, parece ser que las barras oblicuas (/.../) entre las que se encuentra este párrafo indican que se trata de una anotación de carácter general, independiente —en cierto modo— del tema concreto del parágrafo.
-* En fecha reciente ha aparecido una traducción al castellano de la selección inglesa de textos estéticos tolstoianos *What is art? and Essays on Art* (London. Oxford University Press, 1930) en la colección Nexos (n.º 46) de la Editorial Península.
-
-[^2]: Traducción al castellano en Ludwig *Wittgenstein*, *Observaciones*. México: UNAM, 1967.
-
-[^3]: Traducción al castellano en Ludwig *Wittgenstein*, *Investigaciones filosóficas*. México: UNAM, 1967.
-
-[^4]: Wittgenstein añadió en nota marginal manuscrita: «Pertenece a “tener que", "poder".»
-
-[^5]: Traducción al castellano en Ludwig *Wittgenstein*, *Zettel*. México: UNAM, 1979.
-
-[^6]: Al final del párrafo se puede leer la siguiente nota manuscrita: <«completo sinsentido»>.
-
-[^7]: La palabra «cachimba» no es traducción de la palabra *Pfeifendeckel*, sino un recurso del traductor, que desconoce la existencia de una palabra equivalente en castellano, a fin de evitar un neologismo. *Pfeifendeckel* significa en realidad «tapa articulada con la que se cubre la cazoleta o braserillo de una pipa de fumar».
-
-[^8]: Wittgenstein alude aquí a la obra del físico alemán Heinrich Hertz (1857-94), *Die Prinzipien der Mechanik*. Wittgenstein parece sugerir en este párrafo la misma solución para los problemas filosóficos que la que Hertz sugiriera para el problema de la esencia de la «fuerza»; es decir, su disolución.
-
-[^9]: Wittgenstein cita aquí un fragmento de uno de los aforismos que Georg Christoph Lichtenberg (1742-99) dedicara al tema del lenguaje. El aforismo citado por Wittgenstein es el G.H.-1/79, 2, según la clasificación de Leitzmann en su edición de los aforismos de Lichtenberg (*Georg Christoph Lichtenbergs Aphorismen*, Berlín, 1902-08).
-
-[^10]: En el mecanografiado aparece la siguiente alternativa manuscrita (con una línea ondulada continua sobre la palabra original): talento.
-
-[^11]: Wittgenstein añadió a mano la siguiente nota marginal: «Para "chiste”, “profundidad".»
-
-[^12]: Una gran parte del contenido de este parágrafo fue compilado por Rush Rhees en Ludwig *Wittgenstein*, *Bemerkungen über Frazers «The Golden Bough»* (*Synthese*, vol. 17, 1967). Es posible que el título de este parágrafo evocara a Wittgenstein la introducción que el escritor alemán Paul Ernst (1866-1933) escribiera para una edición de los cuentos de los hermanos Grimm.
-
-[^13]: Vid. J. G. *Frazer*, *La rama dorada*. México: Fondo de Cultura Económica, 1984, cap. XLVIII, 2, pp. 510-513.

@@ -769,7 +769,7 @@ Und »wenn ich etwas damit meine« – heißt das etwas *Ähnliches* wie: »wenn
 
 **248.** (Etwas, was auf den ersten Blick ausschaut wie ein Satz und keiner ist.) Der folgende Vorschlag zur Konstruktion einer Straßenwalze wurde mir einmal mitgeteilt. Der Motor befindet sich im Innern der hohlen Walze. Die Kurbelwelle läuft durch die Mitte der Walze und ist an beiden Enden durch Speichen mit dem Walzenrand verbunden. Der Zylinder des Motors ist an der Innenseite der Walze befestigt. Auf den ersten Blick sieht diese Konstruktion wie eine Maschine aus. Aber sie ist ein starres System, und der Kolben kann sich im Zylinder nicht aus und ein bewegen. Wir haben ihn der Bewegungsmöglichkeit beraubt und wissen es nicht.
 
-**249.** »Nichts leichter, als sich einen 4-dimensionalen Würfel vorstellen! Er schaut so aus:[^1]
+**249.** »Nichts leichter, als sich einen 4-dimensionalen Würfel vorstellen! Er schaut so aus:[^cite_ref-1]
 
 ![](images/320px-Zettel_249a_%28colour%29.png)\
 
@@ -843,7 +843,7 @@ Als könnte ich in den Gedanken gleichsam von hinten herum kommen und einen Blic
 
 **271.** Wozu dient ein Satz wie dieser: »Wir können uns die Empfindungen eines Jongleurs wie Rastelli gar nicht vorstellen«?
 
-**272.** »Es hat Sinn, von einer endlosen Baumreihe zu reden; ich kann mir doch vorstellen, daß eine Baumreihe ohne Ende weiterläuft.« D. h. etwa: Wenn es Sinn hat zu sagen, die Baumreihe komme hier zu einem Ende, hat es Sinn zu sagen, [sie komme nie zu einem Ende].[^2] Ramsey pflegte auf solche Fragen zu antworten: es sei *eben doch* möglich, so etwas zu denken. So etwa, wie man sagt »Die Technik leistet heute eben Dinge, die du dir gar nie vorstellen kannst.« –– Nun, da muß man herausfinden, was du dabei denkst. (Daß du versicherst, diese Phrase ließe sich *denken* – was kann ich damit machen? Darauf kommt es ja nicht an. Ihr Zweck ist ja nicht der, Nebel in deiner Seele aufsteigen zu lassen.) *Was* du meinst – Wie ist es herauszufinden? Wir müssen geduldig prüfen, wie dieser Satz angewandt werden soll. Wie *rund um ihn* alles aussieht. Da wird sich sein Sinn zeigen.
+**272.** »Es hat Sinn, von einer endlosen Baumreihe zu reden; ich kann mir doch vorstellen, daß eine Baumreihe ohne Ende weiterläuft.« D. h. etwa: Wenn es Sinn hat zu sagen, die Baumreihe komme hier zu einem Ende, hat es Sinn zu sagen, [sie komme nie zu einem Ende].[^cite_ref-2] Ramsey pflegte auf solche Fragen zu antworten: es sei *eben doch* möglich, so etwas zu denken. So etwa, wie man sagt »Die Technik leistet heute eben Dinge, die du dir gar nie vorstellen kannst.« –– Nun, da muß man herausfinden, was du dabei denkst. (Daß du versicherst, diese Phrase ließe sich *denken* – was kann ich damit machen? Darauf kommt es ja nicht an. Ihr Zweck ist ja nicht der, Nebel in deiner Seele aufsteigen zu lassen.) *Was* du meinst – Wie ist es herauszufinden? Wir müssen geduldig prüfen, wie dieser Satz angewandt werden soll. Wie *rund um ihn* alles aussieht. Da wird sich sein Sinn zeigen.
 
 **273.** Hardy: »That ›the finite cannot understand the infinite‹ should surely be a theological and not a mathematical war-cry.« Es ist wahr, dieser Ausdruck ist ungeschickt. Aber was Leute damit sagen wollen, ist: »Es muß hier doch mit rechten Dingen zugehen! Woher dieser Sprung von Endlichen zum Unendlichen?« Und so ganz unsinnig ist die Ausdrucksweise auch nicht – nur ist das ›Endliche‹, was das Unendliche nicht soll denken können, nicht ›der Mensch‹, oder ›unser Verstand‹, sondern der Kalkül. Und *wie* dieser das ›Unendliche‹ denkt, dies ist wohl einer Untersuchung wert. Und die ist zu vergleichen der genauen Untersuchung und Klärung der Geschäftsgebarung eines Unternehmens durch einen Chartered Accountant. Das Ziel ist eine übersichtliche, vergleichende Darstellung aller Anwendungen, Illustrationen, Auffassungen des Kalküls. Die vollkommene Übersicht über alles, was Unklarheit schaffen kann. Und diese Übersicht muß sich auf ein weites Gebiet erstrecken, denn die Wurzeln unserer Ideen reichen weit. – »Das Endliche kann nicht das Unendliche verstehen«, heißt hier: *So* kann es nicht zugehen, wie ihr es in charakteristischer Oberflächlichkeit darstellt.
 
@@ -1311,7 +1311,7 @@ Die Verkehrsregelung in den Straßen erlaubt und verbietet gewisse Handlungen de
 
 **443.** Denke dir, die Menschen pflegten auf Gegenstände immer *in der* Weise zu zeigen, daß sie mit dem Finger in der Luft gleichsam einen Kreis um den Gegenstand beschrieben, dann könnte man sich einen Philosophen denken, der sagte: »Alle Dinge sind kreisrund; denn der Tisch sieht *so* aus, der Öfen *so*, die Lampe *so*« etc., indem er jedesmal einen Kreis um das Ding schlägt.
 
-**444.** Wir haben nun eine *Theorie*; eine ›dynamische Theorie‹[^3] des Satzes, der Sprache, aber sie erscheint uns nicht als Theorie. Es ist ja das Charakteristische einer solchen Theorie, daß sie einen besonderen, klar anschaulichen Fall ansieht und sagt: »*Das* zeigt, wie es sich überhaupt verhält; dieser Fall ist das Urbild *aller* Fälle.« –– »Natürlich! So muß es sein«, sagen wir und sind zufrieden. Wir sind auf eine Form der Darstellung gekommen, die uns *einleuchtet*. Aber es ist, als haben wir nun etwas gesehen, was *unter* der Oberfläche liegt.
+**444.** Wir haben nun eine *Theorie*; eine ›dynamische Theorie‹[^cite_ref-3] des Satzes, der Sprache, aber sie erscheint uns nicht als Theorie. Es ist ja das Charakteristische einer solchen Theorie, daß sie einen besonderen, klar anschaulichen Fall ansieht und sagt: »*Das* zeigt, wie es sich überhaupt verhält; dieser Fall ist das Urbild *aller* Fälle.« –– »Natürlich! So muß es sein«, sagen wir und sind zufrieden. Wir sind auf eine Form der Darstellung gekommen, die uns *einleuchtet*. Aber es ist, als haben wir nun etwas gesehen, was *unter* der Oberfläche liegt.
 
 Die Tendenz, den klaren Fall zu verallgemeinern, scheint in der Logik ihre strenge Berechtigung zu haben: man scheint hier mit *voller* Berechtigung zu schließen: »Wenn *ein* Satz ein Bild ist, so muß jeder Satz ein Bild sein, denn sie müssen alle wesensgleich sein.« Denn wir sind ja in der Täuschung, das Sublime, Wesentliche unserer Untersuchung bestehe darin, daß sie *ein* allumfassendes Wesen erfasse.
 
@@ -2047,9 +2047,3 @@ Hängt das nicht davon ab, was das Kriterium dafür ist, daß eine Farbe auf Deu
 **717.** »Gott kannst du nicht mit einem Andern reden hören, sondern nur, wenn du der Angeredete bist.« – Das ist eine grammatische Bemerkung.
 
 ---
-
-[^1]: Im Original findet man keine Zeichnung: der Leser möge sich etwas Passendes ausdenken. Es gibt verschiedene Möglichkeiten; wir haben eine Zeichnung von Dr. R. B. O. Richards benutzt. Herausgeber der Papierausgabe.
-
-[^2]: Vermutung der Herausgeber der Papierausgabe.
-
-[^3]: Freud spricht von seiner ›dynamischen‹ Theorie des Traums.

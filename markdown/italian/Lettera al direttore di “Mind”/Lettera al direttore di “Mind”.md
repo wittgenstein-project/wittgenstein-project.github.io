@@ -15,7 +15,7 @@ _Questa traduzione è stata condotta sul testo della seguente edizione inglese: 
 
 *Caro Signor Direttore*,
 
-ho letto l'articolo di Mr. Braithwaite, nel libro di recente pubblicazione *Cambridge University Studies*,[^1] con una certa apprensione, in particolare quello che egli vi presenta come le mie attuali idee in materia di filosofia. Io ho fatto ricerca in filosofia negli ultimi quattro anni, ma non ho pubblicato alcun mio lavoro, tranne, proprio all'inizio di quel periodo, un breve (e debole) articolo in *Proceedings of the Aristotelian Society*.[^2] Ora, se io avessi reso pubblici i miei pensieri in forma stampata, non la disturberei con questa lettera. Poiché ogni lettore serio potrebbe in tal caso controllare quali siano le mie idee nelle mie pubblicazioni. Così stando le cose, invece, se egli è interessato a quel che penso, la sua unica fonte è l'articolo di Mr. Braithwaite. E pertanto devo avvisare quel lettore che io declino ogni responsabilità per le idee e i pensieri che Mr. Braithwaite mi attribuisce. Parte delle sue affermazioni può essere considerata una presentazione inaccurata delle mie idee, altre ancora le contraddicono apertamente.
+ho letto l'articolo di Mr. Braithwaite, nel libro di recente pubblicazione *Cambridge University Studies*,[^cite_ref-1] con una certa apprensione, in particolare quello che egli vi presenta come le mie attuali idee in materia di filosofia. Io ho fatto ricerca in filosofia negli ultimi quattro anni, ma non ho pubblicato alcun mio lavoro, tranne, proprio all'inizio di quel periodo, un breve (e debole) articolo in *Proceedings of the Aristotelian Society*.[^cite_ref-2] Ora, se io avessi reso pubblici i miei pensieri in forma stampata, non la disturberei con questa lettera. Poiché ogni lettore serio potrebbe in tal caso controllare quali siano le mie idee nelle mie pubblicazioni. Così stando le cose, invece, se egli è interessato a quel che penso, la sua unica fonte è l'articolo di Mr. Braithwaite. E pertanto devo avvisare quel lettore che io declino ogni responsabilità per le idee e i pensieri che Mr. Braithwaite mi attribuisce. Parte delle sue affermazioni può essere considerata una presentazione inaccurata delle mie idee, altre ancora le contraddicono apertamente.
 
 Ciò che sta ritardando la pubblicazione del mio lavoro, la difficoltà di presentarlo in una forma chiara e coerente, mi impedisce *a fortiori* di enunciare le mie idee nello spazio di una lettera. Perciò il lettore deve sospendere il giudizio su di esse.
 
@@ -24,7 +24,3 @@ Ciò che sta ritardando la pubblicazione del mio lavoro, la difficoltà di prese
 
 Cambridge.
 27 maggio, 1933.
-
-[^1]: Richard B. Braithwaite, "Philosophy", in *University Studies. Cambridge 1933*, a cura di Harold Wright, Nicholson & Watson, 1933, pp. 1-32.
-
-[^2]: Ludwig Wittgenstein, “[Some Remarks on Logical Form](https://www.wittgensteinproject.org/w/index.php/Some_Remarks_on_Logical_Form)”, *Proceedings of the Aristotelian Society*, vol. supplementare 9, luglio 1929, pp. 162-171.

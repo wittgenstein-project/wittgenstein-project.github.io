@@ -7,7 +7,7 @@ title: Bemerkungen über Frazers “The Golden Bough”
 
 _Published by the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.org/)._
 
-_This digital edition is a diplomatic version of extracts of Wittgenstein’s *Nachlass* Ms-110, Ts-211 and Ms-143 produced with the Interactive Dynamic Presentation tool[^1] provided by the [Wittgenstein Archives at the University of Bergen (WAB)](http://wab.uib.no/). This original-language text is in the public domain in its country of origin and other countries and areas where the copyright term is the author's life plus 70 years or fewer._
+_This digital edition is a diplomatic version of extracts of Wittgenstein’s *Nachlass* Ms-110, Ts-211 and Ms-143 produced with the Interactive Dynamic Presentation tool[^cite_ref-1] provided by the [Wittgenstein Archives at the University of Bergen (WAB)](http://wab.uib.no/). This original-language text is in the public domain in its country of origin and other countries and areas where the copyright term is the author's life plus 70 years or fewer._
 
 # Bemerkungen über Frazers “The Golden Bough”
 
@@ -318,5 +318,3 @@ Das würde darauf deuten, dass hier eine Wahrheit zu Grunde liegt und kein Aberg
 Es ist gar kein Zweifel, dass eine Verstümmelung, die uns in unseren  Augen unwürdig, lächerlich, aussehen macht, uns allen Willen rauben kann, uns zu verteidigen. Wie verlegen werden wir manchmal – oder doch viele Menschen (ich) – durch unsere physische oder ästhetische Inferiorität.
 
 ---
-
-[^1]: Wittgenstein, L. 2016–. [Interactive Dynamic Presentation (IDP) of Ludwig Wittgenstein’s philosophical Nachlass](http://wab.uib.no/transform/wab.php?modus=opsjoner), ed. by the Wittgenstein Archives at the University of Bergen under the direction of Alois Pichler, Bergen.

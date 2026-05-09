@@ -131,7 +131,7 @@ Il fatto che, quando viene fornita una certa regola, un simbolo è tautologico *
 
 ![](images/300px-Notes_Dictated_to_G.E._Moore_in_Norway_schema_corrected.png)\
 
-Questo simbolo potrebbe essere interpretato sia come una tautologia sia come una contraddizione.[^1]
+Questo simbolo potrebbe essere interpretato sia come una tautologia sia come una contraddizione.[^cite_ref-1]
 
 Nello stabilire che ciò va interpretato come una tautologia e non come una contraddizione, non sto assegnando un *significato* ad *a* e a *b*; ovverosia non sto dicendo che essi simbolizzano cose diverse ma nello stesso modo. Sto dicendo invece che il modo in cui il polo *a* è connesso con l’intero simbolo simbolizza in un *modo diverso* dal modo in cui simbolizzerebbe se il simbolo venisse interpretato come una contraddizione. E aggiungo i freghi *a* e *b* solo per mostrare in quali modi la connessione sta simbolizzando, affinché risulti evidente che ogniqualvolta lo stesso frego figura nella posizione corrispondente in un altro simbolo, anche in quel caso la connessione sta simbolizzando nello stesso modo.
 
@@ -190,31 +190,6 @@ Dal fatto che *vedo* che un punto è a sinistra di un altro, o che un colore è 
 Diversi tipi logici possono non avere assolutamente nulla in comune. Ma il mero fatto che si possa parlare della possibilità di una relazione di *n* posizioni, o di un’analogia tra una relazione con due posizioni e una relazione con quattro posizioni, mostra che relazioni con posizioni in numero diverso hanno qualcosa in comune, che dunque non si tratta qui di una differenza di tipo, ma di una differenza come quella tra nomi diversi – qualcosa che dipende dall’esperienza. Ciò risponde alla domanda su come possiamo sapere di essere davvero arrivati alla forma più generale di una proposizione. Dobbiamo solo introdurre ciò che è *comune* a tutte le relazioni con posizioni in numero qualsiasi.
 
 La relazione tra “io credo *p*” e “*p*” può essere confrontata con la relazione tra “‘*p*’ dice (*besagt*) *p*” e *p*: il fatto che *io* sia un semplice è tanto impossibile quanto il fatto che lo sia “*p*”.
-
-[^1]: *Nota del curatore dell’edizione [Ludwig Wittgenstein Project](https://www.wittgensteinproject.org/w/index.php/Main_Page):* Il diagramma disegnato origariamente da Moore aveva questo aspetto: ![](images/300px-Notes_Dictated_to_G.E._Moore_in_Norway_schema.png)\
-L’equivalente di questo simbolo nella notazione odierna delle tavole di verità (nella quale le combinazioni tra i valori di verità possibili delle singole proposizioni sono mostrate tramite una tabella e per indicare i due poli vengono utilizzati “V” e “F” anziché rispettivamente “a” e “b”) è il seguente:
-\
-\
-|*p* |*p* |*p* ≡ \~(\~*p*) |
-|---|---|---|
-|V |V |V |
-|V |F |V |
-|F |V |F |
-|F |F |V |
-\
-Tale diagramma, tuttavia, non corrisponde alle condizioni di verità della proposizione *p* ≡ \~(\~*p*), che nella notazione odierna sono le seguenti:
-\
-\
-|*p* |*p* |*p* ≡ \~(\~*p*) |
-|---|---|---|
-|V |V |V |
-|V |F |F |
-|F |V |F |
-|F |F |V |
-\
-L’edizione cartacea sulla quale è stata condotta questa traduzione riproduce fedelmente il disegno originale di Moore. Nella presente edizione digitale, il diagramma originale scorretto è stato invece sostituito da una versione che corrisponde a quest’ultima tavola di verità.
-\
-Per maggiori dettagli si veda Michael A.R. Biggs, “Editing Wittgenstein’s *Notes on Logic*. Vol. 1”, *Working Papers from the Wittgenstein Archives at the University of Bergen*, n. 11, 1996, § 1.8.
 
 ---
 

@@ -44,7 +44,7 @@ DAVID H. PINSENT
 
 Quizá este libro será entendido solo por aquel que ya haya pensado por sí mismo los pensamientos que en este se expresan (o, al menos, pensamientos similares). Pues este no es un libro de texto. Su objetivo sería alcanzado, cuando este hiciera disfrutar a uno que lo leyera con entendimiento.
 
-El libro trata los problemas filosóficos[^1] y muestra, a mi entender, que el planteamiento de estos problemas se basa en la mala comprensión de la lógica de nuestro lenguaje. Se podría captar aproximadamente el sentido del libro en las siguientes palabras: lo que se puede decir en cualquier caso [*überhaupt*], se puede decir claramente; y de lo que no se puede hablar, de ello se debe guardar silencio.
+El libro trata los problemas filosóficos[^cite_ref-1] y muestra, a mi entender, que el planteamiento de estos problemas se basa en la mala comprensión de la lógica de nuestro lenguaje. Se podría captar aproximadamente el sentido del libro en las siguientes palabras: lo que se puede decir en cualquier caso [*überhaupt*], se puede decir claramente; y de lo que no se puede hablar, de ello se debe guardar silencio.
 
 El libro pretende así establecer un límite al pensamiento o, más bien, no al pensamiento, sino a la expresión de los pensamientos, pues para establecer un límite al pensamiento, deberíamos poder pensar ambos lados del límite (deberíamos, por lo tanto, poder pensar, lo que no se puede pensar).
 
@@ -66,7 +66,7 @@ Sin embargo, la *verdad* de los pensamientos aquí compartidos me parece intocab
 
 ## Tratado lógico-filosófico
 
-**[1](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#1)** El mundo [*Welt*] es todo lo que es el caso [*Fall*][^tlp-note-1_2-0].
+**[1](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#1)** El mundo [*Welt*] es todo lo que es el caso [*Fall*][^cite_ref-tlp-note-1_2-0].
 
 **[1.1](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#1.1)** El mundo es la totalidad de los hechos [*Tatsachen*], no de las cosas [*Dinge*].
 
@@ -80,7 +80,7 @@ Sin embargo, la *verdad* de los pensamientos aquí compartidos me parece intocab
 
 **[1.21](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#1.21)** Uno puede ser el caso o no ser el caso y todo lo demás mantenerse igual.
 
-**[2](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#2)** Lo que es el caso, el hecho, es el darse [*Bestehen*][^3] de estados de las cosas [*Sachverhalten*][^4].
+**[2](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#2)** Lo que es el caso, el hecho, es el darse [*Bestehen*][^cite_ref-3] de estados de las cosas [*Sachverhalten*][^cite_ref-4].
 
 **[2.01](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#2.01)** El estado de las cosas es una conexión entre objetos [*Gegenstände*]. (Cosas [*Sachen*], cosas [*Dingen*]).
 
@@ -88,7 +88,7 @@ Sin embargo, la *verdad* de los pensamientos aquí compartidos me parece intocab
 
 **[2.012](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#2.012)** En la lógica nada es casual: cuando la cosa puede ocurrir en el estado de las cosas, entonces debe ser ya prejuzgada la posibilidad del estado de las cosas en la cosa.
 
-**[2.0121](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#2.0121)** Aparecería, por así decir, como casualidad, cuando a la cosa, que podría darse sola por sí misma, le correspondiera posteriormente una situación [*Sachlage*][^5].
+**[2.0121](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#2.0121)** Aparecería, por así decir, como casualidad, cuando a la cosa, que podría darse sola por sí misma, le correspondiera posteriormente una situación [*Sachlage*][^cite_ref-5].
 
 Si las cosas pueden ocurrir en estados de las cosas, entonces esto debe residir ya en ellas.
 
@@ -112,7 +112,7 @@ No puede ser encontrada una nueva posibilidad con posterioridad.
 
 **[2.013](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#2.013)** Cada cosa está, por así decirlo, en un espacio de un posible estado de las cosas. Yo puedo representarme este espacio vacío, pero no la cosa sin el espacio.
 
-**[2.0131](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#2.0131)** El objeto espacial debe residir en el espacio infinito. (El punto espacial es una postura argumentativa [*Argumentstelle*][^6]).
+**[2.0131](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#2.0131)** El objeto espacial debe residir en el espacio infinito. (El punto espacial es una postura argumentativa [*Argumentstelle*][^cite_ref-6]).
 
 La mancha en el campo visual no tiene por qué ser roja, pero debe tener un color: esta tiene, por así decirlo, el espacio de color en sí. El tono tiene que tener *una* altura, el objeto del tacto *una* dureza, etc.
 
@@ -152,7 +152,7 @@ Pues si la cosa no es destacada por nada, entonces no la puedo destacar, pues de
 
 **[2.026](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#2.026)** Solo si hay objetos puede haber una forma fija del mundo.
 
-**[2.027](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#2.027)** Lo fijo [*Feste*], lo persistente [*Bestehende*][^7] y el objeto son uno.
+**[2.027](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#2.027)** Lo fijo [*Feste*], lo persistente [*Bestehende*][^cite_ref-7] y el objeto son uno.
 
 **[2.0271](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#2.0271)** El objeto es lo fijo, persistente; la configuración es lo cambiante [*Wechselnde*], inestable [*Unbeständige*].
 
@@ -262,7 +262,7 @@ Esta relación de los elementos de la imagen se llama su estructura y su posibil
 
 **[3.001](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#3.001)** «Un estado de las cosas es pensable» significa: nos podemos hacer una imagen de él.
 
-**[3.01](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#3.01)** La totalidad de los pensamientos verdaderos son una imagen del mundo[^8].
+**[3.01](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#3.01)** La totalidad de los pensamientos verdaderos son una imagen del mundo[^cite_ref-8].
 
 **[3.02](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#3.02)** El pensamiento contiene la posibilidad de la situación que piensa. Lo que es pensable, también es posible.
 
@@ -404,7 +404,7 @@ Cómo aparezca la descripción de las proposiciones es inesencial.
 
 **[3.32](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#3.32)** El signo es lo perceptible sensorialmente en el símbolo.
 
-**[3.321](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#3.321)** Así, dos símbolos distintos pueden tener en común el signo (signo escrito o signo sonoro, etc.)[^9], señalan entonces de manera distinta.
+**[3.321](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#3.321)** Así, dos símbolos distintos pueden tener en común el signo (signo escrito o signo sonoro, etc.)[^cite_ref-9], señalan entonces de manera distinta.
 
 **[3.322](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#3.322)** No puede nunca indicar la característica común de dos objetos, [el hecho de] que los señalamos con el mismo símbolo, pero mediante dos *formas de designación* [*Bezeichnungsweise*] distintas. Pues el signo es ciertamente arbitrario. Se podría así también escoger dos signos distintos y dónde estaría entonces lo común en la designación.
 
@@ -424,7 +424,7 @@ Así aparece la palabra «es» como cópula, como signo de igualdad y como expre
 
 **[3.327](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#3.327)** El signo determina una forma lógica solo con su uso lógico-sintáctico.
 
-**[3.328](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#3.328)** Si un signo *no* es *usado*, entonces es insignificante [*bedeutungslos*]. Este es el sentido de la ley de Occam[^10].
+**[3.328](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#3.328)** Si un signo *no* es *usado*, entonces es insignificante [*bedeutungslos*]. Este es el sentido de la ley de Occam[^cite_ref-10].
 
 \(Cuando todo se comporta como si un signo tuviera significado, entonces este tiene también significado).
 
@@ -496,7 +496,7 @@ El lenguaje reviste al pensamiento. Y lo hace de tal manera, que se puede inferi
 
 Los convenios tácitos para el entendimiento del lenguaje coloquial son enormemente complicados.
 
-**[4.003](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.003)** La mayoría de proposiciones y preguntas que han sido escritas sobre cosas [*Dinge*][^11] filosóficas no son falsas, sino absurdas. Por lo tanto, no podemos en absoluto responder preguntas de este tipo, sino solo establecer su absurdidad. La mayoría de preguntas y proposiciones de los filósofos residen en que no comprendemos nuestra lógica del lenguaje.
+**[4.003](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.003)** La mayoría de proposiciones y preguntas que han sido escritas sobre cosas [*Dinge*][^cite_ref-11] filosóficas no son falsas, sino absurdas. Por lo tanto, no podemos en absoluto responder preguntas de este tipo, sino solo establecer su absurdidad. La mayoría de preguntas y proposiciones de los filósofos residen en que no comprendemos nuestra lógica del lenguaje.
 
 \(Ellas son del tipo de preguntas, si el bien es más o menos idéntico que lo bello).
 
@@ -522,7 +522,7 @@ Pues también estas irregularidades constituyen lo que deben expresar, solo que 
 
 A todos ellos es común la construcción lógica.
 
-\(Como los dos jóvenes, sus dos caballos y sus lirios en el cuento[^12]. Todos ellos son en cierto sentido uno).
+\(Como los dos jóvenes, sus dos caballos y sus lirios en el cuento[^cite_ref-12]. Todos ellos son en cierto sentido uno).
 
 **[4.0141](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.0141)** Que haya una regla general mediante la cual el músico pueda extraer la sinfonía de la partitura, mediante la cual se puede deducir la sinfonía de las líneas del disco plano del gramófono y, acorde a la primera regla, [deducir] de nuevo la partitura, ahí reside la similitud interna de estas figuras [*Gebilde*] aparentemente tan diferentes. Y aquella regla es la ley de la proyección que proyecta la sinfonía en la notación musical. Ella es la regla de traducción del lenguaje musical en el lenguaje del disco plano del gramófono.
 
@@ -540,7 +540,7 @@ La proposición *muestra* cómo se comporta *cuando* es verdadera. Y *dice* *que
 
 **[4.023](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.023)** La realidad debe ser fijada mediante la proposición en [un] sí o [un] no.
 
-Para ello, ella [la realidad] debe ser descrita completamente por ella [la proposición][^13]. La proposición es la descripción de un estado de las cosas.
+Para ello, ella [la realidad] debe ser descrita completamente por ella [la proposición][^cite_ref-13]. La proposición es la descripción de un estado de las cosas.
 
 Como la descripción [describe] un objeto según sus cualidades externas, así la proposición describe la realidad según sus cualidades internas.
 
@@ -580,7 +580,7 @@ Mi idea fundamental es que las «constantes lógicas» no representan. Que la *l
 
 **[4.032](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.032)** Solo en la medida en que es la proposición una imagen de una situación está esta lógicamente articulada.
 
-\(También la proposición «*ambulo*»[^14] está compuesta, pues su raíz con otra terminación y su terminación con otra raíz dan lugar a un significado distinto).
+\(También la proposición «*ambulo*»[^cite_ref-14] está compuesta, pues su raíz con otra terminación y su terminación con otra raíz dan lugar a un significado distinto).
 
 **[4.04](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.04)** En la proposición debe haber exactamente tanto por diferenciar como en la situación que ella representa.
 
@@ -604,7 +604,7 @@ Todas estas formas de designación no son suficientes, porque no tienen la multi
 
 Se podría entonces, por ejemplo, decir, que «*p*» señala de manera verdadera lo que «\~*p*» de manera falsa, etc.
 
-**[4.062](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.062)** ¿No puede uno comunicarse con proposiciones falsas como anteriormente con verdaderas? Solo con que uno sepa que son dichas falsamente[^15]. ¡No! Pues verdadera es una proposición cuando eso se comporta como nosotros mediante ella decimos; y cuando con «*p*» queremos decir \~*p*, y eso se comporta como nosotros queremos decir, entonces es «*p*» verdadero en la nueva concepción, y no falso.
+**[4.062](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.062)** ¿No puede uno comunicarse con proposiciones falsas como anteriormente con verdaderas? Solo con que uno sepa que son dichas falsamente[^cite_ref-15]. ¡No! Pues verdadera es una proposición cuando eso se comporta como nosotros mediante ella decimos; y cuando con «*p*» queremos decir \~*p*, y eso se comporta como nosotros queremos decir, entonces es «*p*» verdadero en la nueva concepción, y no falso.
 
 **[4.0621](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.0621)** Sin embargo, que los signos «*p*» y «\~*p*» *puedan* decir lo mismo es importante. Pues muestra que nada corresponde al signo «\~» en la realidad.
 
@@ -618,7 +618,7 @@ Sin embargo, para poder decir, si un punto es negro o blanco, debo primeramente 
 
 El punto en el que el símil se rompe es ahora este: podemos mostrar un punto del papel, incluso sin saber, que es blanco y negro; pero a una proposición sin sentido no corresponde absolutamente nada, pues no señala a ninguna cosa (valor de verdad) cuyas cualidades se llamaban algo así como «falso» o «verdadero»: el verbo [*Verbum*] de una proposición no es «es verdadero» o «es falso» (como creía Frege), sino que lo que «es verdadero» debe contenerlo ya el verbo.
 
-**[4.064](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.064)** Cada proposición debe *ya* tener un sentido; la afirmación no se lo puede dar, pues esta [afirmación][^16] afirma ya el sentido. Y lo mismo vale para la negación, etc.
+**[4.064](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.064)** Cada proposición debe *ya* tener un sentido; la afirmación no se lo puede dar, pues esta [afirmación][^cite_ref-16] afirma ya el sentido. Y lo mismo vale para la negación, etc.
 
 **[4.0641](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.0641)** Se podría decir: la negación se refiere ya al sitio lógico que la proposición negada determina.
 
@@ -668,7 +668,7 @@ Ella debe limitar lo impensable desde dentro mediante lo pensable.
 
 Para poder representar la forma lógica, deberíamos poder colocarnos fuera de la lógica con la proposición, esto es, fuera del mundo.
 
-**[4.121](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.121)** La proposición no puede representar la forma lógica, ella [la forma lógica] se refleja en ella [la proposición][^17].
+**[4.121](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.121)** La proposición no puede representar la forma lógica, ella [la forma lógica] se refleja en ella [la proposición][^cite_ref-17].
 
 Lo que se refleja en el lenguaje, no lo puede representar.
 
@@ -702,7 +702,7 @@ Sin embargo, el darse de tales cualidades y relaciones internas no puede ser afi
 
 \(Aquí corresponde al fluctuante uso de la palabra «cualidad» y «relación» el fluctuante uso de la palabra «objeto»).
 
-**[4.124](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.124)** El darse de una cualidad interna de una situación posible no es expresado mediante una proposición, sino que se expresa en la proposición que la[^18] representa mediante una cualidad interna de esta.
+**[4.124](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.124)** El darse de una cualidad interna de una situación posible no es expresado mediante una proposición, sino que se expresa en la proposición que la[^cite_ref-18] representa mediante una cualidad interna de esta.
 
 Sería tan absurdo atribuir una cualidad formal a la proposición como privarle de ella.
 
@@ -734,7 +734,7 @@ El término de la cualidad formal es un rasgo de ciertos símbolos.
 
 El signo de las características de un concepto formal es, por lo tanto, un rasgo característico de todos los símbolos cuyos significados caen bajo el concepto.
 
-El término del concepto formal, por lo tanto, una variable proposicional, en la cual solo este rasgo es constante[^19].
+El término del concepto formal, por lo tanto, una variable proposicional, en la cual solo este rasgo es constante[^cite_ref-19].
 
 **[4.127](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.127)** La variable proposicional señala el concepto formal y sus valores, los objetos que caen bajo este concepto.
 
@@ -952,7 +952,7 @@ Que hay una forma general de la proposición, es demostrado por [el hecho de] qu
 
 **[4.51](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.51)** Supuesto que se me han dado *todas* las proposiciones elementales, entonces se puede preguntar fácilmente: qué proposiciones puedo componer a partir de ellas. Y esto son *todas* las proposiciones y *así* son delimitadas.
 
-**[4.52](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.52)** Las proposiciones son Todo [*Alles*] lo que se sigue de la totalidad de todas[^20] las proposiciones elementales (obviamente también de ellos [se sigue] que esto es la *totalidad de todas*). (Así se podría decir en cierto sentido, que *todas* las proposiciones son generalizaciones de las proposiciones elementales).
+**[4.52](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.52)** Las proposiciones son Todo [*Alles*] lo que se sigue de la totalidad de todas[^cite_ref-20] las proposiciones elementales (obviamente también de ellos [se sigue] que esto es la *totalidad de todas*). (Así se podría decir en cierto sentido, que *todas* las proposiciones son generalizaciones de las proposiciones elementales).
 
 **[4.53](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.53)** La forma proposicional general es una variable.
 
@@ -1207,7 +1207,7 @@ En la lógica no puede haber general y especial.
 
 **[5.4541](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.4541)** Las soluciones de los problemas lógicos deben ser sencillas, pues asientan el estándar de la sencillez.
 
-Los seres humanos siempre han intuido que debería darse un ámbito de preguntas cuyas respuestas – *a priori* – [serían] simétricas y estuvieran unidas[^21] a una estructura cerrada y regular.
+Los seres humanos siempre han intuido que debería darse un ámbito de preguntas cuyas respuestas – *a priori* – [serían] simétricas y estuvieran unidas[^cite_ref-21] a una estructura cerrada y regular.
 
 Un ámbito, en el que valiese la proposición: la sencillez es el signo de la verdad [*simplex sigillum veri*].
 
@@ -1223,7 +1223,7 @@ La utilización de los paréntesis con aquellos signos primitivos aparentes deno
 
 Están ya, pues, todas las operaciones lógicas contenidas en la proposición elemental. Pues «*fa*» dice lo mismo que «(∃*x*) . *fx* . *x* = *a*».
 
-Donde hay composicionalidad[^22], ahí hay argumento y función, y donde están estos, están ya todas las constantes lógicas.
+Donde hay composicionalidad[^cite_ref-22], ahí hay argumento y función, y donde están estos, están ya todas las constantes lógicas.
 
 Se podría decir: una constante lógica es aquella, que *todas* las proposiciones, acorde a su naturaleza, tienen mutuamente en común.
 
@@ -1327,7 +1327,7 @@ Cuando son dadas las proposiciones elementales, entonces son con ello dadas tamb
 
 **[5.525](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.525)** Es incorrecto reproducir la proposición «(∃*x*) . *fx*» ‒ como hace Russell ‒ en palabras mediante «*fx* es *imposible*».
 
-Certeza, posibilidad o imposibilidad de una situación no es[^23] expresada mediante una proposición, sino en que un término es una tautología, una proposición significativa, o una contradicción.
+Certeza, posibilidad o imposibilidad de una situación no es[^cite_ref-23] expresada mediante una proposición, sino en que un término es una tautología, una proposición significativa, o una contradicción.
 
 Aquel caso precedente, al que siempre querría uno remitirse, debe encontrarse ya en el propio símbolo.
 
@@ -1504,7 +1504,7 @@ Todo lo que podemos describir, en todo caso, podría también ser distinto.
 
 No hay ningún orden de las cosas *a priori*.
 
-**[5.64](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.64)** Aquí se ve que el solipsismo llevado al extremo coincide con el realismo puro. El yo del solipsismo se reduce a un punto sin extensión[^24] y permanece la realidad con él coordinada.
+**[5.64](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.64)** Aquí se ve que el solipsismo llevado al extremo coincide con el realismo puro. El yo del solipsismo se reduce a un punto sin extensión[^cite_ref-24] y permanece la realidad con él coordinada.
 
 **[5.641](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.641)** Por lo tanto, hay realmente un sentido en el cual en la filosofía puede hablarse del yo de manera no psicológica.
 
@@ -1713,13 +1713,13 @@ Pues las igualdades expresan la sustitubilidad [*Ersetzbarkeit*] de dos término
 
 **[6.32](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.32)** La ley de la causalidad no es ninguna ley, sino la forma de una ley.
 
-**[6.321](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.321)** «Ley de la causalidad», eso es un nombre genérico. Y, como en la mecánica, decimos, hay leyes de mínimos – como la de la mínima acción [*Gesetz der kleinsten Wirkung*][^25] – entonces hay en la física leyes de la causalidad, leyes con forma de causalidad.
+**[6.321](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.321)** «Ley de la causalidad», eso es un nombre genérico. Y, como en la mecánica, decimos, hay leyes de mínimos – como la de la mínima acción [*Gesetz der kleinsten Wirkung*][^cite_ref-25] – entonces hay en la física leyes de la causalidad, leyes con forma de causalidad.
 
 **[6.3211](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.3211)** Pues se ha tenido también una idea de que debería haber *una* «ley de la mínima acción» antes de que supiera exactamente cómo funciona. (Aquí, como siempre, se destaca la certeza *a priori* como algo puramente lógico).
 
 **[6.33](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.33)** No *creemos* *a priori* en una ley de la conservación, sino que *sabemos* *a priori* la posibilidad de una forma lógica.
 
-**[6.34](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.34)** Todas aquellas proposiciones, como la proposición de la razón [*der Satz vom Grunde*][^26], de la continuidad en la naturaleza, del mínimo esfuerzo en la naturaleza, etc., etc., todas estas son reflexiones *a priori* sobre la posible conformación de las proposiciones de la ciencia.
+**[6.34](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.34)** Todas aquellas proposiciones, como la proposición de la razón [*der Satz vom Grunde*][^cite_ref-26], de la continuidad en la naturaleza, del mínimo esfuerzo en la naturaleza, etc., etc., todas estas son reflexiones *a priori* sobre la posible conformación de las proposiciones de la ciencia.
 
 **[6.341](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.341)** La mecánica newtoniana, por ejemplo, trae la descripción del mundo a una forma unificada. Pensemos en una superficie blanca en la que haya manchas negras irregulares. Ahora decimos: la imagen que siempre surja de aquí, siempre puedo acercarme a su descripción a voluntad, en tanto que cubra la superficie con una respectiva red fina cuadriculada y ahora diga de cada cuadrado que es blanco o negro. De esta manera habré traído la descripción de la superficie a una forma unificada. Esta forma es arbitraria, pues podría haber usado con el mismo éxito una red de matriz triangular o hexagonal. Puede ser que la descripción con ayuda de una red de triángulos hubiera sido más fácil; esto significa que podríamos describir con más precisión la superficie con una red de triángulos gruesos, que con una de cuadrados finos (o al revés), etc. A las diferentes redes corresponden diferentes sistemas de la descripción del mundo. La mecánica determina una forma de la descripción del mundo en tanto que dice: todas las proposiciones de la descripción del mundo deben estar contenidas en un número de proposiciones dadas – los axiomas mecánicos – de una manera determinada. Con esto proporciona la piedra angular para la construcción del edificio científico y dice: cualquier edificio que quieras representar, cada uno debes componerlo sea como fuere con estas y solo estas piedras angulares.
 
@@ -1862,53 +1862,3 @@ Pues [la] duda solo puede darse donde se da una pregunta; una pregunta, solo don
 Él debe superar estas proposiciones, entonces verá el mundo correctamente.
 
 **[7](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#7)** De lo que no se puede hablar, de ello se debe guardar silencio.
-
-[^1]: La expresión „*die philosophischen Probleme*“, con el artículo determinado, parece indicar que se tratan los problemas de la filosofía en general, es decir, todos ellos o los más fundamentales.
-
-[^3]: La palabra *Bestehen* significa «existencia» (pero también existe el término *Existenz*, usado por el propio Wittgenstein en esta obra, por ejemplo en 3.4). Puede traducirse por «el [hecho de] darse» o el «darse efectivo» (esta última usada por en la traducción de Gredos del 2009 por Muñoz y Reguera). Esta palabra consiste en el verbo –*stehen* (es decir, «estar») y la partícula *be*–, que puede implicar cambio o movimiento, como en *begründen* («establecer», mientras *gründen* es «basar» o, en pasivo, «estar basado») o en *behalten* («quedarse con algo», «guardar algo») frente a *halten* («mantener» o «sostener»).
-
-[^4]: La palabra *Sachverhalten*, o situación, significa literalmente «comportamiento [*verhalten*] entre cosas [*Sache*]» o «relación entre las cosas».
-
-[^5]: Nótese la similitud entre las palabras *Sachverhalten* y *Sachlage*, esta última, «situación [*Lage*] de las cosas [*Sache*]».
-
-[^6]: Literalmente: posición argumentativa o lugar del argumento (según la traducción de Muñoz y Reguera 2009, lugar argumental).
-
-[^7]: Nótese la similitud entre *Bestehen* («el darse» o «lo que se da») y *Bestehende*, literalmente, «lo dándose» o «lo que se está dando», que también puede traducirse por «persistente» (como hacen Muñoz y Reguera, 2009).
-
-[^8]: Anacoluto en el original.
-
-[^9]: Estructura literal de la enumeración en el original, común en Wittgenstein.
-
-[^10]: *Devise Occam* en el original en alemán, haciendo referencia a la navaja de Occam.
-
-[^11]: La palabra «cosa», literalmente *Ding*, expresa el menosprecio del original mejor que, por ejemplo, la palabra «asunto» o «cuestión», usadas en otras traducciones.
-
-[^12]: Referencia a Los niños de oro, de los hermanos Grimm.
-
-[^13]: Las referencias de sendos pronombres queda clara en el alemán, al ser la proposición masculino (*der Satz*) y la realidad, femenino (*die Wirklichkeit*), lo que en español se pierde, al ser ambas femeninas.
-
-[^14]: En latín en el original: «yo ando».
-
-[^15]: Elipsis del verbo principal también en el original.
-
-[^16]: El referente queda claro en alemán por el género de los sustantivos (*der Satz* o «la proposición» es masculino; *die Bejahung* o «la afirmación», femenino).
-
-[^17]: De nuevo, los géneros en alemán (el femenino de *die Form* y el masculino de *der Satz*) aclaran los referentes, mientras que en español queda ambiguo.
-
-[^18]: El pronombre en original (*sie*) no aclara si se refiere a la cualidad o a la situación, aunque en la traducción inglesa (revisada por el propio Wittgenstein) hace referencia a esta última, igual que en Muñoz y Reguera 2009.
-
-[^19]: Falta el verbo principal en el original.
-
-[^20]: Pleonasmo en el original: …*aus der Gesamtheit aller…*
-
-[^21]: La palabra „*vereintliegen*“, usada por Wittgenstein, no está recogida por los diccionarios alemanes, pero sería la unión de „*vereint*“ (unido) y „*liegen*“ (estar, yacer).
-
-[^22]: La palabra „*Zusammengesetztheit*“ tampoco está recogida por los diccionarios alemanes, pero referiría a la cualidad („–*heit*“) de la composición („*Zusammengesetzt*–“).
-
-[^23]: Anacoluto en el original.
-
-[^24]: La palabra „*ausdehnungslos*“ no está recogida por los diccionarios, pero referiría a la ausencia („–*los*“) de extensión („*Ausdehnung*–“).
-
-[^25]: Literalmente, «ley del mínimo efecto», también llamado principio de Hamilton.
-
-[^26]: También llamado principio de razón suficiente.

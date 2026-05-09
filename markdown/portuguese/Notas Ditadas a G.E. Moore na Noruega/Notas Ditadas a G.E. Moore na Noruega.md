@@ -9,7 +9,7 @@ _Published by the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.
 
 _Tradução de [Melina Bentes ](https://www.wittgensteinproject.org/w/index.php/Project:People#Melina_Bentes)_
 
-_Esta tradução está baseada na edição Ludwig Wittgenstein, *Notes Dictated to G. E. Moore in Norway*, Appendix II from *Notebooks 1914-1916*, edited by G. H. Von Wright and G. E. M. Anscombe, Harper Torchbooks, New York: Harper & Row Publishers, 2nd edition, 1984, e foi revisada por Cristiano Moita. As adições em colchetes são dos editores da tradução inglesa; as adições em chaves são da tradutora para a edição portuguesa. O texto da língua original está em domínio público no seu país de origem e em outros países e áreas onde o período de proteção dos direitos autorais é igual à vida do autor mais 70 anos ou menos. Esta tradução está publicada no website do Projeto Ludwig Wittgenstein sob os termos da licença [Creative Commons Atribuição-CompartilhaIgual](https://creativecommons.org/licenses/by-sa/4.0/deed.pt)._
+_Esta tradução está baseada na edição Ludwig Wittgenstein, *Notes Dictated to G. E. Moore in Norway*, Appendix II from *Notebooks 1914-1916*, edited by G. H. von Wright and G. E. M. Anscombe, Harper Torchbooks, New York: Harper & Row Publishers, 2nd edition, 1984, e foi revisada por Cristiano Moita. As adições em colchetes são dos editores da tradução inglesa; as adições em chaves são da tradutora para a edição portuguesa. O texto da língua original está em domínio público no seu país de origem e em outros países e áreas onde o período de proteção dos direitos autorais é igual à vida do autor mais 70 anos ou menos. Esta tradução está publicada no website do Projeto Ludwig Wittgenstein sob os termos da licença [Creative Commons Atribuição-CompartilhaIgual](https://creativecommons.org/licenses/by-sa/4.0/deed.pt)._
 
 # Notas Ditadas a G.E. Moore na Noruega
 
@@ -175,7 +175,7 @@ A *proposição variável* p ⊃ p não é idêntica à *proposição variável*
 
 É muito importante perceber que, quando você tem duas relações diferentes (a,b)R, (c,d)S, isso *não* estabelece uma correlação entre a e c, e b e d, ou a e d, e b e c: não existe nenhuma correlação assim estabelecida. É claro, no caso de dois pares de termos unidos pela *mesma* relação, existe uma correlação. Isso mostra que a teoria que sustentou que um fato relacional contendo os termos e as relações unidos por uma *cópula* (ε~2~) é uma inverdade; pois, se isso fosse o caso, existiria uma correspondência entre os termos de diferentes relações.
 
-A questão surge: como pode uma proposição (ou função) ocorrer em outra proposição? A proposição ou função por si só não pode possivelmente ficar em relação a outros símbolos. Por essa razão nós devemos introduzir funções assim como nomes de uma vez na nossa forma geral de uma proposição; explicando o que se quer dizer, atribuindo significado ao fato de que os nomes ficam entre a \|,[^1] e que a função fica à esquerda dos nomes.
+A questão surge: como pode uma proposição (ou função) ocorrer em outra proposição? A proposição ou função por si só não pode possivelmente ficar em relação a outros símbolos. Por essa razão nós devemos introduzir funções assim como nomes de uma vez na nossa forma geral de uma proposição; explicando o que se quer dizer, atribuindo significado ao fato de que os nomes ficam entre a \|,[^cite_ref-1] e que a função fica à esquerda dos nomes.
 
 É verdadeiro, em certo sentido, que proposições lógicas são “postulados” – algo que nós “demandamos”; pois nós *demandamos* uma notação satisfatória.
 
@@ -194,5 +194,3 @@ Do fato de que eu *vejo* que um ponto está à esquerda de outro, ou de que uma 
 Diferentes tipos lógicos podem não ter nada em comum. Mas o mero fato de que nós podemos falar sobre a possibilidade de uma relação de n lugares, ou de uma analogia entre um com dois lugares e um com quatro, mostra que relações com diferentes números de lugares têm algo em comum, que, portanto, a diferença não é uma de tipo, mas como a diferença entre nomes diferentes – algo que depende da experiência. Isso responde a questão como podemos saber que realmente obtivemos a forma mais geral de uma proposição. Nós temos apenas introduzir o que é *comum* a todas as relações de qualquer número de lugares.
 
 A relação de “eu acredito p” para “p” pode ser comparada com a relação de ‘“p” diz (*besagt*) p’ para p: é tão impossível que *eu* deveria ser simples como “p” deveria ser.
-
-[^1]: No original, “*meaning*” está traduzido por “significado” neste trabalho, e não “*sense*” como o substantivo em alemão “*Sinn*” entre parênteses pode sugerir.

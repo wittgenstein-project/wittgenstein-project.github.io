@@ -8,8 +8,8 @@
                 xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
                 
 <circle cx="80" cy="440" r="11.076795367378377" fill="#fbf0a4" stroke="#fbf0a4" stroke-width="8" />
-<circle cx="400" cy="440" r="5.281208037115204" fill="#fbf0a4" stroke="#fbf0a4" stroke-width="8" />
-<circle cx="440" cy="440" r="15.702137904923008" fill="#fbf0a4" stroke="#fbf0a4" stroke-width="8" />
+<circle cx="200" cy="440" r="5.281208037115204" fill="#fbf0a4" stroke="#fbf0a4" stroke-width="8" />
+<circle cx="240" cy="440" r="15.702137904923008" fill="#fbf0a4" stroke="#fbf0a4" stroke-width="8" />
 <circle cx="40" cy="40" r="4" stroke="black" fill="none" stroke-width="2" />
 <circle cx="80" cy="40" r="4" stroke="black" fill="none" stroke-width="2" />
 <circle cx="120" cy="40" r="4" stroke="black" fill="none" stroke-width="2" />
@@ -293,15 +293,15 @@
 <circle cx="40" cy="440" r="13.74574418346284" fill="none" stroke="black" stroke-width="6" />
 <circle cx="80" cy="440" r="3.538397683689189" fill="none" stroke="black" stroke-width="6" />
 <circle cx="120" cy="440" r="20.42605981080281" fill="none" stroke="black" stroke-width="6" />
-<circle cx="160" cy="440" r="32.69236163889568" fill="none" stroke="black" stroke-width="6" />
-<circle cx="200" cy="440" r="5.448754518112854" fill="none" stroke="black" stroke-width="6" />
-<circle cx="240" cy="440" r="5.8085030263555835" fill="none" stroke="black" stroke-width="6" />
-<circle cx="280" cy="440" r="8.32404350301957" fill="none" stroke="black" stroke-width="6" />
-<circle cx="320" cy="440" r="7.393224905690997" fill="none" stroke="black" stroke-width="6" />
-<circle cx="360" cy="440" r="3.779560402214766" fill="none" stroke="black" stroke-width="6" />
-<circle cx="400" cy="440" r="0.6406040185576019" fill="none" stroke="black" stroke-width="6" />
-<circle cx="440" cy="440" r="5.851068952461504" fill="none" stroke="black" stroke-width="6" />
-<circle cx="480" cy="440" r="5.851068952461504" fill="none" stroke="black" stroke-width="6" />
+<circle cx="160" cy="440" r="32.70720319964488" fill="none" stroke="black" stroke-width="6" />
+<circle cx="200" cy="440" r="0.6406040185576019" fill="none" stroke="black" stroke-width="6" />
+<circle cx="240" cy="440" r="5.851068952461504" fill="none" stroke="black" stroke-width="6" />
+<circle cx="280" cy="440" r="5.851068952461504" fill="none" stroke="black" stroke-width="6" />
+<circle cx="320" cy="440" r="4" stroke="black" fill="none" stroke-width="2" />
+<circle cx="360" cy="440" r="4" stroke="black" fill="none" stroke-width="2" />
+<circle cx="400" cy="440" r="4" stroke="black" fill="none" stroke-width="2" />
+<circle cx="440" cy="440" r="4" stroke="black" fill="none" stroke-width="2" />
+<circle cx="480" cy="440" r="4" stroke="black" fill="none" stroke-width="2" />
 <circle cx="520" cy="440" r="4" stroke="black" fill="none" stroke-width="2" />
 <circle cx="560" cy="440" r="4" stroke="black" fill="none" stroke-width="2" />
 <circle cx="600" cy="440" r="4" stroke="black" fill="none" stroke-width="2" />

@@ -7,9 +7,9 @@ title: Philosophische Untersuchungen
 
 _Published by the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.org/)._
 
-_Herausgegeben von [G. E. M. Anscombe](https://en.wikipedia.org/wiki/G._E._M._Anscombe), [R. Rhees](https://en.wikipedia.org/wiki/Rush_Rhees), [G. H. Von Wright](https://en.wikipedia.org/wiki/G._H._Von_Wright)_
+_Herausgegeben von [G. E. M. Anscombe](https://en.wikipedia.org/wiki/G._E._M._Anscombe), [R. Rhees](https://en.wikipedia.org/wiki/Rush_Rhees), [G. H. von Wright](https://en.wikipedia.org/wiki/G._H._von_Wright)_
 
-_Diese digitale Ausgabe ist eine Reproduktion von L. Wittgenstein, *Philosophische Untersuchungen*. Herausgegeben von G. E. M. Anscombe, R. Rhees, G. H. Von Wright. Ludwig Wittgenstein Werkausgabe, Band 1. Suhrkamp Verlag, Frankfurt am Main, 1999, S. 231–485. Dieses Werk ist gemeinfrei, weil seine urheberrechtliche Schutzfrist abgelaufen ist. Dies gilt für das Herkunftsland des Werks und alle weiteren Staaten mit einer gesetzlichen Schutzfrist von 70 oder weniger Jahren nach dem Tod des Urhebers._
+_Diese digitale Ausgabe ist eine Reproduktion von L. Wittgenstein, *Philosophische Untersuchungen*. Herausgegeben von G. E. M. Anscombe, R. Rhees, G. H. von Wright. Ludwig Wittgenstein Werkausgabe, Band 1. Suhrkamp Verlag, Frankfurt am Main, 1999, S. 231–485. Dieses Werk ist gemeinfrei, weil seine urheberrechtliche Schutzfrist abgelaufen ist. Dies gilt für das Herkunftsland des Werks und alle weiteren Staaten mit einer gesetzlichen Schutzfrist von 70 oder weniger Jahren nach dem Tod des Urhebers._
 
 # Philosophische Untersuchungen
 

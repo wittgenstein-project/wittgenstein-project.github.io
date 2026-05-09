@@ -51,7 +51,7 @@ Dagegen scheint mir die *Wahrheit* der hier mitgeteilten Gedanken unantastbar un
 
 ## Logisch-philosophische Abhandlung
 
-**1** Die Welt ist alles, was der Fall ist.[^tlp-note-1_1-0]
+**1** Die Welt ist alles, was der Fall ist.[^cite_ref-tlp-note-1_1-0]
 
 **1.1** Die Welt ist die Gesamtheit der Tatsachen, nicht der Dinge.
 

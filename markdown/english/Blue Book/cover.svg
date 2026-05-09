@@ -567,7 +567,7 @@
 <circle cx="600" cy="680" r="15.270833452044528" fill="none" stroke="black" stroke-width="6" />
 <circle cx="640" cy="680" r="9.920176157222533" fill="none" stroke="black" stroke-width="6" />
 <circle cx="680" cy="680" r="0.6406040185576019" fill="none" stroke="black" stroke-width="6" />
-<circle cx="720" cy="680" r="10.570182043907918" fill="none" stroke="black" stroke-width="6" />
+<circle cx="720" cy="680" r="4" stroke="black" fill="none" stroke-width="2" />
 <circle cx="760" cy="680" r="4" stroke="black" fill="none" stroke-width="2" />
 <circle cx="800" cy="680" r="4" stroke="black" fill="none" stroke-width="2" />
 <circle cx="840" cy="680" r="4" stroke="black" fill="none" stroke-width="2" />

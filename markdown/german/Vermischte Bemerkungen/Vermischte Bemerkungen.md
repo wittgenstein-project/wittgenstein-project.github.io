@@ -8,10 +8,10 @@ title: Vermischte Bemerkungen
 _Published by the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.org/)._
 
 _Eine Auswahl aus dem Nachlaß_
-_Herausgegeben von G. H. Von Wright_
+_Herausgegeben von G. H. von Wright_
 _Unter Mitarbeit von Heikki Nyman_
 
-_Originaltext: Ludwig Wittgenstein: *Vermischte Bemerkungen*. Herausgegeben von G. H. Von Wright. Ludwig Wittgenstein Werkausgabe, Band 8. Suhrkamp Verlag, Frankfurt am Main, 2006. Wittgensteins Bemerkungen, aus denen dieses Werk besteht, sind gemeinfrei, weil ihre urheberrechtliche Schutzfrist abgelaufen ist. Dies gilt für das Herkunftsland des Werks und alle weiteren Staaten mit einer gesetzlichen Schutzfrist von 70 oder weniger Jahren nach dem Tod des Urhebers._
+_Originaltext: Ludwig Wittgenstein: *Vermischte Bemerkungen*. Herausgegeben von G. H. von Wright. Ludwig Wittgenstein Werkausgabe, Band 8. Suhrkamp Verlag, Frankfurt am Main, 2006. Wittgensteins Bemerkungen, aus denen dieses Werk besteht, sind gemeinfrei, weil ihre urheberrechtliche Schutzfrist abgelaufen ist. Dies gilt für das Herkunftsland des Werks und alle weiteren Staaten mit einer gesetzlichen Schutzfrist von 70 oder weniger Jahren nach dem Tod des Urhebers._
 
 _Das Ludwig Wittgenstein Project ist dankbar an die Erben G.H. von Wrights, für die Gewährung (ob und wenn diese Benötigt ist), für die Veröffentlichung dieses Textes als Webausgabe, und für die Freilassung dieses Textes unter der [Creative Commons Attribution-ShareAlike licence](https://creativecommons.org/licenses/by-sa/4.0/), sollten die Urheberrechte noch mit den Erben G.H. von Wright liegen. Es ist weiterhin unklar, ob die Urheberrechte dieses Textes mit G.H. von Wright bleiben, aufgrund seiner Leistung diese Bemerkungen von Wittgensteins Manuskripten auszuwählen._
 
@@ -103,7 +103,7 @@ Niemand kann einen Gedanken für mich denken, wie mir niemand als ich den Hut au
 
 ---
 
-Wer ein Kind mit Verständnis schreien hört, der wird wissen, daß andere seelische Kräfte, furchtbare, darin schlummern, als man gewöhnlich annimmt. Tiefe Wut und Schmerz und Zerstörungsucht.[^1]
+Wer ein Kind mit Verständnis schreien hört, der wird wissen, daß andere seelische Kräfte, furchtbare, darin schlummern, als man gewöhnlich annimmt. Tiefe Wut und Schmerz und Zerstörungsucht.[^cite_ref-1]
 
 *1929*
 
@@ -153,7 +153,7 @@ Man kann die Menschen nicht zum Guten führen; man kann sie nur irgendwohin füh
 
 ---
 
-Ich sagte neulich zu Arvid[^2], mit dem ich im Kino einen uralten Film gesehen hatte: Ein jetziger Film verhielte sich zum alten, wie ein heutiges Automobil zu einem von vor 25 Jahren. Er wirkt ebenso lächerlich und ungeschickt, wie dieses und die Verbesserung des Films entspricht einer technischen Verbesserung, wie der des Automobils. Sie entspricht nicht der Verbesserung – wenn man das so nennen darf – eines Kunststils. Ganz ähnlich müßte es auch in der modernen Tanzmusik gehen. Ein Jazztanz müßte sich verbessern lassen, wie ein Film. Das, was alle diese Entwicklungen von dem Werden eines *Stils* unterscheidet, ist die Unbeteiligung des Geistes.
+Ich sagte neulich zu Arvid[^cite_ref-2], mit dem ich im Kino einen uralten Film gesehen hatte: Ein jetziger Film verhielte sich zum alten, wie ein heutiges Automobil zu einem von vor 25 Jahren. Er wirkt ebenso lächerlich und ungeschickt, wie dieses und die Verbesserung des Films entspricht einer technischen Verbesserung, wie der des Automobils. Sie entspricht nicht der Verbesserung – wenn man das so nennen darf – eines Kunststils. Ganz ähnlich müßte es auch in der modernen Tanzmusik gehen. Ein Jazztanz müßte sich verbessern lassen, wie ein Film. Das, was alle diese Entwicklungen von dem Werden eines *Stils* unterscheidet, ist die Unbeteiligung des Geistes.
 
 *1930*
 
@@ -191,7 +191,7 @@ Nun scheint mir aber, gibt es außer der Arbeit des Künstlers noch eine andere,
 
 ---
 
-Ich lese in Renans ›Peuple d’Israël‹: »La naissance, la maladie, la mort, le délire, la catalepsie, le sommeil, les rêves frappaient infiniment, et, même aujourd’hui, il n’est donné qu’à un petit nombre de voir clairement que ces phénomènes ont leurs causes dans notre organisation.«[^3] Im Gegenteil, es besteht gar kein Grund, sich über diese Dinge zu wundern, weil sie so alltäglich sind. Wenn sich der primitive Mensch über sie wundern *muß*, wieviel mehr der Hund und der Affe. Oder nimmt man an, daß die Menschen quasi plötzlich aufgewacht sind, und diese Dinge, die schon immer da waren, nun plötzlich bemerken und begreiflicherweise erstaunt waren? – Ja, etwas Ähnliches könnte man sogar annehmen; aber nicht, daß sie diese Dinge zum erstenmal wahrnehmen, sondern, daß sie plötzlich anfangen, sich über sie zu wundern. Das aber hat wieder nichts mit ihrer Primitivität zu tun. Es sei denn, daß man es primitiv nennt, sich nicht über die Dinge zu wundern, dann aber sind gerade die heutigen Menschen und Renan selbst primitiv, wenn er glaubt, die Erklärung der Wissenschaft könne das Staunen heben.
+Ich lese in Renans ›Peuple d’Israël‹: »La naissance, la maladie, la mort, le délire, la catalepsie, le sommeil, les rêves frappaient infiniment, et, même aujourd’hui, il n’est donné qu’à un petit nombre de voir clairement que ces phénomènes ont leurs causes dans notre organisation.«[^cite_ref-3] Im Gegenteil, es besteht gar kein Grund, sich über diese Dinge zu wundern, weil sie so alltäglich sind. Wenn sich der primitive Mensch über sie wundern *muß*, wieviel mehr der Hund und der Affe. Oder nimmt man an, daß die Menschen quasi plötzlich aufgewacht sind, und diese Dinge, die schon immer da waren, nun plötzlich bemerken und begreiflicherweise erstaunt waren? – Ja, etwas Ähnliches könnte man sogar annehmen; aber nicht, daß sie diese Dinge zum erstenmal wahrnehmen, sondern, daß sie plötzlich anfangen, sich über sie zu wundern. Das aber hat wieder nichts mit ihrer Primitivität zu tun. Es sei denn, daß man es primitiv nennt, sich nicht über die Dinge zu wundern, dann aber sind gerade die heutigen Menschen und Renan selbst primitiv, wenn er glaubt, die Erklärung der Wissenschaft könne das Staunen heben.
 
 Als ob der Blitz heute alltäglicher oder weniger staunenswert wäre als vor 2000 Jahren.
 
@@ -211,7 +211,7 @@ Die Dinge liegen unmittelbar da vor unsern Augen, kein Schleier über ihnen. –
 
 ---
 
-*ZU EINEM VORWORT:*[^4]
+*ZU EINEM VORWORT:*[^cite_ref-4]
 
 Dieses Buch ist für diejenigen geschrieben, die dem Geist, in dem es geschrieben ist, freundlich gegenüberstehen. Dieser Geist ist, glaube ich, ein anderer als der des großen Stromes der europäischen und amerikanischen Zivilisation. Der Geist dieser Zivilisation, dessen Ausdruck die Industrie, Architektur, Musik, der Faschismus und Sozialismus unserer Zeit ist, ist dem Verfasser fremd und unsympathisch. Dies ist kein Werturteil. Nicht, als ob er glaubte, daß was sich heute als Architektur ausgibt, Architektur wäre, und nicht, als ob er dem, was moderne Musik heißt, nicht das größte Mißtrauen entgegenbrächte (ohne ihre Sprache zu verstehen), aber das Verschwinden der Künste rechtfertigt kein absprechendes Urteil über eine Menschheit. Denn echte und starke Naturen wenden sich eben in dieser Zeit von dem Gebiet der Künste ab, und anderen Dingen zu, und der Wert des Einzelnen kommt irgendwie zum Ausdruck. Freilich nicht wie zur Zeit einer großen Kultur. Die Kultur ist gleichsam eine große Organisation, die jedem, der zu ihr gehört, seinen Platz anweist, an dem er im Geist des Ganzen arbeiten kann, und seine Kraft kann mit großem Recht an seinem Erfolg im Sinne des Ganzen gemessen werden. Zur Zeit der Unkultur aber zersplittern sich die Kräfte und die Kraft des Einzelnen wird durch entgegengesetzte Kräfte und Reibungswiderstände verbraucht, und kommt nicht in der Länge des durchlaufenen Weges zum Ausdruck, sondern vielleicht nur in der Wärme, die er beim Überwinden der Reibungswiderstände erzeugt hat. Aber Energie bleibt Energie, und wenn so das Schauspiel, das dieses Zeitalter bietet, auch nicht das des Werdens eines großen Kulturwerkes ist, in dem die Besten dem gleichen großen Zweck zuarbeiten, sondern das wenig imposante Schauspiel einer Menge, deren Beste nur privaten Zielen nachstreben, so dürfen wir nicht vergessen, daß es auf das Schauspiel nicht ankommt.
 
@@ -245,7 +245,7 @@ Die eine Bewegung baut und nimmt Stein auf Stein in die Hand, die andere greift 
 
 ---
 
-Die Gefahr eines langen Vorworts[^5] ist die, daß der Geist eines Buchs sich in diesem zeigen muß, und nicht beschrieben werden kann. Denn ist ein Buch nur für wenige geschrieben, so wird sich das eben dadurch zeigen, daß nur wenige es verstehen. Das Buch muß automatisch die Scheidung derer bewirken, die es verstehen, und die es nicht verstehen. Auch das Vorwort ist eben für die geschrieben, die das Buch verstehen.
+Die Gefahr eines langen Vorworts[^cite_ref-5] ist die, daß der Geist eines Buchs sich in diesem zeigen muß, und nicht beschrieben werden kann. Denn ist ein Buch nur für wenige geschrieben, so wird sich das eben dadurch zeigen, daß nur wenige es verstehen. Das Buch muß automatisch die Scheidung derer bewirken, die es verstehen, und die es nicht verstehen. Auch das Vorwort ist eben für die geschrieben, die das Buch verstehen.
 
 Es hat keinen Sinn jemandem etwas zu sagen, was er nicht versteht, auch wenn man hinzusetzt, daß er es nicht verstehen kann. (Das geschieht so oft mit einem Menschen, den man liebt.)
 
@@ -273,7 +273,7 @@ Wo man an die Grenze seiner eigenen Anständigkeit stößt, dort entsteht quasi 
 
 ---
 
-Ich lese in Lessing (über die Bibel)[^6]: »Setzt hierzu noch die Einkleidung und den Stil ..., durchaus voll Tautologien, aber solchen, die den Scharfsinn üben, indem sie bald etwas anderes zu sagen scheinen, und doch das nämliche sagen, bald das nämliche zu sagen scheinen, und im Grunde etwas anderes bedeuten oder bedeuten können.«
+Ich lese in Lessing (über die Bibel)[^cite_ref-6]: »Setzt hierzu noch die Einkleidung und den Stil ..., durchaus voll Tautologien, aber solchen, die den Scharfsinn üben, indem sie bald etwas anderes zu sagen scheinen, und doch das nämliche sagen, bald das nämliche zu sagen scheinen, und im Grunde etwas anderes bedeuten oder bedeuten können.«
 
 *1930*
 
@@ -463,7 +463,7 @@ Im golden roten Hag brauen die Nebeldrachen;
 und schlummernd liegt der Tag.
 Der Tag will nicht erwachen.
 
-Das Gedicht habe ich aus einem »Rösselsprung« entnommen, wo natürlich die Interpunktion fehlte. Ich weiß daher z. B. nicht, ob das Wort »Nebeltag« der Titel ist, oder ob es zur ersten Zeile gehört, wie ich es geschrieben habe. Und es ist merkwürdig, wie trivial das Gedicht klingt, wenn es nicht mit dem Wort »Nebeltag«, sondern mit »Der graue« beginnt. Der Rhythmus des *ganzen* Gedichts ändert sich dadurch.[^7]
+Das Gedicht habe ich aus einem »Rösselsprung« entnommen, wo natürlich die Interpunktion fehlte. Ich weiß daher z. B. nicht, ob das Wort »Nebeltag« der Titel ist, oder ob es zur ersten Zeile gehört, wie ich es geschrieben habe. Und es ist merkwürdig, wie trivial das Gedicht klingt, wenn es nicht mit dem Wort »Nebeltag«, sondern mit »Der graue« beginnt. Der Rhythmus des *ganzen* Gedichts ändert sich dadurch.[^cite_ref-7]
 
 *1931*
 
@@ -523,7 +523,7 @@ Wenn man die sokratischen Dialoge liest, so hat man das Gefühl: welche fürchte
 
 ---
 
-Die Geschichte des Peter Schlemihls[^8] sollte, wie mir scheint, so lauten: Er verschreibt seine Seele um Geld dem Teufel. Dann reut es ihn und nun verlangt der Teufel den Schatten als Lösegeld. Peter Schlemihl aber bleibt die Wahl seine Seele dem Teufel zu schenken, oder mit dem Schatten auf das Gemeinschaftsleben der Menschen zu verzichten.
+Die Geschichte des Peter Schlemihls[^cite_ref-8] sollte, wie mir scheint, so lauten: Er verschreibt seine Seele um Geld dem Teufel. Dann reut es ihn und nun verlangt der Teufel den Schatten als Lösegeld. Peter Schlemihl aber bleibt die Wahl seine Seele dem Teufel zu schenken, oder mit dem Schatten auf das Gemeinschaftsleben der Menschen zu verzichten.
 
 *1931*
 
@@ -565,7 +565,7 @@ Ich lese: »... philosophers are no nearer to the meaning of ›Reality‹ than 
 
 ---
 
-Kleist schrieb einmal,[^9] es wäre dem Dichter am liebsten, er könnte die Gedanken selbst ohne Worte übertragen. (Welch seltsames Eingeständnis.)
+Kleist schrieb einmal,[^cite_ref-9] es wäre dem Dichter am liebsten, er könnte die Gedanken selbst ohne Worte übertragen. (Welch seltsames Eingeständnis.)
 
 *1931*
 
@@ -643,7 +643,7 @@ Ramsey war ein bürgerlicher Denker. D. h., seine Gedanken hatten den Zweck, die
 
 ---
 
-Es könnte sich eine seltsame Analogie daraus ergeben, daß das Okular auch des riesigsten Fernrohrs nicht größer sein darf,[^10] als unser Auge.
+Es könnte sich eine seltsame Analogie daraus ergeben, daß das Okular auch des riesigsten Fernrohrs nicht größer sein darf,[^cite_ref-10] als unser Auge.
 
 *1931*
 
@@ -717,7 +717,7 @@ Als ich seinerzeit den Kopf für Drobil modellierte, so war auch die Anregung we
 
 Der Jude muß im eigentlichen Sinn »sein Sach’ auf nichts stellen«. Aber das fällt gerade ihm besonders schwer, weil er, sozusagen, nichts hat. Es ist viel schwerer freiwillig arm zu sein, wenn man arm sein *muß*, als, wenn man auch reich sein könnte.
 
-Man könnte sagen (ob es nun stimmt oder nicht), daß der jüdische Geist nicht im Stande ist, auch nur ein Gräschen oder Blümchen hervorzubringen, daß es aber seine Art ist, das Gräschen oder die Blume, die im andern Geist gewachsen ist, abzuzeichnen und damit ein umfassendes Bild zu entwerfen. Das ist nun nicht die Angabe eines Lasters und es ist alles in Ordnung, solange das nur völlig klar bleibt. Gefährlich wird es erst, wenn man die Art des Jüdischen mit der des Nicht-Jüdischen Werks verwechselt, und besonders, wenn das der Schöpfer des ersteren selbst tut, was so nahe liegt. (Sieht er nicht so stolz aus, als ob er selber gemolken wäre.[^11])
+Man könnte sagen (ob es nun stimmt oder nicht), daß der jüdische Geist nicht im Stande ist, auch nur ein Gräschen oder Blümchen hervorzubringen, daß es aber seine Art ist, das Gräschen oder die Blume, die im andern Geist gewachsen ist, abzuzeichnen und damit ein umfassendes Bild zu entwerfen. Das ist nun nicht die Angabe eines Lasters und es ist alles in Ordnung, solange das nur völlig klar bleibt. Gefährlich wird es erst, wenn man die Art des Jüdischen mit der des Nicht-Jüdischen Werks verwechselt, und besonders, wenn das der Schöpfer des ersteren selbst tut, was so nahe liegt. (Sieht er nicht so stolz aus, als ob er selber gemolken wäre.[^cite_ref-11])
 
 Es ist dem jüdischen Geiste typisch, das Werk eines Anderen besser zu verstehen, als der es selbst versteht.
 
@@ -1005,7 +1005,7 @@ Man fragt sich nicht ›Wie lange leben denn Menschen wirklich?‹, das erschein
 
 ---
 
-Nur[^12] so nämlich können wir unsere Behauptungen der Ungerechtigkeit – oder Leere unserer Behauptungen entgehen, indem wir das Ideal als das, was es *ist*, nämlich als Vergleichsobjekt – sozusagen als Maßstab – in unsrer Betrachtung ansehen statt als das Vorurteil, dem Alles konformieren *muß*. Hierin nämlich liegt der Dogmatismus, in den die Philosophie so leicht verfallen kann.
+Nur[^cite_ref-12] so nämlich können wir unsere Behauptungen der Ungerechtigkeit – oder Leere unserer Behauptungen entgehen, indem wir das Ideal als das, was es *ist*, nämlich als Vergleichsobjekt – sozusagen als Maßstab – in unsrer Betrachtung ansehen statt als das Vorurteil, dem Alles konformieren *muß*. Hierin nämlich liegt der Dogmatismus, in den die Philosophie so leicht verfallen kann.
 
 Was ist denn aber das Verhältnis einer Betrachtung wie der Spenglers und der meinen? Die Ungerechtigkeit bei Spengler: Das Ideal verliert nichts von seiner Würde, wenn es als Prinzip der Betrachtungsform hingestellt wird. Eine gute Meßbarkeit. –
 
@@ -1141,7 +1141,7 @@ Mir geht es bei dieser Arbeit so, wie es Einem geht, wenn man sich vergebens ans
 
 Der Ursprung und die primitive Form des Sprachspiels ist eine Reaktion; erst auf dieser können die komplizierteren Formen wachsen.
 
-Die Sprache – will ich sagen – ist eine Verfeinerung, ›im Anfang war die Tat‹.[^13]
+Die Sprache – will ich sagen – ist eine Verfeinerung, ›im Anfang war die Tat‹.[^cite_ref-13]
 
 *1937*
 
@@ -1234,7 +1234,7 @@ For the gods are everywhere.
 
 ---
 
-Erscheinungen mit sprachähnlichem Charakter in der Musik oder Architektur. Die sinnvolle Unregelmäßigkeit – in der Gotik z. B. (mir schweben auch die Türme der Basiliuskathedrale vor). Die Musik Bachs ist sprachähnlicher als die Mozarts und Haydns. Die Rezitative der Bässe im vierten Satz der neunten Symphonie von Beethoven. (Vergleiche auch Schopenhauers Bemerkung über die *allgemeine* Musik zu einem *besonderen* Text.)[^14]
+Erscheinungen mit sprachähnlichem Charakter in der Musik oder Architektur. Die sinnvolle Unregelmäßigkeit – in der Gotik z. B. (mir schweben auch die Türme der Basiliuskathedrale vor). Die Musik Bachs ist sprachähnlicher als die Mozarts und Haydns. Die Rezitative der Bässe im vierten Satz der neunten Symphonie von Beethoven. (Vergleiche auch Schopenhauers Bemerkung über die *allgemeine* Musik zu einem *besonderen* Text.)[^cite_ref-14]
 
 *1938*
 
@@ -1398,7 +1398,7 @@ In aller großen Kunst ist ein WILDES Tier: *gezähmt*. Bei Mendelssohn, z. B., 
 
 In *diesem* Sinne kann man Mendelssohn einen ›*reproduktiven*‹ Künstler nennen. –
 
-Im gleichen Sinn: mein Haus für Gretl[^15] ist das Produkt entschiedener Feinhörigkeit, *guter* Manieren, der Ausdruck eines großen *Verständnisses* (für eine Kultur, etc.). Aber das *ursprüngliche* Leben, das *wilde* Leben, welches sich austoben möchte – fehlt. Man könnte also auch sagen, es fehlt ihm die *Gesundheit* (Kierkegaard). (Treibhauspflanze.)
+Im gleichen Sinn: mein Haus für Gretl[^cite_ref-15] ist das Produkt entschiedener Feinhörigkeit, *guter* Manieren, der Ausdruck eines großen *Verständnisses* (für eine Kultur, etc.). Aber das *ursprüngliche* Leben, das *wilde* Leben, welches sich austoben möchte – fehlt. Man könnte also auch sagen, es fehlt ihm die *Gesundheit* (Kierkegaard). (Treibhauspflanze.)
 
 *1940*
 
@@ -1728,7 +1728,7 @@ Der Philosoph ist der, der in sich viele Krankheiten des Verstandes heilen muß,
 
 ---
 
-Wenn wir im Leben vom Tod umgeben sind, so auch in der Gesundheit des Verstands vom Wahnsinn.[^16]
+Wenn wir im Leben vom Tod umgeben sind, so auch in der Gesundheit des Verstands vom Wahnsinn.[^cite_ref-16]
 
 *1944*
 
@@ -1832,7 +1832,7 @@ Größere Not kann nicht empfunden werden, als von Einem Menschen. Denn wenn sic
 
 ---
 
-Worte sind Taten.[^17]
+Worte sind Taten.[^cite_ref-17]
 
 *Circa 1945*
 
@@ -1894,7 +1894,7 @@ Der Gedanke, der sich an’s Licht arbeitet.
 
 ---
 
-Die Bemerkung des Jukundus im ›Verlornen Lachen‹,[^18] seine Religion bestünde darin: er wisse, – wenn es ihm jetzt gut geht, – sein Schicksal könne sich zum Schlechten wenden. Dies drückt eigentlich die gleiche Religion aus, wie das Wort »Der Herr hat’s gegeben, der Herr hat’s genommen«.
+Die Bemerkung des Jukundus im ›Verlornen Lachen‹,[^cite_ref-18] seine Religion bestünde darin: er wisse, – wenn es ihm jetzt gut geht, – sein Schicksal könne sich zum Schlechten wenden. Dies drückt eigentlich die gleiche Religion aus, wie das Wort »Der Herr hat’s gegeben, der Herr hat’s genommen«.
 
 *1946*
 
@@ -1906,7 +1906,7 @@ Es ist schwer, sich recht zu verstehen, denn dasselbe, was man aus Größe und G
 
 ---
 
-Wenn man vorliest und *gut* vorlesen will, begleitet man die Worte mit stärkeren Vorstellungen. Wenigstens ist es *oft* so. Manchmal aber [»Nach Korinthus von Athen ...«][^19] ist es die Interpunktion, d. h., die genaue Intonation und die Länge der Pausen, auf die uns alles ankommt.
+Wenn man vorliest und *gut* vorlesen will, begleitet man die Worte mit stärkeren Vorstellungen. Wenigstens ist es *oft* so. Manchmal aber [»Nach Korinthus von Athen ...«][^cite_ref-19] ist es die Interpunktion, d. h., die genaue Intonation und die Länge der Pausen, auf die uns alles ankommt.
 
 *1946*
 
@@ -1934,7 +1934,7 @@ Die hysterische Angst, die die Öffentlichkeit jetzt vor der Atom-Bombe hat, ode
 
 ---
 
-Der Mensch ist das beste Bild der menschlichen Seele.[^20]
+Der Mensch ist das beste Bild der menschlichen Seele.[^cite_ref-20]
 
 *1946*
 
@@ -2054,7 +2054,7 @@ Fragst Du: wie ich das Thema empfunden habe, – so werde ich vielleicht sagen �
 
 »Er erlebt das Thema intensiv. Es geht etwas in ihm vor, während er es hört?« Und *was*?
 
-Weist das Thema auf nichts außer sich? Oh ja! Das heißt aber: – der Eindruck, den es mir macht, hängt mit Dingen in seiner Umgebung zusammen – z. B. mit der Existenz der deutschen Sprache und ihrer Intonation, das heißt aber mit dem ganzen Feld unsrer Sprachspiele.[^21]
+Weist das Thema auf nichts außer sich? Oh ja! Das heißt aber: – der Eindruck, den es mir macht, hängt mit Dingen in seiner Umgebung zusammen – z. B. mit der Existenz der deutschen Sprache und ihrer Intonation, das heißt aber mit dem ganzen Feld unsrer Sprachspiele.[^cite_ref-21]
 
 Wenn ich z. B. sage: Es ist, als ob hier ein Schluß gezogen würde, als ob hier etwas bekräftigt würde, oder, als ob *dies* eine Antwort auf das Frühere wäre, – so setzt mein Verständnis eben die Vertrautheit mit Schlüssen, Bekräftigungen, Antworten, voraus.
 
@@ -2362,7 +2362,7 @@ Es ist *möglich*, daß Jeder, der eine bedeutende Arbeit leistet, eine Fortsetz
 
 ---
 
-Nietzsche schreibt einmal,[^22] daß auch die besten Dichter und Denker Mittelmäßiges und Schlechtes geschrieben, nur eben das Gute davon geschieden haben. Aber ganz so ist es nicht. Ein Gärtner hat in seinem Garten freilich neben den Rosen auch den Dünger und Kehricht und Stroh, aber sie unterscheiden sich nicht nur in der Güte, sondern vor allem in ihrer Funktion im Garten.
+Nietzsche schreibt einmal,[^cite_ref-22] daß auch die besten Dichter und Denker Mittelmäßiges und Schlechtes geschrieben, nur eben das Gute davon geschieden haben. Aber ganz so ist es nicht. Ein Gärtner hat in seinem Garten freilich neben den Rosen auch den Dünger und Kehricht und Stroh, aber sie unterscheiden sich nicht nur in der Güte, sondern vor allem in ihrer Funktion im Garten.
 
 Was wie ein schlechter Satz ausschaut, kann der *Keim* zu einem guten sein.
 
@@ -2464,7 +2464,7 @@ Der Philosoph sagt »Sieh’ die Dinge *so* an!« – aber damit ist erstens nic
 
 ---
 
-Nichts kommt mir weniger wahrscheinlich vor, als daß ein Wissenschaftler, oder Mathematiker, der mich liest, dadurch in seiner Arbeitsweise ernstlich beeinflußt werden sollte. (In sofern sind meine Betrachtungen wie die Plakate an den Kartenschaltern der englischen Bahnhöfe[^23] »Is your journey really necessary?« Als ob Einer, der das liest, sich sagen würde »On second thoughts, *no*«.) Hier muß man mit ganz anderen Geschützen kommen, als ich im Stande bin, in’s Feld zu führen. Am ehesten könnte ich noch dadurch eine Wirkung erzielen, daß, vor allem, durch meine Anregung eine *große* Menge Dreck geschrieben wird, und daß *vielleicht* dieser die Anregung zu etwas Gutem wird. Ich dürfte immer nur auf die aller indirekteste Wirkung hoffen.
+Nichts kommt mir weniger wahrscheinlich vor, als daß ein Wissenschaftler, oder Mathematiker, der mich liest, dadurch in seiner Arbeitsweise ernstlich beeinflußt werden sollte. (In sofern sind meine Betrachtungen wie die Plakate an den Kartenschaltern der englischen Bahnhöfe[^cite_ref-23] »Is your journey really necessary?« Als ob Einer, der das liest, sich sagen würde »On second thoughts, *no*«.) Hier muß man mit ganz anderen Geschützen kommen, als ich im Stande bin, in’s Feld zu führen. Am ehesten könnte ich noch dadurch eine Wirkung erzielen, daß, vor allem, durch meine Anregung eine *große* Menge Dreck geschrieben wird, und daß *vielleicht* dieser die Anregung zu etwas Gutem wird. Ich dürfte immer nur auf die aller indirekteste Wirkung hoffen.
 
 *1947*
 
@@ -2606,7 +2606,7 @@ Beim Philosophieren muß man in’s alte Chaos hinabsteigen, und sich dort wohlf
 
 ---
 
-Genie ist das Talent, worin der Charakter sich ausspricht. Darum, möchte ich sagen, hatte Kraus Talent, ein außerordentliches Talent, aber nicht Genie. Es gibt freilich Genieblitze, bei denen man dann, trotz des *großen* Talenteinsatzes, das Talent nicht merkt. Beispiel: »Denn tun können auch die Ochsen und die Esel ...«.[^24] Es ist merkwürdig, daß das z. B. so viel größer ist, als irgend etwas, was Kraus je geschrieben hat. Es ist hier eben nicht ein Verstandesskelett, sondern ein ganzer Mensch.
+Genie ist das Talent, worin der Charakter sich ausspricht. Darum, möchte ich sagen, hatte Kraus Talent, ein außerordentliches Talent, aber nicht Genie. Es gibt freilich Genieblitze, bei denen man dann, trotz des *großen* Talenteinsatzes, das Talent nicht merkt. Beispiel: »Denn tun können auch die Ochsen und die Esel ...«.[^cite_ref-24] Es ist merkwürdig, daß das z. B. so viel größer ist, als irgend etwas, was Kraus je geschrieben hat. Es ist hier eben nicht ein Verstandesskelett, sondern ein ganzer Mensch.
 
 Das ist auch der Grund, warum die Größe dessen, was Einer schreibt, von allem Übrigen abhängt, was er schreibt und tut.
 
@@ -2626,7 +2626,7 @@ Was ich hier schreibe, mag schwächliches Zeug sein; nun dann bin ich nicht im S
 
 ---
 
-Schiller schreibt in einem Brief (ich glaube an Goethe)[^25] von einer »poetischen Stimmung«. Ich glaube, ich weiß, was er meint, ich glaube sie selbst zu kennen. Es ist die Stimmung, in welcher man für die Natur empfänglich ist und in welcher die Gedanken so lebhaft erscheinen, wie die Natur. Merkwürdig ist aber, daß Schiller nicht besseres hervorgebracht hat (oder so scheint es mir) und ich bin daher auch gar nicht sicher überzeugt, daß, was *ich* in solcher Stimmung hervorbringe, wirklich etwas wert ist. Es ist wohl möglich, daß meine Gedanken ihren Glanz dann nur von einem Licht, das *hinter* ihnen steht, empfangen. Daß sie nicht *selbst* leuchten.
+Schiller schreibt in einem Brief (ich glaube an Goethe)[^cite_ref-25] von einer »poetischen Stimmung«. Ich glaube, ich weiß, was er meint, ich glaube sie selbst zu kennen. Es ist die Stimmung, in welcher man für die Natur empfänglich ist und in welcher die Gedanken so lebhaft erscheinen, wie die Natur. Merkwürdig ist aber, daß Schiller nicht besseres hervorgebracht hat (oder so scheint es mir) und ich bin daher auch gar nicht sicher überzeugt, daß, was *ich* in solcher Stimmung hervorbringe, wirklich etwas wert ist. Es ist wohl möglich, daß meine Gedanken ihren Glanz dann nur von einem Licht, das *hinter* ihnen steht, empfangen. Daß sie nicht *selbst* leuchten.
 
 *1948*
 
@@ -2638,7 +2638,7 @@ Wo Andre weitergehn, dort bleib ich stehn.
 
 ---
 
-[Zum Vorwort.][^26] Nicht ohne Widerstreben übergebe ich das Buch zur Öffentlichkeit. Die Hände, in die es geraten wird, sind zumeist nicht diejenigen, in denen ich es mir gerne vorstelle. Möge es – das wünsche ich ihm – bald gänzlich von den philosophischen Journalisten vergessen werden, und so vielleicht einer bessern Art von Lesern aufbewahrt bleiben.
+[Zum Vorwort.][^cite_ref-26] Nicht ohne Widerstreben übergebe ich das Buch zur Öffentlichkeit. Die Hände, in die es geraten wird, sind zumeist nicht diejenigen, in denen ich es mir gerne vorstelle. Möge es – das wünsche ich ihm – bald gänzlich von den philosophischen Journalisten vergessen werden, und so vielleicht einer bessern Art von Lesern aufbewahrt bleiben.
 
 Von den Sätzen, die ich hier niederschreibe, macht immer nur jeder so und so vielte einen Fortschritt; die andern sind wie das Klappen der Schere des Haarschneiders, der sie in Bewegung erhalten muß, um mit ihr im rechten Moment einen Schnitt zu machen.
 
@@ -2726,7 +2726,7 @@ Man kann nun freilich sagen, daß wir das Traumbild inspiriert *betrachten*, da�
 
 ---
 
-Architektur verewigt und verherrlicht etwas. Darum kann es Architektur nicht geben, wo nichts zu verherrlichen ist.[^27]
+Architektur verewigt und verherrlicht etwas. Darum kann es Architektur nicht geben, wo nichts zu verherrlichen ist.[^cite_ref-27]
 
 *Circa 1947-1948*
 
@@ -2740,7 +2740,7 @@ Schlage Geld aus jedem Fehler.
 
 Das Verstehen und die Erklärung einer musikalischen Phrase. – Die einfachste Erklärung ist manchmal eine Geste; eine andere wäre etwa ein Tanzschritt, oder Worte, die einen Tanz beschreiben. – Aber ist denn nicht das Verstehen der Phrase ein Erlebnis, während wir sie hören? Und was tut nun die Erklärung? Sollen wir an sie denken, während wir die Musik hören? Sollen wir uns den Tanz, oder was immer es ist, dabei vorstellen? Und wenn wir’s tun, – warum soll man *das* ein verständnisvolles Hören der Musik nennen?? Kommt’s auf’s Sehen des Tanzes an, so wäre es ja besser, *er* würde vorgeführt, statt der Musik. Alles das aber ist ein *Miß*verständnis.
 
-Ich gebe Einem eine Erklärung, sage ihm »Es ist wie wenn ...«; nun sagt er »Ja, jetzt verstehe ich’s« oder »Ja, jetzt weiß ich, wie es zu spielen ist«. Vor allem mußte er ja die Erklärung nicht *annehmen*; es ist ja nicht, als hätte ich ihm sozusagen überzeugende Gründe dafür gegeben, daß diese Stelle vergleichbar ist dem und dem. Ich erkläre ihm ja, z. B., nicht ⟨aus⟩[^28] Äußerungen des Komponisten, diese Stelle habe das und das darzustellen.
+Ich gebe Einem eine Erklärung, sage ihm »Es ist wie wenn ...«; nun sagt er »Ja, jetzt verstehe ich’s« oder »Ja, jetzt weiß ich, wie es zu spielen ist«. Vor allem mußte er ja die Erklärung nicht *annehmen*; es ist ja nicht, als hätte ich ihm sozusagen überzeugende Gründe dafür gegeben, daß diese Stelle vergleichbar ist dem und dem. Ich erkläre ihm ja, z. B., nicht ⟨aus⟩[^cite_ref-28] Äußerungen des Komponisten, diese Stelle habe das und das darzustellen.
 
 Wenn ich nun frage »Was erlebe ich denn eigentlich, wenn ich dies Thema höre und mit Verständnis höre?« – so kommen mir nichts als Plattheiten in den Kopf zur Antwort. So etwas wie Vorstellungen, Bewegungsempfindungen, Erinnerungen u. dergl.
 
@@ -2808,7 +2808,7 @@ Es wäre beinahe seltsam, wenn es nicht Tiere mit dem Seelenleben von Pflanzen g
 
 Als ein Grundgesetz der Naturgeschichte könnte man es, glaube ich, betrachten, daß, wo immer etwas in der Natur ›eine Funktion hat‹, ›einen Zweck erfüllt‹, dieses selbe auch vorkommt, wo es keinen erfüllt, ja ›unzweckdienlich‹ ist.
 
-Erhalten die Träume manchmal den Schlaf, so kannst Du darauf rechnen, daß sie ihn manchmal stören; erfüllt die Traumhalluzination manchmal einen *plausiblen* Zweck (der eingebildeten Wunscherfüllung), so rechne darauf, daß sie auch das Gegenteil tut. Eine ›dynamische Theorie der Träume‹[^29] gibt es nicht.
+Erhalten die Träume manchmal den Schlaf, so kannst Du darauf rechnen, daß sie ihn manchmal stören; erfüllt die Traumhalluzination manchmal einen *plausiblen* Zweck (der eingebildeten Wunscherfüllung), so rechne darauf, daß sie auch das Gegenteil tut. Eine ›dynamische Theorie der Träume‹[^cite_ref-29] gibt es nicht.
 
 *1948*
 
@@ -2828,7 +2828,7 @@ Ich bin zu weich, zu schwach, und darum zu faul, um Bedeutendes zu leisten. Der 
 
 Wenn Gott wirklich die zu errettenden Menschen *wählt*, dann ist kein Grund, warum er sie nicht nach Nationen, Rassen, oder Temperamenten wählen soll. Warum die Wahl nicht in den Naturgesetzen ihren Ausdruck haben soll. (Er *konnte* ja auch so wählen, daß die Wahl einem Gesetz folgt.)
 
-Ich habe Auszüge aus den Schriften von St. John of the Cross[^30] gelesen, Leute seien zu Grunde gegangen, weil sie nicht das Glück hatten, im richtigen Moment einen weisen geistlichen Führer zu finden.
+Ich habe Auszüge aus den Schriften von St. John of the Cross[^cite_ref-30] gelesen, Leute seien zu Grunde gegangen, weil sie nicht das Glück hatten, im richtigen Moment einen weisen geistlichen Führer zu finden.
 
 Und wie kann man dann sagen, Gott versuche den Menschen nicht über seine Kräfte?
 
@@ -2858,7 +2858,7 @@ Wenn Einer mit voller Sicherheit an Gott glauben kann, warum dann nicht an der A
 
 Diese musikalische Phrase ist für mich eine Gebärde. Sie schleicht sich in mein Leben ein. Ich mache sie mir zu eigen.
 
-Die unendlichen Variationen des Lebens sind unserm Leben wesentlich. Und also eben der Gepflogenheit des Lebens. Ausdruck *besteht* für uns ⟨in⟩[^31] Unberechenbarkeit. Wüßte ich genau, wie er sein Gesicht verziehen, sich bewegen wird, so wäre kein Gesichtsausdruck, keine Gebärde vorhanden. – Stimmt das aber? – Ich kann mir doch ein Musikstück, das ich (ganz) auswendig weiß, immer wieder anhören; und es könnte auch von einer Spieluhr gespielt werden. Seine Gebärden blieben für mich immer Gebärden, obgleich ich immer weiß, was kommen wird. Ja, ich kann sogar immer wieder überrascht sein. (In einem bestimmten Sinne.)
+Die unendlichen Variationen des Lebens sind unserm Leben wesentlich. Und also eben der Gepflogenheit des Lebens. Ausdruck *besteht* für uns ⟨in⟩[^cite_ref-31] Unberechenbarkeit. Wüßte ich genau, wie er sein Gesicht verziehen, sich bewegen wird, so wäre kein Gesichtsausdruck, keine Gebärde vorhanden. – Stimmt das aber? – Ich kann mir doch ein Musikstück, das ich (ganz) auswendig weiß, immer wieder anhören; und es könnte auch von einer Spieluhr gespielt werden. Seine Gebärden blieben für mich immer Gebärden, obgleich ich immer weiß, was kommen wird. Ja, ich kann sogar immer wieder überrascht sein. (In einem bestimmten Sinne.)
 
 *1948*
 
@@ -2928,7 +2928,7 @@ Was man tun soll, das Übel zu heilen, ist *nicht* klar. Was man *nicht* tun dar
 
 ---
 
-Es ist merkwürdig, daß man die Zeichnungen von Busch oft ›metaphysisch‹ nennen kann. So gibt es also eine Zeichenweise, die metaphysisch ist? – »Gesehen mit dem Ewigen als Hintergrund«[^32] könnte man sagen. Aber doch bedeuten diese Striche das nur in einer ganzen Sprache. Und es ist eine Sprache ohne Grammatik, man könnte ihre Regeln nicht angeben.
+Es ist merkwürdig, daß man die Zeichnungen von Busch oft ›metaphysisch‹ nennen kann. So gibt es also eine Zeichenweise, die metaphysisch ist? – »Gesehen mit dem Ewigen als Hintergrund«[^cite_ref-32] könnte man sagen. Aber doch bedeuten diese Striche das nur in einer ganzen Sprache. Und es ist eine Sprache ohne Grammatik, man könnte ihre Regeln nicht angeben.
 
 *1948*
 
@@ -2940,7 +2940,7 @@ Karl der Große hat im Alter vergebens versucht, schreiben zu lernen: und so kan
 
 ---
 
-Eine Sprache, in der im Takt geredet wird, so daß man auch nach dem *Metronom* reden kann. Es ist nicht selbstverständlich, daß Musik sich, wie die unsere, wenigstens beiläufig, metronomieren läßt. (Das Thema aus der 8. Symphonie[^33] genau nach dem Metronom zu spielen.)
+Eine Sprache, in der im Takt geredet wird, so daß man auch nach dem *Metronom* reden kann. Es ist nicht selbstverständlich, daß Musik sich, wie die unsere, wenigstens beiläufig, metronomieren läßt. (Das Thema aus der 8. Symphonie[^cite_ref-33] genau nach dem Metronom zu spielen.)
 
 *1948*
 
@@ -3208,7 +3208,7 @@ In den Tälern der Dummheit wächst für den Philosophen noch immer mehr Gras, a
 
 Die Zeitlichkeit der Uhr und die Zeitlichkeit in der Musik. Sie sind durchaus nicht gleiche Begriffe.
 
-*Streng* im Takt gespielt, heißt nicht genau nach dem Metronom gespielt. Es wäre aber möglich, daß eine gewisse *Art* von Musik nach dem Metronom zu spielen wäre. (Ist das Anfangsthema ⟨des zweiten Satzes⟩[^34] der 8. Symphonie von dieser Art?)
+*Streng* im Takt gespielt, heißt nicht genau nach dem Metronom gespielt. Es wäre aber möglich, daß eine gewisse *Art* von Musik nach dem Metronom zu spielen wäre. (Ist das Anfangsthema ⟨des zweiten Satzes⟩[^cite_ref-34] der 8. Symphonie von dieser Art?)
 
 *1949*
 
@@ -3450,78 +3450,8 @@ Ist der Sinn des Glaubens an den Teufel der, daß nicht alles, was als eine Eing
 
 ---
 
-Man kann sich nicht beurteilen, wenn man sich in den Kategorien nicht auskennt. (Freges Schreibart ist manchmal *groß*; Freud schreibt ausgezeichnet, und es ist ein Vergnügen, ihn zu lesen, aber er ist nie *groß* in seinem Schreiben.)[^35]
+Man kann sich nicht beurteilen, wenn man sich in den Kategorien nicht auskennt. (Freges Schreibart ist manchmal *groß*; Freud schreibt ausgezeichnet, und es ist ein Vergnügen, ihn zu lesen, aber er ist nie *groß* in seinem Schreiben.)[^cite_ref-35]
 
 *1951*
 
 ---
-
-[^1]: Satz unvollständig im Manuskript.
-
-[^2]: Arvid Sjögren, ein Freund und Verwandter von L. W.
-
-[^3]: Ernest Renan: *Histoire du Peuple d'Israël*, Tome Premier, Chapitre III.
-
-[^4]: Eine frühere Fassung des gedruckten Vorworts zu *Philosophische Bemerkungen*. Herausgegeben von Rush Rhees. Werkausgabe, Band 2.
-
-[^5]: S. die vorangehende Bemerkung.
-
-[^6]: Lessing: *Die Erziehung des Menschengeschlechts*. § 48-49.
-
-[^7]: Var. im Manuskript: »Der *ganze* Rhythmus des Gedichts ...«
-
-[^8]: Adelbert von Chamisso, »Peter Schlemihls wundersame Geschichte«.
-
-[^9]: »Brief eines Dichters an einen anderen«, 5. Januar 1811.
-
-[^10]: Var. im Manuskript: »nicht größer ist«.
-
-[^11]: Der Satz zwischen Parenthesen stammt aus Wilhelm Buschs Prosadichtung »Eduards Traum«. Der Herausgeber ist Herrn Robert Löffler für diese Auskunft zu Dank verpflichtet.
-
-[^12]: Vgl. *Philosophische Untersuchungen* § 131.
-
-[^13]: Goethe: *Faust I*.
-
-[^14]: Schopenhauer: Zur Metaphysik der Musik, *Die Welt als Wille und Vorstellung*, Kapitel 39.
-
-[^15]: Wittgensteins Schwester, für die er das Haus Kundmanngasse 19, Wien gebaut hat.
-
-[^16]: Vgl. Anm. d. Hrsg. zur S. 302 in *Bemerkungen über die Grundlagen der Mathematik*. (Suhrkamp Ausgabe.)
-
-[^17]: Vgl. *Philosophische Untersuchungen*, § 546.
-
-[^18]: Gottfried Keller: *Das verlorne Lachen*.
-
-[^19]: Goethe, *Die Braut von Korinth*.
-
-[^20]: Vgl. *Philosophische Untersuchungen*, Teil II, Abschn. IV.
-
-[^21]: Vgl. *Zettel*, § 175.
-
-[^22]: *Menschliches, Allzumenschliches*, I, § 155.
-
-[^23]: Während des zweiten Weltkriegs und unmittelbar nachher.
-
-[^24]: Lichtenberg, *Timorus*, Vorrede. Vollständig lautet der Satz: »Denn tun können auch die Ochsen und die Esel, aber versichern kann noch zur Zeit der Mensch nur allein.«
-
-[^25]: Brief an Goethe, 17. December 1795.
-
-[^26]: Zu *Philosophische Untersuchungen*.
-
-[^27]: Mehrere Varianten im Manuskript.
-
-[^28]: Textstelle unklar.
-
-[^29]: Freud.
-
-[^30]: Des hl. Johannes vom Kreuz.
-
-[^31]: Vermutung d. Herausgebers.
-
-[^32]: Vgl. *Tagebücher*, 7. 10. 1916.
-
-[^33]: Achte Symphonie Beethovens.
-
-[^34]: Zusatz des Herausgebers.
-
-[^35]: Vgl. *Zettel*, § 712.

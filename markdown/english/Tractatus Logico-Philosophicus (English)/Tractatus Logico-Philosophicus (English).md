@@ -53,7 +53,7 @@ Vienna, 1918.
 
 ## Tractatus Logico-Philosophicus
 
-**[1](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#1)** The world is everything that is the case.[^tlp-note-1_1-0]
+**[1](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#1)** The world is everything that is the case.[^cite_ref-tlp-note-1_1-0]
 
 **[1.1](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#1.1)** The world is the totality of facts, not of things.
 

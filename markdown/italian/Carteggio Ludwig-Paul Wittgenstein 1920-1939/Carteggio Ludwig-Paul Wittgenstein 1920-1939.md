@@ -31,9 +31,9 @@ _La traduzione di [Rosaria Egidi](https://filosofiacomunicazionespettacolo.uniro
 
 Caro Lucky!
 
-Or ora vengo a sapere che il signor Nähr[^45] è stato qui & ha comunicato che la sua cameriera non permette che tu ti trasferisca domani, & questo perché, per motivi di salute, lei non se ne può assumere la responsabilità di fronte all'Ufficio di Polizia per gli alloggi. Il vero proprietario arriva la settimana prossima; forse si riesce a sistemare la cosa con lui.
+Or ora vengo a sapere che il signor Nähr[^cite_ref-45] è stato qui & ha comunicato che la sua cameriera non permette che tu ti trasferisca domani, & questo perché, per motivi di salute, lei non se ne può assumere la responsabilità di fronte all'Ufficio di Polizia per gli alloggi. Il vero proprietario arriva la settimana prossima; forse si riesce a sistemare la cosa con lui.
 
-Magari domani ci fai sapere cosa intendi fare; non puoi rimanere per qualche giorno ancora lì dove sei?[^46]
+Magari domani ci fai sapere cosa intendi fare; non puoi rimanere per qualche giorno ancora lì dove sei?[^cite_ref-46]
 
 Cordialmente & rapidamente
 
@@ -49,7 +49,7 @@ Purtroppo sono arrivato a Vienna un giorno troppo tardi per poterti ancora veder
 
 Nonostante tutto questo, spero tu non accetterai troppo malvolentieri il pacchettino di ghiottonerie che ti spedisco contemporaneamente a questa lettera.
 
-All'inizio dell'inverno organizzerò una serata Labor.[^47] Se trovo perlomeno persone che partecipino & di cui poi non si addormenti *più* della metà!
+All'inizio dell'inverno organizzerò una serata Labor.[^cite_ref-47] Se trovo perlomeno persone che partecipino & di cui poi non si addormenti *più* della metà!
 
 *Tu* ci mancherai, perché quello che servirebbe è una claque *convinta*.
 
@@ -99,7 +99,7 @@ Non vedo l'ora!
 
 Caro Luki!
 
-Insieme a questa lettera ti viene inviata anche una copia dell'andante della sonata di Weber: inoltre ho fatto copiare anche la romanza del concerto in mi bemolle maggiore di Weber. Il brano non è per la verità proprio il più significativo, – l'ultimo movimento è incomparabilmente più ricco, – e per di più piuttosto pesante, come deduco dal fatto che persino Behrends[^48] si è permesso una semplificazione: ma non può nuocere, e volevo fartelo avere comunque, perché a me la parte centrale, i 32 passaggi e il successivo recitativo, piace molto.
+Insieme a questa lettera ti viene inviata anche una copia dell'andante della sonata di Weber: inoltre ho fatto copiare anche la romanza del concerto in mi bemolle maggiore di Weber. Il brano non è per la verità proprio il più significativo, – l'ultimo movimento è incomparabilmente più ricco, – e per di più piuttosto pesante, come deduco dal fatto che persino Behrends[^cite_ref-48] si è permesso una semplificazione: ma non può nuocere, e volevo fartelo avere comunque, perché a me la parte centrale, i 32 passaggi e il successivo recitativo, piace molto.
 
 Sono in procinto di partire, quindi posso solo lasciare l'incarico di copiare i pezzi e sperare che non ne venga fuori un pasticcio, e, se per il resto è tutto a posto, che il copista non faccia troppi errori, che in mia assenza nessuno può correggere. Se nella copia si trovassero troppi errori che sviano il senso, allora forse avrai la bontà di segnalarmi nel corso di febbraio, quando sarò di ritorno, le battute interessate, in modo che io possa rimandartele indietro corrette.
 
@@ -118,7 +118,7 @@ Al sig. Ludwig Wittgenstein, maestro elementare,
 
 Caro Ludwig!
 
-Ho saputo da Arvid che riusciresti a fare in modo di venire a Vienna sabato 23 per assistere a una prova del quintetto di Labor.[^49] Io mi sono subito messo in contatto con la signorina Baumayer[^50] in modo che convochi la riunione per il 23 pomeriggio. Nei prossimi giorni spero di venire a sapere qualcosa di più preciso al riguardo, ossia se e a che ora nel suddetto giorno si terrà la prova, cosa che poi ti scriverò subito.
+Ho saputo da Arvid che riusciresti a fare in modo di venire a Vienna sabato 23 per assistere a una prova del quintetto di Labor.[^cite_ref-49] Io mi sono subito messo in contatto con la signorina Baumayer[^cite_ref-50] in modo che convochi la riunione per il 23 pomeriggio. Nei prossimi giorni spero di venire a sapere qualcosa di più preciso al riguardo, ossia se e a che ora nel suddetto giorno si terrà la prova, cosa che poi ti scriverò subito.
 
 Molto cordialmente Tuo fratello
 
@@ -142,7 +142,7 @@ Tuo Luki
 
 Caro Luki!
 
-Veniamo a te con una domanda: gradiremmo sapere se durante le vacanze hai intenzione di venire a stare per un po' di tempo da noi a Neuwaldegg. Le cose infatti stanno così: a causa della penuria di alloggi e delle richieste costanti di camere singole o di interi appartamenti, è auspicabile sfruttare il più possibile la casa. Se quindi avessi intenzione, cosa che naturalmente ci farebbe enorme piacere, di venire da noi per un periodo piuttosto lungo, allora la tua stanza nella casa grande sarebbe occupata e noi avremmo una giustificazione per l'Ufficio addetto agli alloggi. Se invece tu non volessi venire da noi, almeno non per un lungo periodo, allora offriremmo la stanza a qualche conoscente, probabilmente all'anziana signorina von Alt[^51] (la figlia del pittore). Infatti altrimenti si rischia che l'Ufficio addetto agli alloggi ci metta in casa degli estranei. Se invece volessi venire da noi per un breve periodo, o più spesso per pochi giorni alla volta, non ci sarebbero problemi se anche la tua stanza fosse già assegnata a qualcun altro. In quel caso dormi da me o ti arrangiamo un letto nel mio salone, oppure qualcun altro ti offre ospitalità. Certo, tu, con la tua *garçonnière* arredata con lusso dispendioso, sei in certo senso viziato, ma se comunque si tratterà solo di qualche giorno, ti adatterai a chiudere un occhio.
+Veniamo a te con una domanda: gradiremmo sapere se durante le vacanze hai intenzione di venire a stare per un po' di tempo da noi a Neuwaldegg. Le cose infatti stanno così: a causa della penuria di alloggi e delle richieste costanti di camere singole o di interi appartamenti, è auspicabile sfruttare il più possibile la casa. Se quindi avessi intenzione, cosa che naturalmente ci farebbe enorme piacere, di venire da noi per un periodo piuttosto lungo, allora la tua stanza nella casa grande sarebbe occupata e noi avremmo una giustificazione per l'Ufficio addetto agli alloggi. Se invece tu non volessi venire da noi, almeno non per un lungo periodo, allora offriremmo la stanza a qualche conoscente, probabilmente all'anziana signorina von Alt[^cite_ref-51] (la figlia del pittore). Infatti altrimenti si rischia che l'Ufficio addetto agli alloggi ci metta in casa degli estranei. Se invece volessi venire da noi per un breve periodo, o più spesso per pochi giorni alla volta, non ci sarebbero problemi se anche la tua stanza fosse già assegnata a qualcun altro. In quel caso dormi da me o ti arrangiamo un letto nel mio salone, oppure qualcun altro ti offre ospitalità. Certo, tu, con la tua *garçonnière* arredata con lusso dispendioso, sei in certo senso viziato, ma se comunque si tratterà solo di qualche giorno, ti adatterai a chiudere un occhio.
 
 Non è neppure necessario che tu ti vincoli ora. Forse non sai ancora neppure con certezza che cosa intendi fare quest'estate; solo nel caso in cui tu lo sapessi già, ci farebbe molto piacere saperlo.
 
@@ -161,7 +161,7 @@ Molto cordialmente Tuo fratello
 
 Carissimo Lucky!
 
-Ho appena ricevuto la tua cara lettera, vado subito in città & vedrò che cosa si può fare da parte nostra per il tuo amico Scholz.[^52] È meglio che poi il risultato lo comunichi subito prima a lui che non a te.
+Ho appena ricevuto la tua cara lettera, vado subito in città & vedrò che cosa si può fare da parte nostra per il tuo amico Scholz.[^cite_ref-52] È meglio che poi il risultato lo comunichi subito prima a lui che non a te.
 
 Molto cordialmente Tuo fratello
 
@@ -173,7 +173,7 @@ Molto cordialmente Tuo fratello
 
 Carissimo Luki!
 
-In aggiunta al mio breve scritto di stamattina ti comunico solo che oggi non ho ancora potuto fare nulla per il tuo amico Scholz: il signor Groller,[^53] mio factotum in simili faccende, non c'era e con Feilchenfeld[^54] e Kux[^55] in questo momento non sono in rapporti tali da potermi rivolgere a loro con una simile richiesta. Lunedì Groller sarà di ritorno. Lui conosce un mucchio di gente occupata in vari settori, e forse in questo modo si riesce a procurare un posto al signor Scholz.
+In aggiunta al mio breve scritto di stamattina ti comunico solo che oggi non ho ancora potuto fare nulla per il tuo amico Scholz: il signor Groller,[^cite_ref-53] mio factotum in simili faccende, non c'era e con Feilchenfeld[^cite_ref-54] e Kux[^cite_ref-55] in questo momento non sono in rapporti tali da potermi rivolgere a loro con una simile richiesta. Lunedì Groller sarà di ritorno. Lui conosce un mucchio di gente occupata in vari settori, e forse in questo modo si riesce a procurare un posto al signor Scholz.
 
 Dato che il tutto però in ogni caso richiederà un po' di tempo, mi sono permesso di mandare al giovanotto 60.000— corone. Non inorridire se, a una sua richiesta di *raccomandazione*, gli offro del *denaro*, cosa che 1) né tu né lui avete preteso e 2) ha sempre un che di freddo e quindi di offensivo.
 
@@ -211,7 +211,7 @@ Signor Ludwig Wittgenstein
 
 Caro Paul!
 
-Scusa se ti rispondo solo adesso. Sono stato molto occupato. Sì, Grodzinsky[^56] era il mio superiore a Cracovia. Allora era Akzessist e in seguito è diventato Offizial e di certo anche Oberoffizial, ma questo non lo so. È persona capace e non lo considero scorretto. Si è rivolto a me per iscritto, ma io naturalmente non posso fare nulla per lui. Se tu fai qualcosa, è molto bello da parte tua. Come ho detto, nell'ultimo periodo sono stato molto occupato, fra l'altro anche per via del fatto che ho di nuovo dovuto traslocare; non in un'altra località, ma in un altro alloggio.[^57] Ora abito da una certa vedova Ehrbar in una stanza molto grande e davvero lussuosa con ogni confort: luce elettrica, servizio etc., etc. A Ognissanti, se Dio vuole, verrò a Vienna. Arrivederci!
+Scusa se ti rispondo solo adesso. Sono stato molto occupato. Sì, Grodzinsky[^cite_ref-56] era il mio superiore a Cracovia. Allora era Akzessist e in seguito è diventato Offizial e di certo anche Oberoffizial, ma questo non lo so. È persona capace e non lo considero scorretto. Si è rivolto a me per iscritto, ma io naturalmente non posso fare nulla per lui. Se tu fai qualcosa, è molto bello da parte tua. Come ho detto, nell'ultimo periodo sono stato molto occupato, fra l'altro anche per via del fatto che ho di nuovo dovuto traslocare; non in un'altra località, ma in un altro alloggio.[^cite_ref-57] Ora abito da una certa vedova Ehrbar in una stanza molto grande e davvero lussuosa con ogni confort: luce elettrica, servizio etc., etc. A Ognissanti, se Dio vuole, verrò a Vienna. Arrivederci!
 
 Cordiali saluti,
 
@@ -228,7 +228,7 @@ Carissimo Lucky!
 
 Volevo solo chiederti se hai qualche desiderio a proposito dell'esecuzione a quattro mani per Natale. Prima saprò che cosa vuoi ascoltare, meglio sarà, così avrò tempo di guardarmi in anticipo il brano.
 
-Del quintetto di Labor per ora ho ricevuto soltanto i primi tre movimenti: la signorina Staake[^58] non è infatti veloce a copiare come la povera Menzel.[^59] A Natale ti suonerei volentieri anche due trii di Bach.
+Del quintetto di Labor per ora ho ricevuto soltanto i primi tre movimenti: la signorina Staake[^cite_ref-58] non è infatti veloce a copiare come la povera Menzel.[^cite_ref-59] A Natale ti suonerei volentieri anche due trii di Bach.
 
 Tuo fratello che molto ti stima
 
@@ -251,7 +251,7 @@ Luki
 
 Carissimo Lucky!
 
-Ma che delusione! Sarei stato così contento di suonare per te insieme alla signorina Staake; a Berlino avevo comperato & anche già guardato le variazioni Brahms-Haydn – e arrivato qui mi informano che tu alloggi dagli Hänsel![^60] Se solo io fossi a Vienna quando ci vieni tu!!
+Ma che delusione! Sarei stato così contento di suonare per te insieme alla signorina Staake; a Berlino avevo comperato & anche già guardato le variazioni Brahms-Haydn – e arrivato qui mi informano che tu alloggi dagli Hänsel![^cite_ref-60] Se solo io fossi a Vienna quando ci vieni tu!!
 
 Paul.
 
@@ -303,7 +303,7 @@ Paul.
 
 Caro Lucky!
 
-1) desidererei sapere, nel caso tu venga a Pentecoste,[^61] se hai particolari desideri riguardo all'esecuzione di qualche pezzo. Se me lo fai sapere per tempo, avrò la possibilità di guardare ancora un po' il brano.
+1) desidererei sapere, nel caso tu venga a Pentecoste,[^cite_ref-61] se hai particolari desideri riguardo all'esecuzione di qualche pezzo. Se me lo fai sapere per tempo, avrò la possibilità di guardare ancora un po' il brano.
 
 2) Scusa se non ti ho ancora spedito la voce soprano nel quinto movimento del quintetto di Labor. Oggi la faccio copiare & quindi almeno la troverai qui pronta.
 
@@ -321,9 +321,9 @@ Caro Paul!
 
 Grazie molte per le tue care righe. Ho ricevuto pacchetto & libro. All'ultima annotazione della tua lettera voglio solo rispondere che tu, per un'ingenuità che *ti* fa onore, non hai idea di come io sia guidato ovunque dai motivi più abietti e banali. Sì, io sono un'esistenza perduta, quindi *del tutto* indegno del vostro affetto, se non sarà un *miracolo* a salvarmi. **Basta di tutto questo**. —
 
-Il ritaglio[^62] mi ha molto divertito. È incredibile che, in questi casi, si parli sempre di un medium smascherato invece che di un professore smascherato!
+Il ritaglio[^cite_ref-62] mi ha molto divertito. È incredibile che, in questi casi, si parli sempre di un medium smascherato invece che di un professore smascherato!
 
-Adesso ancora una richiesta: conosci un'opera o un brano cantato dal titolo *Axur*?[^63] In questo pezzo – qualsiasi cosa esso sia – compare una melodia con le parole «come là sui prati.....». Saresti così gentile, se non lo conosci, da cercarlo magari nella tua enciclopedia e da farmi copiare eventualmente quella melodia? Scusami per questa seccatura.
+Adesso ancora una richiesta: conosci un'opera o un brano cantato dal titolo *Axur*?[^cite_ref-63] In questo pezzo – qualsiasi cosa esso sia – compare una melodia con le parole «come là sui prati.....». Saresti così gentile, se non lo conosci, da cercarlo magari nella tua enciclopedia e da farmi copiare eventualmente quella melodia? Scusami per questa seccatura.
 
 Cordiali saluti
 
@@ -337,7 +337,7 @@ P.S. Sto benissimo.
 
 Caro Paul!
 
-Mille grazie per la tua lettera. Adesso mi dispiace di aver importunato *te* per quella melodia, ma non avevo idea che fosse così difficile da trovare e non valeva davvero la pena che tu facessi quella fatica *immane*! Si tratta di questo: c'è una splendida poesia di Mörike *Per l'anno nuovo*, sul titolo della quale *Mörike* ha scritto: *Melodia a Axur: Come là sui prati*.[^64] Il brano si intitola quindi di sicuro *Axur* e l'annotazione suona come se si trattasse di un brano *famoso*. Insomma, io volevo cantare quella canzone con i miei alunni, in particolare perché, dal ritmo curioso della poesia, avevo dedotto si trattasse di una melodia curiosa. Mörike per di più aveva grandi doti musicali e non avrebbe mai – pensavo io – scritto la poesia per una brutta melodia. Si intenderà quindi di certo la musica di Salieri. In caso tu voglia occupartene ulteriormente – il che per altro non è affatto necessario, perché ho brani a sufficienza da cantare coi ragazzini e forse quel canto di Capodanno si dimostra addirittura inadatto – nel caso però che tu voglia fare ulteriori ricerche, ti trascrivo qui la prima strofa della poesia, perché con il suo ritmo può fornire un certo punto di riferimento:
+Mille grazie per la tua lettera. Adesso mi dispiace di aver importunato *te* per quella melodia, ma non avevo idea che fosse così difficile da trovare e non valeva davvero la pena che tu facessi quella fatica *immane*! Si tratta di questo: c'è una splendida poesia di Mörike *Per l'anno nuovo*, sul titolo della quale *Mörike* ha scritto: *Melodia a Axur: Come là sui prati*.[^cite_ref-64] Il brano si intitola quindi di sicuro *Axur* e l'annotazione suona come se si trattasse di un brano *famoso*. Insomma, io volevo cantare quella canzone con i miei alunni, in particolare perché, dal ritmo curioso della poesia, avevo dedotto si trattasse di una melodia curiosa. Mörike per di più aveva grandi doti musicali e non avrebbe mai – pensavo io – scritto la poesia per una brutta melodia. Si intenderà quindi di certo la musica di Salieri. In caso tu voglia occupartene ulteriormente – il che per altro non è affatto necessario, perché ho brani a sufficienza da cantare coi ragazzini e forse quel canto di Capodanno si dimostra addirittura inadatto – nel caso però che tu voglia fare ulteriori ricerche, ti trascrivo qui la prima strofa della poesia, perché con il suo ritmo può fornire un certo punto di riferimento:
 
 1)
 
@@ -361,7 +361,7 @@ Sii tu, Padre, a consigliare!
 Sii tu a dirigere e a guidare!
 Signore, a te in mano
 Sia inizio e compimento,
-Tutto sia in te riposto![^65]
+Tutto sia in te riposto![^cite_ref-65]
 
 Non ho potuto resistere dal trascrivere tutte e due le strofe, perché sono indicibilmente belle. Per favore non occuparti più della faccenda, a meno che interessi *anche a te*. Per il mio scopo non vale la pena di fare tanta fatica. Ancora mille grazie!
 
@@ -377,7 +377,7 @@ Ludwig
 
 Carissimo Luki!
 
-Non ho dimenticato il Mörike. Mi sono fatto mandare un volume con l'esegesi delle poesie di Mörike.[^66] C'è un capitolo intero sul rapporto di Mörike con la musica, anche la canzone per capodanno vi è menzionata espressamente, ma della melodia di Axur non si dice proprio nulla.
+Non ho dimenticato il Mörike. Mi sono fatto mandare un volume con l'esegesi delle poesie di Mörike.[^cite_ref-66] C'è un capitolo intero sul rapporto di Mörike con la musica, anche la canzone per capodanno vi è menzionata espressamente, ma della melodia di Axur non si dice proprio nulla.
 
 Qualche tempo fa sono stato un paio di giorni alla Hochreit, da dove avrei voluto venire a farti visita, e avevo già in tasca anche un volumetto di Daudet per potertene magari leggere qualcosa. Però fui informato che la strada da Schwarzau a Puchberg non è ancora praticabile, per cui dovetti rinunciare al mio progetto.
 
@@ -391,7 +391,7 @@ Molto cordialmente Tuo
 
 Caro Paul!
 
-Cosa ti è saltato in mente di ricoprirmi di tutti i tesori dell'Occidente e dell'Oriente! Grazie di tutto cuore. I bambini di Otterthal si rifiutano già di mangiare crauti e canederli e vogliono solo uva Malaga, arance e datteri. Mi rallegro al pensiero del nostro incontro a Natale. Qualche settimana fa Koder[^67] a Puchberg mi ha suonato alcuni pezzi per organo di Labor[^68] (che sono nell'album per organo), qualcuno molto bello & strano.
+Cosa ti è saltato in mente di ricoprirmi di tutti i tesori dell'Occidente e dell'Oriente! Grazie di tutto cuore. I bambini di Otterthal si rifiutano già di mangiare crauti e canederli e vogliono solo uva Malaga, arance e datteri. Mi rallegro al pensiero del nostro incontro a Natale. Qualche settimana fa Koder[^cite_ref-67] a Puchberg mi ha suonato alcuni pezzi per organo di Labor[^cite_ref-68] (che sono nell'album per organo), qualcuno molto bello & strano.
 
 Un saluto cordiale!
 
@@ -407,7 +407,7 @@ Tuo Ludwig
 
 ### 110. Ludwig a Paul, [anni 1920]
 
-Caro Paul![^69]
+Caro Paul![^cite_ref-69]
 
 Gretl mi ha detto che fra te, lei & Mining c'è un serio malumore & la difficoltà sta nel fatto che tu credi che non ti venga detta la verità. Gretl ha pensato che se *io* avessi parlato con te, avresti creduto a quello che ti dico. E anche io credo che prenderai per oro colato quello che ti dirò. Ti scrivo una lettera, invece di parlare, forse soprattutto perché la potrai rileggere spesso (così come io dovrei ripetere la mia spiegazione, se tu dicessi: «Io infatti credevo etc. etc.»).
 
@@ -437,9 +437,9 @@ Ludwig
 
 Caro Lucky,
 
-Ti prego di goderti lo scritto che ti allego e poi di rispedirmelo, perché Mining desidera inserirlo nella sua raccolta. L'autrice, la signora v. Oberleith[…],[^70] è la moglie di un pessimo compositore[^71] imparentato con i Chiari.[^72]
+Ti prego di goderti lo scritto che ti allego e poi di rispedirmelo, perché Mining desidera inserirlo nella sua raccolta. L'autrice, la signora v. Oberleith[…],[^cite_ref-70] è la moglie di un pessimo compositore[^cite_ref-71] imparentato con i Chiari.[^cite_ref-72]
 
-Pensa: il 90% – a dir poco! – sarebbe abbastanza vanitoso da cascarci. E tutti questi ne comprerebbero certo almeno una copia! Con le risposte la buona signora ci sta compilando un album di autografi. E che pubblicità per il musicista in questione: «Omelette *à la* Mayer»![^73] I lettori di questo ricettario saranno certo indotti a pensare che la pietanza tragga il nome da lui, mentre in realtà è stato lui a chiamarla così in onore di se stesso!
+Pensa: il 90% – a dir poco! – sarebbe abbastanza vanitoso da cascarci. E tutti questi ne comprerebbero certo almeno una copia! Con le risposte la buona signora ci sta compilando un album di autografi. E che pubblicità per il musicista in questione: «Omelette *à la* Mayer»![^cite_ref-73] I lettori di questo ricettario saranno certo indotti a pensare che la pietanza tragga il nome da lui, mentre in realtà è stato lui a chiamarla così in onore di se stesso!
 
 Molto cordialmente Tuo
 
@@ -449,7 +449,7 @@ Molto cordialmente Tuo
 
 Mio caro Paul!
 
-Molte grazie per le diverse prelibatezze.[^74] Quando ricevetti la missiva della signora Oberleit[h]ner, redassi una lettera in cui la pregavo di accogliere il mio nome nel suo ricettario, benché io non sia un musicista. Ma non spedii quella lettera perché pensai che si potesse poi creare una confusione con te. La mia lettera era molto ben scritta & probabilmente sarebbe stata pubblicata fra le risposte divertenti. Quindi è quasi un peccato che sia andata così. (Le avevo scritto persino un motto filosofico su una pietanza.) Per favore salutami molto cordialmente Bassia.[^75] – Ti mando comunque la brutta copia della mia lettera alla Oberleit[h]ner. Credi che il mio contributo sarebbe stato accettato?
+Molte grazie per le diverse prelibatezze.[^cite_ref-74] Quando ricevetti la missiva della signora Oberleit[h]ner, redassi una lettera in cui la pregavo di accogliere il mio nome nel suo ricettario, benché io non sia un musicista. Ma non spedii quella lettera perché pensai che si potesse poi creare una confusione con te. La mia lettera era molto ben scritta & probabilmente sarebbe stata pubblicata fra le risposte divertenti. Quindi è quasi un peccato che sia andata così. (Le avevo scritto persino un motto filosofico su una pietanza.) Per favore salutami molto cordialmente Bassia.[^cite_ref-75] – Ti mando comunque la brutta copia della mia lettera alla Oberleit[h]ner. Credi che il mio contributo sarebbe stato accettato?
 
 Tuo Ludwig
 
@@ -476,7 +476,7 @@ Se mi vuole onorare includendomi nel suo libro, La prego di voler citare il mio 
 
 Caro Paul!
 
-Mille grazie! Quando ho visto la foto con l'Einstein,[^76] mi sono detto ad alta voce: non è possibile! Purtroppo qui non c'è nessuno che sappia davvero apprezzare questa cosa impossibile & la gioia non condivisa è gioia soltanto a metà. Molte grazie anche per il cerotto etc. che di certo devo alla Mining a cui ti prego di passare il mio grazie (profondamente sentito, perché lo sento proprio giù in fondo).
+Mille grazie! Quando ho visto la foto con l'Einstein,[^cite_ref-76] mi sono detto ad alta voce: non è possibile! Purtroppo qui non c'è nessuno che sappia davvero apprezzare questa cosa impossibile & la gioia non condivisa è gioia soltanto a metà. Molte grazie anche per il cerotto etc. che di certo devo alla Mining a cui ti prego di passare il mio grazie (profondamente sentito, perché lo sento proprio giù in fondo).
 
 Cordialmente, Tuo fratello
 
@@ -492,7 +492,7 @@ Caro Lucky,
 
 Volevo scriverti in ogni caso, visto che purtroppo a Natale non ti ho potuto vedere. Con l'occasione desidero riferirti due delusioni che mi sono occorse durante la mia lettura in viaggio.
 
-La prima delusione sono stati i *Nibelunghi* di Hebbel:[^77] li trovo un fiasco in ogni senso. Si comincia già all'inizio con la dedica a sua moglie… «quindi accetta questo lavoro, al quale tu dai anima, perché esso t'appartiene, & se potrà durare, sia per la tua gloria soltanto…». Se un autore scrive una trilogia drammatica deve perseguire scopi superiori.
+La prima delusione sono stati i *Nibelunghi* di Hebbel:[^cite_ref-77] li trovo un fiasco in ogni senso. Si comincia già all'inizio con la dedica a sua moglie… «quindi accetta questo lavoro, al quale tu dai anima, perché esso t'appartiene, & se potrà durare, sia per la tua gloria soltanto…». Se un autore scrive una trilogia drammatica deve perseguire scopi superiori.
 
 Poi questa mistura di antichità & attualità (un errore che Wagner non fa): Crimilde, quando Sigfrido si mette in viaggio, deve imballare la corazza sopra tutto il resto!!! “La morte di Sigfrido”, atto 4, scena 6. Crimilde: … «che i vecchi siano tanto affezionati agli animali» (“La vendetta di Crimilde”, atto 1, scena 3). Ma lì accanto Brunilde d'Islanda, fiabesca figura preistorica.
 
@@ -508,9 +508,9 @@ Prescindendo poi del tutto dal fatto che Brunilde, introdotta inizialmente in ma
 
 Questi errori pesano in ogni caso più dei punti positivi, che a me non risultano individuabili. Gli errori invece ci sono.
 
-La seconda delusione è stato un libro di Herbert Spencer, *Education*.[^78] Lafcadio Hearn[^79] lo definisce da qualche parte *the world's greatest philosopher*. Io avrei detto: un personaggio molto simpatico, magari un buon […] di un istituto, ma assolutamente non scientifico.
+La seconda delusione è stato un libro di Herbert Spencer, *Education*.[^cite_ref-78] Lafcadio Hearn[^cite_ref-79] lo definisce da qualche parte *the world's greatest philosopher*. Io avrei detto: un personaggio molto simpatico, magari un buon […] di un istituto, ma assolutamente non scientifico.
 
-Quando faccio copiare un brano musicale & poi fin dalla prima scorsa casuale trovo un errore, posso esser certo che l'intero quaderno ne pullula. E se già sulla prima pagina di un'opera filosofica scopro un *quaternio terminorum*,[^80] è giustificata la stessa conclusione. Nella misura in cui si tratta di dottrina filosofica, avrei potuto far dietro-front fin dalla prima pagina.
+Quando faccio copiare un brano musicale & poi fin dalla prima scorsa casuale trovo un errore, posso esser certo che l'intero quaderno ne pullula. E se già sulla prima pagina di un'opera filosofica scopro un *quaternio terminorum*,[^cite_ref-80] è giustificata la stessa conclusione. Nella misura in cui si tratta di dottrina filosofica, avrei potuto far dietro-front fin dalla prima pagina.
 
 Non rispondere a questi miei scarabocchi, a meno che tu ne abbia particolarmente voglia, e poi [ci vediamo] in Alleegasse, visto che probabilmente io partirò da qui il 25/1. Ci rivedremo in aprile se Dio vuole per Pasqua o quest'estate.
 
@@ -526,7 +526,7 @@ Caro Paul!
 
 Mille grazie per la tua lunga lettera. Ti potrò rispondere solo in forma abborracciata & *del tutto insufficiente*. Tanto più che non ho con me lo Hebbel & non l'ho più letto da tanto tempo.
 
-Io credo che nessuno dei punti su cui trovi da ridire sia un vero errore; & in questo tuttavia non ho nessun dubbio che si possa dire che la forza dello scrittore non sia neppure lontanamente bastata a rappresentare i conflitti che qui si devono rappresentare. Col che intendo solo dire che alla fin fine l'impresa non è riuscita. – È, credo, come se si leggesse, poniamo, un libro di estetica & lo si trovasse nel complesso, come sistema, un fallimento, ma si trovasse anche che nel libro sono sparse ovunque ottime osservazioni sul tema trattato. Così anche qui si possono vedere di continuo sguardi profondi & belle invenzioni, & di certo molti di più di quelli che io riesca a supporre. Credo che Hebbel e Wagner si possano paragonare tanto poco quanto un cieco & uno storpio, se non nella misura in cui – nessuno dei due riesce a camminare bene. In Wagner non c'è il minimo di tragicità dall'inizio alla fine; proprio come in una fiaba o in un mito. Vale a dire che non ci sono mai scontri di forze che noi percepiamo come paritetiche. Dove ci sono scontri, sono fra la luce & la tenebra. L'essenziale per Hebbel è proprio che tutti hanno ragione. Vale a dire: in Wagner non ci sono problemi, mentre in Hebbel è un pullulare di problemi. In particolare per lui gli scontri sono sempre fra tipologie: culture, popoli, razze, epoche (vedi *Erode e Marianna*, *Gige*, *Genoveffa*).[^81] – Si potrebbe anche dire così: la seconda metà del XIX secolo si è occupata in continuazione di problemi di razza; cioè del confronto, della valutazione, delle pretese delle razze. Per questo anche fra i drammi di Hebbel sono nati *L'ebrea*, gli *Argonauti*, i *Maccabei*. In tutti questi testi ha luogo un conflitto di questo tipo. (Nel *Nathan* invece in questo senso non c'è alcun conflitto.) Per Wagner il problema invece è già risolto & luce & tenebra sono separate. (Già per questo gli altri sono assai più onesti.)
+Io credo che nessuno dei punti su cui trovi da ridire sia un vero errore; & in questo tuttavia non ho nessun dubbio che si possa dire che la forza dello scrittore non sia neppure lontanamente bastata a rappresentare i conflitti che qui si devono rappresentare. Col che intendo solo dire che alla fin fine l'impresa non è riuscita. – È, credo, come se si leggesse, poniamo, un libro di estetica & lo si trovasse nel complesso, come sistema, un fallimento, ma si trovasse anche che nel libro sono sparse ovunque ottime osservazioni sul tema trattato. Così anche qui si possono vedere di continuo sguardi profondi & belle invenzioni, & di certo molti di più di quelli che io riesca a supporre. Credo che Hebbel e Wagner si possano paragonare tanto poco quanto un cieco & uno storpio, se non nella misura in cui – nessuno dei due riesce a camminare bene. In Wagner non c'è il minimo di tragicità dall'inizio alla fine; proprio come in una fiaba o in un mito. Vale a dire che non ci sono mai scontri di forze che noi percepiamo come paritetiche. Dove ci sono scontri, sono fra la luce & la tenebra. L'essenziale per Hebbel è proprio che tutti hanno ragione. Vale a dire: in Wagner non ci sono problemi, mentre in Hebbel è un pullulare di problemi. In particolare per lui gli scontri sono sempre fra tipologie: culture, popoli, razze, epoche (vedi *Erode e Marianna*, *Gige*, *Genoveffa*).[^cite_ref-81] – Si potrebbe anche dire così: la seconda metà del XIX secolo si è occupata in continuazione di problemi di razza; cioè del confronto, della valutazione, delle pretese delle razze. Per questo anche fra i drammi di Hebbel sono nati *L'ebrea*, gli *Argonauti*, i *Maccabei*. In tutti questi testi ha luogo un conflitto di questo tipo. (Nel *Nathan* invece in questo senso non c'è alcun conflitto.) Per Wagner il problema invece è già risolto & luce & tenebra sono separate. (Già per questo gli altri sono assai più onesti.)
 
 In Wagner il mito deve essere drammatizzato; in Hebbel si deve mostrare lo scontro fra mondi differenti e cioè, fra l'altro, lo scontro fra un mondo arcano & uno quotidiano. Questo a proposito della tua prima critica.
 
@@ -538,7 +538,7 @@ Crimilde non si vendica semplicemente di due persone, ma di un'intera cultura. (
 
 Il tesoro & Sigfrido sono per Crimilde in certo senso una cosa sola. Inabissare il tesoro era qualcosa di simile a oltraggiare il cadavere dell'uomo ucciso – e non è perché siamo tanto attaccati al corpo morto che si percepisce la cosa come dolorosa. Sigfrido significava per Crimilde potere & forza & il tesoro è un simbolo di questo potere in più di un senso.
 
-Che, per così dire come epilogo, venga introdotto un nuovo tema, non è di per sé, io credo, un errore; ma non voglio dire che qui abbia l'efficacia che dovrebbe avere. Il senso è appunto quello che l'intera epoca passata con tutti i suoi conflitti s'inabissa & una nuova ha inizio. Adesso però basta, più che basta!![^82]
+Che, per così dire come epilogo, venga introdotto un nuovo tema, non è di per sé, io credo, un errore; ma non voglio dire che qui abbia l'efficacia che dovrebbe avere. Il senso è appunto quello che l'intera epoca passata con tutti i suoi conflitti s'inabissa & una nuova ha inizio. Adesso però basta, più che basta!![^cite_ref-82]
 
 Scusa questi scarabocchi
 
@@ -566,7 +566,7 @@ Molto cordialmente Tuo
 
 Carissimo Lucky,
 
-Benché di solito ti mandi solo scemenze *compendiose*, oggi riceverai l'articolo allegato,[^83] per via dei punti segnati in rosso,
+Benché di solito ti mandi solo scemenze *compendiose*, oggi riceverai l'articolo allegato,[^cite_ref-83] per via dei punti segnati in rosso,
 
 Molto cordialmente Tuo
 
@@ -574,7 +574,7 @@ Paul
 
 ### 153. Ludwig a Paul, [dopo il 1º maggio 1936]
 
-Pro calceo ingenti, quem mihi misisti, maximas gratias tibi ageo. Stultitiae limes non notus est. Inanitas cerebrorum in dies expavescit.[^84]
+Pro calceo ingenti, quem mihi misisti, maximas gratias tibi ageo. Stultitiae limes non notus est. Inanitas cerebrorum in dies expavescit.[^cite_ref-84]
 
 Molto cordialmente Ludwig
 
@@ -588,7 +588,7 @@ Caro Paul!
 
 Qualche giorno fa è stato qui da me il giovane Hermann Hänsel, per discutere con me dei suoi studi. Per ragioni che qui non posso sviscerare, ma che sono *del tutto rispettabili*, desidera interrompere gli studi (filologia) & assolvere già adesso il servizio militare. Cioè desidera, se è possibile, arruolarsi subito dopo il suo ritorno a Vienna (fra ca. due settimane), invece di tornare a frequentare l'università. Né lui né io conosciamo però le scadenze per l'arruolamento. Inoltre poi Hermann H. di questo non ha ancora parlato con suo padre, gliene ha scritto, ma io non so se lui gli darà la sua approvazione. Pertanto ho dato a H. H. una lettera per te, che ti dovrebbe consegnare dopo aver parlato con suo padre (nel caso che costui approvi) & in questa lettera ti prego di consigliare H. H. & eventualmente di aiutarlo, raccomandandolo presso qualche militare, perché a mio parere merita questo appoggio. Dopo essere partito, H. mi ha mandato da una tappa del suo viaggio una lettera in cui mi prega di mandarti per posta una lettera sulla sua faccenda, perché altrimenti potrebbe essere troppo tardi & magari impossibile fare qualcosa, se tu venissi a conoscenza della cosa solo fra due settimane (Hermann H. infatti compie l'intero viaggio in *bicicletta*).
 
-Ora ti prego di fare quanto segue: per favore mettiti in contatto con il direttore Hänsel,[^85] mostragli questa lettera, chiedigli se Hermann ha la sua approvazione nel voler assolvere il servizio militare *ora*, invece che a conclusione dei suoi studi; & *se* è così, allora, per favore, datti da fare per lui – *se solo la cosa è possibile* – in modo che possa arruolarsi adesso. Io considero Hermann H. un giovanotto molto serio, in gamba & volonteroso, che è degno del tuo impegno.
+Ora ti prego di fare quanto segue: per favore mettiti in contatto con il direttore Hänsel,[^cite_ref-85] mostragli questa lettera, chiedigli se Hermann ha la sua approvazione nel voler assolvere il servizio militare *ora*, invece che a conclusione dei suoi studi; & *se* è così, allora, per favore, datti da fare per lui – *se solo la cosa è possibile* – in modo che possa arruolarsi adesso. Io considero Hermann H. un giovanotto molto serio, in gamba & volonteroso, che è degno del tuo impegno.
 
 Perdona questa seccatura a tuo fratello che ti saluta molto cordialmente
 
@@ -606,7 +606,7 @@ Spero che questa lettera non sia troppo poco chiara. Tuo L.
 
 Mio caro Paul!
 
-Per sicurezza rispondo anche a te su richiesta di Mining: io non mi unirò alla vostra istanza,[^86] ma sono *convinto della sua legittimità per voi*.
+Per sicurezza rispondo anche a te su richiesta di Mining: io non mi unirò alla vostra istanza,[^cite_ref-86] ma sono *convinto della sua legittimità per voi*.
 
 Ovviamente potete segnalare il mio servizio militare ecc.; ma questo non deve portare all'equivoco che io perciò partecipo automaticamente all'istanza.
 
@@ -622,7 +622,7 @@ Tuo Ludwig
 
 Caro Paul!
 
-Solo una riga per dirti, cosa che si capisce da sé, che ti penso.[^87]
+Solo una riga per dirti, cosa che si capisce da sé, che ti penso.[^cite_ref-87]
 
 Molto cordialmente Tuo
 
@@ -634,7 +634,7 @@ Per favore salutami il Koder, la Mining & anche tutti gli altri quando li vedi.
 
 ### 172. Paul a Ludwig, [1939]
 
-I *tedeschi sono ricattatori* e quando si mostra a un ricattatore quali siano le proprie debolezze, si è del tutto perduti. […] Qui c'è solo una possibilità: bisogna cioè dire ai tedeschi che riceveranno tanto e non un centesimo in più, e che si adegueranno! […] John Stonborough ha urlato da un capo all'altro del tavolo: «Del tuo denaro io me ne frego!» […] Si deve riflettere su che cosa questo significhi: si trattava di vita o morte per fame. […] Il mio passaporto tedesco era praticamente scaduto. […] Dato che sono arrivato in America troppo tardi, tutti i posti disponibili nei conservatori erano andati da tempo. Una posizione diversa da quella di maestro di pianoforte non la posso accettare, perché per tutte le altre non sono idoneo. Quale idiota mai assumerebbe un inutile uomo con un braccio solo, quando centinaia di persone altamente qualificate, con tutte e due le braccia, se ne vanno in giro disoccupate? […] E anche se un posto ben pagato fosse disponibile, in quanto visitatore, non lo potrei prendere, perché, in quanto visitatore, ho l'obbligo di non guadagnare denaro. […] Mi hanno turlupinato.[^88]
+I *tedeschi sono ricattatori* e quando si mostra a un ricattatore quali siano le proprie debolezze, si è del tutto perduti. […] Qui c'è solo una possibilità: bisogna cioè dire ai tedeschi che riceveranno tanto e non un centesimo in più, e che si adegueranno! […] John Stonborough ha urlato da un capo all'altro del tavolo: «Del tuo denaro io me ne frego!» […] Si deve riflettere su che cosa questo significhi: si trattava di vita o morte per fame. […] Il mio passaporto tedesco era praticamente scaduto. […] Dato che sono arrivato in America troppo tardi, tutti i posti disponibili nei conservatori erano andati da tempo. Una posizione diversa da quella di maestro di pianoforte non la posso accettare, perché per tutte le altre non sono idoneo. Quale idiota mai assumerebbe un inutile uomo con un braccio solo, quando centinaia di persone altamente qualificate, con tutte e due le braccia, se ne vanno in giro disoccupate? […] E anche se un posto ben pagato fosse disponibile, in quanto visitatore, non lo potrei prendere, perché, in quanto visitatore, ho l'obbligo di non guadagnare denaro. […] Mi hanno turlupinato.[^cite_ref-88]
 
 ## Note
 
