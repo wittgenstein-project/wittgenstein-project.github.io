@@ -135,7 +135,7 @@ def parse_html(state, parsed, image_urls, elem, escape_newlines=False):
             parse_line(state, parsed, image_urls, elem,
                        "sup", "^", escape_whitespace=True)
         elif elem.name == "sup" and elem.get("class") == ["reference"] and elem.get("id"):
-            ref_number = elem.get("id").replace("cite_note-", "")
+            ref_number = elem.get("id").replace("cite_ref-", "")
             parsed[-1] += f"[^{ref_number}]"
             refs.append(ref_number)
         elif elem.name == "div" and elem.get("class") and "mw-references-wrap" in elem.get("class"):
