@@ -253,9 +253,7 @@ The spatial picture, everything spatial, the coloured, everything coloured, etc.
 
 **[3.01](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#3.01)** The totality of true thoughts is a picture of the world.
 
-**[3.02](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#3.02)** The thought contains the possibility of the state of affairs which it thinks.
-
-What is thinkable is also possible.
+**[3.02](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#3.02)** The thought contains the possibility of the state of affairs which it thinks. What is thinkable is also possible.
 
 **[3.03](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#3.03)** We cannot think anything unlogical, for otherwise we should have to think unlogically.
 
