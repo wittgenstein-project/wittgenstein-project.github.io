@@ -76,7 +76,7 @@ CAMBRIDGE,
 
 ## Parte I
 
-**[1.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#1)** [San] Agustín, en las *Confesiones* 1/8 [dice]: *si los mayores nombraban un objeto cualquiera y se volvían hacia él, entonces yo percibía eso y comprendía que el objeto era designada mediante los sonidos que ellos expresaban, dado que ellos querían referirse a él. Sin embargo, esto lo deducía yo de sus gestos, del lenguaje natural de todos los pueblos, del lenguaje que, mediante un juego de ojos y cara, mediante los movimientos de los miembros y el sonido de la voz, denotaba las sensaciones del alma, cuando esta deseaba alguna cosa o la agarraba o la repelía o huía [de ella]. Así aprendí poco a poco a comprender qué cosas denotaban las palabras que yo oía pronunciar una y otra vez en sus posiciones determinadas en distintas proposiciones. Y yo, una vez que mi boca se había habituado a estos signos, enunciaba mediante ellas mis deseos*.[^cite_ref-1]
+**[1.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#1)** [San] Agustín, en las *Confesiones* 1/8 [dice]: *si los mayores nombraban un objeto cualquiera y se volvían hacia él, entonces yo percibía eso y comprendía que el objeto era designada mediante los sonidos que ellos expresaban, dado que ellos querían referirse a él. Sin embargo, esto lo deducía yo de sus gestos, del lenguaje natural de todos los pueblos, del lenguaje que, mediante un juego de ojos y cara, mediante los movimientos de los miembros y el sonido de la voz, denotaba las sensaciones del alma, cuando esta deseaba alguna cosa o la agarraba o la repelía o huía [de ella]. Así aprendí poco a poco a comprender qué cosas denotaban las palabras que yo oía pronunciar una y otra vez en sus posiciones determinadas en distintas proposiciones. Y yo, una vez que mi boca se había habituado a estos signos, enunciaba mediante ellas mis deseos*.[^1]
 
 De estas palabras obtenemos, así me parece, una imagen determinada de la esencia [*Wesen*] del lenguaje humano. A saber, esta: las palabras del lenguaje denominan objetos ― [las] proposiciones son uniones de tales denominaciones. ―― En esta imagen del lenguaje encontramos la raíz de la idea: cada palabra tiene un significado [*Bedeutung*]. Este significado está relacionado con la palabra. Ella es el objeto para el cual está la palabra.
 
@@ -100,7 +100,7 @@ Tales formas primitivas del lenguaje las usa el niño cuando aprende a hablar. E
 
 **[6.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#6)** Podríamos imaginarnos que el lenguaje en §2 es el lenguaje *completo* de A y B; o sea, el lenguaje completo de una tribu. Los niños serían educados en hacer *estas* actividades, utilizar *estas* palabras con ellas y en reaccionar *así* ante las palabras del otro.
 
-Una parte importante del adiestramiento consistiría en que el docente señale los objetos, dirija la atención del niño hacia ellos y con esto pronuncie una palabra; por ejemplo, la palabra «placa» mostrando esta forma. (Esto no lo quiero llamar «explicación indicativa» o «definición», porque el niño no podría ni siquiera *preguntar* algo tras la designación. Quiero llamarlo «aprendizaje indicativo de las palabras». ―― Digo que esto constituirá una parte importante del adiestramiento, porque esto es el caso en los seres humanos [*Menschen*], no porque no se pueda imaginar de otra manera.) Este aprendizaje indicativo de las palabras, se podría decir, propone una relación asociativa entre la palabra y la cosa. Pero, ¿qué significa esto? Pues puede significar [cosas] diferentes, pero se piensa buenamente primero que para el niño la imagen de la cosa ocurre frente a su mente[^cite_ref-2] cuando escucha la palabra. Ahora pues, cuando esto ocurre ― ¿es esto el fin de la palabra? ― Sí, *puede* ser el fin. Yo puedo pensar tal utilización de palabras (series de sonidos). (La pronunciación de una palabra es como un teclear de una tecla en el piano de la imaginación.) Pero en el lenguaje de §2 el fin de las palabras *no* es despertar imágenes. (Obviamente, se puede encontrar que esto es propicio para el propio fin.)
+Una parte importante del adiestramiento consistiría en que el docente señale los objetos, dirija la atención del niño hacia ellos y con esto pronuncie una palabra; por ejemplo, la palabra «placa» mostrando esta forma. (Esto no lo quiero llamar «explicación indicativa» o «definición», porque el niño no podría ni siquiera *preguntar* algo tras la designación. Quiero llamarlo «aprendizaje indicativo de las palabras». ―― Digo que esto constituirá una parte importante del adiestramiento, porque esto es el caso en los seres humanos [*Menschen*], no porque no se pueda imaginar de otra manera.) Este aprendizaje indicativo de las palabras, se podría decir, propone una relación asociativa entre la palabra y la cosa. Pero, ¿qué significa esto? Pues puede significar [cosas] diferentes, pero se piensa buenamente primero que para el niño la imagen de la cosa ocurre frente a su mente[^2] cuando escucha la palabra. Ahora pues, cuando esto ocurre ― ¿es esto el fin de la palabra? ― Sí, *puede* ser el fin. Yo puedo pensar tal utilización de palabras (series de sonidos). (La pronunciación de una palabra es como un teclear de una tecla en el piano de la imaginación.) Pero en el lenguaje de §2 el fin de las palabras *no* es despertar imágenes. (Obviamente, se puede encontrar que esto es propicio para el propio fin.)
 
 Sin embargo, cuando esto ocasiona el aprendizaje indicativo ― ¿debo decir provoca la comprensión de la palabra? ¿No comprende la exclamación «¡placa!» el que actúa respecto a ella así y asá? ― Pero bien ayudó el aprendizaje indicativo a que esto se originara; pero ciertamente solo junto con una cierta enseñanza. Con otra enseñanza, el mismo aprendizaje indicativo de estas palabras habría ocasionado un entendimiento completamente distinto.
 
@@ -148,7 +148,7 @@ Es lo más natural y lo que causa menos confusión, cuando contamos los patrones
 
 \((Observación sobre el pronombre reflexivo «*esta* proposición»)).
 
-**[17.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#17)** Podremos decir: en el lenguaje (8) tenemos distintas *clases de palabras* [*Wortarten*]. Pues la función de la palabra «placa» y de la palabra «cubo» son[^cite_ref-3] similares entre sí, como la de «placa» y «d». Pero como englobamos las palabras acordes a clases, dependerá de la finalidad de la clasificación, ― y de nuestra inclinación.
+**[17.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#17)** Podremos decir: en el lenguaje (8) tenemos distintas *clases de palabras* [*Wortarten*]. Pues la función de la palabra «placa» y de la palabra «cubo» son[^3] similares entre sí, como la de «placa» y «d». Pero como englobamos las palabras acordes a clases, dependerá de la finalidad de la clasificación, ― y de nuestra inclinación.
 
 Piensa en los distintos puntos de vista según los cuales se pueden clasificar las herramientas en clases de herramientas. O figuras de ajedrez en clases de figuras.
 
@@ -350,13 +350,13 @@ Y el *significado* de un nombre se explica a veces al señalar su *portador*.
 
 **[46.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#46)** ¿Qué tipo de motivo hay para que, en el fondo, el nombre designe lo simple? ―
 
-Sócrates (en el *Teeteto* [201e–202b]): «a mí me parece haber oído decir a ciertas personas que los *primeros elementos* ― por decirlo así ― a partir de los cuales estamos compuestos nosotros mismos y el resto de las cosas, constituyen algo que no tiene explicación. Pues cada uno de estos sólo puede *recibir* [*bezeichnen*] el nombre que en sí y por sí mismo le corresponde, pero no se puede decir de ellos nada más, ni siquiera que *son* o que *no son* […] si fuera posible designarlos en sí mismos […] deberíamos designarlos con independencia de todo lo demás. Pero es imposible que cualquiera de los elementos primeros quede expresado en una explicación. Respecto a ellos, no podemos hacer otra cosa que nombrarlos, ya que sólo tienen nombre. Sin embargo, si hablamos de las cosas que se componen de éstos, de la misma manera que ellas son complejas, también sus nombres pueden combinarse y llegar a constituir una explicación, pues la combinación de los nombres es la esencia de una explicación»[^cite_ref-4].
+Sócrates (en el *Teeteto* [201e–202b]): «a mí me parece haber oído decir a ciertas personas que los *primeros elementos* ― por decirlo así ― a partir de los cuales estamos compuestos nosotros mismos y el resto de las cosas, constituyen algo que no tiene explicación. Pues cada uno de estos sólo puede *recibir* [*bezeichnen*] el nombre que en sí y por sí mismo le corresponde, pero no se puede decir de ellos nada más, ni siquiera que *son* o que *no son* […] si fuera posible designarlos en sí mismos […] deberíamos designarlos con independencia de todo lo demás. Pero es imposible que cualquiera de los elementos primeros quede expresado en una explicación. Respecto a ellos, no podemos hacer otra cosa que nombrarlos, ya que sólo tienen nombre. Sin embargo, si hablamos de las cosas que se componen de éstos, de la misma manera que ellas son complejas, también sus nombres pueden combinarse y llegar a constituir una explicación, pues la combinación de los nombres es la esencia de una explicación»[^4].
 
 Estos elementos primeros serían también los “*individuales*” [*individuals*] de Russell y también mis “objetos” [*Gegenstände*] (*Tratado lógico-filosófico*).
 
 **[47.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#47)** Pero, ¿cuáles son las partes constitutivas simples por las cuales se compone la realidad? ― ¿Cuáles son las partes constitutivas simples de un sillón? ― ¿Los trozos de madera por los cuales es compuesto? ¿O las moléculas o los átomos? ― «Simple» significa: no compuesto. Y así llegamos a lo siguiente: ¿en qué sentido “compuesto”? No tiene ningún sentido hablar de “las partes constitutivas simples del sillón sin más”.
 
-O, ¿consiste mi visión de este árbol, de este sillón, en partes? Y, ¿cuáles son sus partes constitutivas simples? [La] policromía es *un* tipo de composicionalidad[^cite_ref-5]; otra es, por ejemplo, la de un contorno roto a partir de trozos rectos. Y un trozo curvo se puede llamar compuesto de una rama ascendente y una descendente.
+O, ¿consiste mi visión de este árbol, de este sillón, en partes? Y, ¿cuáles son sus partes constitutivas simples? [La] policromía es *un* tipo de composicionalidad[^5]; otra es, por ejemplo, la de un contorno roto a partir de trozos rectos. Y un trozo curvo se puede llamar compuesto de una rama ascendente y una descendente.
 
 Cuando le digo a alguien, sin más explicación: «lo que veo frente a mí está compuesto», preguntará con razón: «¿a qué te refieres con “compuesto”? ¡Eso puede significar cualquier cosa!». ― La pregunta: «¿es, lo que ves, compuesto?» tiene ciertamente sentido, una vez establecido de qué tipo de ser compuesto se debe tratar, ― es decir, de qué uso particular de esta palabra―. Si ha sido establecido que la visión de un árbol debiera llamarse «compuesta», cuando no solo se viera un tronco, sino también ramas, entonces la pregunta «¿es la visión de este árbol sencilla o compuesta?» y la pregunta «¿cuáles son sus partes constitutivas?» un sentido claro ― una aplicación clara. Y respecto a la segunda pregunta, la respuesta no es, obviamente: «las ramas» (esto sería una respuesta a la pregunta *gramatical*: «¿a qué se *llama* aquí las “partes constitutivas simples”?»), sino algo así como la descripción de las ramas individuales.
 
@@ -422,7 +422,7 @@ Pero en el fondo queremos solo interpretar que «rojo existe» como enunciado: l
 
 **[59.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#59)** «*Nombre* designa solo eso, que es *elemento* de la realidad. Lo que no puede ser destruido, lo que permanece en todo cambio». ― Pero, ¿qué es eso? ― Mientras decíamos la proposición, ¡la teníamos ya en mente! Expresábamos ya una representación determinada al completo. Una imagen determinada que queremos aplicar. Pues la experiencia no nos muestra este elemento. Vemos *partes constitutivas* de algo compuesto (un sillón, por ejemplo). Decimos que el respaldo es una parte del sillón, pero compuesto en sí mismo nuevamente de distintos trozos de madera, mientras un pie es una parte constitutiva simple. También vemos un todo que cambia (es destruido) mientras sus partes constitutivas permanecen inalteradas. Esto son los materiales a partir de los cuales confeccionamos aquella imagen de realidad.
 
-**[60.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#60)** Ahora bien, si yo digo: «mi escoba está en la esquina», ― ¿es esto en el fondo un enunciado sobre el mango de la escoba y el cepillo de la escoba? En cualquiera caso se podría sustituir el enunciado por uno que marcara la posición del mango y la posición del cepillo. Y este enunciado es ahora una forma más analizada del primero. ― Pero, ¿por qué la llamo «más analizada»? ― Pues, si la escoba se encuentra ahí, entonces eso significa que mango y cepillo deben estar ahí y en cierta posición relativa; y esto estaba anteriormente casi como oculto en el sentido de la proposición y en la proposición analizada es *expresado*. Así, el que dice que la escoba está en la esquina, ¿quiere decir en el fondo: el mango está ahí y el cepillo [también] y el mango está metido en el cepillo? Si preguntamos a alguien si quiere decir eso, bien diría que no ha pensado para nada en el mango de la escoba en particular o en el cepillo en particular. Y eso sería una respuesta *correcta*, pues él no quería hablar ni del mango de la escoba ni del cepillo en particular. Piensa que le dijeras a alguien, en lugar de «¡tráeme la escoba!» ― «¡tráeme el mango de la escoba y el cepillo en el que está metido!». ―― No es la respuesta a ello[^cite_ref-6]: «¿quieres tener la escoba? Y, ¿por qué lo expresas de una manera tan particular?». ―― ¿Entenderá mejor la proposición más analizada? ― Esta proposición, se podría decir, ofrece lo mismo que la habitual, pero por un camino más prolijo. ― Imagínate un juego del lenguaje en el que órdenes son dadas a alguien para que traiga, mueva o similares, ciertas cosas compuestas de muchas partes. Y dos formas de jugarlo: en una (a) las cosas compuestas (escobas, sillas, mesas, etc.) tienen nombre, como en (15), en otra (b) solo las partes contienen nombre y el todo es descrito con su ayuda. ― ¿Hasta qué punto es entonces la orden del segundo juego una forma analizada de la orden del primero? ¿Se encuentra, entonces, aquella en esta y es extraída mediante el análisis? ― Pues la escoba es descompuesta cuando se separan mango y cepillo, pero ¿consiste también la orden de traer la escoba en partes correspondientes?
+**[60.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#60)** Ahora bien, si yo digo: «mi escoba está en la esquina», ― ¿es esto en el fondo un enunciado sobre el mango de la escoba y el cepillo de la escoba? En cualquiera caso se podría sustituir el enunciado por uno que marcara la posición del mango y la posición del cepillo. Y este enunciado es ahora una forma más analizada del primero. ― Pero, ¿por qué la llamo «más analizada»? ― Pues, si la escoba se encuentra ahí, entonces eso significa que mango y cepillo deben estar ahí y en cierta posición relativa; y esto estaba anteriormente casi como oculto en el sentido de la proposición y en la proposición analizada es *expresado*. Así, el que dice que la escoba está en la esquina, ¿quiere decir en el fondo: el mango está ahí y el cepillo [también] y el mango está metido en el cepillo? Si preguntamos a alguien si quiere decir eso, bien diría que no ha pensado para nada en el mango de la escoba en particular o en el cepillo en particular. Y eso sería una respuesta *correcta*, pues él no quería hablar ni del mango de la escoba ni del cepillo en particular. Piensa que le dijeras a alguien, en lugar de «¡tráeme la escoba!» ― «¡tráeme el mango de la escoba y el cepillo en el que está metido!». ―― No es la respuesta a ello[^6]: «¿quieres tener la escoba? Y, ¿por qué lo expresas de una manera tan particular?». ―― ¿Entenderá mejor la proposición más analizada? ― Esta proposición, se podría decir, ofrece lo mismo que la habitual, pero por un camino más prolijo. ― Imagínate un juego del lenguaje en el que órdenes son dadas a alguien para que traiga, mueva o similares, ciertas cosas compuestas de muchas partes. Y dos formas de jugarlo: en una (a) las cosas compuestas (escobas, sillas, mesas, etc.) tienen nombre, como en (15), en otra (b) solo las partes contienen nombre y el todo es descrito con su ayuda. ― ¿Hasta qué punto es entonces la orden del segundo juego una forma analizada de la orden del primero? ¿Se encuentra, entonces, aquella en esta y es extraída mediante el análisis? ― Pues la escoba es descompuesta cuando se separan mango y cepillo, pero ¿consiste también la orden de traer la escoba en partes correspondientes?
 
 **[61.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#61)** «Pero no negarás que una orden determinada en (a) dice lo mismo que una en (b); y, ¿cómo quieres llamar entonces a la segunda si no una forma analizada de la primera?». ― Obviamente, yo diría también que una orden en (a) tiene el mismo sentido que una en (b); o, como he expresado anteriormente: ofrecen lo mismo. Y eso significa: si se me mostrase, por ejemplo, una orden en (a) y se estableciera la pregunta «¿a qué orden en (b) es esta igual?» o también «¿a qué ordenes en (b) se opone?», entonces responderé a la pregunta así y así. Pero con ello no es dicho que nos hemos entendido *en general* sobre la aplicación de la expresión «tener el mismo sentido» u «ofrecer lo mismo». O sea, se puede preguntar: ¿en qué caso decimos que «eso son solo dos formas distintas del mismo juego»?.
 
@@ -438,7 +438,7 @@ Pero en el fondo queremos solo interpretar que «rojo existe» como enunciado: l
 
 Y eso es cierto. ― En lugar de ofrecer algo que es común a todo lo que llamamos lenguaje, digo que en estos fenómenos no hay absolutamente nada en común, por lo que aplicamos para todos la misma palabra, sino que están *emparentados* entre sí de formas muy distintas. Y debido a este parentesco, o a estos parentescos, los llamamos a todos «lenguajes». Intentaré explicar esto.
 
-**[66.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#66)** Observa, por ejemplo, una vez los procedimientos que llamamos «juegos». Me refiero juegos de mesa, juegos de carta, juegos de pelota, juegos de lucha, etc. ¿Qué es común a todos estos? ― No digas: «algo *debe* ser común a ellos, de otra manera no se llamarían “juegos”», ― sino *mira* si algo es común a todos ellos. ― Pues, cuando los contemplas, no verás ciertamente nada que fuera común *a todos*, pero verás similitudes, parentescos, y ciertamente una serie completa. Como se ha dicho: ¡no pienses, sino mira! ― Contempla, por ejemplo, los juegos de mesa, con sus múltiples parentescos. Ahora pásate a los juegos de cartas, aquí encuentras muchas correspondencias con aquella primera clase, pero muchos rasgos comunes desaparecen, otros aparecen. Si nos pasamos ahora a los juegos de pelota, entonces mucho de lo común se mantiene, pero mucho se pierde. ― ¿Son todos “*divertidos*”? Compara el ajedrez con el juego del molino[^cite_ref-7]. O, ¿hay en todos casos un ganador y perdedor o una concurrencia de jugadores? Piensa en el solitario. En los juegos de pelota hay ganadores y perdedores, pero si un niño tira la pelota contra un muro y la coge de nuevo, este rasgo desaparece. Mira qué rol juegan habilidad y suerte. Y qué distinta es la habilidad en el juego del ajedrez y la habilidad en el juego del tenis. Piensa ahora en el juego del corro: aquí es el elemento de conversación [conservado], pero, ¡cuántos de los otros rasgos característicos han desaparecido! Y así podemos atravesar los muchos, muchos otros grupos de juegos. Ver similitudes aparecer y desaparecer.
+**[66.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#66)** Observa, por ejemplo, una vez los procedimientos que llamamos «juegos». Me refiero juegos de mesa, juegos de carta, juegos de pelota, juegos de lucha, etc. ¿Qué es común a todos estos? ― No digas: «algo *debe* ser común a ellos, de otra manera no se llamarían “juegos”», ― sino *mira* si algo es común a todos ellos. ― Pues, cuando los contemplas, no verás ciertamente nada que fuera común *a todos*, pero verás similitudes, parentescos, y ciertamente una serie completa. Como se ha dicho: ¡no pienses, sino mira! ― Contempla, por ejemplo, los juegos de mesa, con sus múltiples parentescos. Ahora pásate a los juegos de cartas, aquí encuentras muchas correspondencias con aquella primera clase, pero muchos rasgos comunes desaparecen, otros aparecen. Si nos pasamos ahora a los juegos de pelota, entonces mucho de lo común se mantiene, pero mucho se pierde. ― ¿Son todos “*divertidos*”? Compara el ajedrez con el juego del molino[^7]. O, ¿hay en todos casos un ganador y perdedor o una concurrencia de jugadores? Piensa en el solitario. En los juegos de pelota hay ganadores y perdedores, pero si un niño tira la pelota contra un muro y la coge de nuevo, este rasgo desaparece. Mira qué rol juegan habilidad y suerte. Y qué distinta es la habilidad en el juego del ajedrez y la habilidad en el juego del tenis. Piensa ahora en el juego del corro: aquí es el elemento de conversación [conservado], pero, ¡cuántos de los otros rasgos característicos han desaparecido! Y así podemos atravesar los muchos, muchos otros grupos de juegos. Ver similitudes aparecer y desaparecer.
 
 Y el resultado de esta observación ahora reza: vemos una complicada red de similitudes que se extienden y cruzan mutuamente. Similitudes en lo grande y pequeño.
 
@@ -464,7 +464,7 @@ Alguien me dice: «¡enséñale a los niños un juego!». Les enseño a echar lo
 
 ---
 
-**[71.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#71)** Se puede decir que el concepto “juego” es un concepto con bordes difusos. ― «Pero, ¿es un concepto difuso si quiera un *concepto*?». ― ¿Es una fotografía borrosa si quiera una imagen de un hombre? Pues[^cite_ref-8], ¿puede siempre sustituirse una imagen borrosa por una nítida con ventaja? ¿No es la borrosa con frecuencia justo lo que necesitamos?
+**[71.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#71)** Se puede decir que el concepto “juego” es un concepto con bordes difusos. ― «Pero, ¿es un concepto difuso si quiera un *concepto*?». ― ¿Es una fotografía borrosa si quiera una imagen de un hombre? Pues[^8], ¿puede siempre sustituirse una imagen borrosa por una nítida con ventaja? ¿No es la borrosa con frecuencia justo lo que necesitamos?
 
 Frege compara el concepto con un distrito y dice: un distrito vagamente limitado no se podría llamar siquiera un distrito. Bien, eso significa que con él no podemos hacer nada. ― Pero, ¿carece de sentido decir: «¡detente aproximadamente aquí!»? Imagínate que estuviera con otro en un sitio y dijera eso. Con ello no señalaría ni siquiera un límite cualquiera, sino que haría algo así como un movimiento señalador con la mano ― como [si] le mostrara un *punto* determinado. Y justo así se explica, por ejemplo, qué es un juego. Se dan ejemplos y se quiere que sean entendidos en un cierto sentido. ― Pero con esta expresión no quiero decir: ahora debería ver en estos ejemplos lo común que yo ― por una razón cualquiera, no pude expresar. Sino: ahora debería *aplicar* estos ejemplos en [una] forma concreta. El ejemplificar no es aquí un medio *indirecto* de la explicación ― en carencia de uno mejor. Pues malentendida puede también ser cualquier explicación general. *Así*, jugamos simplemente el juego. (Me refiero al juego del lenguaje con la palabra «juego»).
 
@@ -520,7 +520,7 @@ Pero todo esto puede aparecer primeramente bajo la luz correcta cuando uno ha co
 
 **[83.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#83)** ¿No nos arroja ahí luz la analogía del lenguaje con el juego? Buenamente podríamos imaginarnos que personas conversaran de una manera como jugando con una pelota, de tal manera que comenzaran distintos juegos persistentes, muchos no los jugaran hasta el final, entre medias tiraran la pelota al tuntún hacia arriba, que se tiraran y persiguieran mutuamente en broma con la pelota, etc. Y ahora dice uno: durante todo el tiempo la gente juega un juego de pelota y por lo tanto se rigen en cada pelotazo acorde a reglas determinadas.
 
-Y, ¿no se da también en caso en el que jugamos y ― “hacemos las reglas sobre la marcha”[^cite_ref-9]? Sí, también [se da] aquel en el que las cambiamos ― sobre la marcha.
+Y, ¿no se da también en caso en el que jugamos y ― “hacemos las reglas sobre la marcha”[^9]? Sí, también [se da] aquel en el que las cambiamos ― sobre la marcha.
 
 **[84.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#84)** Sobre la aplicación de una palabra dije: no está limitada por reglas en todas partes. Pero, ¿qué pinta tiene entonces un juego que está limitado en todas partes por reglas? Cuyas reglas no permiten ninguna duda, le obstruye todos los huecos. ― ¿No podríamos imaginarnos una regla que regulara la aplicación de la regla? Y, ¿una duda a la que *aquella* regla remediara, ― etcétera?
 
@@ -562,7 +562,7 @@ Entendemos qué significa: poner exactamente en hora un reloj de bolsillo o ajus
 
 Pues parece que le corresponde una profundidad especial ― significado general ―. Ella yace, según parece, en el fundamento de todas las ciencias. ― Pues la observación lógica investiga el ser de todas las coas. Ella quiere ver las cosas en su fundamento, y no debe preocuparse del tal o cual de la ocurrencia fáctica. ―― Ella surge, no de un interés por los hechos de la ocurrencia de la naturaleza, ni de la necesidad de comprender relaciones causales. Sino de una aspiración a comprender el fundamento o ser de todo [lo] acorde a la experiencia. Pero no como si debiéramos hallar para ello nuevos hechos: es mucho más esencial para nuestra investigación que no queramos aprender con ella nada *nuevo*. Queremos *entender* algo que ya yace abiertamente ante nuestros ojos. Pues *eso* parecemos no entenderlo en algún sentido.
 
-[San] Agustín (Conf. XI/14): «¿Qué es entonces el tiempo? Si nadie me plantea la cuestión, lo sé. Si quisiera explicarla a quien la plantea, no lo sé»[^cite_ref-10]. Esto no se podría decir de una pregunta de la ciencia de la naturaleza (algo así como la del peso específico del hidrógeno). Eso que se sabe cuando nadie nos pregunta, pero no se sabe más cuando debemos explicarlo, es algo de lo que se debe *meditar*. (Y evidentemente algo de lo que difícilmente se medita por cualquier razón).
+[San] Agustín (Conf. XI/14): «¿Qué es entonces el tiempo? Si nadie me plantea la cuestión, lo sé. Si quisiera explicarla a quien la plantea, no lo sé»[^10]. Esto no se podría decir de una pregunta de la ciencia de la naturaleza (algo así como la del peso específico del hidrógeno). Eso que se sabe cuando nadie nos pregunta, pero no se sabe más cuando debemos explicarlo, es algo de lo que se debe *meditar*. (Y evidentemente algo de lo que difícilmente se medita por cualquier razón).
 
 **[90.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#90)** Es para nosotros como si debiéramos *mirar a través* de los fenómenos: pero nuestra investigación no se dirige a los *fenómenos*, sino, como se podría decir, a las “*posibilidades*” de los fenómenos. Meditamos, eso significa sobre el *tipo de declaraciones* que hacemos sobre los fenómenos. Por eso reflexiona también [San] Agustín sobre las distintas declaraciones que uno hace sobre la duración de [los] acontecimientos, sobre su pasado, presente o futuro. (Estas no son obviamente declaraciones *filosóficas* sobre el tiempo, pasado, presente y futuro).
 
@@ -624,7 +624,7 @@ La proposición, la palabra, de la cual trata la lógica, debe ser algo puro y d
 
 La filosofía de la lógica no habla en ningún otro sentido de proposiciones y palabras como hacemos en la vida corriente, cuando decimos por ejemplo «aquí hay escrita una proposición en chino» o «no, eso parece un signo de escritura, pero es un ornamento», etc.
 
-Hablamos del fenómeno espacial y temporal del lenguaje, no de un absurdo no espacial y atemporal. [*Apostilla*. Solo se puede interesar uno por un fenómeno de distintas maneras]. Pero hablamos así de él [el fenómeno][^cite_ref-11], como de las figuras del juego de ajedrez, en tanto que damos reglas de figuras para ellas, no [en tanto que] describimos sus características físicas.
+Hablamos del fenómeno espacial y temporal del lenguaje, no de un absurdo no espacial y atemporal. [*Apostilla*. Solo se puede interesar uno por un fenómeno de distintas maneras]. Pero hablamos así de él [el fenómeno][^11], como de las figuras del juego de ajedrez, en tanto que damos reglas de figuras para ellas, no [en tanto que] describimos sus características físicas.
 
 La pregunta «¿qué es en el fondo una palabra?» es análoga a la de «¿qué es una figura de ajedrez?».
 
@@ -1186,7 +1186,7 @@ Se podría decir a aquel al que uno instruye: «mira, yo siempre hago lo mismo: 
 
 **[225.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#225)** El empleo de la palabra «regla» está entrelazado con el empleo de la palabra «igual». (Como el empleo de «proposición» con el empleo de «verdadero»).
 
-**[226.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#226)** Supón que uno sigue la regla 1, 3, 5, 7 . . . . apuntando la serie de *x*^2^ + 1.[^cite_ref-12] Y se pregunta: «pero, ¿hago siempre lo mismo o cada vez algo distinto?».
+**[226.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#226)** Supón que uno sigue la regla 1, 3, 5, 7 . . . . apuntando la serie de *x*^2^ + 1.[^12] Y se pregunta: «pero, ¿hago siempre lo mismo o cada vez algo distinto?».
 
 Quien de un día tras otro se promete «mañana quiero visitarte» ― ¿dice ese cada día lo mismo; o cada día algo distinto?
 
@@ -1398,7 +1398,7 @@ Eso significa: cuando se construye la gramática de la expresión de la sensaci�
 
 Pues yo pienso: cada uno dice de sí mismo que sabe solo por el dolor propio, lo que es el dolor. ―No que las personas realmente digan eso o tampoco que estén dispuestas a decir eso. Pero ahora *cuando* cada uno lo dijera――podría ser un tipo de exclamación. Y si es una comunicación inexpresiva, entonces es también una imagen; y ¿por qué no deberíamos querer traer a la mente una imagen así? Piensa, en lugar de palabras, en una imagen alegórica dibujada.
 
-Pues cuando al filosofar miramos en nosotros mismos, recibimos frecuentemente una imagen tal para observar. Oficialmente, una representación gráfica de nuestra gramática. No hechos [*Fakten*[^cite_ref-13]]; sino, por así decirlo, formas de hablar ilustradas.
+Pues cuando al filosofar miramos en nosotros mismos, recibimos frecuentemente una imagen tal para observar. Oficialmente, una representación gráfica de nuestra gramática. No hechos [*Fakten*[^13]]; sino, por así decirlo, formas de hablar ilustradas.
 
 **[296.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#296)** «Sí, pero ¡ahí hay un algo que acompaña a mi exclamación del dolor! Y por el cual la hago. Y este algo es eso que es importante, ―y terrible». ―¿Con quién compartimos eso? Y, ¿en qué ocasión?
 
@@ -1442,7 +1442,7 @@ Supongamos que dice: «no será tan malo». ― ¿No es eso la prueba de que él
 
 **[312.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#312)** Pero, ¿no son los casos de los dientes y de los dolores de nuevo similares? Pues la sensación facial en uno corresponde a la sensación de dolor en el otro. La sensación facial puede mostrarme tan poco o tan bien como la sensación de dolor.
 
-Pensemos en este caso: [que] las superficies de las cosas de nuestro entorno (piedras, plantas, etc. etc.) tengan manchas y zonas que causarían dolor a nuestra piel al tocarlas. (Por ejemplo, mediante la propiedad química de estas superficies. Pero eso no necesitamos saberlo). Pues hablaríamos, como hoy de una franja manchada de rojo de una determinada planta, de una franja con manchas de dolor. Me imagino que la percepción de estas manchas y su forma sería[^cite_ref-14] de utilidad para nosotros, que podríamos extraer de ella conclusiones sobre propiedades importantes de las cosas.
+Pensemos en este caso: [que] las superficies de las cosas de nuestro entorno (piedras, plantas, etc. etc.) tengan manchas y zonas que causarían dolor a nuestra piel al tocarlas. (Por ejemplo, mediante la propiedad química de estas superficies. Pero eso no necesitamos saberlo). Pues hablaríamos, como hoy de una franja manchada de rojo de una determinada planta, de una franja con manchas de dolor. Me imagino que la percepción de estas manchas y su forma sería[^14] de utilidad para nosotros, que podríamos extraer de ella conclusiones sobre propiedades importantes de las cosas.
 
 **[313.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#313)** Puedo representarme dolores, como me imagino el rojo, y como me imagino [lo] recto y [lo] curvo y árbol y piedra. *A eso* lo *llamamos* simplemente «representar».
 
@@ -1514,7 +1514,7 @@ Si uno ahora se preguntase «¿tienes tú el pensamiento antes de que tengas la 
 
 Y cuando se reflexiona sobre eso, entonces el espíritu agarra la *representación* del bailar, hablar, etc.
 
-**[339.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#339)** Pensar no es un proceso incorpóreo que adquiera vida y sentido al hablar, y al cual uno podría quitarle el hablar, igual que el diablo coge la sombra de Schlemihl del suelo.[^cite_ref-15] ―― Pero, ¿cómo: «ningún proceso incorpóreo»? ¿Conozco entonces procesos incorpóreos, pero el pensar no es uno de ellos? No; la palabra «proceso incorpóreo»[^cite_ref-16] la tomo como ayuda en mi apuro, dado que quiero explicar el significado de la palabra «pensar» de manera primitiva.
+**[339.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#339)** Pensar no es un proceso incorpóreo que adquiera vida y sentido al hablar, y al cual uno podría quitarle el hablar, igual que el diablo coge la sombra de Schlemihl del suelo.[^15] ―― Pero, ¿cómo: «ningún proceso incorpóreo»? ¿Conozco entonces procesos incorpóreos, pero el pensar no es uno de ellos? No; la palabra «proceso incorpóreo»[^16] la tomo como ayuda en mi apuro, dado que quiero explicar el significado de la palabra «pensar» de manera primitiva.
 
 Pero uno podría decir «pensar es un proceso incorpóreo» cuando con ello uno quiera diferenciar la gramática de la palabra «pensar» de la de la palabra «comer», por ejemplo. Ahora, con ello, parece *muy pequeña* la diferencia de los significados. (Es similar cuando uno dice: los signos numéricos son objetos reales, los números, [objetos] no-reales). Una forma de expresión inapropiada es un medio seguro de estancarnos en una confusión. En cierto modo, atranca la salida de ella.
 
@@ -1594,7 +1594,7 @@ Se querría decir que «esta comunicación causa que él *sepa* que yo tengo dol
 
 ¿Es el cálculo en la representación en cierto sentido menos importante que en un papel? Es el *verdadero*―cálculo mental. ― ¿Es similar al cálculo en el papel? ― No sé si debo llamarlos similares. ¿Es un trozo de papel blanco con borrones negros similar a un cuerpo humano?
 
-**[365.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#365)** ¿Juegan Adelheid y el obispo[^cite_ref-17] una *verdadera* partida de ajedrez? ― Obviamente. No fingen simplemente jugar una ―como también podría pasar en una obra de teatro. ―Pero, ¡esta partida no tiene, por ejemplo, ningún principio! ― Ciertamente; en caso contrario no sería ninguna partida de ajedrez.
+**[365.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#365)** ¿Juegan Adelheid y el obispo[^17] una *verdadera* partida de ajedrez? ― Obviamente. No fingen simplemente jugar una ―como también podría pasar en una obra de teatro. ―Pero, ¡esta partida no tiene, por ejemplo, ningún principio! ― Ciertamente; en caso contrario no sería ninguna partida de ajedrez.
 
 **[366.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#366)** ¿Es el cálculo mental menos real que el cálculo en papel? ― Quizás uno esté tentado a decir algo así; pero se le puede traer a la opinión contraria en tanto que se le dice: papel, tinta, etc. son solo construcciones lógicas de nuestros datos sensoriales.
 
@@ -1740,11 +1740,11 @@ A la 3): con ello se podría indicar a una imagen en el espejo. Pero bajo cierta
 
 A la 4): ¿Cuál es entonces *esta* sensación? Esto es: ¿cómo se emplea aquí el pronombre indicativo? ¡Ciertamente al contrario que, por ejemplo, en el primer ejemplo! Los extravíos surgen aquí de nuevo cuando uno se imagina que uno señala a una sensación en tanto que uno dirige su atención a ella.
 
-**[412.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#412)** La sensación de infranqueabilidad del abismo entre conciencia y proceso cerebral: ¿cómo puede ser que eso no juegue un papel en las consideraciones de la vida corriente? La idea de esta diferencia de tipo está unida con un pequeño engaño, ― que sobreviene cuando desarrollamos prestidigitaciones lógicas. (El mismo engaño nos cautiva en ciertos teoremas de la teoría de conjuntos). ¿Cuándo sobreviene, en nuestro caso, esta sensación? Pues, cuando yo, por ejemplo, dirijo mi atención de cierta manera a mi conciencia y me digo maravillado con ello: ¡ESTO debe haberse creado mediante un proceso cerebral! ― en tanto que me agarro la frente, por así decirlo ― Pero, ¿qué puede significar eso: «dirigir mi atención a mi conciencia»? ¡No existe nada más curioso que [el hecho de que] haya algo así! Lo que yo así llamé (pues estas palabras no son usadas ciertamente en la vida corriente) era un acto del mirar. Yo miré recto frente a mí, ― pero *no* a un punto u objeto determinado cualquiera. Mis ojos estaban muy abiertos, mis cejas no [estaban] contraídas (como están habitualmente cuando un objeto determinado me interesa). Ninguno de esos intereses ha ocurrido en el mirar. Mi mirada estaba “vacía”[^cite_ref-18]; o *similar* a la de una persona a la que le maravilla la iluminación del cielo y absorbe la luz.
+**[412.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#412)** La sensación de infranqueabilidad del abismo entre conciencia y proceso cerebral: ¿cómo puede ser que eso no juegue un papel en las consideraciones de la vida corriente? La idea de esta diferencia de tipo está unida con un pequeño engaño, ― que sobreviene cuando desarrollamos prestidigitaciones lógicas. (El mismo engaño nos cautiva en ciertos teoremas de la teoría de conjuntos). ¿Cuándo sobreviene, en nuestro caso, esta sensación? Pues, cuando yo, por ejemplo, dirijo mi atención de cierta manera a mi conciencia y me digo maravillado con ello: ¡ESTO debe haberse creado mediante un proceso cerebral! ― en tanto que me agarro la frente, por así decirlo ― Pero, ¿qué puede significar eso: «dirigir mi atención a mi conciencia»? ¡No existe nada más curioso que [el hecho de que] haya algo así! Lo que yo así llamé (pues estas palabras no son usadas ciertamente en la vida corriente) era un acto del mirar. Yo miré recto frente a mí, ― pero *no* a un punto u objeto determinado cualquiera. Mis ojos estaban muy abiertos, mis cejas no [estaban] contraídas (como están habitualmente cuando un objeto determinado me interesa). Ninguno de esos intereses ha ocurrido en el mirar. Mi mirada estaba “vacía”[^18]; o *similar* a la de una persona a la que le maravilla la iluminación del cielo y absorbe la luz.
 
-Considera pues, que en la proposición que yo expresé como paradoja (¡ESTO es creado mediante un proceso cerebral!) no había absolutamente nada paradójico. Yo lo había podido expresar durante un experimento, cuya meta era mostrar el efecto de la iluminación que yo veo, es creado mediante la estimulación de una parte determinada del cerebro. ― Pero yo no expresé la proposición en el entorno en el que habría tenido un sentido cotidiano y no paradójico. Y mi atención no era del tipo que habría sido adecuada al experimento. (Mi mirada había sido “intencional”[^cite_ref-19], no “vacía”).
+Considera pues, que en la proposición que yo expresé como paradoja (¡ESTO es creado mediante un proceso cerebral!) no había absolutamente nada paradójico. Yo lo había podido expresar durante un experimento, cuya meta era mostrar el efecto de la iluminación que yo veo, es creado mediante la estimulación de una parte determinada del cerebro. ― Pero yo no expresé la proposición en el entorno en el que habría tenido un sentido cotidiano y no paradójico. Y mi atención no era del tipo que habría sido adecuada al experimento. (Mi mirada había sido “intencional”[^19], no “vacía”).
 
-**[413.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#413)** Aquí tenemos un caso de introspección; no diferente a aquel mediante el cual William James sacó que el “yo mismo” [*Selbst*] consiste principalmente en “movimientos peculiares en la cabeza y entre la cabeza y la garganta”[^cite_ref-20]. Y lo que la introspección de James mostró no era el significado de las palabras “yo mismo” (en tanto que estas significan algo similar, como «persona» [*Person*], «ser humano» [*Mensch*], “él mismo”, “yo mismo” [*ich selbst*]), ni un análisis de un ser tal, sino el estado de atención de un filósofo que se dice las palabras “yo mismo” y quiere analizar su significado. (Y de ahí se puede aprender mucho).
+**[413.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#413)** Aquí tenemos un caso de introspección; no diferente a aquel mediante el cual William James sacó que el “yo mismo” [*Selbst*] consiste principalmente en “movimientos peculiares en la cabeza y entre la cabeza y la garganta”[^20]. Y lo que la introspección de James mostró no era el significado de las palabras “yo mismo” (en tanto que estas significan algo similar, como «persona» [*Person*], «ser humano» [*Mensch*], “él mismo”, “yo mismo” [*ich selbst*]), ni un análisis de un ser tal, sino el estado de atención de un filósofo que se dice las palabras “yo mismo” y quiere analizar su significado. (Y de ahí se puede aprender mucho).
 
 **[414.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#414)** Piensas que debes tejer un material: porque te sientas frente a un telar ―aunque vacío― y haces los movimientos del tejer.
 
@@ -1764,7 +1764,7 @@ Pero, ¿no se dice del ser humano, que tiene conciencia; pero del árbol o [de l
 
 **[420.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#420)** Pero, ¿no puedo imaginarme que los seres humanos alrededor mío sean autómatas, que no tengan conciencia, incluso cuando sus formas de actuar sean las mismas de siempre? ― Si yo ahora mismo ― solo en mi cuarto ― me imagino que sigo con la mirada fija (como en un trance) a la gente en sus acciones ― la idea es quizás un poco extraña. Pero ahora, ¡intenta mantenerte en esta idea en tu vida cotidiana, por ejemplo, en la calle! Dite a ti mismo algo como: «los niños allí son meros autómatas; toda su vitalidad es mero automatismo». Y estas palabras o bien serán absolutamente anodinas para ti; o bien se producirá en ti una especie de sentimiento extraño o similar.
 
-Ver a un ser humano vivo como autómatas[^cite_ref-21], es análogo a ver cualquier figura como caso límite o variación de otra, por ejemplo, un crucero de ventana como una esvástica.
+Ver a un ser humano vivo como autómatas[^21], es análogo a ver cualquier figura como caso límite o variación de otra, por ejemplo, un crucero de ventana como una esvástica.
 
 **[421.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#421)** Nos parece paradójico que confundamos desordenadamente en *una* parte los estados corporales y de conciencia: «él sufría grandes dolores y se sacudía nerviosamente en todas direcciones». Eso es completamente habitual; ¿por qué nos parece tan paradójico? Porque queremos decir que la proposición trata de lo comprensible [*Greifbarem*] y lo incomprensible. ― Pero, ¿captas algo cuando digo: «estos tres apoyos dan firmeza al edificio»? ¿Son [los conceptos] tres y firmeza captables? ―― ¡Observa la proposición como un instrumento y su sentido como su empleo!
 
@@ -1778,7 +1778,7 @@ Ver a un ser humano vivo como autómatas[^cite_ref-21], es análogo a ver cualqu
 
 Pregúntate, por ejemplo: «¿cómo debo representarme que *este* mecanismo va en *esta* caja?». ― Así puede servir como respuesta, por ejemplo, una marca en pequeña medida. Uno puede decirme entonces «ves tú, *así* va»; o quizás también; «¿por qué te extrañas? Así, como tú lo ves *aquí*, así va también allí». ― Lo último, obviamente, no explica nada más, sino que me exige hacer ahora el empleo de la imagen que se me ha dado.
 
-**[426.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#426)** Una imagen es evocada, eso parece determinar el sentido *inequívocamente*. El empleo real parece algo contaminado frente al que la imagen nos dibuja. Se trata aquí, de nuevo, como en la teoría de conjuntos: la forma de expresión parece estar hecha para un dios que sepa lo que nosotros no podemos saber; él ve la serie infinita al completo y ve en el interior de la conciencia del ser humano. Para nosotros, obviamente, estas formas de expresión son casi un adorno [*Ornat*[^cite_ref-22]] que nos colocamos buenamente, pero con el que no podemos comenzar mucho, dado que nos falta el poder real que darían sentido y finalidad a estas vestiduras.
+**[426.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#426)** Una imagen es evocada, eso parece determinar el sentido *inequívocamente*. El empleo real parece algo contaminado frente al que la imagen nos dibuja. Se trata aquí, de nuevo, como en la teoría de conjuntos: la forma de expresión parece estar hecha para un dios que sepa lo que nosotros no podemos saber; él ve la serie infinita al completo y ve en el interior de la conciencia del ser humano. Para nosotros, obviamente, estas formas de expresión son casi un adorno [*Ornat*[^22]] que nos colocamos buenamente, pero con el que no podemos comenzar mucho, dado que nos falta el poder real que darían sentido y finalidad a estas vestiduras.
 
 En el empleo real de las expresiones damos como un rodeo, vamos por callejuelas secundarias; mientras que vemos bien el ancho de la calle frente a nosotros, pero no podemos usarlo, obviamente, porque está cerrado permanentemente.
 
@@ -1810,7 +1810,7 @@ Pero a la respuesta «tú sí sabes cómo la proposición lo hace, no hay cierta
 
 **[436.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#436)** Aquí es fácil desvelar, en aquel callejón sin salida del filosofar, donde uno cree que la dificultad de la tarea reside en que deben ser descritos por nosotros fenómenos difícilmente captables, las experiencias presentes que se esfuman rápidamente o similares. Donde el lenguaje cotidiano nos aparece demasiado crudo, y parece como si no tuviera que ver con los fenómenos de los cuales hablamos a diario, sino «con el fácil desvanecerse que con su emerger y perecer produce aquellos primeros aproximadamente».
 
-\([San] Agustín: [cosas] muy manifiestas y muy repetidas son, y al mismo tiempo, se encuentran muy ocultas, y nuevo es su descubrimiento[^cite_ref-23]).
+\([San] Agustín: [cosas] muy manifiestas y muy repetidas son, y al mismo tiempo, se encuentran muy ocultas, y nuevo es su descubrimiento[^23]).
 
 **[437.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#437)** El deseo parece ya saber lo que lo va a satisfacer o satisfaría; la proposición, el pensamiento, lo que lo hace real, ¡incluso cuando no hay nada ahí! ¿De dónde [viene] este *determinar* de lo que todavía no está ahí? ¿Este despótico exigir? («La dureza de la obligación lógica».)
 
@@ -1830,7 +1830,7 @@ Por otro lado, la palabra «desear» es usada así: «yo mismo no sé lo que des
 
 Qué, cuando se pregunte: «¿yo sé qué me basta antes de que lo obtenga?». Si he aprendido a hablar, entonces lo sé.
 
-**[442.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#442)** Yo veo cómo uno apunta con el rifle y digo: «yo me esperaba un estruendo». El disparo falla. ― ¿Qué, eso te lo has esperado; estaba entonces este estruendo de alguna manera ya en tu expectativa? O, ¿concuerda tu expectativa solo en otro respecto con lo acontecido; no estaba contenido este alboroto en tu expectativa y se añadió solo como accidente[^cite_ref-24], cuando la expectativa fue cumplida? ― Pero no, si el alboroto no había acontecido, entonces mi expectativa no habría sido cumplida; el alboroto la ha cumplido; no fue un añadido al cumplimiento, como un segundo huésped al primero que yo había esperado. ― ¿Era eso en el evento, lo que tampoco estaba en la expectativa, un accidente, un suplemento del destino? ― Pero, ¿qué *no* era entonces suplemento? ¿Ocurre ya en mi expectativa algo de este disparo? ― Y, ¿qué *era* entonces suplemento, ― pues no me había yo esperado el disparo completo?
+**[442.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#442)** Yo veo cómo uno apunta con el rifle y digo: «yo me esperaba un estruendo». El disparo falla. ― ¿Qué, eso te lo has esperado; estaba entonces este estruendo de alguna manera ya en tu expectativa? O, ¿concuerda tu expectativa solo en otro respecto con lo acontecido; no estaba contenido este alboroto en tu expectativa y se añadió solo como accidente[^24], cuando la expectativa fue cumplida? ― Pero no, si el alboroto no había acontecido, entonces mi expectativa no habría sido cumplida; el alboroto la ha cumplido; no fue un añadido al cumplimiento, como un segundo huésped al primero que yo había esperado. ― ¿Era eso en el evento, lo que tampoco estaba en la expectativa, un accidente, un suplemento del destino? ― Pero, ¿qué *no* era entonces suplemento? ¿Ocurre ya en mi expectativa algo de este disparo? ― Y, ¿qué *era* entonces suplemento, ― pues no me había yo esperado el disparo completo?
 
 «El estruendo no era tan alto como yo lo había esperado». ― «¿Ha sonado entonces en tu expectativa más fuerte?».
 
@@ -1994,7 +1994,7 @@ Pues yo no necesito inventarme absolutamente ningún caso y solo observar los f�
 
 Cuando uno dice «si nuestro lenguaje no tuviera esta gramática, entonces no podría expresar estos hechos» ― así se pregunta uno lo que eso «*podría*» significar.
 
-**[498.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#498)** Si yo digo que la orden «¡tráeme azúcar!» y «¡tráeme leche!» tiene[^cite_ref-25] sentido, pero no la combinación «leche con azúcar», eso no significa que la pronunciación de esta combinación de palabras no tenga ningún efecto. Y cuando ella tenga ahora el efecto de que el otro me mire fijamente y abra la boca, entonces no la llamo por eso la orden de mirarme fijamente, etc., incluso cuando yo quisiera haber causado este efecto.
+**[498.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#498)** Si yo digo que la orden «¡tráeme azúcar!» y «¡tráeme leche!» tiene[^25] sentido, pero no la combinación «leche con azúcar», eso no significa que la pronunciación de esta combinación de palabras no tenga ningún efecto. Y cuando ella tenga ahora el efecto de que el otro me mire fijamente y abra la boca, entonces no la llamo por eso la orden de mirarme fijamente, etc., incluso cuando yo quisiera haber causado este efecto.
 
 **[499.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#499)** Decir «esta combinación de palabras no tiene ningún sentido» se excluye del ámbito del lenguaje y delimita con ello el área del lenguaje. Pero si uno dibuja un límite, entonces puede tener eso una serie de razones distintas. Cuando yo dibujo alrededor de un lugar con una valla o una línea o de cualquier otra forma, entonces eso puede tener un fin, no dejar salir o no dejar entrar a nadie; pero también puede pertenecer a un juego y el límite debe, por así decirlo, haber surgido de los jugadores; o también puede indicar dónde terminan las pertenencias de una persona y comienzan las del otro; etc. Si yo dibujo un límite, entonces con ello no se ha dicho nada de por qué lo dibujo.
 
@@ -2220,7 +2220,7 @@ Ver, oír, pensar, sentir, querer, no son *en el mismo sentido* los objetos de l
 
 Uno no debe simplemente esperar explicación alguna de la respuesta a la pregunta. Preguntas que penetran más profundamente son: ¿qué vemos, en casos particulares, como criterios para que uno tenga tal y cual opinión? ¿Cuándo decimos: en ese momento ha llegado a esta opinión? ¿Cuándo: él ha cambiado su opinión? Etc. La imagen que nos da las respuestas a estas preguntas, muestra *lo que* aquí es tratado como *estado* gramatical.
 
-**[574.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#574)** Una proposición, y por eso en otro sentido un pensamiento, puede ser la “expresión” de la creencia, esperanza, expectativa, etc. Pero [el] creer no es [el] pensar[^cite_ref-26]. (Una observación gramatical). Los conceptos de la creencia, expectativa, esperanza, son menos extraños entre ellos como lo son al concepto del pensamiento.
+**[574.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#574)** Una proposición, y por eso en otro sentido un pensamiento, puede ser la “expresión” de la creencia, esperanza, expectativa, etc. Pero [el] creer no es [el] pensar[^26]. (Una observación gramatical). Los conceptos de la creencia, expectativa, esperanza, son menos extraños entre ellos como lo son al concepto del pensamiento.
 
 **[575.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#575)** Cuando me senté en esta silla, pensé obviamente que me iba a sujetar. No pensé en absoluto que se pudiera romper.
 
@@ -2456,11 +2456,11 @@ Ahí hay algo cierto. Pero supón que recordase (con una cierta configuración d
 
 Uno se podría preguntar: ¿cómo es la persona que ha llegado a hacer una manifestación lingüística que llamamos «comunicación de un deseo pasado» o una intención pasada?
 
-**[657.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#657)** Imaginémonos que esta expresión toma siempre la forma: «yo me dije a mí mismo: “¡si quisiera quedarme más tiempo!”». El fin de tal comunicación podría ser presentar a los otros mis reacciones. (Compara la gramática del «querer decir» y «querer decir»[^cite_ref-27]).
+**[657.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#657)** Imaginémonos que esta expresión toma siempre la forma: «yo me dije a mí mismo: “¡si quisiera quedarme más tiempo!”». El fin de tal comunicación podría ser presentar a los otros mis reacciones. (Compara la gramática del «querer decir» y «querer decir»[^27]).
 
 **[658.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#658)** Piensa que expresamos la intención de una persona siempre así, al decir: «él se dice en cierto sentido a sí mismo “yo quiero . . . . ”». ― Esa es la imagen. Y ahora quiero decir: ¿cómo emplea uno la expresión «en cierto sentido, decirse algo así mismo»? Pues él no implica: decirse algo a sí mismo.
 
-**[659.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#659)** ¿Por qué quiero yo comunicarle a él aparte de lo que yo hago también otra intención[^cite_ref-28]? ― No porque la intención era todavía algo más de lo que entonces ocurría. Sino porque quiero comunicarle a él algo sobre *mí*, que va más allá de eso que ocurrió entonces.
+**[659.](https://www.wittgensteinproject.org/w/index.php/Philosophische_Untersuchungen#659)** ¿Por qué quiero yo comunicarle a él aparte de lo que yo hago también otra intención[^28]? ― No porque la intención era todavía algo más de lo que entonces ocurría. Sino porque quiero comunicarle a él algo sobre *mí*, que va más allá de eso que ocurrió entonces.
 
 Yo le descubro mi interior cuando digo lo que quería hacer. ― Pero no a causa de una observación propia, sino mediante una reacción (se puede llamar también una intuición interna).
 
@@ -2594,7 +2594,7 @@ Y la expresión «yo quería en aquella ocasión decir . . . . » se refiere a u
 
 Yo hablo de las *referencias* esenciales de la manifestación para distinguirlas de las otras particularidades de nuestra expresión. Y esenciales son para la manifestación las referencias que nos motivarían a traducir una forma de expresión, por lo demás extraña para nosotros, en esta forma habitual para nosotros.
 
-Quien no estuviera en condición de decir: la palabra «sino»[^cite_ref-29] podría ser un verbo y una conjunción, o construir proposiciones en las que sea una vez esto otra vez aquello, él no podría resolver sencillos ejercicios escolares. Pero eso no es exigido de un estudiante: *captar* la palabra al margen de un contexto así o asá o informar cómo él lo ha captado.
+Quien no estuviera en condición de decir: la palabra «sino»[^29] podría ser un verbo y una conjunción, o construir proposiciones en las que sea una vez esto otra vez aquello, él no podría resolver sencillos ejercicios escolares. Pero eso no es exigido de un estudiante: *captar* la palabra al margen de un contexto así o asá o informar cómo él lo ha captado.
 
 Las palabras «el rosa es rojo» son carentes de sentido, cuando la palabra «es» tiene el significado de «es igual». ― ¿Significa esto: si tú dices aquella proposición y te refieres a «es» como un signo de igualdad, entonces se desmorona el sentido?
 
@@ -2928,7 +2928,7 @@ Pero nosotros también podemos *ver* la ilustración una vez como una cosa, otra
 
 Ahí uno quizás querría responder: la descripción de la experiencia inmediata, de la vivencia del observador, por medio de una interpretación es una descripción indirecta. «Yo veo la figura como un arcón» significa: yo tengo una vivencia de observador determinada, que corresponde con la interpretación de la figura como arcón o con la observación de un arcón. Pero si significa eso, entonces yo debería saberlo. Yo debería poder referirme a la vivencia directamente, y no solo indirectamente. (Igual que no debo hablar del rojo incondicionalmente como el color de la sangre).
 
-La siguiente figura, que he extraído de Jastrow[^cite_ref-30], se llamará en mis observaciones la cabeza L-P. Se puede ver como cabeza de liebre o cabeza de pato.
+La siguiente figura, que he extraído de Jastrow[^30], se llamará en mis observaciones la cabeza L-P. Se puede ver como cabeza de liebre o cabeza de pato.
 
 ![](images/100px-144%2C24v.png)\
 
@@ -2972,7 +2972,7 @@ Pero, ¿qué es distinto: mi impresión? ¿Mi postura? ― ¿Puedo decirlo? Yo *
 
 La expresión del cambio de aspecto es la expresión de una percepción *nueva* junto con la expresión de la percepción inalterada.
 
-Yo veo de pronto la solución de un cuadro enigmático[^cite_ref-31]. Donde antes había ramas ahora hay una forma humana. Mi impresión del rostro ha cambiado y ahora reconozco que no tenía solo color y forma, sino también una “organización” completamente determinada. Mi impresión del rostro ha cambiado; ¿cómo era anteriormente; cómo es ahora? ― Si la represento mediante una copia exacta ― y, ¿no es eso una buena representación? ―, entonces no se muestra ningún cambio.
+Yo veo de pronto la solución de un cuadro enigmático[^31]. Donde antes había ramas ahora hay una forma humana. Mi impresión del rostro ha cambiado y ahora reconozco que no tenía solo color y forma, sino también una “organización” completamente determinada. Mi impresión del rostro ha cambiado; ¿cómo era anteriormente; cómo es ahora? ― Si la represento mediante una copia exacta ― y, ¿no es eso una buena representación? ―, entonces no se muestra ningún cambio.
 
 Y no digas ahora «mi impresión del rostro no es el *dibujo*; es *esto* ―― lo que no puedo mostrar a nadie». ― Obviamente no es el dibujo, pero tampoco nada de la misma categoría que porto en mí.
 
@@ -3206,7 +3206,7 @@ Pero estos aspectos se diferencian de los aspectos cóncavos y convexos del esca
 
 \(yo la llamaré «doble cruz») como cruz blanca sobre un fondo negro o como cruz negra sobre un fondo blanco.
 
-Tú debes pensar que la descripción de los aspectos intercambiables son[^cite_ref-32] en cada caso de otro tipo.
+Tú debes pensar que la descripción de los aspectos intercambiables son[^32] en cada caso de otro tipo.
 
 \(La tentación de decir «lo veo *así*», en tanto que uno señala a lo mismo con «lo» y «así»). Elimínate siempre el objeto privado, en tanto que aceptas: se modifica constantemente, pero no lo notas, porque tu memoria te engaña constantemente.
 
@@ -3548,7 +3548,7 @@ No se llega entre los matemáticos, en general, a la discusión sobre el resulta
 
 Podía entonces siempre significar: «nunca podemos *saber* cuál es el resultado de un cálculo, pero siempre tiene un resultado completamente determinado. (Dios lo sabe). Las matemáticas son sin duda alguna de la mayor seguridad, aunque solo poseamos de ellas una imagen cruda».
 
-Pero, ¿quiero yo decir, en cierto sentido, que la seguridad de las matemáticas reside en la fiabilidad de la tinta y el papel? *No*. (Eso sería un círculo vicioso[^cite_ref-33]). ― Yo no he dicho *por qué* no se llega a disputas entre los matemáticos, sino solo *que* no se llega a disputas.
+Pero, ¿quiero yo decir, en cierto sentido, que la seguridad de las matemáticas reside en la fiabilidad de la tinta y el papel? *No*. (Eso sería un círculo vicioso[^33]). ― Yo no he dicho *por qué* no se llega a disputas entre los matemáticos, sino solo *que* no se llega a disputas.
 
 Es bien cierto que uno no podría calcular con ciertos tipos de papel y tinta, cuando ellos hubieran sufrido ciertas modificaciones extrañas, ― o sea, cuando ellas hubieran sufrido modificaciones extrañas, ―pero que ellas cambian podría obtenerse solo mediante la memoria y la comparación con otros medios de cálculo. Y, ¿cómo se muestra esto?
 
@@ -3580,7 +3580,7 @@ Del juicio del más conocedor de las personas surgirán, en general, pronóstico
 
 Lo más difícil es aquí expresar la indeterminación correcta y auténtica.
 
-«La realidad de la expresión no se puede demostrar; se debe sentir». ― Sí, ― pero ¿qué ocurre con este reconocer de la realidad? Si uno dice: «Aquí está lo que puede decir un corazón realmente enamorado»[^cite_ref-34] ― y cuando también trae a otro a su opinión, ¿qué más consecuencias tiene? O, ¿no tiene ninguna y *termina* el juego con que uno saborea lo que el otro no saborea?
+«La realidad de la expresión no se puede demostrar; se debe sentir». ― Sí, ― pero ¿qué ocurre con este reconocer de la realidad? Si uno dice: «Aquí está lo que puede decir un corazón realmente enamorado»[^34] ― y cuando también trae a otro a su opinión, ¿qué más consecuencias tiene? O, ¿no tiene ninguna y *termina* el juego con que uno saborea lo que el otro no saborea?
 
 Hay *consecuencias*, pero son de tipo difuso. [La] experiencia, o sea, [la] observación variada, puede enseñarse; y tampoco se puede formular de manera general, sino solo en casos diversos, lanzar un juicio correcto, fructífero, establecer una conexión fructífera. Y las observaciones más generales dan en gran medida lo que se ve como las ruinas de un sistema.
 
@@ -3635,3 +3635,71 @@ La confusión y el abandono de la psicología no se explican con que sea una «c
 La existencia de métodos experimentales nos permite creer que tendríamos el medio para resolver los problemas que nos inquietan; aunque problema y método corren en direcciones torcidas.
 
 Es posible para las matemáticas una investigación completamente análoga a nuestra investigación de la psicología. Ella es tan poco *matemática*, como la otra una psicológica. En ella *no* será calculado, así no es, por ejemplo, logística. Ella podría merecerse el nombre de una investigación de los “principios de las matemáticas”.
+
+[^1]: Cita en latín en el original, aquí traducido directamente del latín por el traductor.
+
+[^2]: La palabra *Seele* puede traducirse tanto por mente como por alma, y se usa en este texto para hacer referencia a ambas realidades. Aquí, y en otras muchas notas, parece hacer referencia a la mente, mientras que en §283, también entre otras, parece claramente hacer referencia al alma, con relación al cuerpo. En cada caso se traducirá como parezca ser más adecuado.
+
+[^3]: Anacoluto en el original: *die Funktion … sind*.
+
+[^4]: Según la traducción de Álvaro Vallejo Campos, publicada por la Editorial Gredos en 1988. Las palabras en cursiva son marcadas por Wittgenstein.
+
+[^5]: La palabra *Zusammengesetztheit* no está recogida por los diccionarios alemanes, pero referiría a la cualidad (-*heit*) de la composición (*Zusammengesetzt*-).
+
+[^6]: En el original faltan los signos de interrogación que la sintaxis indican.
+
+[^7]: Juego de mesa de estrategia de origen medieval de dos jugadores.
+
+[^8]: El „ja“ en alemán, en este contexto, es ambiguo, pues no deja claro si es una respuesta afirmativa a la pregunta anterior (sí) o un conector (pues). Por la primera opción se decantan Alfonso García Suarez y Carlos Ulises Moulines en la versión española de Gredos, y por la segunda G. E. M. Anscombe en la versión inglesa de Blackwell. Esta última traducción parecería tener más sentido contextual.
+
+[^9]: En inglés en el original: *make up the rules as we go along*.
+
+[^10]: En latín en el original. Se da aquí la traducción de Alfredo Encuentra Ortega publicada por la Editorial Gredos en 2010.
+
+[^11]: El referente queda claro por los géneros en alemán.
+
+[^12]: Como se puede comprobar, esta ecuación (así escrita en los manuscritos originales) no justifica la serie descrita en el segundo y cuarto término. G. E. M. Anscombe y R. Rhees la sustituyen acertadamente por 2*x* + 1.
+
+[^13]: En lugar del habitual *Tatsachen*.
+
+[^14]: Anacoluto en el original.
+
+[^15]: Referencia a *La historia maravillosa de Peter Schlemihl* de Adelbert von Chamisso, en la que el protagonista vende su sombra al diablo.
+
+[^16]: Anacoluto en el original.
+
+[^17]: Anécdota relativamente conocida en Alemania de una partida legendaria en la que la noble Adelheid consigue la victoria mediante un sacrificio de una pieza relevante.
+
+[^18]: En inglés en el original en alemán: *vacant*.
+
+[^19]: En inglés en el original en alemán: *intent*.
+
+[^20]: En inglés en el original en alemán: *peculiar motions in the head and between the head and the throat*.
+
+[^21]: Anacoluto en el original.
+
+[^22]: Palabra que hace referencia a la vestimenta festiva del clérigo.
+
+[^23]: En latín en el original: *manifestissima et usitatissima sunt, et eadem rusus nimis latent, et nova est inventio eorum*.
+
+[^24]: Término usado en latín con la mayúscula como en el alemán: *Accidens*, frente al que sería el término alemán *Akzidens* o al latín *accidens*.
+
+[^25]: Anacoluto en el original.
+
+[^26]: Sustantivación clara en el alemán por el uso de la mayúscula.
+
+[^27]: Este segundo en francés en el texto original: *vouloir dire*.
+
+[^28]: Aquí se usa la palabra *Intuition*, en lugar de la habitual (usada hasta el momento) de *Absicht*.
+
+[^29]: *Sondern*, o sea, la conjunción adversativa.
+
+[^30]: De la obra *Hecho y fábula en psicología*.
+
+[^31]: La palabra *Vexierbild* hace referencia a las obras basadas en ilusiones ópticas, como el famoso Cubo de Necker o como las obras de Giuseppe Arcimboldo.
+
+[^32]: Anacoluto en el original.
+
+[^33]: En latín en el original, aunque con la mayúscula propia de los sustantivos alemanes: *Circulus vitiosus*.
+
+[^34]: En francés en el original: *voila ce que peut dire un cœur vraiment épris*.

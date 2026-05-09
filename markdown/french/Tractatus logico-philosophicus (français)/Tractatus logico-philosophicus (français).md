@@ -54,7 +54,7 @@ Néanmoins, la *vérité* des pensées ici communiquées me semble intangible et
 
 ## Tractatus Logico-Philosophicus
 
-**[1](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#1)** Le monde est tout ce qui a lieu[^cite_ref-tlp-note-1_2-0].
+**[1](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#1)** Le monde est tout ce qui a lieu[^tlp-note-1_2-0].
 
 **[1.1](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#1.1)** Le monde est la totalité des faits, non des choses.
 
@@ -68,7 +68,7 @@ Néanmoins, la *vérité* des pensées ici communiquées me semble intangible et
 
 **[1.21](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#1.21)** Quelque chose peut isolément avoir lieu ou ne pas avoir lieu, et tout le reste demeurer inchangé.
 
-**[2](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#2)** Ce qui a lieu, le fait, est la subsistance[^cite_ref-3] d'états de chose.
+**[2](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#2)** Ce qui a lieu, le fait, est la subsistance[^3] d'états de chose.
 
 **[2.01](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#2.01)** L'état de choses est une connexion d'objets (entités, choses).
 
@@ -76,7 +76,7 @@ Néanmoins, la *vérité* des pensées ici communiquées me semble intangible et
 
 **[2.012](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#2.012)** En logique, rien n'est accidentel : quand la chose se présente dans un état de choses, c'est que la possibilité de l'état de choses doit déjà être préjugée dans la chose.
 
-**[2.0121](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#2.0121)** Il apparaîtrait pour ainsi dire comme accidentel qu'à une chose qui pourrait subsister seule en elle-même, une situation[^cite_ref-4] convînt par surcroît.
+**[2.0121](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#2.0121)** Il apparaîtrait pour ainsi dire comme accidentel qu'à une chose qui pourrait subsister seule en elle-même, une situation[^4] convînt par surcroît.
 
 Si les choses peuvent se présenter dans des états de choses, cette possibilité doit être déjà inhérente à celles-ci.
 
@@ -122,7 +122,7 @@ Une tache dans le champ visuel n'a certes pas besoin d'être rouge, mais elle do
 
 **[2.023](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#2.023)** Cette forme consiste justement dans les objets.
 
-**[2.0231](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#2.0231)** La substance du monde ne *peut* déterminer qu'une forme, et nullement des propriétés matérielles. Car celles-ci sont d'abord figurées[^cite_ref-5] par les propositions – d'abord formées par la configuration des objets.
+**[2.0231](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#2.0231)** La substance du monde ne *peut* déterminer qu'une forme, et nullement des propriétés matérielles. Car celles-ci sont d'abord figurées[^5] par les propositions – d'abord formées par la configuration des objets.
 
 **[2.0232](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#2.0232)** En termes sommaires : les objets sont sans couleur.
 
@@ -168,7 +168,7 @@ Car si rien ne distingue une chose, je ne puis la distinguer, sans quoi elle ser
 
 **[2.062](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#2.062)** De la subsistance ou de la non-subsistance d'un état de choses, on ne peut déduire la subsistance ou la non-subsistance d'un autre état de choses.
 
-**[2.063](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#2.063)** La totalité de la réalité est le monde[^cite_ref-6].
+**[2.063](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#2.063)** La totalité de la réalité est le monde[^6].
 
 **[2.1](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#2.1)** Nous nous faisons des images des faits.
 
@@ -314,19 +314,19 @@ La position spatiale respective de ces choses exprime alors le sens de la propos
 
 **[3.202](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#3.202)** Les signes simples utilisés dans la proposition s'appellent noms.
 
-**[3.203](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#3.203)** Le nom signifie[^cite_ref-7] l'objet. L'objet est sa signification. (« A » est le même signe que « A ».)
+**[3.203](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#3.203)** Le nom signifie[^7] l'objet. L'objet est sa signification. (« A » est le même signe que « A ».)
 
 **[3.21](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#3.21)** À la configuration des signes simples dans le signe propositionnel correspond la configuration des objets dans la situation.
 
 **[3.22](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#3.22)** Le nom est dans la proposition le représentant de l'objet.
 
-**[3.221](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#3.221)** Je ne puis que *nommer* les objets. Des signes en sont les représentants. Je ne puis qu'en parler, non les *énoncer*[^cite_ref-8]. Une proposition peut seulement dire *comment* est une chose, non *ce qu'*elle est.
+**[3.221](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#3.221)** Je ne puis que *nommer* les objets. Des signes en sont les représentants. Je ne puis qu'en parler, non les *énoncer*[^8]. Une proposition peut seulement dire *comment* est une chose, non *ce qu'*elle est.
 
 **[3.23](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#3.23)** Requérir la possibilité des signes simples, c'est requérir la détermination du sens.
 
 **[3.24](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#3.24)** La proposition qui concerne un complexe est dans un rapport interne avec la proposition qui concerne un élément de ce complexe.
 
-Le complexe ne peut être donné que par une description, et celle-ci convient ou ne convient pas. La proposition dans laquelle il est question d'un complexe, si celui-ci n'existe pas, ne sera pas dépourvue de sens[^cite_ref-9], mais simplement fausse.
+Le complexe ne peut être donné que par une description, et celle-ci convient ou ne convient pas. La proposition dans laquelle il est question d'un complexe, si celui-ci n'existe pas, ne sera pas dépourvue de sens[^9], mais simplement fausse.
 
 Qu'un élément propositionnel dénote un complexe, on peut le reconnaître à une indétermination dans les propositions où il apparaît. Nous *savons* que par cette proposition tout n'est pas encore déterminé. (La notation du général contient en effet une image primitive.)
 
@@ -404,7 +404,7 @@ Ainsi le mot « est » apparaît comme copule, comme signe d'égalité et comme 
 
 **[3.325](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#3.325)** Pour éviter ces erreurs, il nous faut employer une langue symbolique qui les exclut, qui n'use pas du même signe pour des symboles différents, ni n'use, en apparence de la même manière, de signes qui dénotent de manières différentes. Une langue symbolique donc qui obéisse à la grammaire *logique* – à la syntaxe logique.
 
-\(L'idéographie[^cite_ref-10] de Frege et de Russell constitue une telle langue, qui pourtant n'est pas encore exempte de toute erreur.)
+\(L'idéographie[^10] de Frege et de Russell constitue une telle langue, qui pourtant n'est pas encore exempte de toute erreur.)
 
 **[3.326](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#3.326)** Pour reconnaître le symbole sous le signe, il faut prendre garde à son usage pourvu de sens.
 
@@ -458,7 +458,7 @@ Et de même, plus généralement, est essentiel au symbole ce qui est commun à 
 
 **[3.41](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#3.41)** Le signe propositionnel et les coordonnées logiques : voilà le lieu logique.
 
-**[3.411](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#3.411)** Le lieu géométrique et le lieu logique s'accordent en ceci, que tous deux sont la possibilité d'une existence[^cite_ref-11].
+**[3.411](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#3.411)** Le lieu géométrique et le lieu logique s'accordent en ceci, que tous deux sont la possibilité d'une existence[^11].
 
 **[3.42](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#3.42)** Quoique la proposition ne puisse déterminer qu'un seul lieu de l'espace logique, la totalité de celui-ci doit pourtant être déjà donnée par la proposition.
 
@@ -488,7 +488,7 @@ Les conventions tacites nécessaires à la compréhension de la langue usuelle s
 
 Et ce n'est pas merveille si les problèmes les plus profonds ne sont, à proprement parler, *pas* des problèmes.
 
-**[4.0031](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.0031)** Toute philosophie est « critique du langage ». (Mais certainement pas au sens de Mauthner[^cite_ref-12].) Le mérite de Russell est d'avoir montré que la forme logique apparente de la proposition n'est pas nécessairement sa forme logique réelle.
+**[4.0031](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.0031)** Toute philosophie est « critique du langage ». (Mais certainement pas au sens de Mauthner[^12].) Le mérite de Russell est d'avoir montré que la forme logique apparente de la proposition n'est pas nécessairement sa forme logique réelle.
 
 **[4.01](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.01)** La proposition est une image de la réalité.
 
@@ -498,7 +498,7 @@ La proposition est un modèle de la réalité, telle que nous nous la figurons.
 
 Et pourtant ces symbolismes se révèlent bien comme étant, même au sens usuel du mot, des images de ce qu'ils présentent.
 
-**[4.012](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.012)** Il est patent que nous percevons une proposition de la forme « aRb » comme une image. Il est patent qu'ici le signe est une métaphore[^cite_ref-13] du dénoté.
+**[4.012](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.012)** Il est patent que nous percevons une proposition de la forme « aRb » comme une image. Il est patent qu'ici le signe est une métaphore[^13] du dénoté.
 
 **[4.013](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.013)** Et si nous pénétrons l'essence de cette capacité d'être image, nous voyons qu'elle n'est pas perturbée par d'apparentes irrégularités (comme l'emploi du dièse et du bémol dans la notation musicale).
 
@@ -564,7 +564,7 @@ La proposition ne dit quelque chose que dans la mesure où elle est image.
 
 On peut directement dire, au lieu de cette proposition a tel ou tel sens, cette proposition figure telle ou telle situation.
 
-**[4.0311](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.0311)** Un nom est mis pour une chose, un autre pour une autre, et ils sont reliés entre eux, de telle sorte que le tout, comme un *tableau vivant*[^cite_ref-14], figure un état de choses.
+**[4.0311](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.0311)** Un nom est mis pour une chose, un autre pour une autre, et ils sont reliés entre eux, de telle sorte que le tout, comme un *tableau vivant*[^14], figure un état de choses.
 
 **[4.0312](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.0312)** La possibilité de la proposition repose sur le principe de la position de signes comme représentants des objets.
 
@@ -774,7 +774,7 @@ Le terme général d'une série de formes ne peut être exprimé que par une var
 
 Nous pouvons déterminer le terme général d'une série de formes en donnant son premier terme et la forme générale de l'opération qui produit le terme suivant à partir de la proposition précédente.
 
-**[4.1274](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.1274)** La question de l'existence[^cite_ref-15] d'un concept formel est dépourvue de sens car aucune proposition ne peut répondre à une telle question.
+**[4.1274](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.1274)** La question de l'existence[^15] d'un concept formel est dépourvue de sens car aucune proposition ne peut répondre à une telle question.
 
 \(On ne peut donc demander, par exemple : « Y a-t-il des propositions de la forme sujet-prédicat qui soient non analysables ? »)
 
@@ -816,7 +816,7 @@ Ou bien je l'indique au moyen des lettres p, q, r.
 
 Si je connais la signification d'un mot anglais et de son équivalent allemand, il est impossible que je ne sache pas qu'ils sont équivalents ; il est impossible que je ne puisse les traduire l'un par l'autre.
 
-Des expressions comme « a = a », ou celles qui en dérivent, ne sont ni des propositions élémentaires, ni même des signes pourvus de sens[^cite_ref-16]. (Ceci se montrera plus tard.)
+Des expressions comme « a = a », ou celles qui en dérivent, ne sont ni des propositions élémentaires, ni même des signes pourvus de sens[^16]. (Ceci se montrera plus tard.)
 
 **[4.25](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.25)** Si la proposition élémentaire est vraie, l'état de choses subsiste ; si la proposition élémentaire est fausse, l'état de choses ne subsiste pas.
 
@@ -824,7 +824,7 @@ Des expressions comme « a = a », ou celles qui en dérivent, ne sont ni des pr
 
 **[4.27](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.27)** Concernant la subsistance et la non-subsistance de n états de choses, il y a :
 
-![{ K_n = \sum_{\nu=0}^n \binom{n}{\nu} }](images/109747f0cdbcfd62f1bce67d93eb51350f5f3835c6459539f96d2dc70d84420f.svg)\  possibilités[^cite_ref-17].
+![{ K_n = \sum_{\nu=0}^n \binom{n}{\nu} }](images/109747f0cdbcfd62f1bce67d93eb51350f5f3835c6459539f96d2dc70d84420f.svg)\  possibilités[^17].
 
 Pour toute combinaison d'états de choses, il est possible qu'elle subsiste, les autres ne subsistant pas.
 
@@ -865,7 +865,7 @@ Pour toute combinaison d'états de choses, il est possible qu'elle subsiste, les
 
 **[4.42](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.42)** Concernant l'accord et le désaccord d'une proposition avec les possibilités de vérité de n propositions élémentaires, il y a :
 
-![{ \sum_{\kappa=0}^{K_n} \binom{K_n}{\kappa} = L_n }](images/9a45f5fb107652caa2fff811b19eeb0547bb7389fade741c2bd6e8b866f47858.svg)\ [^cite_ref-18] possibilités.
+![{ \sum_{\kappa=0}^{K_n} \binom{K_n}{\kappa} = L_n }](images/9a45f5fb107652caa2fff811b19eeb0547bb7389fade741c2bd6e8b866f47858.svg)\ [^18] possibilités.
 
 **[4.43](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#4.43)** L'accord avec les possibilités de vérité peut être exprimé en adjoignant à celles-ci, dans le schéma, par exemple la marque « V » (vrai).
 
@@ -916,7 +916,7 @@ Dans le premier cas, nous appelons la proposition tautologie, dans le second cas
 
 La tautologie n'a pas de conditions de vérité, car elle est inconditionnellement vraie ; et la contradiction n'est vraie sous aucune condition.
 
-La tautologie et la contradiction sont vides de sens[^cite_ref-19]. (Comme le point, duquel partent deux flèches en directions opposées.)
+La tautologie et la contradiction sont vides de sens[^19]. (Comme le point, duquel partent deux flèches en directions opposées.)
 
 \(Je ne sais rien du temps qu'il fait par exemple, lorsque je sais ou il pleut ou il ne pleut pas.)
 
@@ -1087,7 +1087,7 @@ Si maintenant je dis : il est également probable que je tirerai une boule blanc
 
 Ce que je confirme par cette épreuve, c'est que la production des deux événements est indépendante des circonstances que je ne connais pas plus exactement.
 
-**[5.155](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.155)** La proposition élémentaire de probabilité[^cite_ref-20] est : les circonstances – dont je n'ai pas par ailleurs une connaissance plus poussée – confèrent à la production d'un événement déterminé tel ou tel degré de probabilité.
+**[5.155](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.155)** La proposition élémentaire de probabilité[^20] est : les circonstances – dont je n'ai pas par ailleurs une connaissance plus poussée – confèrent à la production d'un événement déterminé tel ou tel degré de probabilité.
 
 **[5.156](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.156)** C'est ainsi que la probabilité est une généralisation.
 
@@ -1195,7 +1195,7 @@ Et s'il y avait un objet nommé « \~ », « \~\~p » devrait dire autre chose q
 
 **[5.451](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.451)** Si la logique a des concepts fondamentaux, ils doivent être mutuellement indépendants. Si un concept fondamental est introduit, il doit être introduit dans toutes les connexions dans lesquelles il peut apparaître. On ne peut donc l'introduire d'abord pour l'*une* d'elles, puis de nouveau pour une autre. Par exemple, si la négation est introduite, nous devons alors la comprendre dans des propositions de la forme « \~p » aussi bien que dans « \~(p ∨ q) », « (∃x) . \~fx », etc. Nous n'avons pas le droit de l'introduire d'abord pour une classe de cas, puis pour les autres, car il demeurerait alors douteux si sa signification dans les deux cas est la même, et l'on ne disposerait d' aucune raison d'user dans les deux cas du même mode de connexion des signes.
 
-\(En bref, pour l'introduction de signes primitifs, vaut *mutatis mutandis* ce que dit Frege (*Lois fondamentales de l'arithmétique*) de l'introduction des signes au moyen de définitions[^cite_ref-21].)
+\(En bref, pour l'introduction de signes primitifs, vaut *mutatis mutandis* ce que dit Frege (*Lois fondamentales de l'arithmétique*) de l'introduction des signes au moyen de définitions[^21].)
 
 **[5.452](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.452)** L'introduction d'un expédient nouveau dans le symbolisme logique est nécessairement un événement lourd de conséquences. Aucun expédient nouveau ne devrait en logique être introduit, pour ainsi dire, avec des airs innocents, comme parenthèse ou comme note.
 
@@ -1349,9 +1349,9 @@ Marque distinctive d'un symbole composé : il a quelque chose en commun avec d'*
 
 \(Quand une proposition élémentaire est vraie, il en résulte en effet qu'il y a une proposition élémentaire vraie *de plus*.)
 
-**[5.53](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.53)** J'exprime l'égalité[^cite_ref-22] des objets par l'égalité des signes, et non au moyen d'un signe d'égalité. J'exprime la différence des objets par la différence des signes.
+**[5.53](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.53)** J'exprime l'égalité[^22] des objets par l'égalité des signes, et non au moyen d'un signe d'égalité. J'exprime la différence des objets par la différence des signes.
 
-**[5.5301](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.5301)** Que l'identité[^cite_ref-23] ne soit pas une relation entre objets, c'est évident. Cela devient très clair, si l'on considère, par exemple, la proposition : « (x) : fx . ⊃ . x = a ». Cette proposition dit simplement que a est seul à satisfaire la fonction f, et non que seules satisfont la fonction f des choses qui ont une relation déterminée avec a.
+**[5.5301](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#5.5301)** Que l'identité[^23] ne soit pas une relation entre objets, c'est évident. Cela devient très clair, si l'on considère, par exemple, la proposition : « (x) : fx . ⊃ . x = a ». Cette proposition dit simplement que a est seul à satisfaire la fonction f, et non que seules satisfont la fonction f des choses qui ont une relation déterminée avec a.
 
 On pourrait dire alors, il est vrai, que a seul a cette relation avec a, mais pour exprimer cela nous aurions besoin du signe d'égalité lui-même.
 
@@ -1597,7 +1597,7 @@ La forme « ξ . η » :
 ![](images/300px-TLP_6.1203d-it.png)\
 La proposition \~(p.\~q) s'écrira par conséquent :
 ![](images/250px-TLP_6.1203e-it.png)\
-Remplaçons maintenant « q » par « p » et examinons la connexion des V et F les plus externes avec les internes ; il en résulte que la vérité de la proposition entière correspond à toutes les combinaisons de vérité de son argument, et sa fausseté à aucune[^cite_ref-24].
+Remplaçons maintenant « q » par « p » et examinons la connexion des V et F les plus externes avec les internes ; il en résulte que la vérité de la proposition entière correspond à toutes les combinaisons de vérité de son argument, et sa fausseté à aucune[^24].
 
 **[6.121](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.121)** Les propositions de la logique démontrent les propriétés logiques des propositions, en formant par leur connexion des propositions qui ne disent rien.
 
@@ -1635,7 +1635,7 @@ Que par exemple « q » suive de « p ⊃ q . p » nous le voyons sur ces deux p
 
 **[6.126](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.126)** On peut calculer si une proposition appartient à la logique en calculant les propriétés logiques du *symbole*.
 
-Et c'est ce que nous faisons lorsque nous « démontrons » une proposition logique. Car, sans nous préoccuper de son sens[^cite_ref-25] ou de sa signification[^cite_ref-26], nous construisons la proposition logique à partir d'autres propositions au moyen de *règles portant seulement sur les signes*.
+Et c'est ce que nous faisons lorsque nous « démontrons » une proposition logique. Car, sans nous préoccuper de son sens[^25] ou de sa signification[^26], nous construisons la proposition logique à partir d'autres propositions au moyen de *règles portant seulement sur les signes*.
 
 La démonstration des propositions logiques consiste en ce que nous l'engendrons à partir d'autres propositions logiques par applications successives d'opérations déterminées, lesquelles produisent toujours de nouvelles tautologies à partir des premières. (Car d'une tautologie ne *suivent* que des tautologies.)
 
@@ -1683,7 +1683,7 @@ Qu'elles soient mutuellement substituables caractérise la forme logique des deu
 
 C'est une propriété de « 1+1+1+1 » que l'on puisse le concevoir comme « (1+1) + (1+1) ».
 
-**[6.232](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.232)** Frege dit que les deux expressions ont même signification[^cite_ref-27], mais des sens[^cite_ref-28] différents.
+**[6.232](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.232)** Frege dit que les deux expressions ont même signification[^27], mais des sens[^28] différents.
 
 Mais l'essentiel dans l'équation est qu'elle n'est pas nécessaire pour montrer que les deux expressions mises en connexion par le signe d'égalité ont la même signification, car ceci les deux expressions elles-mêmes le font voir.
 
@@ -1791,9 +1791,9 @@ Et les uns et les autres ont en effet raison et tort. Cependant les Anciens ont 
 
 **[6.3751](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.3751)** Que, par exemple, deux couleurs soient ensemble en un même lieu du champ visuel est impossible, et même *logiquement* impossible, car c'est la structure logique de la couleur qui l'exclut.
 
-Réfléchissons à la manière dont cette contradiction[^cite_ref-29] se présente en physique ; à peu près ainsi : une particule ne peut avoir au même instant deux vitesses ; c'est-à-dire qu'elle ne peut pas être au même instant en deux lieux ; c'est-à-dire que des particules, en des lieux différents en un seul moment du temps, ne peuvent être identiques.
+Réfléchissons à la manière dont cette contradiction[^29] se présente en physique ; à peu près ainsi : une particule ne peut avoir au même instant deux vitesses ; c'est-à-dire qu'elle ne peut pas être au même instant en deux lieux ; c'est-à-dire que des particules, en des lieux différents en un seul moment du temps, ne peuvent être identiques.
 
-\(Il est clair que le produit logique de deux propositions élémentaires ne peut être ni une tautologie ni une contradiction[^cite_ref-30]. Énoncer qu'un point du champ visuel a dans le même temps deux couleurs différentes est une contradiction.)
+\(Il est clair que le produit logique de deux propositions élémentaires ne peut être ni une tautologie ni une contradiction[^30]. Énoncer qu'un point du champ visuel a dans le même temps deux couleurs différentes est une contradiction.)
 
 **[6.4](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.4)** Toutes les propositions ont même valeur.
 
@@ -1805,7 +1805,7 @@ Ce qui le rend non accidentel ne peut être *dans* le monde, car ce serait retom
 
 Ce doit être hors du monde.
 
-**[6.42](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.42)** C'est pourquoi il ne peut y avoir de propositions éthiques. Les propositions ne peuvent rien exprimer de Supérieur[^cite_ref-31].
+**[6.42](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.42)** C'est pourquoi il ne peut y avoir de propositions éthiques. Les propositions ne peuvent rien exprimer de Supérieur[^31].
 
 **[6.421](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#6.421)** Il est clair que l'éthique ne se laisse pas énoncer. L'éthique est transcendantale. (Éthique et esthétique sont une seule et même chose.)
 
@@ -1872,3 +1872,62 @@ Il lui faut dépasser ces propositions pour voir correctement le monde.
 **[7](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#7)** Sur ce dont on ne peut parler, il faut garder le silence.
 
 ---
+
+[^3]: *Sachlage*. Employé par Wittgenstein apparemment comme substitut plus vague de fait possible ou réel.
+
+[^4]: Wittgenstein use des mots *darstellen*, *vorstellen*, *abbilden* pour exprimer l'idée de représenter. Sans être sûr que les différences, dans son texte, soient toujours autres que purement stylistiques, je traduirai dans le *Tractatus* *darstellen* par figurer, *vorstellen* par présenter, *abbilden* par représenter et *Abbildung* par représentation. On trouvera aussi *vertreten* : être le représentant, le substitut de.
+
+[^5]: Il y a trois définitions du monde : les *faits* dans l'espace logique (1.13), la totalité des états de choses *subsistants* (2.04), la totalité de la *réalité* (2.063), qui doivent coïncider.
+
+[^6]: *bedeutet*. On distinguera la traduction de ce verbe de celles de : *aufweisen* (*montrer* sans pouvoir *exprimer*, 2.172 par exemple), et de : *bezeichnen* (indiquer, dénoter, mot général et assez vague s'appliquant aussi bien au signe propositionnel qu'au nom). On traduira *Bedeutung* par : *signification*.
+
+[^7]: *aussprechen*.
+
+[^8]: *unsinnig*.
+
+[^9]: *Begriffsschrift*.
+
+[^10]: *Existenz*.
+
+[^11]: Auteur de *Contributions à une critique du langage* (1903). Son influence sur Wittgenstein apparaît néanmoins clairement dans cette citation : « Sitôt que nous avons vraiment quelque chose à dire, il faut nous taire » (*Contributions I*, p. 111), à rapprocher de l'aphorisme 7 du *Tractatus*.
+
+[^12]: *Gleichnis*.
+
+[^13]: *lebendes Bild*. Nous empruntons à la traduction anglaise de D.F. Pears et B.F. McGuiness le mot français : « tableau vivant ».
+
+[^14]: *Existenz*.
+
+[^15]: *sinnvolle*.
+
+[^16]: Wittgenstein note par le symbole ![{ \binom{n}{\nu} }](images/e7b2076de3b1f239cb53a50887f4f6bfd6f5caab88509c822e8898281a6289c5.svg)\  le nombre des combinaisons de n objets ν à ν, soit :
+![{ \frac{n!}{\nu! (n - \nu)!} }](images/c4e6528f56e8e4212a0524df0c3d1097016f0c44a96d9a7fa8b154a755d3b251.svg)\
+Il y a en tout : ![{ \sum_{\nu=0}^n \binom{n}{\nu} = 2^n = K_n }](images/fd7f1dccd5fc5c6dc92fcd946eb2a0b607e26aaddd74232edc68676f2dcb01bd.svg)\  situations possibles.
+Il additionne en effet les nombres de combinaisons de n propositions (ou états de choses) dans lesquelles entrent 0, 1, 2,... ν propositions vraies (ou états de choses subsistants). Le calcul direct usuel du nombre des *arrangements* des 2 objets V et F n à n avec répétition est apparemment plus intuitif.
+
+[^17]: D'après le calcul de la note précédente L = 2 exp 2^n^. Il s'agit alors en fait de dénombrer les connecteurs logiques de n propositions. On additionne les nombres de situations de n propositions comportant 0, 1, 2,... K~n~ combinaisons vraies. L'intérêt de ce calcul peu intuitif est qu'il est formellement identique au précédent, le nombre K~n~ des situations remplaçant le nombre n des propositions.
+
+[^18]: *sinnlos*. Par opposition à *unsinnig*, dépourvu de sens. Tautologie et contradiction n'apportent aucune information sur le monde. Elles ont un sens, mais vide de tout contenu. Voir l'analogie avec le zéro arithmétique à l'aphorisme [4.4611](#4.4611).
+
+[^19]: *Die Einheit des Wahrscheinlichkeitssatzes*.
+
+[^20]: *Grundgesetze*, I. § 63. ; II. § 58., 67. En particulier une définition doit être « complète » ; elle doit permettre de donner un sens à l'application du concept à un objet, même si cette application est fausse.
+
+[^21]: *Gleichheit*.
+
+[^22]: *Identität*.
+
+[^23]: Cette consigne est trop vague. Une fois q remplacé par p, il faut évidemment veiller à ce que les valeurs de vérité de l'unique proposition p soient les mêmes à gauche et à droite du schéma, qui se réduit alors en effet à : ![](images/180px-TLP_6.1203footnote-fr.png)\
+
+[^24]: *Sinn*.
+
+[^25]: *Bedeutung*.
+
+[^26]: *Bedeutung*.
+
+[^27]: *Sinn*.
+
+[^28]: *Widerspruch*.
+
+[^29]: *Kontradiktion*.
+
+[^30]: *nichts Höheres*.

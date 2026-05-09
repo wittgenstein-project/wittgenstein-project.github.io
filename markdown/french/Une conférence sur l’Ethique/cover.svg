@@ -7,10 +7,10 @@
                 xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
                 xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
                 
-<circle cx="40" cy="440" r="15.08420773763546" fill="#fbf0a4" stroke="#fbf0a4" stroke-width="8" />
+<circle cx="40" cy="440" r="14.202615996666042" fill="#fbf0a4" stroke="#fbf0a4" stroke-width="8" />
 <circle cx="200" cy="440" r="11.861512080378475" fill="#fbf0a4" stroke="#fbf0a4" stroke-width="8" />
-<circle cx="320" cy="440" r="5.281208037115204" fill="#fbf0a4" stroke="#fbf0a4" stroke-width="8" />
-<circle cx="360" cy="440" r="15.702137904923008" fill="#fbf0a4" stroke="#fbf0a4" stroke-width="8" />
+<circle cx="480" cy="440" r="5.281208037115204" fill="#fbf0a4" stroke="#fbf0a4" stroke-width="8" />
+<circle cx="520" cy="440" r="15.702137904923008" fill="#fbf0a4" stroke="#fbf0a4" stroke-width="8" />
 <circle cx="40" cy="40" r="4" stroke="black" fill="none" stroke-width="2" />
 <circle cx="80" cy="40" r="4" stroke="black" fill="none" stroke-width="2" />
 <circle cx="120" cy="40" r="4" stroke="black" fill="none" stroke-width="2" />
@@ -291,20 +291,20 @@
 <circle cx="1480" cy="400" r="4" stroke="black" fill="none" stroke-width="2" />
 <circle cx="1520" cy="400" r="4" stroke="black" fill="none" stroke-width="2" />
 <circle cx="1560" cy="400" r="4" stroke="black" fill="none" stroke-width="2" />
-<circle cx="40" cy="440" r="5.54210386881773" fill="none" stroke="black" stroke-width="6" />
-<circle cx="80" cy="440" r="12.88206380534852" fill="none" stroke="black" stroke-width="6" />
+<circle cx="40" cy="440" r="5.101307998333021" fill="none" stroke="black" stroke-width="6" />
+<circle cx="80" cy="440" r="12.807046132936042" fill="none" stroke="black" stroke-width="6" />
 <circle cx="120" cy="440" r="11.359698924589415" fill="none" stroke="black" stroke-width="6" />
 <circle cx="160" cy="440" r="4.410677689810985" fill="none" stroke="black" stroke-width="6" />
 <circle cx="200" cy="440" r="3.930756040189237" fill="none" stroke="black" stroke-width="6" />
 <circle cx="240" cy="440" r="21.17205840177488" fill="none" stroke="black" stroke-width="6" />
-<circle cx="280" cy="440" r="33.3877744337785" fill="none" stroke="black" stroke-width="6" />
-<circle cx="320" cy="440" r="0.6406040185576019" fill="none" stroke="black" stroke-width="6" />
-<circle cx="360" cy="440" r="5.851068952461504" fill="none" stroke="black" stroke-width="6" />
-<circle cx="400" cy="440" r="5.851068952461504" fill="none" stroke="black" stroke-width="6" />
-<circle cx="440" cy="440" r="4" stroke="black" fill="none" stroke-width="2" />
-<circle cx="480" cy="440" r="4" stroke="black" fill="none" stroke-width="2" />
-<circle cx="520" cy="440" r="4" stroke="black" fill="none" stroke-width="2" />
-<circle cx="560" cy="440" r="4" stroke="black" fill="none" stroke-width="2" />
+<circle cx="280" cy="440" r="33.38236434749692" fill="none" stroke="black" stroke-width="6" />
+<circle cx="320" cy="440" r="5.048755077595295" fill="none" stroke="black" stroke-width="6" />
+<circle cx="360" cy="440" r="8.092609625965085" fill="none" stroke="black" stroke-width="6" />
+<circle cx="400" cy="440" r="12.209261102870748" fill="none" stroke="black" stroke-width="6" />
+<circle cx="440" cy="440" r="12.58367236886532" fill="none" stroke="black" stroke-width="6" />
+<circle cx="480" cy="440" r="0.6406040185576019" fill="none" stroke="black" stroke-width="6" />
+<circle cx="520" cy="440" r="5.851068952461504" fill="none" stroke="black" stroke-width="6" />
+<circle cx="560" cy="440" r="5.851068952461504" fill="none" stroke="black" stroke-width="6" />
 <circle cx="600" cy="440" r="4" stroke="black" fill="none" stroke-width="2" />
 <circle cx="640" cy="440" r="4" stroke="black" fill="none" stroke-width="2" />
 <circle cx="680" cy="440" r="4" stroke="black" fill="none" stroke-width="2" />

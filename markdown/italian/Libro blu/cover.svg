@@ -35,8 +35,8 @@
 <circle cx="600" cy="600" r="27.77064530622518" fill="#fbf0a4" stroke="#fbf0a4" stroke-width="8" />
 <circle cx="1560" cy="600" r="30.88916625784753" fill="#fbf0a4" stroke="#fbf0a4" stroke-width="8" />
 <circle cx="720" cy="680" r="5.281208037115204" fill="#fbf0a4" stroke="#fbf0a4" stroke-width="8" />
-<circle cx="760" cy="680" r="5.281208037115204" fill="#fbf0a4" stroke="#fbf0a4" stroke-width="8" />
-<circle cx="800" cy="680" r="15.702137904923008" fill="#fbf0a4" stroke="#fbf0a4" stroke-width="8" />
+<circle cx="800" cy="680" r="5.281208037115204" fill="#fbf0a4" stroke="#fbf0a4" stroke-width="8" />
+<circle cx="840" cy="680" r="15.702137904923008" fill="#fbf0a4" stroke="#fbf0a4" stroke-width="8" />
 <circle cx="40" cy="40" r="4" stroke="black" fill="none" stroke-width="2" />
 <circle cx="80" cy="40" r="4" stroke="black" fill="none" stroke-width="2" />
 <circle cx="120" cy="40" r="4" stroke="black" fill="none" stroke-width="2" />
@@ -569,10 +569,10 @@
 <circle cx="640" cy="680" r="15.533906563087783" fill="none" stroke="black" stroke-width="6" />
 <circle cx="680" cy="680" r="10.07295283239107" fill="none" stroke="black" stroke-width="6" />
 <circle cx="720" cy="680" r="0.6406040185576019" fill="none" stroke="black" stroke-width="6" />
-<circle cx="760" cy="680" r="0.6406040185576019" fill="none" stroke="black" stroke-width="6" />
-<circle cx="800" cy="680" r="5.851068952461504" fill="none" stroke="black" stroke-width="6" />
-<circle cx="840" cy="680" r="6.251750421555868" fill="none" stroke="black" stroke-width="6" />
-<circle cx="880" cy="680" r="4" stroke="black" fill="none" stroke-width="2" />
+<circle cx="760" cy="680" r="10.597014459065884" fill="none" stroke="black" stroke-width="6" />
+<circle cx="800" cy="680" r="0.6406040185576019" fill="none" stroke="black" stroke-width="6" />
+<circle cx="840" cy="680" r="5.851068952461504" fill="none" stroke="black" stroke-width="6" />
+<circle cx="880" cy="680" r="6.251750421555868" fill="none" stroke="black" stroke-width="6" />
 <circle cx="920" cy="680" r="4" stroke="black" fill="none" stroke-width="2" />
 <circle cx="960" cy="680" r="4" stroke="black" fill="none" stroke-width="2" />
 <circle cx="1000" cy="680" r="4" stroke="black" fill="none" stroke-width="2" />

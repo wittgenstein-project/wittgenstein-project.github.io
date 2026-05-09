@@ -13,7 +13,7 @@ _This digital edition is based on Ludwig Wittgenstein. “To the Editor of *Mind
 
 *Dear Sir*,
 
-I have been reading Mr. Braithwaite's article in the recently published book, *Cambridge University Studies*,[^cite_ref-1] with some alarm, in particular what he there represents as being my present views on questions of philosophy. I have been doing research in philosophy during the last four years, but have not published any of my work, except, at the very beginning of that period, a short (and weak) article in the *Proceedings of the Aristotelian Society*.[^cite_ref-2] Now had I published my thoughts in print I should not trouble you with this letter. For any serious reader could then look up what my views were in my own publication. As it is, if he is interested in what I think, his only source is Mr. Braithwaite's article. And therefore I must warn such a reader that I disclaim all responsibility for the views and thoughts which Mr. Braithwaite attributes to me. Part of his statements can be taken to be inaccurate representations of my views, others again clearly contradict them.
+I have been reading Mr. Braithwaite's article in the recently published book, *Cambridge University Studies*,[^1] with some alarm, in particular what he there represents as being my present views on questions of philosophy. I have been doing research in philosophy during the last four years, but have not published any of my work, except, at the very beginning of that period, a short (and weak) article in the *Proceedings of the Aristotelian Society*.[^2] Now had I published my thoughts in print I should not trouble you with this letter. For any serious reader could then look up what my views were in my own publication. As it is, if he is interested in what I think, his only source is Mr. Braithwaite's article. And therefore I must warn such a reader that I disclaim all responsibility for the views and thoughts which Mr. Braithwaite attributes to me. Part of his statements can be taken to be inaccurate representations of my views, others again clearly contradict them.
 
 That which is retarding the publication of my work, the difficulty of presenting it in a clear and coherent form, *a fortiori* prevents me from stating my views within the space of a letter. So the reader must suspend his judgement about them.
 
@@ -22,3 +22,7 @@ That which is retarding the publication of my work, the difficulty of presenting
 
 Cambridge.
 *27th May*, 1933.
+
+[^1]: Richard B. Braithwaite. "Philosophy." *University Studies. Cambridge 1933*, edited by Harold Wright, Nicholson & Watson, 1933, pp. 1–32.
+
+[^2]: Ludwig Wittgenstein. “[Some Remarks on Logical Form](https://www.wittgensteinproject.org/w/index.php/Some_Remarks_on_Logical_Form).” *Proceedings of the Aristotelian Society*, Supplementary Volume 9, Jul. 1929, pp. 162–171.

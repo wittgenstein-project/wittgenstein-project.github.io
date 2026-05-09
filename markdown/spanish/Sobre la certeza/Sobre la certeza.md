@@ -223,7 +223,7 @@ Es decir, algo como esto: puede situarse en el conocimiento correcto de la perso
 
 Pero, ¿no podría creer lo contrario? Sin embargo, la pregunta es: ¿cómo funcionaría en la práctica esta creencia? – Quizá alguien diga: “Eso no importa. Una creencia es lo que es, esté o no activa en la práctica”. Uno piensa para sí: esa es siempre la misma actitud de la mente humana.
 
-**[90.](https://www.wittgensteinproject.org/w/index.php/%C3%9Cber_Gewi%C3%9Fheit#90)** “Lo sé” tiene un significado primitivo, similar y relacionado con el de “Yo veo”. (“saber”, “videre”)[^cite_ref-1]. Y Y "Sabía que él estaba en la habitación, pero no estaba en la habitación" es similar a " Lo vi en la habitación, pero no estaba allí". “Lo sé” pretende expresar una relación, no entre el yo y un sentido de la frase (como “creo”), sino entre el yo y un hecho. Para que el *hecho* sea tomado en mi conciencia. (Esta es también la razón por la que se quiere decir que uno no *sabe* realmente lo que ocurre en el mundo externo, sino solo lo que ocurre en el ámbito de los llamados datos de los sentidos.) Una imagen del conocimiento sería entonces la percepción de un proceso externo a través de los rayos de la vista que lo proyectan, tal cual, en el ojo y la conciencia. Pero inmediatamente surge la pregunta de si se puede estar seguro de esta proyección. Y esta imagen muestra la *idea* que tenemos del conocimiento, pero no en qué se basa realmente.
+**[90.](https://www.wittgensteinproject.org/w/index.php/%C3%9Cber_Gewi%C3%9Fheit#90)** “Lo sé” tiene un significado primitivo, similar y relacionado con el de “Yo veo”. (“saber”, “videre”)[^1]. Y Y "Sabía que él estaba en la habitación, pero no estaba en la habitación" es similar a " Lo vi en la habitación, pero no estaba allí". “Lo sé” pretende expresar una relación, no entre el yo y un sentido de la frase (como “creo”), sino entre el yo y un hecho. Para que el *hecho* sea tomado en mi conciencia. (Esta es también la razón por la que se quiere decir que uno no *sabe* realmente lo que ocurre en el mundo externo, sino solo lo que ocurre en el ámbito de los llamados datos de los sentidos.) Una imagen del conocimiento sería entonces la percepción de un proceso externo a través de los rayos de la vista que lo proyectan, tal cual, en el ojo y la conciencia. Pero inmediatamente surge la pregunta de si se puede estar seguro de esta proyección. Y esta imagen muestra la *idea* que tenemos del conocimiento, pero no en qué se basa realmente.
 
 **[91.](https://www.wittgensteinproject.org/w/index.php/%C3%9Cber_Gewi%C3%9Fheit#91)** Cuando Moore dice que sabe que la Tierra ha existido, etc., la mayoría estaremos de acuerdo con él en que ha existido desde hace tanto tiempo, y también le creeremos que está convencido de ello. Pero, ¿tiene *el fundamento correcto* para estar convencido? Porque si no, no lo *sabe* (Russell).
 
@@ -733,7 +733,7 @@ Permaneceremos en este punto de vista a menos que cambie toda nuestra visión de
 
 **[298.](https://www.wittgensteinproject.org/w/index.php/%C3%9Cber_Gewi%C3%9Fheit#298)** Que estemos bastante seguros de eso significa no solo que cada individuo está seguro de eso, sino que pertenecemos a una comunidad unida por la ciencia y la educación.
 
-**[299.](https://www.wittgensteinproject.org/w/index.php/%C3%9Cber_Gewi%C3%9Fheit#299)** Estamos convencidos de que la Tierra es redonda[^cite_ref-2].
+**[299.](https://www.wittgensteinproject.org/w/index.php/%C3%9Cber_Gewi%C3%9Fheit#299)** Estamos convencidos de que la Tierra es redonda[^2].
 
 10.3.51
 
@@ -981,7 +981,7 @@ Un error se convierte así en algo prohibido.
 
 ... y escribir con confianza
 
-“En el principio fue el acto”[^cite_ref-3].
+“En el principio fue el acto”[^3].
 
 **[403.](https://www.wittgensteinproject.org/w/index.php/%C3%9Cber_Gewi%C3%9Fheit#403)** Decir de una persona, en el sentido de Moore, que *sabe* algo; que lo que dice es, por lo tanto, necesariamente la verdad, me parece erróneo. – Es la verdad solo en la medida en que es una base inestable de sus juegos de lenguaje.
 
@@ -1015,7 +1015,7 @@ Un error se convierte así en algo prohibido.
 
 **[416.](https://www.wittgensteinproject.org/w/index.php/%C3%9Cber_Gewi%C3%9Fheit#416)** ¿Y tenemos un ejemplo de esto en, digamos, la proposición de que hace semanas que vivo en esta habitación, que mi memoria no me engaña en esto?
 
-– “certain beyond all reasonable doubt” – [“cierto más allá de toda duda razonable”][^cite_ref-4]
+– “certain beyond all reasonable doubt” – [“cierto más allá de toda duda razonable”][^4]
 
 21.3.
 
@@ -1157,7 +1157,7 @@ No importa que me parezca (como) indudable. Si no fuera razonable dudar aquí, e
 
 3.4.51
 
-**[464.](https://www.wittgensteinproject.org/w/index.php/%C3%9Cber_Gewi%C3%9Fheit#464)** Mi dificultad también puede demostrarse de este modo: Estoy conversando con un amigo. De repente digo: “He sabido todo el tiempo que tú eres Fulano de tal”[^cite_ref-5]. ¿Se trata de una observación superflua, aunque cierta?
+**[464.](https://www.wittgensteinproject.org/w/index.php/%C3%9Cber_Gewi%C3%9Fheit#464)** Mi dificultad también puede demostrarse de este modo: Estoy conversando con un amigo. De repente digo: “He sabido todo el tiempo que tú eres Fulano de tal”[^5]. ¿Se trata de una observación superflua, aunque cierta?
 
 Me parece que estas palabras son similares a un “Buenos días”, cuando se lo dices a la otra persona en medio de una conversación.
 
@@ -1583,7 +1583,7 @@ Si ahora desconfiara de esta afirmación, ¿qué podría hacer para invalidarla?
 
 **[606.](https://www.wittgensteinproject.org/w/index.php/%C3%9Cber_Gewi%C3%9Fheit#606)** El hecho de que otra persona se equivocara en mi opinión no es motivo para suponer que yo me equivoque ahora. – Pero, ¿no es una razón para suponer que yo *podría* estar equivocado? *No* es motivo de *incertidumbre* en mi juicio o acción.
 
-**[607.](https://www.wittgensteinproject.org/w/index.php/%C3%9Cber_Gewi%C3%9Fheit#607)** El juez podría decir: “Esta es la verdad, en la medida en que un ser humano puede reconocerla”. – Pero, ¿qué se conseguiría con este añadido? (“beyond all reasonable doubt”) [“más allá de toda duda razonable”][^cite_ref-6].
+**[607.](https://www.wittgensteinproject.org/w/index.php/%C3%9Cber_Gewi%C3%9Fheit#607)** El juez podría decir: “Esta es la verdad, en la medida en que un ser humano puede reconocerla”. – Pero, ¿qué se conseguiría con este añadido? (“beyond all reasonable doubt”) [“más allá de toda duda razonable”][^6].
 
 **[608.](https://www.wittgensteinproject.org/w/index.php/%C3%9Cber_Gewi%C3%9Fheit#608)** ¿Está mal que actúe según la ley de la física? ¿Debo decir que no tengo ninguna buena razón para hacerlo? ¿No es precisamente lo que llamamos una “buena razón”?
 
@@ -1764,3 +1764,15 @@ Puedo enumerar varios casos típicos, pero no puedo dar una característica gene
 Lo mismo ocurre cuando alguien dice que ahora se sienta a la mesa y escribe.
 
 **[676.](https://www.wittgensteinproject.org/w/index.php/%C3%9Cber_Gewi%C3%9Fheit#676)** “Pero si ni siquiera en esos casos puedo equivocarme – ¿no es posible que esté anestesiado?” Si lo estoy, y si la anestesia me roba la consciencia, entonces ahora no estoy hablando ni pensando realmente. No puedo suponer seriamente que estoy soñando ahora. Quien dice “estoy soñando” mientras sueña, aunque hable en voz alta, no tiene más razón que si dice “está lloviendo” en su sueño mientras llueve de verdad. Incluso si su sueño está realmente relacionado con el sonido de la lluvia.
+
+[^1]: La relación de la que habla Wittgenstein ocurre en alemán, pues el verbo saber o conocer: “wissen” proviene del alemán antiguo wiʒʒan: “haber visto”.
+
+[^2]: Esta proposición fue escrita en inglés: “We are satisfied that the earth is round”.
+
+[^3]: “Und schreib getrost »Im Anfang war die Tat.«” Texto del *Fausto* de Goethe.
+
+[^4]: En inglés, en el manuscrito en alemán.
+
+[^5]: Dice en el manuscrito: “Ich habe schon die ganze Zeit gewusst, dass du der N.N. bist.” N.N. significa: “nomen nescio”; una fórmula latina para designar a alguien anónimo. Literalmente significa: “no conozco el nombre”.
+
+[^6]: En inglés, en el manuscrito en alemán.

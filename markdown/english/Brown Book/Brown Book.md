@@ -7,7 +7,7 @@ title: Brown Book
 
 _Published by the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.org/)._
 
-_This digital edition is a normalised version of Wittgenstein’s *Nachlass* Ts-310 (so-called *Brown Book*) produced with the Interactive Dynamic Presentation tool[^cite_ref-1] provided by the [Wittgenstein Archives at the University of Bergen (WAB)](http://wab.uib.no/). This original-language text is in the public domain in its country of origin and other countries and areas where the copyright term is the author's life plus 70 years or fewer._
+_This digital edition is a normalised version of Wittgenstein’s *Nachlass* Ts-310 (so-called *Brown Book*) produced with the Interactive Dynamic Presentation tool[^1] provided by the [Wittgenstein Archives at the University of Bergen (WAB)](http://wab.uib.no/). This original-language text is in the public domain in its country of origin and other countries and areas where the copyright term is the author's life plus 70 years or fewer._
 
 # Brown Book
 
@@ -903,3 +903,5 @@ If I speak of communicating a feeling to someone else, mustn't I in order to und
 We are inclined to say that when we communicate a feeling  to someone, something which we can never know happens at the other end. All that we can receive from him is again an expression. This is closely analogous to saying that we can never know when in Fitzeau's experiment the ray of light reaches the mirror.
 
 ---
+
+[^1]: Wittgenstein, L. 2016–. [Interactive Dynamic Presentation (IDP) of Ludwig Wittgenstein’s philosophical Nachlass](http://wab.uib.no/transform/wab.php?modus=opsjoner), ed. by the Wittgenstein Archives at the University of Bergen under the direction of Alois Pichler, Bergen.

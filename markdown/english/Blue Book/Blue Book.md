@@ -7,7 +7,7 @@ title: Blue Book
 
 _Published by the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.org/)._
 
-_This digital edition is a normalised version of Wittgenstein’s *Nachlass* Ts-309 (so-called *Blue Book*) produced with the Interactive Dynamic Presentation tool[^cite_ref-1] provided by the [Wittgenstein Archives at the University of Bergen (WAB)](http://wab.uib.no/). This original-language text is in the public domain in its country of origin and other countries and areas where the copyright term is the author's life plus 70 years or fewer._
+_This digital edition is a normalised version of Wittgenstein’s *Nachlass* Ts-309 (so-called *Blue Book*) produced with the Interactive Dynamic Presentation tool[^1] provided by the [Wittgenstein Archives at the University of Bergen (WAB)](http://wab.uib.no/). This original-language text is in the public domain in its country of origin and other countries and areas where the copyright term is the author's life plus 70 years or fewer._
 
 # Blue Book
 
@@ -508,3 +508,5 @@ On the other hand we can perfectly well adopt the expression “this body feels 
 The kernel of our proposition, that that which has pains or sees or thinks is of a mental nature, is only, that the word “I” in “I have pains” does not denote a particular body, for we can't substitute for it a description of a body.
 
 ---
+
+[^1]: Wittgenstein, L. 2016–. [Interactive Dynamic Presentation (IDP) of Ludwig Wittgenstein’s philosophical Nachlass](http://wab.uib.no/transform/wab.php?modus=opsjoner), ed. by the Wittgenstein Archives at the University of Bergen under the direction of Alois Pichler, Bergen.

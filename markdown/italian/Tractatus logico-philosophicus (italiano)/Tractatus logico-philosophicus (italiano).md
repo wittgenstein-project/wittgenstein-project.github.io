@@ -51,7 +51,7 @@ Vienna, 1918.
 
 ## Tractatus logico-philosophicus
 
-**[1](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#1)** Il mondo è tutto ciò che si verifica.[^cite_ref-tlp-note-1_1-0]
+**[1](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#1)** Il mondo è tutto ciò che si verifica.[^tlp-note-1_1-0]
 
 **[1.1](https://www.wittgensteinproject.org/w/index.php/Logisch-philosophische_Abhandlung#1.1)** Il mondo è la totalità dei fatti, non delle cose.
 

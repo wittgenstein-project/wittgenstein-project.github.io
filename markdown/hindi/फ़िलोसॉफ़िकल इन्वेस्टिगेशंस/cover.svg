@@ -765,7 +765,7 @@
 <circle cx="200" cy="2240" r="26.466394671558024" fill="#fbf0a4" stroke="#fbf0a4" stroke-width="8" />
 <circle cx="240" cy="2240" r="20.64808700603914" fill="#fbf0a4" stroke="#fbf0a4" stroke-width="8" />
 <circle cx="280" cy="2240" r="30.665010856701873" fill="#fbf0a4" stroke="#fbf0a4" stroke-width="8" />
-<circle cx="320" cy="2240" r="19.54174236388141" fill="#fbf0a4" stroke="#fbf0a4" stroke-width="8" />
+<circle cx="320" cy="2240" r="19.064413136655098" fill="#fbf0a4" stroke="#fbf0a4" stroke-width="8" />
 <circle cx="400" cy="2240" r="16.503500843111738" fill="#fbf0a4" stroke="#fbf0a4" stroke-width="8" />
 <circle cx="440" cy="2240" r="17.565235658355626" fill="#fbf0a4" stroke="#fbf0a4" stroke-width="8" />
 <circle cx="480" cy="2240" r="17.296223549509946" fill="#fbf0a4" stroke="#fbf0a4" stroke-width="8" />
@@ -1095,6 +1095,7 @@
 <circle cx="440" cy="2600" r="26.965764169681098" fill="#fbf0a4" stroke="#fbf0a4" stroke-width="8" />
 <circle cx="480" cy="2600" r="21.043747762734906" fill="#fbf0a4" stroke="#fbf0a4" stroke-width="8" />
 <circle cx="520" cy="2600" r="24.92249018883638" fill="#fbf0a4" stroke="#fbf0a4" stroke-width="8" />
+<circle cx="560" cy="2600" r="12.82135537962197" fill="#fbf0a4" stroke="#fbf0a4" stroke-width="8" />
 <circle cx="40" cy="40" r="4" stroke="black" fill="none" stroke-width="2" />
 <circle cx="80" cy="40" r="4" stroke="black" fill="none" stroke-width="2" />
 <circle cx="120" cy="40" r="4" stroke="black" fill="none" stroke-width="2" />
@@ -2829,7 +2830,7 @@
 <circle cx="200" cy="2240" r="11.233197335779012" fill="none" stroke="black" stroke-width="6" />
 <circle cx="240" cy="2240" r="8.32404350301957" fill="none" stroke="black" stroke-width="6" />
 <circle cx="280" cy="2240" r="13.332505428350936" fill="none" stroke="black" stroke-width="6" />
-<circle cx="320" cy="2240" r="7.770871181940706" fill="none" stroke="black" stroke-width="6" />
+<circle cx="320" cy="2240" r="7.532206568327548" fill="none" stroke="black" stroke-width="6" />
 <circle cx="360" cy="2240" r="4.075188375797424" fill="none" stroke="black" stroke-width="6" />
 <circle cx="400" cy="2240" r="6.251750421555868" fill="none" stroke="black" stroke-width="6" />
 <circle cx="440" cy="2240" r="6.782617829177813" fill="none" stroke="black" stroke-width="6" />
@@ -3185,7 +3186,8 @@
 <circle cx="400" cy="2600" r="1.4413590417546038" fill="none" stroke="black" stroke-width="6" />
 <circle cx="440" cy="2600" r="11.482882084840549" fill="none" stroke="black" stroke-width="6" />
 <circle cx="480" cy="2600" r="8.521873881367453" fill="none" stroke="black" stroke-width="6" />
-<circle cx="520" cy="2600" r="10.46124509441819" fill="none" stroke="black" stroke-width="6" /><text x="160" y="920" fill="black" font-size="132.0" font-weight="bold" font-family="Space Mono">Wittgenstein</text><text x="160" y="1040" fill="black" font-size="132.0" font-weight="bold" font-family="Noto Sans Devanagari">—</text><text x="160" y="1160" fill="black" font-size="132.0" font-weight="bold" font-family="Noto Sans Devanagari">फ़िलोसॉफ़िकल</text><text x="160" y="1280" fill="black" font-size="132.0" font-weight="bold" font-family="Noto Sans Devanagari">इन्वेस्टिगेशंस</text><g transform="translate(84.0, 114)"><g
+<circle cx="520" cy="2600" r="10.46124509441819" fill="none" stroke="black" stroke-width="6" />
+<circle cx="560" cy="2600" r="4.410677689810985" fill="none" stroke="black" stroke-width="6" /><text x="160" y="920" fill="black" font-size="132.0" font-weight="bold" font-family="Space Mono">Wittgenstein</text><text x="160" y="1040" fill="black" font-size="132.0" font-weight="bold" font-family="Noto Sans Devanagari">—</text><text x="160" y="1160" fill="black" font-size="132.0" font-weight="bold" font-family="Noto Sans Devanagari">फ़िलोसॉफ़िकल</text><text x="160" y="1280" fill="black" font-size="132.0" font-weight="bold" font-family="Noto Sans Devanagari">इन्वेस्टिगेशंस</text><g transform="translate(84.0, 114)"><g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
