@@ -54,6 +54,7 @@ else:
         "romanian",
         "turkish",
         "hindi",
+        "catalan"
     ]
     for lang in langs:
         epub_output_dir = os.path.join(EPUB_DIR, lang)
