@@ -33,6 +33,7 @@ else:
                 "spanish": "es",
                 "turkish": "tr",
                 "hindi": "hi",
+                "catalan": "ca",
             }
             if not lang in langs:
                 raise Exception(f"Unknown language: '{lang}'")
