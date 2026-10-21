@@ -8,6 +8,7 @@ title: Lliçó sobre Ètica
 _Published by the [Ludwig Wittgenstein Project](https://www.wittgensteinproject.org/)._
 
 _Traduït per Jordi Pon i Gurguí_
+_La traducció va ser revisada per Jordi Fairhurst Chilton_
 
 _Aquest text en la seva llengua original no és de domini públic al seu país d'origen (els Estats Units) però els titulars dels drets d'autor l'han publicat sota [Creative Commons Reconeixement-NoComercial 4.0 Internacional](https://creativecommons.org/licenses/by-nc/4.0/deed.ca); és de domini públic en aquells països i territoris on el termini dels drets d'autor sigui la vida de l'autor més 70 anys o menys. Aquesta traducció és publicada sota la llicència [Creative Commons Reconeixement 4.0 Internacional](https://creativecommons.org/licenses/by/4.0/deed.ca)._
 
